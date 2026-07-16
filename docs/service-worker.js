@@ -1,4 +1,4 @@
-const CACHE_NAME = "research-digest-shell-v1";
+const CACHE_NAME = "research-digest-shell-v2";
 const SHELL_FILES = [
   "./",
   "./index.html",
