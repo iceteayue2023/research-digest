@@ -1,0 +1,49 @@
+# 研究方向简介，会被写进AI的提示词，用来判断文章相关性、写"与你研究的关联"
+research_profile: >
+  我的研究方向是大型食草动物重野化（trophic rewilding / large herbivore rewilding）
+  对土壤有机碳（soil organic carbon）及生态系统碳循环的影响，涉及放牧强度、
+  植被-土壤反馈、生态系统功能恢复等主题。
+
+# 关键词（不区分大小写，可随时增删）
+keywords:
+  - rewilding
+  - trophic rewilding
+  - large herbivore
+  - megafauna
+  - grazing
+  - soil organic carbon
+  - soil carbon
+  - carbon sequestration
+  - carbon cycle
+  - trophic cascade
+  - ecosystem restoration
+  - grassland
+  - land use change
+
+# 关注期刊及其RSS/Atom地址
+feeds:
+  - name: Nature
+    url: https://www.nature.com/nature.rss
+  - name: Science
+    url: https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
+  - name: Nature Climate Change
+    url: https://www.nature.com/nclimate.rss
+  - name: Nature Ecology & Evolution
+    url: https://www.nature.com/natecolevol.rss
+  - name: Functional Ecology
+    url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=13652435&type=etoc&feed=rss
+  - name: Global Change Biology
+    url: https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss
+  - name: Ecology Letters
+    url: https://onlinelibrary.wiley.com/action/showFeed?jc=14610248&type=etoc&feed=rss
+  - name: PNAS
+    url: https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas
+
+# 相关性打分低于这个分数(0-10)的文章不会推送
+relevance_threshold: 6
+
+# 只看最近N天内发布的文章（避免第一次运行时把历年存档全部拉出来）
+max_age_days: 7
+
+# 使用的Claude模型（用于摘要与相关性判断，Haiku速度快、成本低，适合这个场景）
+model: claude-haiku-4-5-20251001

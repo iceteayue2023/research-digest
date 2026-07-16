@@ -1,0 +1,29 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>科研文献日报</title>
+<meta name="theme-color" content="#2b4a2e">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="stylesheet" href="style.css">
+
+<div id="app">
+  <header>
+    <h1>科研文献日报</h1>
+    <div id="date-row">
+      <select id="date-select" aria-label="选择日期"></select>
+      <span id="count-badge"></span>
+    </div>
+  </header>
+
+  <main id="article-list">
+    <p class="loading">加载中…</p>
+  </main>
+
+  <footer>
+    <p>自动抓取 Nature / Science / NCC / NEE / Functional Ecology 等期刊，AI 按你的研究方向筛选与摘要</p>
+  </footer>
+</div>
+
+<script src="app.js"></script>
