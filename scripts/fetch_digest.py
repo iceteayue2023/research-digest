@@ -158,7 +158,10 @@ def enrich_with_affiliations(candidates):
 
 def score_and_summarize(client, model, research_profile, candidates, batch_size=12):
     results = []
+    total_batches = 0
+    failed_batches = 0
     for i in range(0, len(candidates), batch_size):
+        total_batches += 1
         batch = candidates[i:i + batch_size]
         payload = [
             {
@@ -194,7 +197,9 @@ def score_and_summarize(client, model, research_profile, candidates, batch_size=
             text = re.sub(r"^```(json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
             scored = json.loads(text)
         except Exception as e:
-            print(f"[warn] 批次 {i} 打分失败: {e}", file=sys.stderr)
+            failed_batches += 1
+            detail = getattr(e, "message", None) or getattr(e, "body", None) or str(e)
+            print(f"[error] 批次 {i} 打分失败 ({type(e).__name__}): {detail}", file=sys.stderr)
             continue
 
         by_id = {c["id"]: c for c in batch}
@@ -209,6 +214,10 @@ def score_and_summarize(client, model, research_profile, candidates, batch_size=
                 "key_conclusion": item.get("key_conclusion", ""),
                 "relevance_note": item.get("relevance_note", ""),
             })
+
+    if total_batches > 0 and failed_batches == total_batches:
+        print("[error] 所有打分批次均失败，请检查 ANTHROPIC_API_KEY 是否正确、账户额度是否充足、模型名是否可用。", file=sys.stderr)
+        sys.exit(1)
 
     return results
 
