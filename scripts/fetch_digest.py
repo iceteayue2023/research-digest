@@ -630,15 +630,32 @@ def main():
             a.pop("authors_meta", None)
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    today_path = DATA_DIR / f"{today}.json"
+
+    # 同一天可能会被多次运行(比如手动触发测试)，这里把新结果和当天已有的结果合并，
+    # 而不是直接覆盖，避免之前已经生成好的文章丢失。
+    existing_articles = []
+    if today_path.exists():
+        try:
+            with open(today_path, "r", encoding="utf-8") as f:
+                existing_articles = json.load(f).get("articles", [])
+        except (json.JSONDecodeError, OSError):
+            existing_articles = []
+
+    merged_by_id = {a["id"]: a for a in existing_articles}
+    for a in digest:
+        merged_by_id[a["id"]] = a
+    merged_articles = sorted(merged_by_id.values(), key=lambda x: x.get("relevance_score", 0), reverse=True)
+
     output = {
         "date": today,
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "count": len(digest),
-        "articles": digest,
+        "count": len(merged_articles),
+        "articles": merged_articles,
     }
 
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    with open(DATA_DIR / f"{today}.json", "w", encoding="utf-8") as f:
+    with open(today_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     with open(DATA_DIR / "latest.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
