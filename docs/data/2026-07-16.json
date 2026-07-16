@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T15:04:28.426210+00:00",
-  "count": 9,
+  "generated_at": "2026-07-16T20:58:55.788299+00:00",
+  "count": 24,
   "articles": [
     {
       "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002437",
@@ -23,6 +23,89 @@
       "next_step_perspective": "该框架为预测重野化后土壤有机碳长期动态提供了方法论基础。用户可尝试将me4soc应用于自己研究区域的碳循环模拟，评估不同食草动物组合对碳汇功能的影响。",
       "why_this_journal": "（推测）Ecological Modelling专注于生态学模型的开发与验证，me4soc作为多模型集成方法工具，具有方法学新颖性和实用价值，符合该期刊定位。",
       "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s43017-026-00806-x",
+      "title": "Heterotrophic respiration by soil microbes in a changing climate",
+      "link": "https://www.nature.com/articles/s43017-026-00806-x",
+      "summary": "Nature Reviews Earth &amp; Environment, Published online: 10 July 2026; doi:10.1038/s43017-026-00806-xMicrobial metabolism affects the magnitude and stability of soil organic carbon. This Review examines how microbial heterotrophic respiration and soil carbon stocks will be affected by climate change and describes potential strategies to mitigate soil carbon loss.",
+      "journal": "Nature Reviews Earth & Environment",
+      "published": "2026-07-10T00:00:00+00:00",
+      "doi": "10.1038/s43017-026-00806-x",
+      "affiliation": null,
+      "title_zh": "气候变化背景下土壤微生物的异养呼吸",
+      "relevance_score": 9,
+      "key_conclusion": "微生物代谢影响土壤有机碳的大小和稳定性。本综述审视了气候变化将如何影响微生物异养呼吸和土壤碳储量，并描述了减少土壤碳损失的潜在策略。",
+      "relevance_note": "这是一篇与您核心研究方向高度相关的综述，直击土壤有机碳稳定机制和气候变化对碳循环的影响。作为综述文章应获高分，且主题与您的科研需求完全吻合。",
+      "related_papers": [
+        {
+          "title": "Soil microbiomes and climate change",
+          "link": "https://doi.org/10.1038/s41579-019-0265-7",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2019
+        },
+        {
+          "title": "Thermal acclimation in widespread heterotrophic soil microbes",
+          "link": "https://doi.org/10.1111/ele.12069",
+          "venue": "Ecology Letters",
+          "year": 2013
+        },
+        {
+          "title": "Scientists’ warning to humanity: microorganisms and climate change",
+          "link": "https://doi.org/10.1038/s41579-019-0222-5",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2019
+        },
+        {
+          "title": "Predominant role of water in regulating soil and microbial respiration and their responses to climate change in a semiarid grassland",
+          "link": "https://doi.org/10.1111/j.1365-2486.2008.01728.x",
+          "venue": "Global Change Biology",
+          "year": 2008
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43017-026-00806-x/MediaObjects/43017_2026_806_Fig1_HTML.png",
+      "scientific_question": "气候变化将如何影响土壤微生物的异养呼吸作用，进而改变土壤有机碳的储量与稳定性？",
+      "contributions_limitations": "这是一篇综述，系统审视了气候变化对微生物异养呼吸和土壤碳储量的影响，并探讨了减缓土壤碳损失的潜在策略。主要贡献在于提供了一个综合性的框架，将微生物代谢与全球碳循环联系起来。局限性在于作为综述，可能无法提供具体实验或模型的最新数据，且对特定生态系统（如大型食草动物重野化系统）的针对性不足。",
+      "follow_up_research": "基于此综述，未来可探索在大型食草动物重野化背景下，动物活动如何改变微生物群落结构和功能，进而调控异养呼吸对气候变化的响应。此外，可研究不同放牧强度如何通过改变土壤微环境（如温度、水分、底物供应）来影响微生物呼吸的温度敏感性（Q10）。",
+      "next_step_perspective": "这篇文章为你的研究提供了重要的理论背景：微生物异养呼吸是土壤碳损失的关键过程，而你的研究主题（大型食草动物重野化）通过植被-土壤反馈会影响微生物群落和底物可利用性，从而间接调控这一过程。你可以借鉴其提出的减缓策略（如增加碳输入、优化微生物群落），来设计重野化如何增强土壤碳固存的实验或模型。",
+      "why_this_journal": "推测：Nature Reviews Earth & Environment 旨在发表地球与环境科学领域的高影响力综述，涵盖跨学科主题。该文章整合了微生物学、土壤科学与气候科学，具有高度综合性和前瞻性，符合该期刊的定位。",
+      "author_profile": {
+        "name": "Janet K. Jansson",
+        "institution": "Pacific Northwest National Laboratory",
+        "intro": "Janet K. Jansson 目前任职于美国太平洋西北国家实验室（Pacific Northwest National Laboratory）。从其历史论文标题看，她的主要研究方向包括土壤微生物组学、微生物生态学、极端环境（如高盐、永久冻土）微生物群落结构，以及肠道微生物组功能。这些研究与你关注的地下碳循环、微生物介导的土壤过程高度相关，尤其是在理解重野化如何影响土壤微生物功能方面。",
+        "other_works": [
+          {
+            "title": "A Probe-Enabled Approach for the Selective Isolation and Characterization of Functionally Active Subpopulations in the Gut Microbiome",
+            "year": "2019",
+            "journal": "Journal of the American Chemical Society",
+            "doi": "10.1021/jacs.8b09668"
+          },
+          {
+            "title": "Data access: Toward unrestricted use of public genomic data",
+            "year": "2019",
+            "journal": "Science",
+            "doi": "10.1126/science.aaw1280"
+          },
+          {
+            "title": "Spatial distribution of prokaryotic communities in hypersaline soils",
+            "year": "2019",
+            "journal": "Scientific Reports",
+            "doi": "10.1038/s41598-018-38339-z"
+          },
+          {
+            "title": "Metagenomic Insights into Resistant Starch Degradation by Human Gut Microbiota",
+            "year": "2018",
+            "journal": null,
+            "doi": "10.1128/AEM.01562-18"
+          },
+          {
+            "title": "Siderophore Profiling of Co-Habitating Soil Bacteria by Ultra-High Resolution Mass Spectrometry",
+            "year": "2018",
+            "journal": null,
+            "doi": "10.1039/c8mt00252e"
+          }
+        ]
+      }
     },
     {
       "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70405?af=R",
@@ -172,6 +255,172 @@
             "year": "2020",
             "journal": "Geoderma",
             "doi": "10.1016/j.geoderma.2019.113975"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41893-026-01885-w",
+      "title": "Monitoring nature-based solutions is key for compliance, co-creation and practice improvement",
+      "link": "https://www.nature.com/articles/s41893-026-01885-w",
+      "summary": "Nature Sustainability, Published online: 14 July 2026; doi:10.1038/s41893-026-01885-wUpholding international environmental commitments calls for monitoring and evaluation practices that bridge international ambitions and local action in cities. This Perspective suggests how to reframe monitoring and evaluation to leverage community involvement to respond to changing conditions.",
+      "journal": "Nature Sustainability",
+      "published": "2026-07-14T00:00:00+00:00",
+      "doi": "10.1038/s41893-026-01885-w",
+      "affiliation": null,
+      "title_zh": "监测基于自然的解决方案是合规、共创与实践改进的关键",
+      "relevance_score": 8,
+      "key_conclusion": "为履行国际环境承诺，需要建立能够连接国际雄心与城市本地行动的监测与评估实践。这篇观点文章建议重新构建监测与评估框架，以利用社区参与来应对不断变化的环境条件。",
+      "relevance_note": "直接聚焦基于自然的解决方案（NbS）的监测与评估，您明确关注NbS在气候变化中的作用及局限，此观点文章有助于理解NbS的实施框架和挑战。",
+      "related_papers": [
+        {
+          "title": "Getting the message right on nature‐based solutions to climate change",
+          "link": "https://doi.org/10.1111/gcb.15513",
+          "venue": "Global Change Biology",
+          "year": 2021
+        },
+        {
+          "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "link": "https://doi.org/10.1016/j.ijinfomgt.2019.08.002",
+          "venue": "International Journal of Information Management",
+          "year": 2019
+        },
+        {
+          "title": "Metaverse beyond the hype: Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+          "link": "https://doi.org/10.1016/j.ijinfomgt.2022.102542",
+          "venue": "International Journal of Information Management",
+          "year": 2022
+        },
+        {
+          "title": "Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+          "link": "https://doi.org/10.1016/j.ijinfomgt.2023.102642",
+          "venue": "International Journal of Information Management",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-026-01885-w/MediaObjects/41893_2026_1885_Fig1_HTML.png",
+      "scientific_question": "如何重新构建基于自然的解决方案（NbS）的监测与评估框架，以桥接国际承诺与城市本地行动，并促进社区参与？",
+      "contributions_limitations": "主要贡献是提出了一种视角，强调通过社区参与和共同创造来改进NbS的监测与评估，使其更具适应性和合规性。局限性在于该观点主要聚焦于城市环境，可能不完全适用于你的核心研究场景（大型食草动物重野化于开放生态系统），且未深入讨论NbS在气候变化缓解中的具体碳循环效应或潜在负面效应。",
+      "follow_up_research": "未来可以探究如何在大型食草动物重野化项目中应用类似的参与式监测框架，例如通过社区科学（citizen science）收集土壤碳和生物多样性数据。此外，可研究监测框架如何纳入对NbS负面效应（如入侵物种风险）的评估，以提升其综合效益。",
+      "next_step_perspective": "这篇文章为你提供了关于NbS监测与评估的方法学视角。在你的重野化研究中，可以借鉴其‘共同创造’和‘适应性管理’理念，设计一个同时监测碳动态、生物多样性和社会响应的综合评估体系，这对于验证重野化作为气候变化缓解策略的有效性至关重要。",
+      "why_this_journal": "推测：Nature Sustainability 关注可持续发展相关的跨学科研究与实践。该文章提出了改进NbS实践的具体框架，具有政策启示和现实应用价值，符合该期刊强调影响力与解决方案的定位。",
+      "author_profile": {
+        "name": "Erich Wolff",
+        "institution": "Universiteit Utrecht",
+        "intro": "Erich Wolff 目前任职于荷兰乌得勒支大学（Universiteit Utrecht）。从其历史论文标题看，他的主要研究方向包括城市NbS的实施、气候变化适应、社会公平（如全球南方的正义适应）以及基于自然的解决方案在住房和海岸管理中的应用。这些研究与你关注的NbS主题紧密相关，但更侧重于社会和技术层面，而非直接的生物地球化学循环。",
+        "other_works": [
+          {
+            "title": "Monitoring nature-based solutions is key for compliance, co-creation and practice improvement",
+            "year": "2026",
+            "journal": "Nature Sustainability",
+            "doi": "10.1038/s41893-026-01885-w"
+          },
+          {
+            "title": "Scaling Water Resilience in the Mediterranean: Lessons on Mainstreaming NbS from the Climate Adaptation and Resilience Demonstrated in the Mediterranean (CARDIMED) Case Studies",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-5710"
+          },
+          {
+            "title": "Advancing just climate adaptation in the global South: socio-technical assistance for nature-based solutions in the Pacific",
+            "year": "2025",
+            "journal": "Environment & Urbanization",
+            "doi": "10.1177/09562478251364221"
+          },
+          {
+            "title": "Nature for the people, by the people: Negotiating values, attitudes and behaviours for implementing urban nature-based solutions in social housing",
+            "year": "2025",
+            "journal": "Urban Forestry & Urban Greening",
+            "doi": "10.1016/j.ufug.2025.128973"
+          },
+          {
+            "title": "Speculative design for climate adaptation: Imagining coastal management strategies in Singapore's future waterfronts through postcards from the future",
+            "year": "2025",
+            "journal": "Ocean & Coastal Management",
+            "doi": "10.1016/j.ocecoaman.2025.107622"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008227?af=R",
+      "title": "Disproportionate Soil Inorganic Carbon Loss and Associated CO2 Emission Driven by Soil Acidification",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008227?af=R",
+      "summary": "Earth's Future, Volume 14, Issue 7, July 2026.",
+      "journal": "Earths Future",
+      "published": "2026-07-14T11:48:16-07:00",
+      "doi": "10.1029/2026EF008227",
+      "affiliation": "School of Earth System Science Institute of Surface‐Earth System Science Tianjin University  Tianjin China; Key Laboratory of Ecosystem Network Observation and Modeling Institute of Geographic Sciences and Natural Resources Research Chinese Academy of Sciences  Beijing China; Norwegian Institute for Water Research  Oslo Norway",
+      "title_zh": "土壤酸化驱动的土壤无机碳不成比例损失及相关CO2排放",
+      "relevance_score": 8,
+      "key_conclusion": "文章摘要未提供具体结论，但标题表明其核心发现是土壤酸化会导致土壤无机碳（SIC）发生不成比例的损失，并产生显著的二氧化碳排放。",
+      "relevance_note": "该文章直接研究土壤碳（特别是无机碳）损失与CO2排放的驱动机制，与您核心关注的土壤有机碳和碳循环扰动高度相关，涉及生物地球化学循环。",
+      "related_papers": [
+        {
+          "title": "Sensitivity of the carbon cycle in the Arctic to climate change",
+          "link": "https://doi.org/10.1890/08-2025.1",
+          "venue": "Ecological Monographs",
+          "year": 2009
+        },
+        {
+          "title": "A marine heatwave drives massive losses from the world’s largest seagrass carbon stocks",
+          "link": "https://doi.org/10.1038/s41558-018-0096-y",
+          "venue": "Nature Climate Change",
+          "year": 2018
+        },
+        {
+          "title": "The future of Blue Carbon science",
+          "link": "https://doi.org/10.1038/s41467-019-11693-w",
+          "venue": "Nature Communications",
+          "year": 2019
+        },
+        {
+          "title": "Relationship between soil CO2 fluxes and soil moisture: Anaerobic sources explain fluxes at high water content",
+          "link": "https://doi.org/10.1016/j.geoderma.2023.116493",
+          "venue": "Geoderma",
+          "year": 2023
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "土壤酸化如何驱动土壤无机碳（SIC）不成比例的损失及其伴随的二氧化碳排放？",
+      "contributions_limitations": "基于标题和摘要推测，主要贡献是揭示了土壤酸化对无机碳损失的放大效应，并量化了相关的CO2排放，这补充了通常聚焦于有机碳的碳循环研究。局限性在于基于现有信息无法评估其方法学或结论的普遍性；建议查看原文以获取具体数据、研究区域和机制。",
+      "follow_up_research": "未来可探索大型食草动物重野化如何通过影响土壤pH值（例如通过排泄物）来改变SIC动态，尤其是在含碳酸盐丰富的土壤中。此外，结合动物介导的养分循环，研究其与有机碳（如POM和MAOM）分解的耦合机制。",
+      "next_step_perspective": "这篇文章为你提出了一个重要的研究角度：在你的重野化研究中，不应仅关注土壤有机碳（SOC），还需考虑土壤无机碳（SIC）的损失，尤其是在pH敏感的生态系统中。动物活动引起的土壤酸化可能是一个被忽视的碳损失途径，这可以作为你研究的一个创新切入点。",
+      "why_this_journal": "推测：Earth's Future 发表关于地球系统变化、可持续性和未来预测的研究。该文章关注土壤酸化这一全球变化驱动因子对碳循环的级联效应，具有跨学科意义和政策关切，符合该期刊的定位。",
+      "author_profile": {
+        "name": "Jianxing Zhu",
+        "institution": "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science",
+        "intro": "Jianxing Zhu 目前任职于中国科学院地理科学与资源研究所。从其历史论文标题看，他的主要研究方向包括大气沉降（氮、磷、氯）对陆地生态系统的影响、干旱对草地蒸散发的抑制作用，以及土壤呼吸与温度的关系。这些研究方向与你关注的养分循环、气候变化扰动和碳循环有直接关联。",
+        "other_works": [
+          {
+            "title": "Disproportionate Soil Inorganic Carbon Loss and Associated CO2 Emission Driven by Soil Acidification",
+            "year": "2026",
+            "journal": "Earth's Future",
+            "doi": "10.1029/2026EF008227"
+          },
+          {
+            "title": "Atmospheric Chlorine Wet Deposition in China: National Decreases but Localized Increases in Urban Agglomerations",
+            "year": "2026",
+            "journal": "Environmental Science & Technology",
+            "doi": "10.1021/acs.est.6c01918"
+          },
+          {
+            "title": "Prolonged drought strongly suppresses temperate grasslands actual evapotranspiration: Insights from eddy covariance observations upscaling",
+            "year": "2026",
+            "journal": "Agricultural Water Management",
+            "doi": "10.1016/j.agwat.2026.110211"
+          },
+          {
+            "title": "Declining Atmospheric Phosphorus Wet Deposition in China",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-6090"
+          },
+          {
+            "title": "A new pattern expanding current temperature models: A negative correlation between soil respiration and temperature in cold environments",
+            "year": "2026",
+            "journal": "CATENA",
+            "doi": "10.1016/j.catena.2025.109653"
           }
         ]
       }
@@ -363,6 +612,172 @@
       "author_profile": null
     },
     {
+      "id": "https://www.nature.com/articles/s41586-026-10760-9",
+      "title": "Highly fragmented European wetlands with uneven restoration needs",
+      "link": "https://www.nature.com/articles/s41586-026-10760-9",
+      "summary": "Nature, Published online: 15 July 2026; doi:10.1038/s41586-026-10760-9Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.",
+      "journal": "Nature",
+      "published": "2026-07-15T00:00:00+00:00",
+      "doi": "10.1038/s41586-026-10760-9",
+      "affiliation": null,
+      "title_zh": "高度破碎化的欧洲湿地及其不均等的恢复需求",
+      "relevance_score": 7,
+      "key_conclusion": "利用卫星影像和机器学习绘制了欧洲六类半自然开放湿地及土地利用干扰的分布图，发现欧洲湿地高度破碎化，且恢复需求具有空间不均一性。",
+      "relevance_note": "研究地点在欧洲，直接关注湿地恢复，属于基于自然的解决方案和生态系统恢复主题，与您关注的欧洲生态系统恢复及碳循环背景高度相关。",
+      "related_papers": [
+        {
+          "title": "Social–ecological network analysis of scale mismatches in estuary watershed restoration",
+          "link": "https://doi.org/10.1073/pnas.1604405114",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2017
+        },
+        {
+          "title": "Restoration of Longleaf Pine Ecosystems",
+          "link": "https://doi.org/10.2737/srs-gtr-83",
+          "venue": null,
+          "year": 2005
+        },
+        {
+          "title": "Forty years of carabid beetle research in Europe – from taxonomy, biology, ecology and population studies to bioindication, habitat assessment and conservation",
+          "link": "https://doi.org/10.3897/zookeys.100.1523",
+          "venue": "ZooKeys",
+          "year": 2011
+        },
+        {
+          "title": "Wetlands in China: Evolution, Carbon Sequestrations and Services, Threats, and Preservation/Restoration",
+          "link": "https://doi.org/10.3390/w14071152",
+          "venue": "Water",
+          "year": 2022
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10760-9/MediaObjects/41586_2026_10760_Fig1_HTML.png",
+      "scientific_question": "欧洲半自然开放湿地的保护现状如何？其破碎化程度及恢复需求是否存在空间异质性？",
+      "contributions_limitations": "主要贡献是利用卫星影像和机器学习首次大规模、高分辨率地绘制了欧洲湿地类型和干扰图，揭示了其高度破碎化和不均一的恢复需求，为欧洲湿地保护和恢复提供了关键的空间数据支持。局限性在于方法依赖遥感，可能无法捕捉湿地内部精细的生态功能差异（如碳储量或生物多样性），且“恢复需求”的定义可能因目标而异。",
+      "follow_up_research": "基于此研究，未来可进一步将湿地碳储量与破碎化格局关联，评估重点恢复区域对碳汇功能的潜在贡献。此外，对于你的研究领域，可以探究大型食草动物引入（重野化）是否能在破碎化湿地中恢复其自然水文和植被动态，从而提升碳固存能力。",
+      "next_step_perspective": "这篇文章为你提供了宝贵的研究地点相关性（欧洲）和方法学参考。首先，它展示了利用遥感与机器学习进行大规模生态系统监测的可行性，你可以在重野化研究中借鉴此方法评估植被或土壤属性的时空变化。其次，其结果可直接用于确定欧洲哪些湿地可能适合作为你重野化研究的潜在案例地，特别是那些恢复需求高且与碳循环紧密相关的区域。",
+      "why_this_journal": "推测：Nature 正刊追求具有广泛科学意义和突出创新性的研究。该文章首次全面量化了欧洲湿地破碎化格局，为保护生物学和生态恢复提供了前所未有的基础数据，具有全球尺度的地理学和生态学价值，符合Nature的高标准。",
+      "author_profile": {
+        "name": "Gyula Mate Kovács",
+        "institution": "Københavns Universitet",
+        "intro": "Gyula Mate Kovács 目前任职于哥本哈根大学（Københavns Universitet）。从其历史论文标题看，他的主要研究方向包括利用卫星遥感进行湿地监测、气候变化解决方案（如全球湿地中心倡议）、以及西非和水体等生态系统的遥感分析。这些研究与你关注的重野化地点评估和植被-土壤反馈的遥感监测具有潜在的方法学联系。",
+        "other_works": [
+          {
+            "title": "Highly fragmented European wetlands with uneven restoration needs",
+            "year": "2026",
+            "journal": "Nature",
+            "doi": "10.1038/s41586-026-10760-9"
+          },
+          {
+            "title": "Space Monitoring of Wetlands for Climate Solutions – the Global Wetland Center initiative",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-18201"
+          },
+          {
+            "title": "Detecting Waterlogging in Agricultural Fields in Denmark using High-Resolution PlanetScope Time Series",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-1859"
+          },
+          {
+            "title": "Large-scale satellite mapping unveils uneven wetland restoration needs across Europe",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu24-18679"
+          },
+          {
+            "title": "Long-Term Trends in Senegalese Dryland Tree Density",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu24-17672"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008774?af=R",
+      "title": "Decadal Amplification of Wildfire‐Induced Perturbations in Summer Surface Energy Partitioning Across the Boreal Forest Biome",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008774?af=R",
+      "summary": "Earth's Future, Volume 14, Issue 7, July 2026.",
+      "journal": "Earths Future",
+      "published": "2026-07-12T05:39:53-07:00",
+      "doi": "10.1029/2026EF008774",
+      "affiliation": "Northeast Institute of Geography and Agroecology Chinese Academy of Sciences  Changchun China; University of Chinese Academy of Sciences  Beijing China; Department of Physics and Atmospheric Science Dalhousie University  Halifax NS Canada",
+      "title_zh": "北方森林生物群落夏季地表能量分配受野火扰动的年代际放大效应",
+      "relevance_score": 7,
+      "key_conclusion": "文章摘要未提供具体结论，但标题表明其核心发现是野火扰动导致北方森林夏季地表能量分配发生改变，且这种扰动效应在年代际尺度上被放大。",
+      "relevance_note": "该文章研究极端干扰事件（野火）对北方森林生态系统能量平衡和关键过程的影响，属于您关注的极端气候事件对生态系统碳循环扰动范畴，且北方森林是重要碳汇。",
+      "related_papers": [
+        {
+          "title": "Changes in the surface energy budget after fire in boreal ecosystems of interior Alaska: An annual perspective",
+          "link": "https://doi.org/10.1029/2004jd005158",
+          "venue": "Journal of Geophysical Research Atmospheres",
+          "year": 2005
+        },
+        {
+          "title": "A review of global environmental mercury processes in response to human and natural perturbations: Changes of emissions, climate, and land use",
+          "link": "https://doi.org/10.1007/s13280-017-1004-9",
+          "venue": "AMBIO",
+          "year": 2018
+        },
+        {
+          "title": "Tropospheric ozone and its precursors from the urban to the global scale from air quality to short-lived climate forcer",
+          "link": "https://doi.org/10.5194/acp-15-8889-2015",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2015
+        },
+        {
+          "title": "Mechanisms of forest resilience",
+          "link": "https://doi.org/10.1016/j.foreco.2022.120129",
+          "venue": "Forest Ecology and Management",
+          "year": 2022
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "野火扰动如何在年代际尺度上影响北方森林地表能量分配的夏季变化？",
+      "contributions_limitations": "基于标题推测，主要贡献是揭示了野火引起的扰动在年代际尺度上对地表能量分配（如感热/潜热通量）有放大效应，这有助于理解气候-火灾反馈机制。局限性可能是未明确探讨能量分配变化与碳循环（如土壤有机碳）的直接关联，且可能局限于北方森林生物群系。",
+      "follow_up_research": "未来可研究野火后能量分配变化如何影响土壤温度与水分，进而影响土壤有机碳分解速率和碳汇功能。可结合重野化中的大型食草动物，探讨放牧能否通过改变燃料负荷来缓解或加剧这种火后能量放大效应。",
+      "next_step_perspective": "这篇文章为你的研究提供了关于扰动（如火灾）如何通过非生物途径（能量分配）间接影响碳循环的视角。你可以考虑将这种能量框架引入重野化研究，例如评估大型食草动物如何通过改变植被结构和地表反照率来调节能量平衡，从而影响土壤有机碳稳定性。",
+      "why_this_journal": "Earth's Future专注于地球系统变化和未来预测，该研究涉及关键生物群系的扰动反馈，具有跨尺度意义，可能因其对气候-火灾反馈的气候学贡献而被接受（推测）。",
+      "author_profile": {
+        "name": "Hong S. He",
+        "institution": "University of Missouri",
+        "intro": "Hong S. He 来自密苏里大学，从其历史论文标题可见研究方向包括森林碳分配、植物生态策略、土壤有机碳和森林恢复动态。这些研究与你的核心方向（生态系统碳循环、植物碳分配）高度相关，尤其在探讨植被-土壤反馈方面有共同兴趣。",
+        "other_works": [
+          {
+            "title": "Species trait dissimilarity dominates the mixing effects of forest plantations across stand development stages",
+            "year": "2026",
+            "journal": "Forest Ecosystems",
+            "doi": "10.1016/j.fecs.2026.100497"
+          },
+          {
+            "title": "The asynchronous and asymmetrical urban growth: Insights from Sino-Russian cross-border cooperation",
+            "year": "2026",
+            "journal": "Habitat International",
+            "doi": "10.1016/j.habitatint.2026.103904"
+          },
+          {
+            "title": "Decadal Amplification of Wildfire‐Induced Perturbations in Summer Surface Energy Partitioning Across the Boreal Forest Biome",
+            "year": "2026",
+            "journal": "Earth's Future",
+            "doi": "10.1029/2026EF008774"
+          },
+          {
+            "title": "Carbon Allocation at Species’ Upper Limits: Treeline Betula ermanii vs. Nontreeline Picea jezoensis on the Changbai Mountain",
+            "year": "2026",
+            "journal": "Physiologia Plantarum",
+            "doi": "10.1111/ppl.70834"
+          },
+          {
+            "title": "Shifts in plant ecological strategies drive divergent soil organic carbon stock in alpine ecosystems",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70270"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002620",
       "title": "The role of connectivity in understanding grassland-shrubland regime shifts: Impacts of aridity, grazing and wind dynamics",
       "link": "https://www.sciencedirect.com/science/article/pii/S0304380026002620?dgcid=rss_sd_all",
@@ -407,6 +822,642 @@
       "next_step_perspective": "本研究直接影响用户的课题：大型食草动物的重野化可能改变植被结构（如促进或抑制灌木入侵），进而影响土壤有机碳的稳定性。用户可通过本文提供的连通性与放牧交互框架，来分析重野化会如何改变系统的恢复力，并预测其对碳循环的长期影响。",
       "why_this_journal": "基于现有信息推测：Ecological Modelling 发表此文，是因为它整合了生态学、土壤风蚀和景观生态学多个领域的知识来构建模型，具有很强的跨学科性和对生态系统稳态机制的理解，符合期刊对复杂生态过程模拟的定位。",
       "author_profile": null
+    },
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008429?af=R",
+      "title": "How Precipitation Timing Asymmetry Restructures Vegetation Phenology in Water‐Limited Ecosystems",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008429?af=R",
+      "summary": "Earth's Future, Volume 14, Issue 7, July 2026.",
+      "journal": "Earths Future",
+      "published": "2026-07-15T02:14:56-07:00",
+      "doi": "10.1029/2026EF008429",
+      "affiliation": "College of Geographic Science and Tourism Xinjiang Normal University  Urumqi China; Key Laboratory of Ecological Safety and Sustainable Development in Arid Lands State Key Laboratory of Desert and Oasis Ecology Xinjiang Institute of Ecology and Geography Chinese Academy of Sciences  Urumqi China; School of Geographic Sciences Xinyang Normal University  Xinyang China",
+      "title_zh": "降水时间不对称如何重塑水分受限生态系统的植被物候",
+      "relevance_score": 6,
+      "key_conclusion": "文章摘要未提供具体结论，但标题表明其核心发现是降水的时间分布格局（不对称性）是重塑水分受限生态系统植被物候变化的关键驱动因素。",
+      "relevance_note": "该文章直接关注降水变化与植被物候的相互作用，属于陆地生态系统对气候变化响应的核心议题，与您广泛关注的生态系统功能和碳循环背景相关。",
+      "related_papers": [
+        {
+          "title": "How Precipitation Timing Asymmetry Restructures Vegetation Phenology in Water-Limited Ecosystems",
+          "link": "https://doi.org/10.5281/zenodo.18476841",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "How Precipitation Timing Asymmetry Restructures Vegetation Phenology in Water-Limited Ecosystems",
+          "link": "https://doi.org/10.5281/zenodo.18476842",
+          "venue": "Open MIND",
+          "year": 2026
+        },
+        {
+          "title": "Climate and vegetational regime shifts in the late Paleozoic ice age earth",
+          "link": "https://doi.org/10.1111/j.1472-4669.2009.00192.x",
+          "venue": "Geobiology",
+          "year": 2009
+        },
+        {
+          "title": "Scientists' warning on climate change and insects",
+          "link": "https://doi.org/10.1002/ecm.1553",
+          "venue": "Ecological Monographs",
+          "year": 2022
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "降水时间分布的不对称性如何重塑水分受限生态系统的植被物候？",
+      "contributions_limitations": "基于标题推测，主要贡献是识别出降水时间格局（如集中降雨 vs. 分散降雨）对植被物候（如生长季开始/结束）的驱动作用，超越了总降水量的影响。局限性可能是未涉及土壤碳动态，且局限于干旱/半干旱生态系统。",
+      "follow_up_research": "后续可研究降水时间变化如何通过改变植被碳分配（如非结构性碳水化合物NSC储存）影响土壤微生物群落和有机碳形成。在重野化背景下，可探索大型食草动物放牧如何调节降水-物候关系，例如通过践踏或采食改变土壤水分可用性。",
+      "next_step_perspective": "这篇文章为你的研究提供了一个重要视角：在评估重野化对碳循环的影响时，需考虑降水时间格局这一非生物因子，而不仅仅是年均降水。你可以将降水时间不对称性作为模型变量，分析大型食草动物活动如何间接改变微气候和土壤湿度，进而影响植被-土壤碳反馈。",
+      "why_this_journal": "该期刊关注地球未来变化，此项研究涉及干旱区植被对气候变化（降水格局变化）的响应，具有生态系统管理意义，可能因其对未来情景下植被动态的预测价值而被发表（推测）。",
+      "author_profile": {
+        "name": "Xiaofei Ma",
+        "institution": "Xinjiang Institute of Ecology and Geography",
+        "intro": "Xiaofei Ma 来自中国科学院新疆生态与地理研究所，从其论文标题看，研究方向聚焦于干旱区生态系统碳储存、物候学（尤其是冻融动态）、生态系统服务权衡。这些研究与你的方向（陆地碳循环、气候扰动）相关，尤其在干旱区碳动态方面有交集。",
+        "other_works": [
+          {
+            "title": "How Precipitation Timing Asymmetry Restructures Vegetation Phenology in Water‐Limited Ecosystems",
+            "year": "2026",
+            "journal": "Earth's Future",
+            "doi": "10.1029/2026EF008429"
+          },
+          {
+            "title": "Dynamic Changes and Driving Factors of Ecosystem Carbon Storage in Inland River Basins Under Land Use Change",
+            "year": "2026",
+            "journal": "Land Degradation & Development",
+            "doi": "10.1002/ldr.70475"
+          },
+          {
+            "title": "Freeze–Thaw Dynamics Reshape Climatic Control of Spring Phenology Across Northern Ecosystems",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70675"
+          },
+          {
+            "title": "Cross-scale spillover of ecosystem services reveals pathways for equitable ecological compensation in inland river basins",
+            "year": "2025",
+            "journal": "Journal of Environmental Management",
+            "doi": "10.1016/j.jenvman.2025.127448"
+          },
+          {
+            "title": "Ecosystem service tradeoff and synergy mechanisms in the Central Asian terminal lake basin based on Bayesian Networks",
+            "year": "2025",
+            "journal": "Ecosystem Services",
+            "doi": "10.1016/j.ecoser.2025.101768"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GB009164?af=R",
+      "title": "Additive Dominance and Context‐Dependent Nonlinearities in Soil Greenhouse Gas Responses to Concurrent Global Change",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GB009164?af=R",
+      "summary": "Global Biogeochemical Cycles, Volume 40, Issue 7, July 2026.",
+      "journal": "Global Biogeochemical Cycles",
+      "published": "2026-07-15T04:04:38-07:00",
+      "doi": "10.1029/2026GB009164",
+      "affiliation": "Danjiangkou Wetland Ecosystem Field Scientific Observation and Research Station Chinese Academy of Sciences &amp; Hubei Province Wuhan Botanical Garden Chinese Academy of Sciences  Wuhan China; Hubei Key Laboratory of Wetland Evolution &amp; Ecological Restoration Wuhan Botanical Garden Chinese Academy of Sciences  Wuhan China; University of Chinese Academy of Sciences  Beijing China",
+      "title_zh": "土壤温室气体对复合全球变化响应的加性主导性与背景依赖性非线性",
+      "relevance_score": 6,
+      "key_conclusion": "土壤温室气体对多种全球变化因素（如升温、氮沉降等）的响应表现出加性主导效应和背景依赖性非线性关系。",
+      "relevance_note": "直接涉及土壤温室气体排放，与您关注的土壤碳循环、放牧强度等对温室气体影响相关，但未涉及食草动物。",
+      "related_papers": [
+        {
+          "title": "Climate Change Effects on Plant Disease: Genomes to Ecosystems",
+          "link": "https://doi.org/10.1146/annurev.phyto.44.070505.143420",
+          "venue": "Annual Review of Phytopathology",
+          "year": 2006
+        },
+        {
+          "title": "Generality of Hydrologic Transport Limitation of Watershed Organic Carbon Flux Across Ecoregions of the United States",
+          "link": "https://doi.org/10.1029/2018gl080005",
+          "venue": "Geophysical Research Letters",
+          "year": 2018
+        },
+        {
+          "title": "Direct and indirect selection on flowering time, water‐use efficiency (<scp>WUE</scp>,<i> δ</i><sup>13</sup>C), and <scp>WUE</scp> plasticity to drought in <i>Arabidopsis thaliana</i>",
+          "link": "https://doi.org/10.1002/ece3.1270",
+          "venue": "Ecology and Evolution",
+          "year": 2014
+        },
+        {
+          "title": "Physical Understanding of Human-Induced Changes in U.S. Hot Droughts Using Equilibrium Climate Simulations",
+          "link": "https://doi.org/10.1175/jcli-d-18-0611.1",
+          "venue": "Journal of Climate",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "土壤温室气体（CO2、N2O、CH4）对多种全球变化因子（如升温、氮沉降）的响应是加性的还是非线性的，以及这种如何受背景条件调节？",
+      "contributions_limitations": "基于摘要推测，主要贡献是发现土壤温室气体对多重全球变化因子的响应以加性效应为主，但存在背景依赖性非线性，这有助于改进模型预测。局限性可能是摘要未明确涉及土壤有机碳组分（如POM/MAOM）的机制，且实验条件（如野外 vs. 室内）未知。",
+      "follow_up_research": "未来可研究大型食草动物放牧如何改变土壤对多重全球变化因子的响应，例如动物践踏和排泄是否通过改变土壤结构（影响MAOM形成）来调节加性或非线性效应。可结合zoogeochemistry，分析动物介导的养分输入如何放大或缓冲CO2/N2O排放。",
+      "next_step_perspective": "这篇文章为你提供了研究多因子交互作用的方法框架，强调了背景依赖性。你可以将这种思路应用于重野化，设计实验探究放牧强度与气候变化（如干旱、升温）如何共同影响土壤有机碳稳定性和温室气体通量，从而识别关键阈值。",
+      "why_this_journal": "Global Biogeochemical Cycles专注于生物地球化学循环，该研究探讨了土壤温室气体对多种全球变化因子的综合响应，具有机制性见解，可能因其对碳-气候反馈模型的改进意义而被接受（推测）。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002292",
+      "title": "Retaining fruiting trees in the agricultural matrix is important for bird-mediated seed dispersal in a fragmented forest landscape",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026002292?dgcid=rss_sd_all",
+      "summary": "Publication date: October 2026Source: Ecological Modelling, Volume 520Author(s): Jelaine Lim Gan, Katrin M. Meyer, Marion Pfeifer, Terence Craig Soroño, Erwin Somera Torio, Merlijn van Weerd, Marites Gatan-Balbas, Mark David Foster Shirley",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "在农业基质中保留果树对鸟类介导的种子传播至关重要",
+      "relevance_score": 6,
+      "key_conclusion": "在破碎化森林景观中，农业基质中保留果树能显著增加鸟类介导的种子传播，对维持森林恢复力至关重要。",
+      "relevance_note": "直接涉及动物介导的生态系统功能（鸟类的种子传播），与您（8）植物-动物互作和（3）植被-土壤反馈相关，且研究地点在热带，不直接等于欧洲但互作机制类似。",
+      "related_papers": [
+        {
+          "title": "Landscape modification and habitat fragmentation: a synthesis",
+          "link": "https://doi.org/10.1111/j.1466-8238.2007.00287.x",
+          "venue": "Global Ecology and Biogeography",
+          "year": 2007
+        },
+        {
+          "title": "Forest biodiversity, ecosystem functioning and the provision of ecosystem services",
+          "link": "https://doi.org/10.1007/s10531-017-1453-2",
+          "venue": "Biodiversity and Conservation",
+          "year": 2017
+        },
+        {
+          "title": "The ecology, distribution, conservation and management of large old trees",
+          "link": "https://doi.org/10.1111/brv.12290",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2016
+        },
+        {
+          "title": "Avian life‐history determinants of local extinction risk in a hyper‐fragmented neotropical forest landscape",
+          "link": "https://doi.org/10.1111/j.1469-1795.2008.00162.x",
+          "venue": "Animal Conservation",
+          "year": 2008
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在破碎化森林景观中，农业基质中保留果树对鸟类介导的种子传播有多重要？",
+      "contributions_limitations": "基于摘要推测，主要贡献是定量证明了保留果树能显著促进种子传播，支持森林恢复。局限性可能是未深入探讨种子传播后幼苗的存活与碳汇功能，且研究地点（菲律宾）可能限制其与欧洲重野化场景的直接可比性。",
+      "follow_up_research": "后续可研究鸟类传播的功能性植物（如大型果实树种）对土壤有机碳积累的长期贡献。在重野化背景下，可类比分析大型食草动物（如欧洲野牛）通过种子传播或粪便养分输入对森林恢复和土壤碳的推动作用。",
+      "next_step_perspective": "这篇文章为你提供了动物介导的生态系统功能恢复视角，尤其强调了保留关键生境要素（如果树）的重要性。你可以将此思路应用于重野化：评估大型食草动物的活动（如食果、践踏）如何通过激活种子库或改变微生境来促进植被-土壤碳反馈。",
+      "why_this_journal": "Ecological Modelling聚焦于生态模型和预测，该研究可能结合了经验数据与模型（如种子扩散模型），因其对景观管理和恢复策略的定量指导而被发表（推测）。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-4821-2026",
+      "title": "Testing the precipitation-driven diffusion limitation hypothesis for declining methane uptake in forest soils",
+      "link": "https://doi.org/10.5194/bg-23-4821-2026",
+      "summary": "Testing the precipitation-driven diffusion limitation hypothesis for declining methane uptake in forest soils\n                    Victor Edmonds\n                        Biogeosciences, 23, 4821–4841, https://doi.org/10.5194/bg-23-4821-2026, 2026\n                        Forest soils host bacteria that pull methane (a powerful greenhouse gas) from the air before it warms the planet. Over recent decades this natural filter has weakened sharply, and the standard explanation blames rising rainfall. Drawing on 27 years of field measurements, we show that rainfall cannot explain the loss. The timing and pattern trace the cause instead to the bacteria and the soil they live in. Such a breakdown may not heal on its own, leaving more methane in the air.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-13T07:33:50+02:00",
+      "doi": "10.5194/bg-23-4821-2026",
+      "affiliation": null,
+      "title_zh": "检验降水驱动的扩散限制假说：森林土壤甲烷吸收下降的原因",
+      "relevance_score": 5,
+      "key_conclusion": "基于27年实测数据，发现降水增加不能解释森林土壤甲烷吸收功能减弱现象，其下降趋势归因于土壤细菌及其生存环境的变化，且这种功能衰退可能不可逆。",
+      "relevance_note": "涉及土壤微生物功能与温室气体（甲烷）动态，与您（2）中土壤微生物群落结构与生态系统功能关联，但未涉及动物。",
+      "related_papers": [
+        {
+          "title": "Temperature sensitivity of soil carbon decomposition and feedbacks to climate change",
+          "link": "https://doi.org/10.1038/nature04514",
+          "venue": "Nature",
+          "year": 2006
+        },
+        {
+          "title": "Environmental and stoichiometric controls on microbial carbon‐use efficiency in soils",
+          "link": "https://doi.org/10.1111/j.1469-8137.2012.04225.x",
+          "venue": "New Phytologist",
+          "year": 2012
+        },
+        {
+          "title": "Conventional methanotrophs are responsible for atmospheric methane oxidation in paddy soils",
+          "link": "https://doi.org/10.1038/ncomms11728",
+          "venue": "Nature Communications",
+          "year": 2016
+        },
+        {
+          "title": "Boreal forest soil carbon: distribution, function and modelling",
+          "link": "https://doi.org/10.1093/forestry/cps003",
+          "venue": "Forestry An International Journal of Forest Research",
+          "year": 2012
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/4821/2026/bg-23-4821-2026-avatar-web.png",
+      "scientific_question": "降水驱动的扩散限制假说是否能解释森林土壤甲烷（一种强效温室气体）吸收功能长期下降的现象？",
+      "contributions_limitations": "基于27年实测数据，该研究有力地反驳了降水增加是导致森林土壤甲烷吸收下降的主因这一标准假说，揭示了该功能丧失可能与土壤细菌群落及其生存环境退化有关，并且这种破坏可能不可逆。基于摘要信息，主要局限性在于具体是何种细菌或土壤环境变化导致了功能丧失，以及这一发现是否适用于其他气候区和森林类型，尚不明确（建议查看原文）。",
+      "follow_up_research": "后续研究可以深入挖掘是哪些土壤微生物类群（如甲烷氧化菌）的丰度或活性变化导致了功能丧失，以及这种变化与森林管理、干扰历史或土壤化学性质的关联。此外，可以探究在其他生态系统中（例如草地或重野化放牧影响的草地-森林交错带）是否也存在类似的功能衰减现象。",
+      "next_step_perspective": "这篇文章提供了研究长期生态系统功能变化的宝贵视角：利用长时间序列数据挑战“常识性”的物理扩散限制假说，转而关注微生物群落的动态变化。对于我的研究方向，可以借鉴这种思路，在重野化项目中长期监测土壤碳循环和甲烷通量，以区分放牧管理改变（物理效应）与植物-微生物反馈（生物效应）对土壤温室气体通量的相对贡献。",
+      "why_this_journal": "Biogeosciences 专注于生物地球化学循环过程及其与气候变化的相互作用。该研究利用长期数据挑战了一个广泛接受的机制假说，具有重要的方法论和新颖性意义，推动了我们对土壤-大气痕量气体交换机制的理解。",
+      "author_profile": {
+        "name": "Victor Edmonds",
+        "institution": "Ronin Institute for Independent Scholarship 2.0",
+        "intro": "Victor Edmonds 目前隶属于 Ronin Institute for Independent Scholarship 2.0，一个独立的学术研究机构。从其历史作品看，他涉猎广泛，包括天体物理学（日冕等离子体）、生物医学信号处理（脑电图）和生物地球化学（森林土壤甲烷）。其研究兴趣从宇宙尺度跨越到生态系统尺度，显示出极强的跨学科分析能力，但其研究方向与用户的食草动物重野化课题的直接关联度较低。",
+        "other_works": [
+          {
+            "title": "Testing the precipitation-driven diffusion limitation hypothesis for declining methane uptake in forest soils",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-4821-2026"
+          },
+          {
+            "title": "The quiet-Sun DEM under kappa: diagnostic degeneracy and the failure of the conductive closure",
+            "year": "2026",
+            "journal": "Transport Phenomena",
+            "doi": "10.1515/tp-2026-0065"
+          },
+          {
+            "title": "The Diagnostic Temperature Discrepancy as Evidence for Non-Maxwellian Coronal Electrons",
+            "year": "2026",
+            "journal": "The Open Journal of Astrophysics",
+            "doi": "10.33232/001c.161223"
+          },
+          {
+            "title": "Not All Entropy Is Equal: Parameter Sensitivity and Cross-Dataset Fragility of Band-Filtered Entropy in Dementia EEG",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.64898/2026.03.09.26347355"
+          },
+          {
+            "title": "Multi-diagnostic convergence: a single measurement in weakly collisional plasmas",
+            "year": "2026",
+            "journal": "Open Transport",
+            "doi": "10.1515/ot-2026-0011"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002450",
+      "title": "Evaluating the factors determining long-term post-landslide forest recovery using a spatially explicit forest landscape model",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026002450?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Ecological Modelling, Volume 521Author(s): Wataru Hotta, Junko Morimoto, Chihiro Haga, Futoshi Nakamura",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "利用空间显式森林景观模型评估滑坡后长期森林恢复的决定因素",
+      "relevance_score": 5,
+      "key_conclusion": "利用空间显式模型揭示了决定滑坡后长期森林恢复的关键因素，包括地形、土壤和植被组成等。",
+      "relevance_note": "涉及生态系统功能恢复（森林恢复）与碳汇变化，与您（1）中退化与恢复过程中的碳获取相关，且使用模型方法。",
+      "related_papers": [
+        {
+          "title": "Recommendations for the quantitative analysis of landslide risk",
+          "link": "https://doi.org/10.1007/s10064-013-0538-8",
+          "venue": "Bulletin of Engineering Geology and the Environment",
+          "year": 2013
+        },
+        {
+          "title": "Science basis for changing forest structure to modify wildfire behavior and severity",
+          "link": "https://doi.org/10.2737/rmrs-gtr-120",
+          "venue": null,
+          "year": 2004
+        },
+        {
+          "title": "The role of land‐use history in driving successional pathways and its implications for the restoration of tropical forests",
+          "link": "https://doi.org/10.1111/brv.12694",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2021
+        },
+        {
+          "title": "Monitoring the Effects of Forest Restoration Treatments on Post-Fire Vegetation Recovery with MODIS Multitemporal Data",
+          "link": "https://doi.org/10.3390/s8032017",
+          "venue": "Sensors",
+          "year": 2008
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "哪些关键环境因素（如地形、土壤条件和植被组成）在决定滑坡后长期森林恢复的动态和结果中起主导作用？",
+      "contributions_limitations": "利用空间显式森林景观模型，该研究揭示了影响滑坡后长期森林恢复的多重因子（地形、土壤、植被），有助于理解生态系统从严重干扰中恢复的机制。基于摘要信息，局限性在于模型参数化和验证依赖于特定区域的生物物理数据，其结论向不同气候带或植被类型（如用户关注的欧洲温带/寒带森林与草地动态）推广的潜力需要进一步评估。",
+      "follow_up_research": "未来的研究可以比较不同干扰类型（如山火、风倒、采伐、大型食草动物高强度踩踏）后的森林恢复轨迹和驱动因素。可以将该模型与动态植被模型（DGVM）结合，分析在气候变化背景下干扰后恢复路径的长期碳汇潜力。",
+      "next_step_perspective": "此研究的方法论（空间显式模型）可以直接应用于重野化研究中，用于模拟大型食草动物（如欧洲野牛、马鹿）在景观尺度上的活动（如踩踏、啃食、排泄）如何创造异质性的微地貌和养分斑块，从而影响木本植物入侵和森林-草地边界的长期动态与土壤碳储量的空间分布。",
+      "why_this_journal": "Ecological Modelling 是生态模型开发和验证的核心期刊。该文章结合实地观测数据和过程模型来回答一个关于长期生态系统恢复的基础问题，在方法学上具有典型性和重要性，能吸引关注预测生态学和景观动态的读者。",
+      "author_profile": null
+    },
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009009?af=R",
+      "title": "Assessing the Relative Roles of Soil Water Potential and Atmospheric Demand on Vegetation Water Stress in Semi‐arid Ecosystems",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009009?af=R",
+      "summary": "Journal of Geophysical Research: Biogeosciences, Volume 131, Issue 7, July 2026.",
+      "journal": "JGR Biogeosciences",
+      "published": "2026-07-10T05:50:32-07:00",
+      "doi": "10.1029/2025JG009009",
+      "affiliation": "Montana Climate Office W.A. Franke College of Forestry and Conservation University of Montana  Missoula MT USA; Department of Forest Management W.A. Franke College of Forestry and Conservation University of Montana  Missoula MT USA; Division of Biological Sciences, College of Humanities and Sciences University of Montana  Missoula MT USA",
+      "title_zh": "评估土壤水势与大气需水量在半干旱生态系统植被水分胁迫中的相对作用",
+      "relevance_score": 4,
+      "key_conclusion": "在半干旱生态系统中，土壤水势和大气需水量都对植被水分胁迫有重要作用，但两者的相对贡献因环境和时间而异。",
+      "relevance_note": "关注陆地生态系统碳循环中植被对水分胁迫的响应，与您（1）中极端气候对碳循环扰动相关，但无动物或管理因素。",
+      "related_papers": [
+        {
+          "title": "Soil moisture dominates dryness stress on ecosystem production globally",
+          "link": "https://doi.org/10.1038/s41467-020-18631-1",
+          "venue": "Nature Communications",
+          "year": 2020
+        },
+        {
+          "title": "Global ecosystem thresholds driven by aridity",
+          "link": "https://doi.org/10.1126/science.aay5958",
+          "venue": "Science",
+          "year": 2020
+        },
+        {
+          "title": "Code for: Assessing the Relative Roles of Soil Water Potential and Atmospheric Demand on Vegetation Water Stress in Semi-Arid Ecosystems",
+          "link": "https://doi.org/10.5281/zenodo.20028348",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "GLEAM v3: satellite-based land evaporation and root-zone soil moisture",
+          "link": "https://doi.org/10.5194/gmd-10-1903-2017",
+          "venue": "Geoscientific model development",
+          "year": 2017
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在半干旱生态系统中，土壤水势和大气需水量（即大气干旱）这两个因素对植被水分胁迫的相对贡献如何随时间变化？",
+      "contributions_limitations": "该研究明确了在半干旱环境中，土壤和大气干旱在不同时间和情境下对植被水分胁迫的相对重要性，这对于改进生态系统模型和预测干旱影响至关重要。基于摘要信息，局限性可能在于研究主要依赖于点尺度或区域尺度的观测与建模，需要进一步验证结论在更大空间尺度上的普适性，尤其是在不同植被类型（如C3 vs. C4植物）间的差异。",
+      "follow_up_research": "可以探究气候变化情景下（如降雨格局改变与大气蒸气压差（VPD）持续升高）土壤水势与大气需水量相对权重如何演变。将此框架应用于欧洲的牧场和重野化区域，分析食草动物通过改变土壤物理结构（增加入渗、减少蒸发）能否缓冲或放大土壤/大气干旱对植被水分胁迫的影响。",
+      "next_step_perspective": "此研究提供了量化“双重干旱”（土壤干旱 + 大气干旱）影响的方法，对于理解重野化后植被-土壤反馈至关重要。大型食草动物的啃食和践踏会改变植被叶面积指数（影响蒸腾）和土壤孔隙度（影响土壤持水和蒸发），进而改变土壤水势和微气候，从而影响生态系统对干旱的脆弱性与土壤碳分解速率。",
+      "why_this_journal": "JGR Biogeosciences 专注于陆地和海洋生物地球科学过程。这项研究直接涉及土壤-植物-大气连续体中的水分关系，这是决定生态系统功能和碳循环的关键因素，研究视角新颖，区分了土壤和大气两个维度，符合期刊对于过程机理研究的偏好。",
+      "author_profile": {
+        "name": "Kelsey G. Jencso",
+        "institution": "University of Montana",
+        "intro": "Kelsey G. Jencso 来自蒙大拿大学（University of Montana），其历史研究主要集中在美国西部半干旱地区的水文过程、灌溉农业的水文效应、土壤水分和干旱监测。其研究方向与用户的半干旱/干旱区生态系统功能恢复存在交集，特别是在水资源有限的生态系统中，放牧和土地管理如何影响水分-植被动态方面，可为用户提供水文视角的启发。",
+        "other_works": [
+          {
+            "title": "Assessing the Relative Roles of Soil Water Potential and Atmospheric Demand on Vegetation Water Stress in Semi‐arid Ecosystems",
+            "year": "2026",
+            "journal": "Journal of Geophysical Research: Biogeosciences",
+            "doi": "10.1029/2025JG009009"
+          },
+          {
+            "title": "Beneficial ‘inefficiencies’ of western ranching: Flood-irrigated hay production sustains wetland systems by mimicking historic hydrologic processes",
+            "year": "2024",
+            "journal": "Agriculture, Ecosystems &amp; Environment",
+            "doi": "10.1016/j.agee.2024.109051"
+          },
+          {
+            "title": "Optimizing Drought Assessment for Soil Moisture Deficits",
+            "year": "2024",
+            "journal": "Water Resources Research",
+            "doi": "10.1029/2023wr036087"
+          },
+          {
+            "title": "Irrigation response to drought in the Western United States, 1987–2021",
+            "year": "2024",
+            "journal": "JAWRA Journal of the American Water Resources Association",
+            "doi": "10.1111/1752-1688.13190"
+          },
+          {
+            "title": "Water isotopic composition traces source and dynamics of water supply in a semi‐arid agricultural landscape",
+            "year": "2024",
+            "journal": "Hydrological Processes",
+            "doi": "10.1002/hyp.15069"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-4893-2026",
+      "title": "Are ghost forest trees a substantial source of methane from reservoirs?",
+      "link": "https://doi.org/10.5194/bg-23-4893-2026",
+      "summary": "Are ghost forest trees a substantial source of methane from reservoirs?\n                    Johannes Dittmann, Damien T. Maher, Scott G. Johnston, Douglas R. Tait, Paula Gomez-Alvarez, Alistair Grinham, Katrin Sturm, and Luke C. Jeffrey\n                        Biogeosciences, 23, 4893–4910, https://doi.org/10.5194/bg-23-4893-2026, 2026\n                        Reservoir dead trees (‘ghost forests’) are an overlooked methane (CH4) source in standing freshwaters. We measured CH4 fluxes from 34 trees at multiple stem heights, alongside aquatic CH4 fluxes and physicochemistry, across two field campaigns. Ghost forest CH4 fluxes were highest near reservoir inflows, with tree CH4 contributing extra emissions of 14–15 % on top of the commonly quantified pathways of ebullition and diffusion.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-16T07:33:50+02:00",
+      "doi": "10.5194/bg-23-4893-2026",
+      "affiliation": null,
+      "title_zh": "水库中的“幽灵森林”树木是否是甲烷的重要来源？",
+      "relevance_score": 4,
+      "key_conclusion": "水库中死亡的树木（“幽灵森林”）是水体中常被忽视的甲烷来源，其排放量在靠近水库入水口处最高，可占水库总甲烷排放的14-15%。",
+      "relevance_note": "涉及碳循环中的温室气体（甲烷）排放源，与您（1）中碳循环扰动相关，但研究焦点在水库而非陆地生态系统中动物介导的过程。",
+      "related_papers": [],
+      "image_url": "https://bg.copernicus.org/articles/23/4893/2026/bg-23-4893-2026-avatar-web.png",
+      "scientific_question": "水库中的“幽灵森林”（即被水淹没但尚未分解的枯死树木）是否是水体中一个被低估的、重要的甲烷（CH4）来源？",
+      "contributions_limitations": "首次量化了水库死树作为甲烷排放通道的贡献（可达总排放量的14-15%），指出这是一个在传统水生甲烷预算中被严重忽视的排放途径。这显著加深了对人工水体温室气体排放来源和路径的理解。基于摘要信息，局限性在于研究可能仅在少数水库和有限时间段内进行，死树甲烷排放的时空变异性及其与水库管理、水位波动和树木种类的关系有待探讨。",
+      "follow_up_research": "可以探索死树为何在特定位置（如水库入水口）排放最高，这与其分解过程和微生物群落（特别是产甲烷菌和甲烷氧化菌）的活性分布有何内在联系。此外，可以研究在重野化过程中，由于大型食草动物活动或气候变化导致的树木死亡（如河岸林被啃食致死或干旱死亡）是否会造成类似的“非点源”甲烷排放热点。",
+      "next_step_perspective": "这篇文章揭示了以前未被识别的甲烷排放“热点”和“通道”（即枯死树木）。对于我的研究，这提示在评估重野化对温室气体收支的影响时，不能仅关注土壤表面，还应考虑大型动物对木本植物造成的非致命损伤或死亡（例如啃食树皮、践踏幼苗）以及凋落物的分解过程，这些都可能成为重要的甲烷或N2O排放源，尤其是在湿地或河岸带。",
+      "why_this_journal": "Biogeosciences 期刊非常看重对生物地球化学循环中未知源汇的探索。这篇文章揭示了一个在“碳循环”和“水-气交换”研究中被普遍忽视的重要甲烷源——水库死树，其发现对于修正和完善全球甲烷收支模型具有重要价值，创新性和科学意义都十分突出。",
+      "author_profile": {
+        "name": "Johannes Dittmann",
+        "institution": "Southern Cross University",
+        "intro": "第一作者 Johannes Dittmann 来自南十字星大学（Southern Cross University），其历史论文标题高度一致，深度聚焦于“树皮微生物组”的生态功能，特别是树皮作为痕量气体（CH4, N2O）生产和消耗的热点，以及其中氮固定微生物（diazotrophs）的作用。他的研究开辟了“树皮微生物界面”这一前沿领域，与用户关注的植物-微生物互作、动物（如树皮上栖息的昆虫）介导的生物地球化学循环高度相关。",
+        "other_works": [
+          {
+            "title": "Are ghost forest trees a substantial source of methane from reservoirs?",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-4893-2026"
+          },
+          {
+            "title": "Bark microbiota modulate climate-active gas fluxes in Australian forests",
+            "year": "2026",
+            "journal": "Science",
+            "doi": "10.1126/science.adu2182"
+          },
+          {
+            "title": "Are ghost forests a substantial source of methane from reservoirs?",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5594"
+          },
+          {
+            "title": "Supplementary material to \"Are ghost forests a substantial source of methane from reservoirs?\"",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5594-supplement"
+          },
+          {
+            "title": "Bark-associated diazotroph communities are a cryptic source of nitrogen in forests",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.11.14.688567"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.70388?af=R",
+      "title": "Which biodiversity futures? Towards coherent design choices for scenarios exploring policy‐relevant questions",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.70388?af=R",
+      "summary": "People and Nature, EarlyView.",
+      "journal": "People and Nature",
+      "published": "2026-07-11T04:27:46-07:00",
+      "doi": "10.1002/pan3.70388",
+      "affiliation": "UK Centre for Ecology &amp; Hydrology  Lancaster UK; British Trust for Ornithology (BTO)  Norfolk UK; UK Centre for Ecology &amp; Hydrology  Oxfordshire UK",
+      "title_zh": "哪种生物多样性未来？探索政策相关问题的情景设计选择",
+      "relevance_score": 4,
+      "key_conclusion": "文章探讨了不同情景设计选择如何影响生物多样性未来的预测，强调了在情景构建中做出连贯设计选择对政策相关性的重要性。",
+      "relevance_note": "涉及生物多样性-生态系统功能关系（BEF）情景预测，与您（4）相关，且为综述/观点类文章，但未直接涉及动物介导或碳循环。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "不同的情景设计选择（如时间框架、空间尺度、驱动因素设定等）如何影响生物多样性未来预测的结果，以及如何做出连贯的设计选择以更好地服务于政策相关性问题？",
+      "contributions_limitations": "主要贡献在于系统性地审视了情景设计过程中的关键选择点，并强调了设计连贯性对于提高情景科学在生物多样性政策中实用性的重要性。局限性可能在于该文为方法论与概念性探讨，缺乏对具体生态系统的实证检验；基于现有信息推测，建议查看原文以了解其具体的分析框架。",
+      "follow_up_research": "可以针对重野化情景设计，基于该文提出的连贯性设计框架，开发专门用于预测大型食草动物恢复对土壤碳循环影响的情景集合。此外，可以探索将生物多样性与碳循环目标在情景设计中进行整合的方法，以评估不同重野化路径下的协同与权衡。",
+      "next_step_perspective": "该文章提供了一个系统性框架，帮助你设计更严谨、更具政策相关性的重野化情景研究。你可以借鉴其设计思路，确保在评估不同放牧强度或动物组成对碳循环影响时，能够清晰界定情景的时空尺度、关键假设和不确定性来源，从而提升研究的科学价值和政策指导力。",
+      "why_this_journal": "People and Nature 期刊关注人与自然耦合系统，强调研究的跨学科性和社会相关性。该文章聚焦于生物多样性情景的设计如何影响政策决策，符合该期刊连接生态学与社会科学、服务环境治理的定位。推测其价值在于提出了一个实践导向的理论框架。",
+      "author_profile": {
+        "name": "Anita Lazurko",
+        "institution": null,
+        "intro": "Anita Lazurko 目前所在机构未明确，但根据其历史作品（如'Co-creation and evaluation of transformative biodiversity-centric pathways for Europe'），她专注于交叉领域研究，涉及生物多样性、气候、食物、能源等系统的耦合分析以及变革性路径的共同创造。这些研究与你的方向（重野化对碳循环的影响）在系统思维和情景设计方法上具有关联性，但其研究更侧重于宏观政策与系统性转型，而非具体的生态过程。",
+        "other_works": [
+          {
+            "title": "Which biodiversity futures? Towards coherent design choices for scenarios exploring policy‐relevant questions",
+            "year": "2026",
+            "journal": "People and Nature",
+            "doi": "10.1002/pan3.70388"
+          },
+          {
+            "title": "A multi-model nexus framework for assessment of the systemic impacts and efficacy of nature-positive transformative pathways",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/wbf2026-262"
+          },
+          {
+            "title": "Co-creation and evaluation of transformative biodiversity-centric pathways for Europe: Opportunities and tensions in combining qualitative and quantitative data using a nexus approach",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/wbf2026-289"
+          },
+          {
+            "title": "Moving from conventional to experiential and creative futures: methodological reflection on pathway co-creation  ",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/wbf2026-387"
+          },
+          {
+            "title": "Understanding the role of biodiversity in the climate, food, water, energy, transport and health nexus and enhancing cross-sectoral policy coherence through evidence synthesis in Europe",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/wbf2026-737"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002607",
+      "title": "An unsupervised machine learning approach for enhancing forest structure estimation in uneven-aged stands",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026002607?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Ecological Modelling, Volume 521Author(s): I.L. Lozano, F. Minunno, R. Srinet, J. Holder, A. Mäkelä",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "一种用于提高异龄林林分结构估计的无监督机器学习方法",
+      "relevance_score": 4,
+      "key_conclusion": "应用无监督机器学习方法，提高了对异龄林森林结构（如树高、密度等）的估计精度。",
+      "relevance_note": "涉及森林结构估计方法，与您（5）中DGVM/生态系统模型改进有微弱关联，但不涉及碳循环或食草动物。",
+      "related_papers": [
+        {
+          "title": "A review of machine learning applications in wildfire science and management",
+          "link": "https://doi.org/10.1139/er-2020-0019",
+          "venue": "Environmental Reviews",
+          "year": 2020
+        },
+        {
+          "title": "Machine Learning-Based Predictive Models for Detection of Cardiovascular Diseases",
+          "link": "https://doi.org/10.3390/diagnostics14020144",
+          "venue": "Diagnostics",
+          "year": 2024
+        },
+        {
+          "title": "Evaluation of Machine Learning Approaches for Precision Farming in Smart Agriculture System: A Comprehensive Review",
+          "link": "https://doi.org/10.1109/access.2024.3390581",
+          "venue": "IEEE Access",
+          "year": 2024
+        },
+        {
+          "title": "Urban resilience and livability performance of European smart cities: A novel machine learning approach",
+          "link": "https://doi.org/10.1016/j.jclepro.2022.134203",
+          "venue": "Journal of Cleaner Production",
+          "year": 2022
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何利用无监督机器学习方法提高对异龄林森林结构（如树高、密度）的估计精度，以改进生态模型对现实复杂林分的模拟能力？",
+      "contributions_limitations": "主要贡献在于提出了一种新的机器学习方法，能够从遥感或样地数据中更准确地提取异龄林的结构参数，这对于提升森林碳循环模型的输入数据质量有潜在价值。局限性在于该方法目前仅针对森林，且对数据质量可能有较高要求；此外，摘要信息不足，无法评估其验证范围和鲁棒性，建议查看原文。",
+      "follow_up_research": "可以将该方法应用于评估重野化后树木密度和高度结构的变化，从而更精确地量化植被恢复对碳储量的影响。后续研究可以探索该机器学习框架是否能够迁移到草原或灌丛生态系统中，以服务于食草动物重野化情景下的植被结构动态模拟。",
+      "next_step_perspective": "该文章为你提供了一个新的技术工具视角：无监督机器学习对于从复杂生态系统中提取关键结构参数非常有效。在你的研究中，可以借鉴这种方法来更准确地估算放牧梯度上或重野化区域内的植被三维结构（如树高异质性、冠层密度），这些参数是计算地上和地下生物量碳输入的关键。",
+      "why_this_journal": "Ecological Modelling 是生态模型与计算方法的核心期刊。该文章的发表是因为它提出了一种创新的、可用于改进生态模型输入数据质量的技术方法，对森林生态系统的建模精度有直接贡献，符合该期刊注重方法学创新的定位。此为推测。",
+      "author_profile": null
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70356?af=R",
+      "title": "Elevating the importance of Risk of Bias assessment for ecology and evolutionary biology",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70356?af=R",
+      "summary": "Methods in Ecology and Evolution, EarlyView.",
+      "journal": "Methods in Ecology and Evolution",
+      "published": "2026-07-13T06:40:01-07:00",
+      "doi": "10.1111/2041-210x.70356",
+      "affiliation": "Ruder Boskovic Institute  Zagreb Croatia; Centre for Ecology and Conservation University of Exeter  Cornwall UK; Knowledge Synthesis Department Norwegian Institute for Nature Research (NINA)  Trondheim Norway",
+      "title_zh": "提升生态学与进化生物学中偏倚风险评估的重要性",
+      "relevance_score": 4,
+      "key_conclusion": "该文章强调在生态学和进化生物学研究中系统评估偏倚风险的至关重要性和必要性。",
+      "relevance_note": "文章是关于研究方法学的评论，虽不直接涉及碳循环，但风险偏倚评估对于任何生态学研究（包括用户关注的BEF、重野化效应）都至关重要，具有一定的通用参考价值。",
+      "related_papers": [
+        {
+          "title": "A roadmap for urban evolutionary ecology",
+          "link": "https://doi.org/10.1111/eva.12734",
+          "venue": "Evolutionary Applications",
+          "year": 2018
+        },
+        {
+          "title": "Climate change vulnerability assessment of species",
+          "link": "https://doi.org/10.1002/wcc.551",
+          "venue": "Wiley Interdisciplinary Reviews Climate Change",
+          "year": 2018
+        },
+        {
+          "title": "Evolution and behavioural responses to human‐induced rapid environmental change",
+          "link": "https://doi.org/10.1111/j.1752-4571.2010.00166.x",
+          "venue": "Evolutionary Applications",
+          "year": 2011
+        },
+        {
+          "title": "Model averaging in ecology: a review of Bayesian, information‐theoretic, and tactical approaches for predictive inference",
+          "link": "https://doi.org/10.1002/ecm.1309",
+          "venue": "Ecological Monographs",
+          "year": 2018
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "为什么在生态学和进化生物学的研究中，系统性地评估偏倚风险（Risk of Bias）是至关重要的？该领域应当如何提升对偏倚风险评估的重视程度？",
+      "contributions_limitations": "主要贡献在于唤起领域内对研究结果稳健性问题的关注，倡导在生态学和进化生物学中采用更加标准化的偏倚风险评估流程，提升综合研究（如Meta分析）的可靠性。局限性在于主要是观点性和倡导性文章，没有提供新的实证数据或具体操作指南；此外，摘要信息有限，具体建议可能需要阅读原文。",
+      "follow_up_research": "可以开发专门用于重野化研究（如不同放牧强度对土壤碳影响的实验）的偏倚风险评估工具，这有助于提高该领域Meta分析的证据等级。另一个方向是评估现有重野化-碳循环文献中偏倚风险的整体水平，识别方法论上的薄弱环节。",
+      "next_step_perspective": "在撰写关于食草动物重野化与土壤碳循环的综述或进行Meta分析时，该文章为你提供了一项重要的方法论警示：必须系统地评估所引用研究的内在偏倚风险（如样本大小、实验设计缺陷、发表偏倚）。这能提升你自身综述或合成研究的科学严谨性和可信度。",
+      "why_this_journal": "Methods in Ecology and Evolution 专注于生态学和进化生物学的方法学进展。该文章是一篇呼吁性评论，旨在推动领域内方法论标准的提高，这与该期刊的核心定位高度吻合。推测其被接收是因为其观点具有前瞻性和广泛的适用性。",
+      "author_profile": {
+        "name": "Antica Culina",
+        "institution": "Institut Ruđer Bošković",
+        "intro": "Antica Culina 目前所在机构为Institut Ruđer Bošković。从其历史作品来看，她主要研究鸟类生态学、数据管理（如SPI-Birds项目）、以及通过系统综述和Meta分析评估人类活动对生物的影响（如药物对淡水动物的影响）。她的研究强项在于研究合成方法论和数据的可重复性，这与你在重野化领域进行系统文献综述时的质量控制方法直接相关。",
+        "other_works": [
+          {
+            "title": "Elevating the importance of Risk of Bias assessment for ecology and evolutionary biology",
+            "year": "2026",
+            "journal": "Methods in Ecology and Evolution",
+            "doi": "10.1111/2041-210x.70356"
+          },
+          {
+            "title": "SPI-Birds Data Entry Software (SPI-BirDES): closing the FAIR data life cycle on the ecology of breeding birds",
+            "year": "2026",
+            "journal": "Zenodo",
+            "doi": "10.5281/zenodo.19207099"
+          },
+          {
+            "title": "Data and code for Vidić et al. 2026: Synthesis of Anthropogenic Impacts on Birds - Systematic Map and Bibliometric Analysis of Meta-Analyses",
+            "year": "2026",
+            "journal": "Zenodo",
+            "doi": "10.5281/zenodo.18768444"
+          },
+          {
+            "title": "Data and code for Tarandek et al. 2026: Fitness costs of environmentally relevant concentrations of pharmaceuticals and personal care products in freshwater fauna: a systematic review and meta-analysis",
+            "year": "2026",
+            "journal": "Zenodo",
+            "doi": "10.5281/zenodo.18671408"
+          },
+          {
+            "title": "When Digital Curation Meets Research Reality",
+            "year": "2026",
+            "journal": "Zenodo",
+            "doi": "10.5281/zenodo.19050248"
+          }
+        ]
+      }
     }
   ]
 }

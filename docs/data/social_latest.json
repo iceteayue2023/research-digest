@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-16T15:04:28.426788+00:00",
-  "count": 10,
+  "generated_at": "2026-07-16T20:58:55.792257+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Managing trade-offs between food production and conservation is even more difficult than usual at high altitudes, according to a study of the Tibetan Plateau—especially when extreme weather events are considered. In PNAS: https://ow.ly/z0N350Zo9ZN",
+      "created_at": "2026-07-16T19:00:30.188105647Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mqrwax5cgy2p",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Highly fragmented European wetlands with uneven restoration needs\n\ngo.nature.com/4538due",
+      "created_at": "2026-07-16T17:22:01.639Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mqrqqtutkl2g",
+      "external_title": "Highly fragmented European wetlands with uneven restoration needs - Nature",
+      "external_description": "Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.",
+      "external_uri": "https://go.nature.com/4538due",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiemeik7wopg33komoutzjqlvotfzz4h4pc5rbsisb3mbv4syjioda"
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Portfolio",
+      "text": "Dust concentrations increased consistently across much of Europe between 2012 and 2021, with some of the largest rises in southern Europe and the Mediterranean region, according to research in Nature. go.nature.com/44wcZjO 🌎🧪",
+      "created_at": "2026-07-15T22:15:01.208Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mqpqntfyfs24",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "David Grimm",
+      "text": "Deep in the lush forests of the Democratic Republic of the Congo lives a rare monkey that has long evaded scientists and even most local communities. Only few have witnessed the black, orange-mouthed primate quietly perching high in the canopy. Story by @yejnlheee.bsky.social for @science.org",
+      "created_at": "2026-07-15T20:18:07.250Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mqpk4senmk2c",
+      "external_title": "Mysterious orange-lipped monkey discovered deep in the Congo rainforest is a new species",
+      "external_description": "“Likweli” find highlights importance of conservation work, researchers say",
+      "external_uri": "https://www.science.org/content/article/mysterious-orange-lipped-monkey-discovered-deep-congo-rainforest-new-species",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hgexsteyfqqrlucbsvdysyak/bafkreicnvonmtlocxyde5msl4agrfvklzcweadlmxxfeniupc5p3fzbx3i"
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Geoscience",
+      "text": "⚒️ Article: Krypton and xenon in lunar farside soils are solar wind-derived and suggest deeper penetration because the solar wind is not slowed by Earth’s magnetosphere, unlike the nearside\n\nwww.nature.com/articles/s41...",
+      "created_at": "2026-07-15T15:00:05.622Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mqoye4plbk27",
+      "external_title": "Deeper solar wind penetration on the Moon’s farside from noble gas records - Nature Geoscience",
+      "external_description": "Krypton and xenon in lunar farside soils are derived from solar wind and suggest deeper penetration because the solar wind is not slowed by Earth’s magnetosphere. This contrasts with the nearside, acc...",
+      "external_uri": "https://www.nature.com/articles/s41561-026-02042-w?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreiclpvcjkozijd7t4taokgttbw2e4hu5usi6l362mgveuxv2f4lz5m"
+    },
     {
       "handle": "natclimate.nature.com",
       "author_name": "Copernicus ECMWF",
@@ -96,17 +151,6 @@
       "text": "🌍 #SDG 13: Climate Action\n\nA PNAS study finds that a new climate regime is restructuring the ecology of Canada's Northern Great Lakes, highlighting how peer-reviewed research can support progress toward the UN Sustainable Development Goals.\n\nRead the article: https://ow.ly/fFf250ZmIi4 ",
       "created_at": "2026-07-13T23:00:15.117984962Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3mqksav73fh2g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Opinion piece: #EnhancedRockWeathering removes #CO2 from the atmosphere. But does ERW really have more promise as a sustainable #farming practice than as a #CarbonDioxideRemoval technology? In PNAS Front Matter: https://ow.ly/ySg350ZmIgn",
-      "created_at": "2026-07-13T17:00:32.661317311Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mqk65ojca42g",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
