@@ -24,6 +24,15 @@ CONFIG_PATH = Path(__file__).resolve().parent / "config.yaml"
 
 DOI_RE = re.compile(r"10\.\d{4,9}/[^\s\"'<>]+")
 
+# 不带 User-Agent 的请求会被 Nature/Wiley 等站点的反爬机制拦截，
+# 返回的错误页不是合法XML，导致 feedparser 解析失败。
+HTTP_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/122.0 Safari/537.36"
+    )
+}
+
 
 def load_config():
     with open(CONFIG_PATH, "r", encoding="utf-8") as f:
@@ -71,7 +80,14 @@ def fetch_candidates(config):
     candidates = []
 
     for feed_cfg in config["feeds"]:
-        parsed = feedparser.parse(feed_cfg["url"])
+        try:
+            resp = requests.get(feed_cfg["url"], headers=HTTP_HEADERS, timeout=15)
+            resp.raise_for_status()
+            parsed = feedparser.parse(resp.content)
+        except requests.RequestException as e:
+            print(f"[warn] 无法获取 {feed_cfg['name']} 的RSS: {e}", file=sys.stderr)
+            continue
+
         if parsed.bozo and not parsed.entries:
             print(f"[warn] 无法解析 {feed_cfg['name']} 的RSS: {parsed.get('bozo_exception')}", file=sys.stderr)
             continue
