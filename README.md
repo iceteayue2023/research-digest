@@ -1,7 +1,7 @@
 # 科研文献日报
 
-每天自动抓取你关注的期刊（Nature / Science / Nature Climate Change / Nature Ecology & Evolution /
-Functional Ecology / Global Change Biology / Ecology Letters / PNAS），用 Claude 按你的研究方向
+每天自动抓取你关注的期刊（完整列表见 `scripts/config.yaml`，目前覆盖 Nature 系列、Science、PNAS、
+AGU/Copernicus 地球系统期刊、BES/Springer 生态学期刊等共24种），用 Claude 按你的研究方向
 （大型食草动物 rewilding 对土壤碳的影响）打分、筛选、生成中文摘要，并生成一个可以"添加到手机主屏幕"的
 网页 App。
 

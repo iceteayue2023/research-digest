@@ -15,29 +15,77 @@ keywords:
   - soil carbon
   - carbon sequestration
   - carbon cycle
+  - carbon cycling
   - trophic cascade
   - ecosystem restoration
   - grassland
   - land use change
+  - DGVM
+  - biogeochemical cycling
+  - zoogeochemistry
+  - animal feedback effect
+  - nutrient cycling
+  - terrestrial ecosystems
 
 # 关注期刊及其RSS/Atom地址
 feeds:
+  # --- 综合 ---
   - name: Nature
     url: https://www.nature.com/nature.rss
   - name: Science
     url: https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
+  - name: PNAS
+    url: https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas
   - name: Nature Climate Change
     url: https://www.nature.com/nclimate.rss
   - name: Nature Ecology & Evolution
     url: https://www.nature.com/natecolevol.rss
-  - name: Functional Ecology
-    url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=13652435&type=etoc&feed=rss
+  - name: Nature Sustainability
+    url: https://www.nature.com/natsustain.rss
+  - name: Nature Geoscience
+    url: https://www.nature.com/ngeo.rss
+  - name: Nature Plants
+    url: https://www.nature.com/nplants.rss
+
+  # --- 地球系统与全球变化 ---
   - name: Global Change Biology
     url: https://onlinelibrary.wiley.com/action/showFeed?jc=13652486&type=etoc&feed=rss
+  - name: JAMES
+    url: https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19422466&type=etoc&feed=rss
+  - name: Geoscientific Model Development
+    url: https://gmd.copernicus.org/xml/rss2_0.xml
+  - name: Earth System Dynamics
+    url: https://esd.copernicus.org/xml/rss2_0.xml
+  - name: Global Biogeochemical Cycles
+    url: https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19449224&type=etoc&feed=rss
+
+  # --- 生态学与生物地球化学 ---
+  - name: JGR Biogeosciences
+    url: https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21698961&type=etoc&feed=rss
+  - name: Biogeosciences
+    url: https://bg.copernicus.org/xml/rss2_0.xml
+  - name: Functional Ecology
+    url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=13652435&type=etoc&feed=rss
+  - name: Oecologia
+    url: https://link.springer.com/search.rss?query=&facet-journal-id=442&channel-name=Oecologia
+  - name: Journal of Ecology
+    url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=13652745&type=etoc&feed=rss
+  - name: Biogeochemistry
+    url: https://link.springer.com/search.rss?query=&facet-journal-id=10533
   - name: Ecology Letters
     url: https://onlinelibrary.wiley.com/action/showFeed?jc=14610248&type=etoc&feed=rss
-  - name: PNAS
-    url: https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas
+
+  # --- 食草动物与恢复生态学 ---
+  - name: Journal of Applied Ecology
+    url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=13652664&type=etoc&feed=rss
+  - name: Journal of Animal Ecology
+    url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=13652656&type=etoc&feed=rss
+
+  # --- 生态模型与软件 ---
+  - name: Ecological Modelling
+    url: https://rss.sciencedirect.com/publication/science/03043800
+  - name: Environmental Modelling & Software
+    url: https://rss.sciencedirect.com/publication/science/13648152
 
 # 相关性打分低于这个分数(0-10)的文章不会推送
 relevance_threshold: 6
