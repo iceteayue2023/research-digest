@@ -18,7 +18,16 @@ research_profile: >
   (6) 我对研究地点在欧洲的文章格外感兴趣（不限具体生态系统类型），如果文章的
   研究地点在欧洲，请在相关性说明里明确指出，并适当提高相关性分数；
   (7) rewilding领域的综述、观点、评论类文章，即使没有新实验数据也应给较高分数，
-  因为这类文章能帮我把握领域全局。
+  因为这类文章能帮我把握领域全局。综述类文章整体上我都偏好给较高分数；
+  (8) 生物间互作网络：植物-微生物互作（如叶际microbiome、植物病原体与气候极端
+  事件的关系）、植物-动物互作、微生物-动物互作，这些跨界面的互作关系我都感兴趣；
+  (9) 捕食者-猎物关系及其性状介导效应（predator-prey interactions, trait-mediated
+  effects），尤其是人类活动导致的性状变化如何重塑捕食者-猎物关系；
+  (10) 基于自然的解决方案(nature-based solutions)——我关注的角度是它在应对气候变化
+  中的作用与局限，包括其潜在的负面效应（如对生物入侵的影响）；
+  (11) 特别说明：如果文章发表在 Nature 或 Science 正刊上，只要主题涉及生态学、
+  生物多样性(biodiversity)或大型动物(large animals/megafauna)，即使和我的核心课题
+  没有直接关系，也请给较高的相关性分数（这两个期刊门槛高，能发表本身就有价值）。
 
 # 关键词（不区分大小写，可随时增删）
 keywords:
@@ -69,6 +78,19 @@ keywords:
   - tropical forest carbon
   - Europe
   - European
+  - plant-microbe interaction
+  - phyllosphere
+  - plant pathogen
+  - plant microbiome
+  - climate extremes
+  - plant-animal interaction
+  - microbe-animal interaction
+  - predator-prey
+  - trait-mediated
+  - nature-based solutions
+  - biological invasion
+  - biodiversity
+  - large animals
 
 # 关注期刊及其RSS/Atom地址
 feeds:
@@ -89,6 +111,18 @@ feeds:
     url: https://www.nature.com/ngeo.rss
   - name: Nature Plants
     url: https://www.nature.com/nplants.rss
+  - name: Nature Reviews Microbiology
+    url: https://www.nature.com/nrmicro.rss
+  - name: Nature Reviews Earth & Environment
+    url: https://www.nature.com/natrevearthenviron.rss
+  - name: Trends in Ecology and Evolution
+    url: https://www.cell.com/trends/ecology-evolution/inpress.rss
+  - name: One Earth
+    url: https://www.cell.com/one-earth/inpress.rss
+  - name: Earths Future
+    url: https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=23284277&type=etoc&feed=rss
+  - name: The ISME Journal
+    url: https://www.nature.com/ismej.rss
 
   # --- 地球系统与全球变化 ---
   - name: Global Change Biology
