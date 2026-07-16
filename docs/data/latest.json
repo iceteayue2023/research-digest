@@ -1,6 +1,390 @@
 {
   "date": "2026-07-16",
-  "generated_at": "2026-07-16T13:46:12.620461+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-07-16T14:43:20.318537+00:00",
+  "count": 8,
+  "articles": [
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002437",
+      "title": "me4soc: a multi-model ensemble interface for soil organic carbon predictions",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026002437?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Ecological Modelling, Volume 521Author(s): Elisa Bruni, Aleksi Lehtonen, Shoji Hashimoto, Boris Ťupek, Nasser Bacha, Daniel Bunker, Illian Brasselet-Darracq, Dalia Fages-Gouyou, Yanis Hemeray, Christopher P.O. Reyer, Carlos A. Sierra, Bertrand Guenet",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "me4soc：用于土壤有机碳预测的多模型集成接口",
+      "relevance_score": 9,
+      "key_conclusion": "该研究开发了一个名为me4soc的多模型集成框架，用于更准确地预测不同生态系统和情景下的土壤有机碳动态。",
+      "relevance_note": "该文章提供的工具和方法直接用于预测土壤有机碳，与用户研究重野化对土壤有机碳影响的核心目标高度匹配。",
+      "related_papers": [],
+      "scientific_question": "如何整合多个土壤有机碳模型，构建一个统一的多模型集成框架（me4soc），以提高不同生态系统和情景下土壤有机碳动态的预测准确性？",
+      "contributions_limitations": "贡献是开发了me4soc多模型集成框架，为土壤有机碳预测提供了更稳健的工具。局限性：基于摘要信息无法评估，例如框架对数据要求、模型选择偏差、计算效率等；建议查看原文了解具体方法和验证范围。",
+      "follow_up_research": "可探索将me4soc框架应用于大型食草动物重野化场景，整合放牧、植被变化对土壤有机碳影响的模型。也可基于该框架开发针对重野化区域的模块，纳入动物排泄物、踩踏等过程。",
+      "next_step_perspective": "该框架为预测重野化后土壤有机碳长期动态提供了方法论基础。用户可尝试将me4soc应用于自己研究区域的碳循环模拟，评估不同食草动物组合对碳汇功能的影响。",
+      "why_this_journal": "（推测）Ecological Modelling专注于生态学模型的开发与验证，me4soc作为多模型集成方法工具，具有方法学新颖性和实用价值，符合该期刊定位。",
+      "author_profile": null
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70405?af=R",
+      "title": "Bridging the divide between models of animal‐driven and microbial‐driven biogeochemical cycling: A zoogeochemistry‐informed framework",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70405?af=R",
+      "summary": "Functional Ecology, EarlyView.",
+      "journal": "Functional Ecology",
+      "published": "2026-07-14T00:31:09-07:00",
+      "doi": "10.1111/1365-2435.70405",
+      "affiliation": "School of the Environment, Yale University  New Haven Connecticut USA",
+      "title_zh": "弥合动物驱动和微生物驱动的生物地球化学循环模型之间的鸿沟：一个基于动物地球化学的框架",
+      "relevance_score": 8,
+      "key_conclusion": "该文提出了一个整合动物和微生物作用的新框架，以更好地理解生物地球化学循环，特别是动物如何通过取食、排泄等行为影响养分和碳循环。",
+      "relevance_note": "直接涉及大型动物（食草动物）驱动的生物地球化学循环（包括碳循环），与用户关于大型食草动物重野化对碳循环影响的研究高度相关，提供了理论框架。",
+      "related_papers": [
+        {
+          "title": "Data from: Bridging the divide between models of animal-driven and microbial-driven biogeochemical cycling: a zoogeochemistry-informed framework",
+          "link": "https://doi.org/10.5061/dryad.k3j9kd5r4",
+          "venue": "DRYAD",
+          "year": 2026
+        },
+        {
+          "title": "Food Webs and Ecosystems: Linking Species Interactions to the Carbon Cycle",
+          "link": "https://doi.org/10.1146/annurev-ecolsys-011720-104730",
+          "venue": "Annual Review of Ecology Evolution and Systematics",
+          "year": 2020
+        },
+        {
+          "title": "Exploring the multi-scale ecological consequences of stoichiometric imbalance using an agent-based modeling approach",
+          "link": "https://doi.org/10.3389/fevo.2025.1505145",
+          "venue": "Frontiers in Ecology and Evolution",
+          "year": 2025
+        },
+        {
+          "title": "Optical remote spectral acquisition of elemental stoichiometry",
+          "link": "https://doi.org/10.3389/fevo.2024.1505125",
+          "venue": "Frontiers in Ecology and Evolution",
+          "year": 2024
+        }
+      ],
+      "scientific_question": "如何构建一个整合动物驱动和微生物驱动的生物地球化学循环模型框架，更全面地理解动物（尤其是大型食草动物）如何通过取食、排泄等行为影响养分和碳循环？",
+      "contributions_limitations": "贡献是提出了一个动物地球化学信息学框架，弥补了传统模型只关注微生物而忽略动物作用的不足。局限性：基于推测，框架的理论性较强，可能缺乏实证参数；对大型食草动物的具体贡献量化可能需进一步验证。",
+      "follow_up_research": "可基于该框架，在重野化区域收集大型食草动物密度、取食压力、排泄时空分布等数据，建立动物-微生物耦合的碳循环模型。未来可对比不同重野化策略下（如高密度vs低密度）的动物驱动效应。",
+      "next_step_perspective": "该框架直接为用户提供了理论工具，可解释大型食草动物如何通过粪便输入、土壤扰动等影响微生物活动与有机碳稳定性。用户可参考其动物-微生物耦合思路，设计实验变量（如放牧梯度×微生物活性）并改进监测方案。",
+      "why_this_journal": "（推测）Functional Ecology关注生态功能机制，该文从功能生态学角度整合动物与微生物的生物地球化学作用，具有跨学科创新性和机制解释力。",
+      "author_profile": {
+        "name": "Janey R. Lienau",
+        "institution": "Yale University",
+        "intro": "Janey R. Lienau目前在耶鲁大学工作。其研究历史包括动物介导的陆地异质性理论框架、地下生态恢复、甲虫营养级相互作用等，显示出对动物行为如何塑造生态系统的深厚兴趣，这与用户研究大型食草动物对土壤碳循环的介导影响高度相关。",
+        "other_works": [
+          {
+            "title": "Bridging the divide between models of animal‐driven and microbial‐driven biogeochemical cycling: A zoogeochemistry‐informed framework",
+            "year": "2026",
+            "journal": "Functional Ecology",
+            "doi": "10.1111/1365-2435.70405"
+          },
+          {
+            "title": "Of all shapes and sizes: a theoretical framework for animal‐mediated terrestrial heterogeneity across scales",
+            "year": "2025",
+            "journal": "Ecography",
+            "doi": "10.1002/ecog.08006"
+          },
+          {
+            "title": "Integrating belowground recovery into tropical forest restoration design and monitoring",
+            "year": "2025",
+            "journal": "BioScience",
+            "doi": "10.1093/biosci/biaf097"
+          },
+          {
+            "title": "Ground beetle trophic interactions alter available nitrogen in forest soil",
+            "year": "2025",
+            "journal": "Oikos",
+            "doi": "10.1111/oik.10638"
+          },
+          {
+            "title": "Functional traits of predators and decomposer prey determine context dependency in trophic control over ecosystems",
+            "year": "2024",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.14091"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1007/s10533-026-01355-7",
+      "title": "Precipitation overrides warming with additive effects on greenhouse gas fluxes in an alpine meadow",
+      "link": "https://link.springer.com/article/10.1007/s10533-026-01355-7",
+      "summary": "Ecosystem greenhouse gas (GHG) fluxes are strongly regulated by climate change, particularly global warming and precipitation changes. However, their combined effects on carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O) fluxes in alpine meadows remain unknown. Therefore, a two-factor experiment with six treatments: control (CK), decreased precipitation by 50% (0.5P), increased precipitation by 50% (1.5P), decreased precipitation by 50% and warming (0.5PW), warming (W), increased precipitation by 50% and warming (1.5PW) was adopted for the alpine meadow. Our two-year observations revealed that warming significantly enhanced the cumulative CH4 uptake while showing no significant effects on ecosystem respiration (ER) or N2O fluxes. Precipitation changes markedly influenced ER and cumulative CH4 fluxes: increased precipitation enhanced ER while decreased precipitation reduced it, whereas CH4 flux responses depended strongly on inherent soil moisture conditions. Neither warming nor precipitation changes significantly influenced N2O fluxes. Soil moisture was significantly correlated with all GHG fluxes, including ER, indicating its crucial role in regulating emissions. Interactive effects between precipitation changes and warming generally exhibited additive patterns across the three GHGs, except for the combination of increased precipitation and warming which demonstrated antagonistic effects on ER in 2024. While additive interactions suggest single-factor studies provi",
+      "journal": "Biogeochemistry",
+      "published": "2026-07-12T00:00:00+00:00",
+      "doi": "10.1007/s10533-026-01355-7",
+      "affiliation": null,
+      "title_zh": "在高寒草甸，降水变化对温室气体通量的影响超过增温，且两者效应呈加性",
+      "relevance_score": 8,
+      "key_conclusion": "研究发现增温显著增加了甲烷吸收，但对生态系统呼吸和氧化亚氮通量无显著影响；降水变化显著影响生态系统呼吸和甲烷通量。增温和降水变化对三种温室气体通量的交互作用总体上呈加性效应。土壤水分是调节所有温室气体通量的关键因素。",
+      "relevance_note": "文章直接研究了气候变化背景下高寒草甸的温室气体（CO2, CH4, N2O）通量，特别是土壤水分的关键作用，这与用户关注的“放牧强度”下土壤碳循环和温室气体排放高度相关，为理解食草动物通过影响土壤水分进而影响碳循环提供了重要背景。",
+      "related_papers": [
+        {
+          "title": "Soil Moisture but Not Warming Dominates Nitrous Oxide Emissions During Freeze–Thaw Cycles in a Qinghai–Tibetan Plateau Alpine Meadow With Discontinuous Permafrost",
+          "link": "https://doi.org/10.3389/fevo.2021.676027",
+          "venue": "Frontiers in Ecology and Evolution",
+          "year": 2021
+        },
+        {
+          "title": "Climate change impacts on groundwater and dependent ecosystems",
+          "link": "https://doi.org/10.1016/j.jhydrol.2013.06.037",
+          "venue": "Journal of Hydrology",
+          "year": 2013
+        }
+      ],
+      "scientific_question": "在青藏高原高寒草甸生态系统中，增温与降水变化（增减50%）如何单独及交互影响二氧化碳、甲烷和氧化亚氮等温室气体通量？",
+      "contributions_limitations": "贡献是揭示降水变化对生态系统呼吸和甲烷通量的主导作用，以及增温与降水交互作用主要为加性效应，强调土壤水分的关键调控角色。局限性：基于摘要，为两年观测试验，时间尺度较短；仅针对高寒草甸，外推到大型食草动物放牧或重野化场景需谨慎。",
+      "follow_up_research": "可在高寒草甸重野化区域开展类似双因素实验（增温×降水变化），同时引入食草动物放牧梯度，探究动物活动如何改变土壤水分-温室气体关系。未来可结合长期原位监测验证气候交互效应的稳定性。",
+      "next_step_perspective": "该研究强调了土壤水分作为温室气体通量关键驱动因子的作用，提示用户在重野化研究中需关注食草动物如何通过践踏、啃食改变土壤水分动态，从而间接影响碳循环。方法上，其双因素野外实验设计可为用户设计放牧×气候变化实验提供参考。",
+      "why_this_journal": "（推测）Biogeochemistry关注生物地球化学循环，该文系统解析气候因子对温室气体通量的多因子交互影响，方法严谨（两因素六处理），符合期刊对过程机制的研究偏好。",
+      "author_profile": {
+        "name": "Xiaoyan Song",
+        "institution": "Southwest Minzu University",
+        "intro": "Xiaoyan Song就职于西南民族大学。其历史论文关注降水、氮沉降、磷添加等因子对高寒草甸土壤碳、氮循环及微生物的影响，显示出对青藏高原生态系统碳-气候反馈的持续研究，与用户方向（高寒地区重野化对碳循环影响）有直接交集。",
+        "other_works": [
+          {
+            "title": "Variation of root traits and its influences on soil organic carbon stability in response to altered precipitation in an alpine meadow",
+            "year": "2024",
+            "journal": "Science of The Total Environment",
+            "doi": null
+          },
+          {
+            "title": "Precipitation affects soil nitrogen fixation by regulating active diazotrophs and nitrate nitrogen in an alpine grassland of Qinghai-Tibetan Plateau",
+            "year": "2024",
+            "journal": "Science of The Total Environment",
+            "doi": "10.1016/j.scitotenv.2024.170648"
+          },
+          {
+            "title": "Species Diversity and Stability of Dominant Species Dominate the Stability of Community Biomass in an Alpine Meadow Under Variable Precipitation",
+            "year": "2023",
+            "journal": "Ecosystems",
+            "doi": "10.1007/s10021-023-00842-4"
+          },
+          {
+            "title": "Effects of phosphorus application on soil phosphorus forms and phoD-harboring microbial communities in an alpine grassland on the Qinghai-Tibetan Plateau",
+            "year": "2023",
+            "journal": "Frontiers in Ecology and Evolution",
+            "doi": "10.3389/fevo.2023.1131408"
+          },
+          {
+            "title": "Soil moisture as a key factor in carbon release from thawing permafrost in a boreal forest",
+            "year": "2020",
+            "journal": "Geoderma",
+            "doi": "10.1016/j.geoderma.2019.113975"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02064-4",
+      "title": "Publisher Correction: Limited energy for microorganisms constrains carbon accrual in soil",
+      "link": "https://www.nature.com/articles/s41561-026-02064-4",
+      "summary": "Nature Geoscience, Published online: 13 July 2026; doi:10.1038/s41561-026-02064-4Publisher Correction: Limited energy for microorganisms constrains carbon accrual in soil",
+      "journal": "Nature Geoscience",
+      "published": "2026-07-13T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02064-4",
+      "affiliation": null,
+      "title_zh": "出版者更正：微生物能量有限限制了土壤碳积累",
+      "relevance_score": 7,
+      "key_conclusion": "这是一篇出版者更正，原始文章的核心结论是微生物可利用的能量限制了土壤中有机碳的积累。",
+      "relevance_note": "文章核心涉及微生物能量限制与土壤碳积累，虽然与放牧和重野化无直接关系，但微生物限制是影响土壤碳循环的关键机制，对理解生态系统碳恢复有潜在启示。",
+      "related_papers": [
+        {
+          "title": "An initial intercomparison of micrometeorological and ecological inventory estimates of carbon exchange in a mid‐latitude deciduous forest",
+          "link": "https://doi.org/10.1046/j.1365-2486.2002.00492.x",
+          "venue": "Global Change Biology",
+          "year": 2002
+        },
+        {
+          "title": "Land use-land cover gradient demonstrates the importance of perennial grasslands with intact soils for building soil carbon in the fertile Mollisols of the North Central US",
+          "link": "https://doi.org/10.1016/j.geoderma.2022.115854",
+          "venue": "Geoderma",
+          "year": 2022
+        },
+        {
+          "title": "Process-Based Modeling of Forest Soil Carbon Dynamics",
+          "link": "https://doi.org/10.3390/f16101579",
+          "venue": "Forests",
+          "year": 2025
+        },
+        {
+          "title": "Hydrochemistry and energy storage in aquifers",
+          "link": "",
+          "venue": "TNO Repository",
+          "year": 1990
+        }
+      ],
+      "scientific_question": "基于现有信息不足，原始文章‘Limited energy for microorganisms constrains carbon accrual in soil’试图回答的核心问题是：微生物可利用的能量限制如何影响土壤有机碳的积累？",
+      "contributions_limitations": "基于现有信息不足，贡献和局限性均无法评估。该条目是出版者更正，原始文章结论被提及但具体数据和方法未知，建议查看原始文章。",
+      "follow_up_research": "基于结论，可探索在重野化背景下，大型食草动物的排泄物输入是否能为微生物提供额外能量，缓解能量限制从而促进有机碳积累。未来研究可对比不同重野化强度下微生物能量限制与碳库变化的关系。",
+      "next_step_perspective": "该结论暗示微生物能量限制是碳积累瓶颈，用户在研究大型食草动物重野化时，应关注动物排泄物（富含易利用有机碳）如何改变微生物能量状态，进而影响有机碳固持效率。这为解释‘重野化是否增加碳汇’提供了机制视角。",
+      "why_this_journal": "（推测）Nature Geoscience发表具有重大跨学科意义的地球科学发现。原始文章揭示微生物能量限制对碳存储的约束，颠覆传统认知，具有理论新颖性和全球碳循环启示。",
+      "author_profile": null
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70401?af=R",
+      "title": "Above‐ground and below‐ground productivity shows divergent compensatory responses to grazing in an alpine grassland",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70401?af=R",
+      "summary": "Journal of Ecology, Volume 114, Issue 7, July 2026.",
+      "journal": "Journal of Ecology",
+      "published": "2026-07-14T00:28:46-07:00",
+      "doi": "10.1111/1365-2745.70401",
+      "affiliation": "State Key Laboratory of Herbage Improvement and Grassland Agro‐Ecosystems, College of Pastoral Agriculture Science and Technology Lanzhou University  Lanzhou China; State Key Laboratory of Herbage Improvement and Grassland Agro‐Ecosystems, College of Ecology Lanzhou University  Lanzhou China; College of Urban and Environmental Sciences, and Key Laboratory for Earth Surface Processes of the Ministry of Education Institute of Ecology, Peking University  Beijing China",
+      "title_zh": "高寒草地上空与地下生产力对放牧表现出补偿性响应差异",
+      "relevance_score": 7,
+      "key_conclusion": "研究发现高寒草地的地上和地下生产力对放牧（Grazing）呈现出不同的补偿性响应模式。这表明放牧对生态系统不同组成部分的影响具有复杂性。",
+      "relevance_note": "文章直接研究放牧对草地地上和地下生产力的影响，这与用户涉及的“放牧强度”、“植被-土壤反馈”以及“生态系统功能恢复”高度相关，是理解食草动物影响碳循环的关键中间变量。",
+      "related_papers": [
+        {
+          "title": "Long-Term Grazing Exclusion Reduces Species Diversity but Increases Community Heterogeneity in an Alpine Grassland",
+          "link": "https://doi.org/10.3389/fevo.2020.00066",
+          "venue": "Frontiers in Ecology and Evolution",
+          "year": 2020
+        },
+        {
+          "title": "Temporal Variability of Precipitation and Biomass of Alpine Grasslands on the Northern Tibetan Plateau",
+          "link": "https://doi.org/10.3390/rs11030360",
+          "venue": "Remote Sensing",
+          "year": 2019
+        },
+        {
+          "title": "Different sensitivity and threshold in response to nitrogen addition in four alpine grasslands along a precipitation transect on the Northern Tibetan Plateau",
+          "link": "https://doi.org/10.1002/ece3.5514",
+          "venue": "Ecology and Evolution",
+          "year": 2019
+        },
+        {
+          "title": "Non‐linear response of productivity to precipitation extremes in the Inner Mongolia grassland",
+          "link": "https://doi.org/10.1111/1365-2435.14328",
+          "venue": "Functional Ecology",
+          "year": 2023
+        }
+      ],
+      "scientific_question": "高寒草地地上与地下生产力对放牧的补偿性响应模式是否存在差异，以及这种差异如何体现放牧对生态系统不同组分的复杂性影响？",
+      "contributions_limitations": "主要贡献在于揭示了地上与地下生产力对放牧的补偿性响应的非同步性，为理解放牧强度对植被-土壤反馈的复杂影响提供了新视角。但摘要信息不足，无法判断其是否探讨了放牧强度梯度或对土壤有机碳的具体影响，这些可能需要查阅原文。",
+      "follow_up_research": "可进一步探究这种地上与地下补偿性响应如何影响土壤有机碳的输入（如根系分泌物与凋落物比例）和稳定性。还可以结合放牧历史，分析这种补偿效应在重野化初期是否会出现不同的演变模式。",
+      "next_step_perspective": "本研究直接探讨了放牧对植被地上与地下部分的差异化影响，这与大型食草动物重野化中放牧（或模拟放牧）作为关键工具的思路高度契合。用户可以借鉴其区分地上与地下响应的分析方法，来评估重野化后食草动物活动如何通过改变植物碳分配影响土壤有机碳库。",
+      "why_this_journal": "基于现有信息推测：该研究发表在Journal of Ecology，因其关注放牧这一生态干扰对地上-地下生物量分配这一基础生态过程的非对称影响，具有较高的机制新颖性和理论深度，符合该期刊对群落与生态系统过程机制的追求。",
+      "author_profile": {
+        "name": "Hongbiao Zi",
+        "institution": "Lanzhou University",
+        "intro": "作者Zi Hongbiao来自兰州大学。从论文标题看，其研究方向聚焦于高寒草地生态系统对放牧的响应，尤其关注地上与地下生产力的动态。这与用户的重野化研究方向有关联，因为放牧（包括模拟放牧）是影响重野化过程中植被-土壤反馈和土壤碳循环的核心因子。",
+        "other_works": []
+      }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002565",
+      "title": "Allocating grassland resources to wildlife: A simulation approach to balance sheep production with guanaco (<em>Lama guanicoe</em>) conservation in semi-arid Patagonia",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026002565?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Ecological Modelling, Volume 521Author(s): Brenda J. Hanley, Jennifer A. Grauer, Jorge E. Rabinovich",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "将草原资源分配给野生动物：平衡半干旱巴塔哥尼亚地区绵羊生产与原驼保护的模拟方法",
+      "relevance_score": 7,
+      "key_conclusion": "模拟表明，通过调整放牧管理，可以在维持绵羊生产的同时，为原驼等大型食草动物提供足够的草原资源，实现保护与生产的平衡。",
+      "relevance_note": "该文章直接涉及大型食草动物（原驼）的放牧管理与资源分配，与重野化概念和放牧强度对生态系统影响的研究主题高度相关。",
+      "related_papers": [],
+      "scientific_question": "在巴塔哥尼亚半干旱草原，如何通过资源分配模拟来平衡绵羊生产与原驼等大型食草动物的保护？",
+      "contributions_limitations": "主要贡献在于开发了一个模拟框架，展示在现有放牧管理下可优化资源以兼顾生产与保护。但摘要未提供模型的具体参数或验证结果，其在不同生态系统（如用户研究的高寒或温带草原）的适用性尚不明确，这是可能的局限性。",
+      "follow_up_research": "可以评估该模拟框架在用户关注的重野化情景中的适用性，例如研究引入大型食草动物后，如何调整放牧强度以最大化土壤有机碳积累，同时维持生态系统功能。",
+      "next_step_perspective": "这篇文章为用户的研究提供了一个方法学启发：使用模拟模型来探索重野化情景下资源分配（如草原资源在牛羊畜牧与原驼等野生动物间的配置）对土壤碳循环的整体影响。用户可以借鉴其多目标平衡（生产 vs 保护）的建模思路，来设计自己的研究。",
+      "why_this_journal": "基于现有信息推测：Ecological Modelling 期刊发表此文，是因为其采用了模拟方法来解决保护与生产的冲突这一应用生态学核心问题，具有方法学创新性和现实的保护管理意义。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S1364815226002367",
+      "title": "Coupling process-based models with machine learning for the prediction of soil carbon and nitrogen cycling",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1364815226002367?dgcid=rss_sd_all",
+      "summary": "Publication date: September 2026Source: Environmental Modelling & Software, Volume 204Author(s): Xiang Zhang, Liman Wei, Changming Yang, Tian Li, Qixing Zhou",
+      "journal": "Environmental Modelling & Software",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "耦合过程模型与机器学习预测土壤碳氮循环",
+      "relevance_score": 7,
+      "key_conclusion": "该研究提出了一种将过程模型与机器学习相结合的方法，显著提高了对土壤有机碳和氮循环动态的预测精度，尤其是在数据有限条件下。",
+      "relevance_note": "直接关注土壤碳氮循环的模拟方法，虽未特指食草动物，但其耦合模型可为评估重野化对土壤碳的影响提供方法论支持，具有一定参考价值。",
+      "related_papers": [
+        {
+          "title": "Global Carbon Budget 2020",
+          "link": "https://doi.org/10.5194/essd-12-3269-2020",
+          "venue": "Earth system science data",
+          "year": 2020
+        },
+        {
+          "title": "Life and death in the soil microbiome: how ecological processes influence biogeochemistry",
+          "link": "https://doi.org/10.1038/s41579-022-00695-z",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2022
+        },
+        {
+          "title": "Modeling Soil Processes: Review, Key Challenges, and New Perspectives",
+          "link": "https://doi.org/10.2136/vzj2015.09.0131",
+          "venue": "Vadose Zone Journal",
+          "year": 2016
+        },
+        {
+          "title": "How to measure, report and verify soil carbon change to realize the potential of soil carbon sequestration for atmospheric greenhouse gas removal",
+          "link": "https://doi.org/10.1111/gcb.14815",
+          "venue": "Global Change Biology",
+          "year": 2019
+        }
+      ],
+      "scientific_question": "如何将过程模型与机器学习相结合，以提高数据有限条件下土壤碳氮循环动态的预测精度？",
+      "contributions_limitations": "主要贡献是提出并验证了一种混合建模方法，显著提升了土壤碳氮动态的预测能力，尤其是在数据稀疏情况下。摘要未说明该方法在大型食草动物干扰情景下（如重野化）的性能，这是潜在的局限性。",
+      "follow_up_research": "用户可以直接应用或调整本文中的混合建模方法，以预测重野化后（如引入大型食草动物）的土壤有机碳变化。值得探索的是，该模型是否能整合放牧强度、植被反馈等关键过程。",
+      "next_step_perspective": "这篇方法学文章为用户的研究提供了强有力的工具支持。用户原本关注的重野化对土壤碳循环的影响中，常面临数据不足的问题，本文的混合模型正好提供了解决方案。具体而言，用户可以利用过程模型捕捉生态机制，用机器学习拟合数据模式，从而更准确地预测碳动态。",
+      "why_this_journal": "基于现有信息推测：Environmental Modelling & Software 发表此文，是因为其提出了一种新的模型耦合范式（过程-数据驱动），具有显著的方法学创新和广泛的应用潜力，符合该期刊对先进建模技术的偏好。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002620",
+      "title": "The role of connectivity in understanding grassland-shrubland regime shifts: Impacts of aridity, grazing and wind dynamics",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026002620?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Ecological Modelling, Volume 521Author(s): Shubham Tiwari, Laura Turnbull, John Wainwright",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "连通性在理解草地-灌木地稳态转换中的作用：干旱、放牧和风动力学的影响",
+      "relevance_score": 6,
+      "key_conclusion": "研究表明，景观连通性、干旱梯度、放牧压力和风动力学共同决定了草地-灌木地的稳态转换阈值和轨迹。",
+      "relevance_note": "该文章涉及放牧和干旱对植被转换的影响，这与大型食草动物重野化中的放牧强度和植被-土壤反馈有关，但未直接探讨有机碳。",
+      "related_papers": [
+        {
+          "title": "The Grassland–Shrubland Regime Shift in the Southwestern United States: Misconceptions and Their Implications for Management",
+          "link": "https://doi.org/10.1093/biosci/biy065",
+          "venue": "BioScience",
+          "year": 2018
+        },
+        {
+          "title": "The impacts of increasing drought on forest dynamics, structure, and biodiversity in the United States",
+          "link": "https://doi.org/10.1111/gcb.13160",
+          "venue": "Global Change Biology",
+          "year": 2016
+        },
+        {
+          "title": "Disentangling Complex Landscapes: New Insights into Arid and Semiarid System Dynamics",
+          "link": "https://doi.org/10.1641/0006-3568(2006)56[491:dclnii]2.0.co;2",
+          "venue": "BioScience",
+          "year": 2006
+        },
+        {
+          "title": "Global assessment of nitrogen deposition effects on terrestrial plant diversity: a synthesis",
+          "link": "https://doi.org/10.1890/08-1140.1",
+          "venue": "Ecological Applications",
+          "year": 2010
+        }
+      ],
+      "scientific_question": "景观连通性、干旱梯度、放牧压力和风动力学如何共同影响草地-灌木地的稳态转换阈值与轨迹？",
+      "contributions_limitations": "主要贡献在于系统性地考虑了多因素（连通性、干旱、放牧、风）的交互作用对草地-灌木地稳态转换的影响。但摘要未明确这四种因素的相对重要性排序，也未能给出在不同初始条件下的具体阈值，这些内容需要阅读全文。",
+      "follow_up_research": "可进一步探索重野化引入的大型食草动物（如通过践踏、采食改变连通性和风蚀风险）如何影响这种稳态转换。研究结果可用于指导重野化项目，避免引发非期望的灌木化。",
+      "next_step_perspective": "本研究直接影响用户的课题：大型食草动物的重野化可能改变植被结构（如促进或抑制灌木入侵），进而影响土壤有机碳的稳定性。用户可通过本文提供的连通性与放牧交互框架，来分析重野化会如何改变系统的恢复力，并预测其对碳循环的长期影响。",
+      "why_this_journal": "基于现有信息推测：Ecological Modelling 发表此文，是因为它整合了生态学、土壤风蚀和景观生态学多个领域的知识来构建模型，具有很强的跨学科性和对生态系统稳态机制的理解，符合期刊对复杂生态过程模拟的定位。",
+      "author_profile": null
+    }
+  ]
 }
