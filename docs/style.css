@@ -236,6 +236,41 @@ header h1 {
   color: var(--text-muted);
 }
 
+.sub-block {
+  margin-top: 14px;
+  padding-top: 12px;
+  border-top: 1px dashed var(--border);
+}
+
+.sub-title {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin: 0 0 6px;
+}
+
+.field-plain {
+  font-size: 0.88rem;
+  line-height: 1.55;
+  margin: 0 0 6px;
+}
+
+.ref-list {
+  margin: 0;
+  padding-left: 18px;
+  font-size: 0.85rem;
+  line-height: 1.7;
+}
+
+.ref-list a {
+  color: var(--text);
+}
+
+.ref-meta {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+}
+
 .loading, .empty {
   color: var(--text-muted);
   text-align: center;

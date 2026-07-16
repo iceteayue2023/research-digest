@@ -130,30 +130,160 @@ def fetch_candidates(config):
     return candidates
 
 
-def fetch_affiliations(doi):
+def fetch_crossref_authors(doi):
+    """返回Crossref上的原始作者列表(含ORCID)，供单位提取和作者简介功能复用，只查一次。"""
     if not doi:
-        return None
+        return []
     try:
         resp = requests.get(f"https://api.crossref.org/works/{doi}", timeout=8)
         if resp.status_code != 200:
-            return None
+            return []
         authors = resp.json().get("message", {}).get("author", [])
-        affiliations = []
-        for a in authors:
-            for aff in a.get("affiliation", []):
-                name = aff.get("name")
-                if name and name not in affiliations:
-                    affiliations.append(name)
-        return "; ".join(affiliations[:3]) if affiliations else None
+        return [
+            {
+                "name": f"{a.get('given', '')} {a.get('family', '')}".strip(),
+                "orcid": (a.get("ORCID") or "").replace("http://orcid.org/", "").replace("https://orcid.org/", "") or None,
+                "sequence": a.get("sequence"),
+                "affiliations": [aff.get("name") for aff in a.get("affiliation", []) if aff.get("name")],
+            }
+            for a in authors
+        ]
     except (requests.RequestException, ValueError):
-        return None
+        return []
+
+
+def affiliations_from_authors(authors_meta):
+    affiliations = []
+    for a in authors_meta:
+        for name in a.get("affiliations", []):
+            if name not in affiliations:
+                affiliations.append(name)
+    return "; ".join(affiliations[:3]) if affiliations else None
 
 
 def enrich_with_affiliations(candidates):
     for c in candidates:
-        c["affiliation"] = fetch_affiliations(c.get("doi"))
+        authors_meta = fetch_crossref_authors(c.get("doi"))
+        c["authors_meta"] = authors_meta
+        c["affiliation"] = affiliations_from_authors(authors_meta)
         time.sleep(0.2)  # 避免过快请求Crossref
     return candidates
+
+
+OPENALEX_HEADERS = {"User-Agent": "research-digest-app (mailto:research-digest@example.com)"}
+
+
+def fetch_related_papers(title, exclude_doi=None, limit=4):
+    """基于标题在 OpenAlex 上做文本检索找相关文献。
+    刚发表的新文章通常还没被引用图谱收录，所以用文本检索而不是引用推荐，
+    这样即使文章本身还没被索引也能找到同主题的相关文献。"""
+    if not title:
+        return []
+    try:
+        resp = requests.get(
+            "https://api.openalex.org/works",
+            params={
+                "search": title,
+                "per_page": limit + 1,
+                "select": "title,doi,publication_year,primary_location",
+            },
+            headers=OPENALEX_HEADERS,
+            timeout=10,
+        )
+        if resp.status_code != 200:
+            return []
+        results = []
+        for w in resp.json().get("results", []):
+            w_title = w.get("title") or ""
+            if not w_title or w_title.strip().lower() == title.strip().lower():
+                continue
+            doi = w.get("doi")
+            if exclude_doi and doi and exclude_doi.lower() in doi.lower():
+                continue
+            venue = ((w.get("primary_location") or {}).get("source") or {}).get("display_name")
+            results.append({
+                "title": w_title,
+                "link": doi or "",
+                "venue": venue,
+                "year": w.get("publication_year"),
+            })
+            if len(results) >= limit:
+                break
+        return results
+    except requests.RequestException:
+        return []
+
+
+ORCID_HEADERS = {"Accept": "application/json", "User-Agent": "research-digest-app (mailto:research-digest@example.com)"}
+
+
+def pick_profiled_author(authors_meta):
+    """优先选有ORCID的第一作者，其次末位作者(常见的通讯作者位置)，再次任意一个有ORCID的作者。
+    没有ORCID的一律不猜，避免同名混淆。"""
+    if not authors_meta:
+        return None
+    if authors_meta[0].get("orcid"):
+        return authors_meta[0]
+    if authors_meta[-1].get("orcid"):
+        return authors_meta[-1]
+    return next((a for a in authors_meta if a.get("orcid")), None)
+
+
+def fetch_orcid_profile(orcid, limit=6):
+    try:
+        resp = requests.get(f"https://pub.orcid.org/v3.0/{orcid}/works", headers=ORCID_HEADERS, timeout=10)
+        if resp.status_code != 200:
+            return None
+        groups = resp.json().get("group", [])
+        works = []
+        for g in groups:
+            summ = (g.get("work-summary") or [{}])[0]
+            title = ((summ.get("title") or {}).get("title") or {}).get("value")
+            if not title:
+                continue
+            year = ((summ.get("publication-date") or {}).get("year") or {}).get("value")
+            journal = (summ.get("journal-title") or {}).get("value")
+            doi = None
+            for eid in (summ.get("external-ids") or {}).get("external-id", []):
+                if eid.get("external-id-type") == "doi":
+                    doi = eid.get("external-id-value")
+                    break
+            works.append({"title": title, "year": year, "journal": journal, "doi": doi})
+
+        resp2 = requests.get(f"https://pub.orcid.org/v3.0/{orcid}/employments", headers=ORCID_HEADERS, timeout=10)
+        institution = None
+        if resp2.status_code == 200:
+            groups2 = resp2.json().get("affiliation-group", [])
+            if groups2:
+                summ2 = (groups2[0].get("summaries") or [{}])[0].get("employment-summary", {})
+                institution = (summ2.get("organization") or {}).get("name")
+
+        works.sort(key=lambda w: w.get("year") or "0", reverse=True)
+        return {"institution": institution, "works": works[:limit]}
+    except (requests.RequestException, ValueError):
+        return None
+
+
+def enrich_with_author_profiles(digest_articles):
+    for a in digest_articles:
+        author = pick_profiled_author(a.get("authors_meta") or [])
+        if not author:
+            a["author_profile_raw"] = None
+            continue
+        profile = fetch_orcid_profile(author["orcid"])
+        if profile:
+            a["author_profile_raw"] = {"name": author["name"], **profile}
+        else:
+            a["author_profile_raw"] = None
+        time.sleep(0.15)
+    return digest_articles
+
+
+def enrich_with_related_papers(digest_articles):
+    for a in digest_articles:
+        a["related_papers"] = fetch_related_papers(a["title"], exclude_doi=a.get("doi"))
+        time.sleep(0.15)
+    return digest_articles
 
 
 def score_and_summarize(client, model, research_profile, candidates, batch_size=12):
@@ -224,6 +354,84 @@ def score_and_summarize(client, model, research_profile, candidates, batch_size=
     return results, processed_ids
 
 
+def deep_analyze(client, model, research_profile, digest_articles, batch_size=4):
+    """对已入选的文章做更深入的中文解读，仅对通过相关性筛选的文章调用，控制成本。"""
+    by_id = {a["id"]: a for a in digest_articles}
+
+    for i in range(0, len(digest_articles), batch_size):
+        batch = digest_articles[i:i + batch_size]
+        payload = []
+        for a in batch:
+            raw = a.get("author_profile_raw")
+            item = {
+                "id": a["id"],
+                "title": a["title"],
+                "journal": a["journal"],
+                "summary": a["summary"],
+                "key_conclusion": a.get("key_conclusion", ""),
+                "author_name": raw["name"] if raw else None,
+                "author_institution": (raw or {}).get("institution"),
+                "author_other_works": [w["title"] for w in (raw or {}).get("works", [])][:6] if raw else [],
+            }
+            payload.append(item)
+
+        system_prompt = (
+            "你是一名资深科研文献分析师，为一位研究方向是「" + research_profile + "」的科研人员精读文章。\n"
+            "你只能看到标题和期刊目录页的简短摘要（可能不完整），如果信息不足以支撑判断，"
+            "必须明确说明'基于现有信息推测/信息不足，建议查看原文'，不要编造摘要中没有的具体数据或结论。\n\n"
+            "对给定的每篇文章，输出一个JSON对象，字段为：\n"
+            "id (原样返回),\n"
+            "scientific_question (这篇文章试图回答的核心科学问题，1-2句中文),\n"
+            "contributions_limitations (主要贡献和可能的局限性，2-4句中文，若摘要信息不足需说明是推测),\n"
+            "follow_up_research (基于这篇文章，可能有价值的后续研究方向，2-3句中文),\n"
+            "next_step_perspective (这篇文章能为用户的研究提供什么具体视角、方法启发或研究空白提示，2-3句中文，要具体、避免空泛),\n"
+            "why_this_journal (结合期刊定位和摘要内容，推测这篇文章为何能发表在该期刊，比如新颖性/跨学科意义/方法严谨性，1-2句中文，注明是推测),\n"
+            "author_profile (仅当提供了 author_name 时才填写：结合 author_name/author_institution/author_other_works，"
+            "用2-3句中文介绍这位作者目前所在机构、从其历史论文标题看出的主要研究方向，并指出这些研究与用户方向的关联。"
+            "如果没有提供 author_name，此字段返回空字符串，不要编造作者信息)。\n"
+            "只返回一个JSON数组，不要有其他文字、不要用markdown代码块包裹。"
+        )
+        user_prompt = json.dumps(payload, ensure_ascii=False)
+
+        try:
+            resp = client.messages.create(
+                model=model,
+                max_tokens=6000,
+                system=system_prompt,
+                messages=[{"role": "user", "content": user_prompt}],
+            )
+            text = resp.content[0].text.strip()
+            text = re.sub(r"^```(json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
+            analyzed = json.loads(text)
+        except Exception as e:
+            detail = getattr(e, "message", None) or getattr(e, "body", None) or str(e)
+            print(f"[error] 深度解读批次 {i} 失败 ({type(e).__name__}): {detail}", file=sys.stderr)
+            continue
+
+        for item in analyzed:
+            target = by_id.get(item.get("id"))
+            if not target:
+                continue
+            target["scientific_question"] = item.get("scientific_question", "")
+            target["contributions_limitations"] = item.get("contributions_limitations", "")
+            target["follow_up_research"] = item.get("follow_up_research", "")
+            target["next_step_perspective"] = item.get("next_step_perspective", "")
+            target["why_this_journal"] = item.get("why_this_journal", "")
+
+            raw = target.get("author_profile_raw")
+            if raw and item.get("author_profile"):
+                target["author_profile"] = {
+                    "name": raw["name"],
+                    "institution": raw.get("institution"),
+                    "intro": item.get("author_profile", ""),
+                    "other_works": raw.get("works", [])[:5],
+                }
+            else:
+                target["author_profile"] = None
+
+    return digest_articles
+
+
 def main():
     config = load_config()
     api_key = os.environ.get("ANTHROPIC_API_KEY")
@@ -250,6 +458,18 @@ def main():
     threshold = config.get("relevance_threshold", 6)
     digest = [item for item in scored if item.get("relevance_score", 0) >= threshold]
     digest.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
+
+    if digest:
+        print("[info] 抓取作者ORCID履历与相关文献...")
+        digest = enrich_with_author_profiles(digest)
+        digest = enrich_with_related_papers(digest)
+
+        print(f"[info] 对 {len(digest)} 篇入选文章生成深度解读...")
+        digest = deep_analyze(client, config["model"], config["research_profile"], digest)
+
+        for a in digest:
+            a.pop("author_profile_raw", None)
+            a.pop("authors_meta", None)
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     output = {

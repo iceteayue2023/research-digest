@@ -35,6 +35,13 @@ function articleSnapshot(a) {
     relevance_note: a.relevance_note,
     affiliation: a.affiliation,
     relevance_score: a.relevance_score,
+    scientific_question: a.scientific_question,
+    contributions_limitations: a.contributions_limitations,
+    follow_up_research: a.follow_up_research,
+    next_step_perspective: a.next_step_perspective,
+    why_this_journal: a.why_this_journal,
+    author_profile: a.author_profile,
+    related_papers: a.related_papers,
   };
 }
 
@@ -104,11 +111,48 @@ function cardHtml(a, { showDate = false } = {}) {
 
       <div class="card-actions">
         <a class="read-more" href="${a.link}" target="_blank" rel="noopener">查看原文 →</a>
+        ${hasDeepDive(a) ? `<button class="deep-toggle-btn" data-id="${escapeHtml(a.id)}">🔍 深度解读</button>` : ""}
         <button class="fav-btn ${favActive ? "active" : ""}" data-id="${escapeHtml(a.id)}">
           ${favActive ? "★ 已收藏" : "☆ 收藏"}
         </button>
         <button class="note-toggle-btn" data-id="${escapeHtml(a.id)}">📝 笔记${noteText ? " ●" : ""}</button>
       </div>
+
+      ${hasDeepDive(a) ? `
+      <div class="deep-box" data-id="${escapeHtml(a.id)}" hidden>
+        <p class="field"><span class="label">科学问题</span>${escapeHtml(a.scientific_question || "")}</p>
+        <p class="field"><span class="label">贡献与局限</span>${escapeHtml(a.contributions_limitations || "")}</p>
+        <p class="field"><span class="label">后续研究方向</span>${escapeHtml(a.follow_up_research || "")}</p>
+        <p class="field"><span class="label">对你研究的启发</span>${escapeHtml(a.next_step_perspective || "")}</p>
+        <p class="field"><span class="label">为何能发这个期刊</span>${escapeHtml(a.why_this_journal || "")}</p>
+        ${a.author_profile ? `
+        <div class="sub-block">
+          <p class="sub-title">作者简介 · ${escapeHtml(a.author_profile.name)}</p>
+          <p class="field-plain">${escapeHtml(a.author_profile.intro || "")}</p>
+          ${a.author_profile.other_works && a.author_profile.other_works.length ? `
+          <p class="sub-title">该作者的其他相关研究</p>
+          <ul class="ref-list">
+            ${a.author_profile.other_works.map(w => `
+              <li>${w.doi ? `<a href="https://doi.org/${escapeHtml(w.doi)}" target="_blank" rel="noopener">${escapeHtml(w.title)}</a>` : escapeHtml(w.title)}
+                ${w.journal ? ` <span class="ref-meta">· ${escapeHtml(w.journal)}</span>` : ""}
+                ${w.year ? ` <span class="ref-meta">${escapeHtml(String(w.year))}</span>` : ""}
+              </li>
+            `).join("")}
+          </ul>` : ""}
+        </div>` : ""}
+        ${a.related_papers && a.related_papers.length ? `
+        <div class="sub-block">
+          <p class="sub-title">更多相关文献</p>
+          <ul class="ref-list">
+            ${a.related_papers.map(r => `
+              <li>${r.link ? `<a href="${r.link}" target="_blank" rel="noopener">${escapeHtml(r.title)}</a>` : escapeHtml(r.title)}
+                ${r.venue ? ` <span class="ref-meta">· ${escapeHtml(r.venue)}</span>` : ""}
+                ${r.year ? ` <span class="ref-meta">${escapeHtml(String(r.year))}</span>` : ""}
+              </li>
+            `).join("")}
+          </ul>
+        </div>` : ""}
+      </div>` : ""}
 
       <div class="note-box" data-id="${escapeHtml(a.id)}" hidden>
         <textarea class="note-input" placeholder="写点笔记…自动保存" data-id="${escapeHtml(a.id)}">${escapeHtml(noteText)}</textarea>
@@ -116,6 +160,10 @@ function cardHtml(a, { showDate = false } = {}) {
       </div>
     </article>
   `;
+}
+
+function hasDeepDive(a) {
+  return !!(a.scientific_question || a.contributions_limitations || a.follow_up_research);
 }
 
 function bindCardEvents(container, articleLookup) {
@@ -135,6 +183,14 @@ function bindCardEvents(container, articleLookup) {
     btn.addEventListener("click", () => {
       const id = btn.dataset.id;
       const box = container.querySelector(`.note-box[data-id="${CSS.escape(id)}"]`);
+      if (box) box.hidden = !box.hidden;
+    });
+  });
+
+  container.querySelectorAll(".deep-toggle-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const id = btn.dataset.id;
+      const box = container.querySelector(`.deep-box[data-id="${CSS.escape(id)}"]`);
       if (box) box.hidden = !box.hidden;
     });
   });
