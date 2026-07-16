@@ -1,9 +1,9 @@
 # 科研文献日报
 
 每天自动抓取你关注的期刊（完整列表见 `scripts/config.yaml`，目前覆盖 Nature 系列、Science、PNAS、
-AGU/Copernicus 地球系统期刊、BES/Springer 生态学期刊等共24种），用 Claude 按你的研究方向
-（大型食草动物 rewilding 对土壤碳的影响）打分、筛选、生成中文摘要，并生成一个可以"添加到手机主屏幕"的
-网页 App。
+AGU/Copernicus 地球系统期刊、BES/Springer 生态学期刊等共24种），用 DeepSeek 按你的研究方向
+（大型食草动物 rewilding 对土壤碳的影响）打分、筛选、生成中文摘要与深度解读，并生成一个可以
+"添加到手机主屏幕"的网页 App。
 
 ## 工作原理
 
@@ -13,7 +13,8 @@ GitHub Actions（每天定时）
        ├─ 抓取 scripts/config.yaml 里配置的期刊 RSS
        ├─ 按关键词/主题粗筛，减少无关文章
        ├─ 用 Crossref API 尝试补全作者单位
-       ├─ 调用 Claude API 打分 + 生成中文摘要/翻译/相关性说明
+       ├─ 调用 DeepSeek API 打分 + 生成中文摘要/翻译/相关性说明
+       ├─ 对入选文章额外生成深度解读、ORCID作者简介、OpenAlex相关文献
        └─ 写入 docs/data/YYYY-MM-DD.json 和 docs/data/latest.json
   └─ 自动 commit & push 结果
 GitHub Pages（托管 docs/ 目录）
@@ -36,10 +37,10 @@ GitHub Pages（托管 docs/ 目录）
    （现代 GitHub 不再支持密码登录 git，如果失败请用浏览器登录一次 GitHub Desktop，
    或生成一个 token: Settings → Developer settings → Personal access tokens）。
 
-3. **添加 Claude API Key 作为仓库密钥**：
+3. **添加 DeepSeek API Key 作为仓库密钥**：
    仓库页面 → Settings → Secrets and variables → Actions → New repository secret
-   - Name: `ANTHROPIC_API_KEY`
-   - Value: 你在 console.anthropic.com 生成的 key
+   - Name: `DEEPSEEK_API_KEY`
+   - Value: 你在 platform.deepseek.com 生成的 key
 
 4. **开启 GitHub Pages**：
    仓库页面 → Settings → Pages → Build and deployment → Source 选择 "Deploy from a branch"，
@@ -58,14 +59,14 @@ GitHub Pages（托管 docs/ 目录）
 - **增删关键词/期刊/研究方向描述**：直接编辑 `scripts/config.yaml`，commit push 后，
   下次定时任务（每天北京时间 8:00）会用新配置。
 - **调整相关性门槛**：`config.yaml` 里的 `relevance_threshold`（0-10，越高越严格）。
-- **换成本更低/更强的模型**：`config.yaml` 里的 `model` 字段。
+- **换其他DeepSeek模型**（如 deepseek-reasoner）：`config.yaml` 里的 `model` 字段。
 - **想立刻看到新配置的效果**：Actions 页面手动 Run workflow，不用等第二天。
 
 ## 成本
 
 - GitHub Actions、GitHub Pages：免费额度内完全够用。
-- Claude API：按 token 计费，Haiku 模型每天几十篇文章的摘要，成本通常在每月 1 美元以内，
-  可在 console.anthropic.com 的 Usage 页面查看实际花费。
+- DeepSeek API：按 token 计费，比同级别模型便宜很多，每天几十篇文章的打分+摘要+深度解读，
+  成本通常在每月几毛到1美元左右，可在 platform.deepseek.com 的用量页面查看实际花费。
 
 ## 已知局限
 

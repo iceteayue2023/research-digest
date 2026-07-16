@@ -100,5 +100,5 @@ relevance_threshold: 6
 # 只看最近N天内发布的文章（避免第一次运行时把历年存档全部拉出来）
 max_age_days: 7
 
-# 使用的Claude模型（用于摘要与相关性判断，Haiku速度快、成本低，适合这个场景）
-model: claude-haiku-4-5-20251001
+# 使用的DeepSeek模型（用于摘要与相关性判断，deepseek-chat 性价比高，适合这个场景）
+model: deepseek-chat

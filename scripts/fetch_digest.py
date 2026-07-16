@@ -1,6 +1,6 @@
 """
 每日文献摘要生成脚本。
-流程：抓取RSS -> 关键词/主题粗筛 -> 尝试补全作者单位(Crossref) -> Claude打分与摘要 -> 输出JSON。
+流程：抓取RSS -> 关键词/主题粗筛 -> 尝试补全作者单位(Crossref) -> DeepSeek打分与摘要 -> 输出JSON。
 由 GitHub Actions 每日定时调用，输出写入 docs/data/。
 """
 import json
@@ -15,14 +15,14 @@ import feedparser
 import requests
 import yaml
 from dateutil import parser as dateparser
-from anthropic import Anthropic
+from openai import OpenAI
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "docs" / "data"
 SEEN_PATH = DATA_DIR / "seen.json"
 CONFIG_PATH = Path(__file__).resolve().parent / "config.yaml"
 
-DOI_RE = re.compile(r"10\.\d{4,9}/[^\s\"'<>]+")
+DOI_RE = re.compile(r"10\.\d{4,9}/[^\s\"'<>?]+")
 
 # 不带 User-Agent 的请求会被 Nature/Wiley 等站点的反爬机制拦截，
 # 返回的错误页不是合法XML，导致 feedparser 解析失败。
@@ -70,6 +70,53 @@ def extract_doi(entry):
     return m.group(0).rstrip(".") if m else None
 
 
+JINA_ENTRY_RE = re.compile(
+    r"### \[(?P<title>.*?)\]\((?P<link>.*?)\)\n\n(?P<meta>.*?)\n\n\[.*?\]\(.*?\)\n\n"
+    r"(?P<date>[A-Za-z]{3}, \d{1,2} \w+ \d{4}[^\n]*)",
+    re.DOTALL,
+)
+
+
+def fetch_via_jina_proxy(url):
+    """一些出版商(Wiley/Science等)会拦截GitHub Actions这类数据中心IP的直连请求(403)。
+    退而用 r.jina.ai 这个只读代理转发抓取，它返回的是转成Markdown的正文而非原始XML，
+    所以这里用正则单独解析出条目，而不是走 feedparser。"""
+    try:
+        resp = requests.get(f"https://r.jina.ai/{url}", headers=HTTP_HEADERS, timeout=25)
+        if resp.status_code != 200:
+            return []
+        entries = []
+        for m in JINA_ENTRY_RE.finditer(resp.text):
+            entries.append({
+                "id": m.group("link").strip(),
+                "title": m.group("title").strip(),
+                "link": m.group("link").strip(),
+                "summary": m.group("meta").strip(),
+                "published": m.group("date").strip(),
+                "tags": [],
+            })
+        return entries
+    except requests.RequestException:
+        return []
+
+
+def fetch_feed_entries(feed_cfg):
+    try:
+        resp = requests.get(feed_cfg["url"], headers=HTTP_HEADERS, timeout=15)
+        resp.raise_for_status()
+        parsed = feedparser.parse(resp.content)
+        if not (parsed.bozo and not parsed.entries):
+            return parsed.entries
+        print(f"[warn] 无法解析 {feed_cfg['name']} 的RSS: {parsed.get('bozo_exception')}，尝试用代理重试", file=sys.stderr)
+    except requests.RequestException as e:
+        print(f"[warn] 无法获取 {feed_cfg['name']} 的RSS: {e}，尝试用代理重试", file=sys.stderr)
+
+    proxied = fetch_via_jina_proxy(feed_cfg["url"])
+    if not proxied:
+        print(f"[warn] 代理重试也失败，跳过 {feed_cfg['name']}", file=sys.stderr)
+    return proxied
+
+
 def fetch_candidates(config):
     max_age = timedelta(days=config.get("max_age_days", 7))
     cutoff = datetime.now(timezone.utc) - max_age
@@ -80,19 +127,9 @@ def fetch_candidates(config):
     candidates = []
 
     for feed_cfg in config["feeds"]:
-        try:
-            resp = requests.get(feed_cfg["url"], headers=HTTP_HEADERS, timeout=15)
-            resp.raise_for_status()
-            parsed = feedparser.parse(resp.content)
-        except requests.RequestException as e:
-            print(f"[warn] 无法获取 {feed_cfg['name']} 的RSS: {e}", file=sys.stderr)
-            continue
+        entries = fetch_feed_entries(feed_cfg)
 
-        if parsed.bozo and not parsed.entries:
-            print(f"[warn] 无法解析 {feed_cfg['name']} 的RSS: {parsed.get('bozo_exception')}", file=sys.stderr)
-            continue
-
-        for entry in parsed.entries:
+        for entry in entries:
             entry_id = entry.get("id") or entry.get("link")
             if not entry_id or entry_id in seen:
                 continue
@@ -318,13 +355,15 @@ def score_and_summarize(client, model, research_profile, candidates, batch_size=
         user_prompt = json.dumps(payload, ensure_ascii=False)
 
         try:
-            resp = client.messages.create(
+            resp = client.chat.completions.create(
                 model=model,
                 max_tokens=4000,
-                system=system_prompt,
-                messages=[{"role": "user", "content": user_prompt}],
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+                ],
             )
-            text = resp.content[0].text.strip()
+            text = resp.choices[0].message.content.strip()
             text = re.sub(r"^```(json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
             scored = json.loads(text)
         except Exception as e:
@@ -348,7 +387,7 @@ def score_and_summarize(client, model, research_profile, candidates, batch_size=
             })
 
     if total_batches > 0 and failed_batches == total_batches:
-        print("[error] 所有打分批次均失败，请检查 ANTHROPIC_API_KEY 是否正确、账户额度是否充足、模型名是否可用。", file=sys.stderr)
+        print("[error] 所有打分批次均失败，请检查 DEEPSEEK_API_KEY 是否正确、账户额度是否充足、模型名是否可用。", file=sys.stderr)
         sys.exit(1)
 
     return results, processed_ids
@@ -394,13 +433,15 @@ def deep_analyze(client, model, research_profile, digest_articles, batch_size=4)
         user_prompt = json.dumps(payload, ensure_ascii=False)
 
         try:
-            resp = client.messages.create(
+            resp = client.chat.completions.create(
                 model=model,
                 max_tokens=6000,
-                system=system_prompt,
-                messages=[{"role": "user", "content": user_prompt}],
+                messages=[
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
+                ],
             )
-            text = resp.content[0].text.strip()
+            text = resp.choices[0].message.content.strip()
             text = re.sub(r"^```(json)?|```$", "", text.strip(), flags=re.MULTILINE).strip()
             analyzed = json.loads(text)
         except Exception as e:
@@ -434,9 +475,9 @@ def deep_analyze(client, model, research_profile, digest_articles, batch_size=4)
 
 def main():
     config = load_config()
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    api_key = os.environ.get("DEEPSEEK_API_KEY")
     if not api_key:
-        print("[error] 未设置 ANTHROPIC_API_KEY 环境变量", file=sys.stderr)
+        print("[error] 未设置 DEEPSEEK_API_KEY 环境变量", file=sys.stderr)
         sys.exit(1)
 
     print("[info] 抓取RSS并粗筛...")
@@ -447,8 +488,8 @@ def main():
         print("[info] 尝试补全作者单位信息 (Crossref)...")
         candidates = enrich_with_affiliations(candidates)
 
-        print("[info] 调用Claude进行打分与摘要...")
-        client = Anthropic(api_key=api_key)
+        print("[info] 调用DeepSeek进行打分与摘要...")
+        client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
         scored, processed_ids = score_and_summarize(
             client, config["model"], config["research_profile"], candidates
         )
@@ -464,7 +505,7 @@ def main():
         digest = enrich_with_author_profiles(digest)
         digest = enrich_with_related_papers(digest)
 
-        print(f"[info] 对 {len(digest)} 篇入选文章生成深度解读...")
+        print(f"[info] 对 {len(digest)} 篇入选文章生成深度解读 (DeepSeek)...")
         digest = deep_analyze(client, config["model"], config["research_profile"], digest)
 
         for a in digest:
