@@ -165,7 +165,7 @@ def fetch_candidates(config):
     max_age = timedelta(days=config.get("max_age_days", 7))
     cutoff = datetime.now(timezone.utc) - max_age
     keywords = [k.lower() for k in config["keywords"]]
-    broad_tags = {"ecology", "climate", "environmental science", "carbon", "biodiversity"}
+    broad_tags = {"ecology", "climate", "environmental science", "carbon", "biodiversity", "microbial", "biogeochemistry", "food web", "forest", "vegetation", "soil"}
 
     seen = load_seen()
     candidates = []
@@ -223,7 +223,7 @@ def fetch_bluesky_posts(config):
     max_age = timedelta(days=config.get("social_max_age_days", 3))
     cutoff = datetime.now(timezone.utc) - max_age
     keywords = [k.lower() for k in config["keywords"]]
-    broad_tags = {"ecology", "climate", "environmental science", "carbon", "biodiversity"}
+    broad_tags = {"ecology", "climate", "environmental science", "carbon", "biodiversity", "microbial", "biogeochemistry", "food web", "forest", "vegetation", "soil"}
 
     posts = []
     for handle in handles:

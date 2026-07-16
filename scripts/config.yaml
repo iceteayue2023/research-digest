@@ -1,8 +1,24 @@
 # 研究方向简介，会被写进AI的提示词，用来判断文章相关性、写"与你研究的关联"
+# 这个描述比关键词列表更重要：AI主要靠理解这段话来打分，写得越具体全面，
+# 打分覆盖面越广。以下是核心方向 + 广泛关注的相邻主题。
 research_profile: >
-  我的研究方向是大型食草动物重野化（trophic rewilding / large herbivore rewilding）
+  我的核心研究方向是大型食草动物重野化（trophic rewilding / large herbivore rewilding）
   对土壤有机碳（soil organic carbon）及生态系统碳循环的影响，涉及放牧强度、
-  植被-土壤反馈、生态系统功能恢复等主题。
+  植被-土壤反馈、生态系统功能恢复等主题。除此之外我也广泛关注以下相邻领域，
+  这些文章即使不直接谈rewilding也请按主题相关性正常给分，不要因为没提rewilding就打低分：
+  (1) 陆地生态系统碳循环，包括森林/热带雨林退化与恢复过程中的碳损失与碳获取、
+  碳汇碳源变化、极端气候事件对碳循环的扰动；
+  (2) 土壤有机质形成与稳定机制，包括颗粒态有机质(POM)与矿物结合态有机质(MAOM)的
+  形成路径、土壤微生物群落结构（不仅是多样性）对生态系统功能/初级生产力的影响、
+  碳氮磷(C-N-P)化学计量与养分循环，尤其是动物介导的生物地球化学循环
+  （zoogeochemistry / animal feedback effects）；
+  (3) 植物碳分配策略，例如非结构性碳水化合物(NSC)的储存与利用；
+  (4) 食物网复杂性与生物多样性-生态系统功能关系(BEF)；
+  (5) 地球系统模式中动态植被模块(DGVM)的开发与验证、生态系统模型改进；
+  (6) 我对研究地点在欧洲的文章格外感兴趣（不限具体生态系统类型），如果文章的
+  研究地点在欧洲，请在相关性说明里明确指出，并适当提高相关性分数；
+  (7) rewilding领域的综述、观点、评论类文章，即使没有新实验数据也应给较高分数，
+  因为这类文章能帮我把握领域全局。
 
 # 关键词（不区分大小写，可随时增删）
 keywords:
@@ -33,6 +49,26 @@ keywords:
   - carbon uptake
   - carbon sink
   - carbon loss
+  - dynamic global vegetation model
+  - particulate organic matter
+  - mineral-associated organic matter
+  - POM
+  - MAOM
+  - soil microbial community
+  - microbial community structure
+  - carbon nitrogen phosphorus
+  - stoichiometry
+  - nutrient stoichiometry
+  - food web
+  - biodiversity ecosystem functioning
+  - tree carbon allocation
+  - nonstructural carbohydrates
+  - carbohydrate storage
+  - forest degradation
+  - forest regeneration
+  - tropical forest carbon
+  - Europe
+  - European
 
 # 关注期刊及其RSS/Atom地址
 feeds:
@@ -87,12 +123,16 @@ feeds:
     url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=13652664&type=etoc&feed=rss
   - name: Journal of Animal Ecology
     url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=13652656&type=etoc&feed=rss
+  - name: People and Nature
+    url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=25758314&type=etoc&feed=rss
 
   # --- 生态模型与软件 ---
   - name: Ecological Modelling
     url: https://rss.sciencedirect.com/publication/science/03043800
   - name: Environmental Modelling & Software
     url: https://rss.sciencedirect.com/publication/science/13648152
+  - name: Methods in Ecology and Evolution
+    url: https://besjournals.onlinelibrary.wiley.com/action/showFeed?jc=2041210X&type=etoc&feed=rss
 
 # 关注期刊/学会在 Bluesky 上的官方账号(handle)，免费公开API抓取，不需要登录
 bluesky_handles:
@@ -109,8 +149,8 @@ bluesky_handles:
 # 只看最近N天内发布的Bluesky动态
 social_max_age_days: 3
 
-# 相关性打分低于这个分数(0-10)的文章不会推送
-relevance_threshold: 6
+# 相关性打分低于这个分数(0-10)的文章不会推送（调低门槛以增加每日推送数量）
+relevance_threshold: 4
 
 # 只看最近N天内发布的文章（避免第一次运行时把历年存档全部拉出来）
 max_age_days: 7
