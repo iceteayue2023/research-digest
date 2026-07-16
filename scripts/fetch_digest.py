@@ -158,6 +158,7 @@ def enrich_with_affiliations(candidates):
 
 def score_and_summarize(client, model, research_profile, candidates, batch_size=12):
     results = []
+    processed_ids = set()
     total_batches = 0
     failed_batches = 0
     for i in range(0, len(candidates), batch_size):
@@ -207,6 +208,7 @@ def score_and_summarize(client, model, research_profile, candidates, batch_size=
             src = by_id.get(item.get("id"))
             if not src:
                 continue
+            processed_ids.add(src["id"])
             results.append({
                 **src,
                 "title_zh": item.get("title_zh", ""),
@@ -219,7 +221,7 @@ def score_and_summarize(client, model, research_profile, candidates, batch_size=
         print("[error] 所有打分批次均失败，请检查 ANTHROPIC_API_KEY 是否正确、账户额度是否充足、模型名是否可用。", file=sys.stderr)
         sys.exit(1)
 
-    return results
+    return results, processed_ids
 
 
 def main():
@@ -239,9 +241,11 @@ def main():
 
         print("[info] 调用Claude进行打分与摘要...")
         client = Anthropic(api_key=api_key)
-        scored = score_and_summarize(client, config["model"], config["research_profile"], candidates)
+        scored, processed_ids = score_and_summarize(
+            client, config["model"], config["research_profile"], candidates
+        )
     else:
-        scored = []
+        scored, processed_ids = [], set()
 
     threshold = config.get("relevance_threshold", 6)
     digest = [item for item in scored if item.get("relevance_score", 0) >= threshold]
@@ -274,7 +278,7 @@ def main():
         json.dump(dates, f, ensure_ascii=False, indent=2)
 
     seen = load_seen()
-    seen.update(c["id"] for c in candidates)
+    seen.update(processed_ids)
     save_seen(seen)
 
     print(f"[info] 完成，今日推送 {len(digest)} 篇文章。")
