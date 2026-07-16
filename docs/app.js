@@ -2,13 +2,19 @@ const listEl = document.getElementById("article-list");
 const dateSelect = document.getElementById("date-select");
 const countBadge = document.getElementById("count-badge");
 const dateRow = document.getElementById("date-row");
+const folderRow = document.getElementById("folder-row");
+const searchInput = document.getElementById("search-input");
 const tabButtons = document.querySelectorAll(".tab");
 
 const FAVORITES_KEY = "rd_favorites";
 const NOTES_KEY = "rd_notes";
+const DEFAULT_FOLDER = "默认";
 
 let currentTab = "daily";
 let currentDailyData = null;
+let currentFolder = "全部";
+let searchTerm = "";
+let archiveCache = null; // 懒加载：跨所有历史日期的文章缓存，仅在搜索时用到
 
 // ---------- localStorage helpers ----------
 
@@ -42,6 +48,7 @@ function articleSnapshot(a) {
     why_this_journal: a.why_this_journal,
     author_profile: a.author_profile,
     related_papers: a.related_papers,
+    image_url: a.image_url,
   };
 }
 
@@ -54,10 +61,29 @@ function toggleFavorite(article) {
   if (favs[article.id]) {
     delete favs[article.id];
   } else {
-    favs[article.id] = { savedAt: new Date().toISOString(), article: articleSnapshot(article) };
+    favs[article.id] = {
+      savedAt: new Date().toISOString(),
+      folder: DEFAULT_FOLDER,
+      article: articleSnapshot(article),
+    };
   }
   writeStore(FAVORITES_KEY, favs);
   return !!favs[article.id];
+}
+
+function getFolders() {
+  const favs = readStore(FAVORITES_KEY);
+  const folders = new Set([DEFAULT_FOLDER]);
+  Object.values(favs).forEach((e) => folders.add(e.folder || DEFAULT_FOLDER));
+  return Array.from(folders);
+}
+
+function moveFavoriteToFolder(id, folder) {
+  const favs = readStore(FAVORITES_KEY);
+  if (favs[id]) {
+    favs[id].folder = folder;
+    writeStore(FAVORITES_KEY, favs);
+  }
 }
 
 function getNoteText(id) {
@@ -79,7 +105,7 @@ function saveNote(article, text) {
   writeStore(NOTES_KEY, notes);
 }
 
-// ---------- rendering ----------
+// ---------- rendering helpers ----------
 
 function escapeHtml(str) {
   const div = document.createElement("div");
@@ -91,11 +117,25 @@ function scoreClass(score) {
   return score >= 8 ? "" : "mid";
 }
 
-function cardHtml(a, { showDate = false } = {}) {
+function matchesSearch(a, term) {
+  if (!term) return true;
+  const haystack = [a.title, a.title_zh, a.key_conclusion, a.relevance_note, a.journal]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+  return haystack.includes(term.toLowerCase());
+}
+
+function hasDeepDive(a) {
+  return !!(a.scientific_question || a.contributions_limitations || a.follow_up_research);
+}
+
+function cardHtml(a, { showDate = false, folderControl = null } = {}) {
   const favActive = isFavorited(a.id);
   const noteText = getNoteText(a.id);
   return `
     <article class="card" data-id="${escapeHtml(a.id)}">
+      ${a.image_url ? `<img class="article-img" src="${escapeHtml(a.image_url)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
       <div class="card-top">
         <span class="journal-badge">${escapeHtml(a.journal)}</span>
         <div class="card-top-right">
@@ -116,6 +156,11 @@ function cardHtml(a, { showDate = false } = {}) {
           ${favActive ? "★ 已收藏" : "☆ 收藏"}
         </button>
         <button class="note-toggle-btn" data-id="${escapeHtml(a.id)}">📝 笔记${noteText ? " ●" : ""}</button>
+        ${folderControl !== null ? `
+        <select class="folder-select" data-id="${escapeHtml(a.id)}">
+          ${getFolders().map(f => `<option value="${escapeHtml(f)}" ${f === folderControl ? "selected" : ""}>${escapeHtml(f)}</option>`).join("")}
+          <option value="__new__">＋ 新建文件夹…</option>
+        </select>` : ""}
       </div>
 
       ${hasDeepDive(a) ? `
@@ -162,11 +207,7 @@ function cardHtml(a, { showDate = false } = {}) {
   `;
 }
 
-function hasDeepDive(a) {
-  return !!(a.scientific_question || a.contributions_limitations || a.follow_up_research);
-}
-
-function bindCardEvents(container, articleLookup) {
+function bindCardEvents(container, articleLookup, { onFolderChange = null } = {}) {
   container.querySelectorAll(".fav-btn").forEach((btn) => {
     btn.addEventListener("click", () => {
       const id = btn.dataset.id;
@@ -195,6 +236,19 @@ function bindCardEvents(container, articleLookup) {
     });
   });
 
+  container.querySelectorAll(".folder-select").forEach((sel) => {
+    sel.addEventListener("change", () => {
+      const id = sel.dataset.id;
+      let folder = sel.value;
+      if (folder === "__new__") {
+        folder = (prompt("新建文件夹名称：") || "").trim();
+        if (!folder) { sel.value = DEFAULT_FOLDER; return; }
+      }
+      moveFavoriteToFolder(id, folder);
+      if (onFolderChange) onFolderChange();
+    });
+  });
+
   let debounceTimer;
   container.querySelectorAll(".note-input").forEach((textarea) => {
     textarea.addEventListener("input", () => {
@@ -213,53 +267,22 @@ function bindCardEvents(container, articleLookup) {
   });
 }
 
+// ---------- daily tab ----------
+
 function renderArticles(data) {
   currentDailyData = data;
-  countBadge.textContent = `${data.count} 篇`;
+  const articles = (data.articles || []).filter((a) => matchesSearch(a, searchTerm));
+  countBadge.textContent = `${articles.length} 篇`;
 
-  if (!data.articles || data.articles.length === 0) {
-    listEl.innerHTML = '<p class="empty">这天没有匹配到相关文章。</p>';
+  if (articles.length === 0) {
+    listEl.innerHTML = `<p class="empty">${searchTerm ? "没有匹配的文章。" : "这天没有匹配到相关文章。"}</p>`;
     return;
   }
 
-  listEl.innerHTML = data.articles.map((a) => cardHtml(a)).join("");
-  const lookup = Object.fromEntries(data.articles.map((a) => [a.id, a]));
-  bindCardEvents(listEl, lookup);
-}
-
-function renderFavoritesView() {
-  const favs = readStore(FAVORITES_KEY);
-  const entries = Object.values(favs).sort((a, b) => (a.savedAt < b.savedAt ? 1 : -1));
-
-  if (entries.length === 0) {
-    listEl.innerHTML = '<p class="empty">还没有收藏任何文章，在文章卡片上点"☆ 收藏"试试。</p>';
-    return;
-  }
-
-  const articles = entries.map((e) => ({ ...e.article, savedDate: e.savedAt.slice(0, 10) }));
-  listEl.innerHTML = articles.map((a) => cardHtml(a, { showDate: true })).join("");
+  listEl.innerHTML = articles.map((a) => cardHtml(a)).join("");
   const lookup = Object.fromEntries(articles.map((a) => [a.id, a]));
   bindCardEvents(listEl, lookup);
 }
-
-function renderNotesView() {
-  const notes = readStore(NOTES_KEY);
-  const entries = Object.values(notes).sort((a, b) => (a.updatedAt < b.updatedAt ? 1 : -1));
-
-  if (entries.length === 0) {
-    listEl.innerHTML = '<p class="empty">还没有写过笔记，在文章卡片上点"📝 笔记"试试。</p>';
-    return;
-  }
-
-  const articles = entries.map((e) => ({ ...e.article, savedDate: e.updatedAt.slice(0, 10) }));
-  listEl.innerHTML = articles.map((a) => cardHtml(a, { showDate: true })).join("");
-  const lookup = Object.fromEntries(articles.map((a) => [a.id, a]));
-  bindCardEvents(listEl, lookup);
-  // 笔记视图下自动展开笔记框，方便直接看到/编辑内容
-  listEl.querySelectorAll(".note-box").forEach((box) => (box.hidden = false));
-}
-
-// ---------- daily data loading ----------
 
 async function loadDate(dateStr) {
   listEl.innerHTML = '<p class="loading">加载中…</p>';
@@ -272,7 +295,44 @@ async function loadDate(dateStr) {
   }
 }
 
+async function loadArchiveCache() {
+  if (archiveCache) return archiveCache;
+  const indexRes = await fetch("data/index.json", { cache: "no-store" });
+  const dates = indexRes.ok ? await indexRes.json() : [];
+  const all = [];
+  for (const d of dates) {
+    try {
+      const res = await fetch(`data/${d}.json`, { cache: "no-store" });
+      if (!res.ok) continue;
+      const day = await res.json();
+      (day.articles || []).forEach((a) => all.push({ ...a, savedDate: d }));
+    } catch (e) { /* 跳过读取失败的日期 */ }
+  }
+  archiveCache = all;
+  return all;
+}
+
+async function renderArchiveSearch() {
+  listEl.innerHTML = '<p class="loading">正在搜索历史日报…</p>';
+  const all = await loadArchiveCache();
+  const matched = all.filter((a) => matchesSearch(a, searchTerm));
+  countBadge.textContent = `${matched.length} 篇（全部历史）`;
+
+  if (matched.length === 0) {
+    listEl.innerHTML = '<p class="empty">没有匹配的文章。</p>';
+    return;
+  }
+  listEl.innerHTML = matched.map((a) => cardHtml(a, { showDate: true })).join("");
+  const lookup = Object.fromEntries(matched.map((a) => [a.id, a]));
+  bindCardEvents(listEl, lookup);
+}
+
 async function initDailyTab() {
+  dateRow.style.display = searchTerm ? "none" : "flex";
+  if (searchTerm) {
+    renderArchiveSearch();
+    return;
+  }
   try {
     const [indexRes, latestRes] = await Promise.all([
       fetch("data/index.json", { cache: "no-store" }),
@@ -302,25 +362,146 @@ async function initDailyTab() {
   }
 }
 
+// ---------- favorites / notes tabs ----------
+
+function renderFolderRow() {
+  const folders = ["全部", ...getFolders()];
+  folderRow.hidden = false;
+  folderRow.innerHTML = folders.map((f) => `
+    <button class="folder-chip ${f === currentFolder ? "active" : ""}" data-folder="${escapeHtml(f)}">${escapeHtml(f)}</button>
+  `).join("");
+  folderRow.querySelectorAll(".folder-chip").forEach((chip) => {
+    chip.addEventListener("click", () => {
+      currentFolder = chip.dataset.folder;
+      renderFavoritesView();
+    });
+  });
+}
+
+function renderFavoritesView() {
+  renderFolderRow();
+  const favs = readStore(FAVORITES_KEY);
+  let entries = Object.entries(favs).map(([id, e]) => ({ id, ...e }));
+  if (currentFolder !== "全部") {
+    entries = entries.filter((e) => (e.folder || DEFAULT_FOLDER) === currentFolder);
+  }
+  entries.sort((a, b) => (a.savedAt < b.savedAt ? 1 : -1));
+
+  const articles = entries
+    .map((e) => ({ ...e.article, savedDate: e.savedAt.slice(0, 10), _folder: e.folder || DEFAULT_FOLDER }))
+    .filter((a) => matchesSearch(a, searchTerm));
+
+  countBadge.textContent = `${articles.length} 篇`;
+
+  if (articles.length === 0) {
+    listEl.innerHTML = '<p class="empty">这个文件夹还没有收藏文章。</p>';
+    return;
+  }
+
+  listEl.innerHTML = articles.map((a) => cardHtml(a, { showDate: true, folderControl: a._folder })).join("");
+  const lookup = Object.fromEntries(articles.map((a) => [a.id, a]));
+  bindCardEvents(listEl, lookup, { onFolderChange: renderFavoritesView });
+}
+
+function renderNotesView() {
+  folderRow.hidden = true;
+  const notes = readStore(NOTES_KEY);
+  const entries = Object.values(notes).sort((a, b) => (a.updatedAt < b.updatedAt ? 1 : -1));
+  const articles = entries
+    .map((e) => ({ ...e.article, savedDate: e.updatedAt.slice(0, 10) }))
+    .filter((a) => matchesSearch(a, searchTerm));
+
+  countBadge.textContent = `${articles.length} 篇`;
+
+  if (articles.length === 0) {
+    listEl.innerHTML = '<p class="empty">还没有写过笔记，在文章卡片上点"📝 笔记"试试。</p>';
+    return;
+  }
+
+  listEl.innerHTML = articles.map((a) => cardHtml(a, { showDate: true })).join("");
+  const lookup = Object.fromEntries(articles.map((a) => [a.id, a]));
+  bindCardEvents(listEl, lookup);
+  listEl.querySelectorAll(".note-box").forEach((box) => (box.hidden = false));
+}
+
+// ---------- social (Bluesky) tab ----------
+
+let socialCache = null;
+
+function socialCardHtml(p) {
+  const time = p.created_at ? new Date(p.created_at).toLocaleString("zh-CN", { month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" }) : "";
+  return `
+    <article class="social-card">
+      <div class="social-top">
+        <span class="social-handle">${escapeHtml(p.author_name)} · @${escapeHtml(p.handle)}</span>
+        <span class="social-time">${escapeHtml(time)}</span>
+      </div>
+      <p class="social-text">${escapeHtml(p.text)}</p>
+      ${p.external_thumb ? `<img class="article-img" src="${escapeHtml(p.external_thumb)}" alt="" loading="lazy" onerror="this.remove()">` : ""}
+      ${p.external_uri ? `<a class="social-link" href="${escapeHtml(p.external_uri)}" target="_blank" rel="noopener">${escapeHtml(p.external_title || "查看链接")} →</a><br>` : ""}
+      <a class="social-link" href="${escapeHtml(p.post_link)}" target="_blank" rel="noopener">在 Bluesky 上查看</a>
+    </article>
+  `;
+}
+
+async function renderSocialView() {
+  folderRow.hidden = true;
+  dateRow.style.display = "none";
+  listEl.innerHTML = '<p class="loading">加载中…</p>';
+  try {
+    if (!socialCache) {
+      const res = await fetch("data/social_latest.json", { cache: "no-store" });
+      socialCache = res.ok ? await res.json() : { posts: [] };
+    }
+    const term = searchTerm.toLowerCase();
+    const posts = (socialCache.posts || []).filter((p) =>
+      !term || `${p.text} ${p.external_title || ""} ${p.external_description || ""}`.toLowerCase().includes(term)
+    );
+    countBadge.textContent = `${posts.length} 条`;
+    if (posts.length === 0) {
+      listEl.innerHTML = '<p class="empty">还没有匹配的动态。</p>';
+      return;
+    }
+    listEl.innerHTML = posts.map(socialCardHtml).join("");
+  } catch (e) {
+    listEl.innerHTML = '<p class="empty">加载失败，请检查网络。</p>';
+  }
+}
+
 // ---------- tabs ----------
 
 function switchTab(tab) {
   currentTab = tab;
   tabButtons.forEach((btn) => btn.classList.toggle("active", btn.dataset.tab === tab));
-  dateRow.style.display = tab === "daily" ? "flex" : "none";
+  folderRow.hidden = tab !== "favorites";
 
   if (tab === "daily") {
-    if (currentDailyData) renderArticles(currentDailyData);
+    dateRow.style.display = searchTerm ? "none" : "flex";
+    if (searchTerm) renderArchiveSearch();
+    else if (currentDailyData) renderArticles(currentDailyData);
     else initDailyTab();
   } else if (tab === "favorites") {
+    dateRow.style.display = "none";
     renderFavoritesView();
   } else if (tab === "notes") {
+    dateRow.style.display = "none";
     renderNotesView();
+  } else if (tab === "social") {
+    renderSocialView();
   }
 }
 
 tabButtons.forEach((btn) => btn.addEventListener("click", () => switchTab(btn.dataset.tab)));
 dateSelect.addEventListener("change", () => loadDate(dateSelect.value));
+
+let searchDebounce;
+searchInput.addEventListener("input", () => {
+  clearTimeout(searchDebounce);
+  searchDebounce = setTimeout(() => {
+    searchTerm = searchInput.value.trim();
+    switchTab(currentTab);
+  }, 350);
+});
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {

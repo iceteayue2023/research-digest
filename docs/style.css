@@ -28,10 +28,21 @@
 
 body {
   margin: 0;
-  background: var(--bg);
   color: var(--text);
   font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Segoe UI", Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
+  background-image: linear-gradient(rgba(244, 241, 234, 0.88), rgba(244, 241, 234, 0.88)), url("images/background.jpg");
+  background-size: cover;
+  background-position: top center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-image: linear-gradient(rgba(20, 24, 19, 0.88), rgba(20, 24, 19, 0.88)), url("images/background.jpg");
+  }
 }
 
 #app {
@@ -79,6 +90,40 @@ header h1 {
   border-color: var(--accent);
 }
 
+#search-input {
+  width: 100%;
+  padding: 9px 12px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--text);
+  font-size: 0.9rem;
+}
+
+#folder-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.folder-chip {
+  padding: 5px 12px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.folder-chip.active {
+  background: var(--accent);
+  color: var(--bg);
+  border-color: var(--accent);
+}
+
 #date-row {
   display: flex;
   align-items: center;
@@ -113,6 +158,68 @@ header h1 {
   border: 1px solid var(--border);
   border-radius: 14px;
   padding: 16px;
+}
+
+.article-img {
+  display: block;
+  width: 100%;
+  max-height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background: var(--accent-soft);
+}
+
+.folder-select {
+  border: 1px solid var(--border);
+  background: var(--accent-soft);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 5px 10px;
+  font-size: 0.78rem;
+}
+
+.social-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 16px;
+}
+
+.social-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.social-handle {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.social-time {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+}
+
+.social-text {
+  font-size: 0.92rem;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  margin: 0 0 10px;
+}
+
+.social-card .article-img {
+  margin-bottom: 8px;
+}
+
+.social-link {
+  font-size: 0.85rem;
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent);
 }
 
 .card-top {

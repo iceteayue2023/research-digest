@@ -94,6 +94,21 @@ feeds:
   - name: Environmental Modelling & Software
     url: https://rss.sciencedirect.com/publication/science/13648152
 
+# 关注期刊/学会在 Bluesky 上的官方账号(handle)，免费公开API抓取，不需要登录
+bluesky_handles:
+  - nature.com
+  - science.org
+  - pnas.org
+  - natclimate.nature.com
+  - natecoevo.nature.com
+  - natsustain.nature.com
+  - natgeosci.nature.com
+  - natplants.nature.com
+  - britishecologicalsociety.org
+
+# 只看最近N天内发布的Bluesky动态
+social_max_age_days: 3
+
 # 相关性打分低于这个分数(0-10)的文章不会推送
 relevance_threshold: 6
 

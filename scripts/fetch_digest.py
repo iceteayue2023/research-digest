@@ -100,6 +100,50 @@ def fetch_via_jina_proxy(url):
         return []
 
 
+OG_IMAGE_RE = re.compile(
+    r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\'](.*?)["\']', re.IGNORECASE
+)
+
+
+def extract_og_image(html):
+    m = OG_IMAGE_RE.search(html)
+    return m.group(1) if m else None
+
+
+def fetch_og_image(article_url):
+    """尝试从文章原始页面抓取 og:image (社交分享预览图/图表首图)，只取图片地址做"引用式"展示，
+    不下载不转存图片文件本身。抓不到就返回None，前端会优雅地不显示图片区域。"""
+    if not article_url:
+        return None
+    try:
+        resp = requests.get(article_url, headers=HTTP_HEADERS, timeout=12)
+        if resp.status_code == 200:
+            image = extract_og_image(resp.text)
+            if image:
+                return image
+    except requests.RequestException:
+        pass
+
+    try:
+        resp = requests.get(
+            f"https://r.jina.ai/{article_url}",
+            headers={**HTTP_HEADERS, "X-Return-Format": "html"},
+            timeout=20,
+        )
+        if resp.status_code == 200:
+            return extract_og_image(resp.text)
+    except requests.RequestException:
+        pass
+    return None
+
+
+def enrich_with_images(digest_articles):
+    for a in digest_articles:
+        a["image_url"] = fetch_og_image(a.get("link"))
+        time.sleep(0.15)
+    return digest_articles
+
+
 def fetch_feed_entries(feed_cfg):
     try:
         resp = requests.get(feed_cfg["url"], headers=HTTP_HEADERS, timeout=15)
@@ -165,6 +209,74 @@ def fetch_candidates(config):
             })
 
     return candidates
+
+
+BSKY_HEADERS = {"User-Agent": "research-digest-app (mailto:research-digest@example.com)"}
+
+
+def fetch_bluesky_posts(config):
+    """抓取关注的期刊/学会在 Bluesky 上的官方账号动态，按关键词粗筛，免费公开API，不需要登录。"""
+    handles = config.get("bluesky_handles", [])
+    if not handles:
+        return []
+
+    max_age = timedelta(days=config.get("social_max_age_days", 3))
+    cutoff = datetime.now(timezone.utc) - max_age
+    keywords = [k.lower() for k in config["keywords"]]
+    broad_tags = {"ecology", "climate", "environmental science", "carbon", "biodiversity"}
+
+    posts = []
+    for handle in handles:
+        try:
+            resp = requests.get(
+                "https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed",
+                params={"actor": handle, "limit": 25},
+                headers=BSKY_HEADERS,
+                timeout=15,
+            )
+            if resp.status_code != 200:
+                print(f"[warn] 无法获取 Bluesky @{handle} 的动态: {resp.status_code}", file=sys.stderr)
+                continue
+            feed = resp.json().get("feed", [])
+        except requests.RequestException as e:
+            print(f"[warn] 无法获取 Bluesky @{handle} 的动态: {e}", file=sys.stderr)
+            continue
+
+        for item in feed:
+            post = item.get("post", {})
+            record = post.get("record", {})
+            created_at = record.get("createdAt")
+            try:
+                created_dt = dateparser.parse(created_at) if created_at else None
+            except (ValueError, TypeError):
+                created_dt = None
+            if created_dt and created_dt < cutoff:
+                continue
+
+            text = record.get("text", "")
+            external = (post.get("embed") or {}).get("external") or {}
+            haystack = f"{text} {external.get('title', '')} {external.get('description', '')}".lower()
+            if not (any(k in haystack for k in keywords) or any(t in haystack for t in broad_tags)):
+                continue
+
+            uri = post.get("uri", "")
+            rkey = uri.rsplit("/", 1)[-1] if uri else ""
+            author = post.get("author", {})
+
+            posts.append({
+                "handle": handle,
+                "author_name": author.get("displayName") or handle,
+                "text": text,
+                "created_at": created_at,
+                "post_link": f"https://bsky.app/profile/{handle}/post/{rkey}" if rkey else "",
+                "external_title": external.get("title"),
+                "external_description": external.get("description"),
+                "external_uri": external.get("uri"),
+                "external_thumb": external.get("thumb"),
+            })
+
+    posts.sort(key=lambda p: p.get("created_at") or "", reverse=True)
+    return posts
 
 
 def fetch_crossref_authors(doi):
@@ -484,6 +596,10 @@ def main():
     candidates = fetch_candidates(config)
     print(f"[info] 粗筛后候选文章数: {len(candidates)}")
 
+    print("[info] 抓取期刊Bluesky动态...")
+    social_posts = fetch_bluesky_posts(config)
+    print(f"[info] 匹配到 {len(social_posts)} 条Bluesky动态")
+
     if candidates:
         print("[info] 尝试补全作者单位信息 (Crossref)...")
         candidates = enrich_with_affiliations(candidates)
@@ -501,9 +617,10 @@ def main():
     digest.sort(key=lambda x: x.get("relevance_score", 0), reverse=True)
 
     if digest:
-        print("[info] 抓取作者ORCID履历与相关文献...")
+        print("[info] 抓取作者ORCID履历、相关文献与预览图...")
         digest = enrich_with_author_profiles(digest)
         digest = enrich_with_related_papers(digest)
+        digest = enrich_with_images(digest)
 
         print(f"[info] 对 {len(digest)} 篇入选文章生成深度解读 (DeepSeek)...")
         digest = deep_analyze(client, config["model"], config["research_profile"], digest)
@@ -525,6 +642,14 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
     with open(DATA_DIR / "latest.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
+
+    social_output = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "count": len(social_posts),
+        "posts": social_posts,
+    }
+    with open(DATA_DIR / "social_latest.json", "w", encoding="utf-8") as f:
+        json.dump(social_output, f, ensure_ascii=False, indent=2)
 
     # 更新已处理索引（更新到 index.json 供前端展示历史日期列表）
     index_path = DATA_DIR / "index.json"

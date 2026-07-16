@@ -1,10 +1,11 @@
-const CACHE_NAME = "research-digest-shell-v3";
+const CACHE_NAME = "research-digest-shell-v4";
 const SHELL_FILES = [
   "./",
   "./index.html",
   "./style.css",
   "./app.js",
   "./manifest.json",
+  "./images/background.jpg",
 ];
 
 self.addEventListener("install", (event) => {
