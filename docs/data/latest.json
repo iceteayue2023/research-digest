@@ -1,8 +1,73 @@
 {
   "date": "2026-07-17",
   "generated_at": "2026-07-17T07:55:32.896538+00:00",
-  "count": 5,
+  "count": 6,
   "articles": [
+    {
+      "id": "https://doi.org/10.1111/1365-2435.70409",
+      "title": "Integrating large mammalian herbivores into Dynamic Global Vegetation Models: Status and next steps",
+      "link": "https://doi.org/10.1111/1365-2435.70409",
+      "summary": "Zoogeochemistry, the study of how animals influence elemental cycling within ecosystems, bridges the fields of zoology, ecology and biogeochemistry. Yet, most terrestrial ecosystem models, especially Dynamic Global Vegetation Models (DGVMs), remain largely plant-centric and rarely capture animal-driven feedbacks. We review global evidence from field observations, experimental manipulations, remote sensing and modelling to understand how animals influence carbon, nitrogen and phosphorus cycling through consumption, transformation and redistribution (via faeces, urine and carcasses) and physical disturbances (e.g. trampling), focusing primarily on terrestrial vertebrates, particularly large mammals. We trace the historical development of how animals have been represented in DGVMs and propose a modular framework guided by the principle of 'complexity by necessity', which links trait-based animal cohorts to above- and below-ground processes.",
+      "journal": "Functional Ecology",
+      "published": "2026-07-17T00:00:00+00:00",
+      "doi": "10.1111/1365-2435.70409",
+      "affiliation": "Center for Ecological Dynamics in a Novel Biosphere (ECONOVO), Department of Biology, Aarhus University, Denmark; Department of Geosciences and Natural Resource Management, University of Copenhagen, Denmark",
+      "title_zh": "将大型哺乳动物食草者纳入动态全球植被模型：现状与下一步",
+      "relevance_score": 10,
+      "key_conclusion": "这篇综述系统梳理了动物地球化学(zoogeochemistry)研究证据，指出当前动态全球植被模型(DGVM)基本以植物为中心，很少捕捉动物驱动的反馈（采食、排泄物输入、践踏扰动等对碳氮磷循环的影响）。作者提出了一个基于\"必要复杂度\"原则的模块化框架，将基于性状的动物功能群与地上/地下过程通过采食、排泄等机制连接起来，主张用显式机制建模取代传统的\"黑箱\"处理方式。",
+      "relevance_note": "这篇文章几乎是为你的研究方向量身定制的综述——直接讨论大型食草动物(重野化)如何通过zoogeochemistry机制被纳入地球系统/植被模型，与你的核心课题（大型食草动物重野化对土壤碳的影响）高度重合，强烈建议精读。",
+      "related_papers": [
+        {
+          "title": "Trophic rewilding can expand natural climate solutions",
+          "link": "https://doi.org/10.1038/s41558-023-01631-6",
+          "venue": "Nature Climate Change",
+          "year": 2023
+        },
+        {
+          "title": "Herbivore impacts on carbon cycling in boreal forests",
+          "link": "https://doi.org/10.1016/j.tree.2020.07.009",
+          "venue": "Trends in Ecology & Evolution",
+          "year": 2020
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何将大型哺乳动物食草者驱动的生物地球化学过程（采食、排泄、践踏等）系统性地整合进动态全球植被模型(DGVM)，以更准确地模拟碳氮磷循环？",
+      "contributions_limitations": "贡献：系统综述了动物驱动生物地球化学过程的证据，回顾了DGVM中动物表征的历史演进（从隐式到显式），并提出了一个可操作的模块化建模框架。局限：文中明确指出目前在捕捉动物驱动过程与功能性状的关联、动物-微生物互作、以及模型验证方法上仍存在持续的空白，这些是尚待填补的研究空间。",
+      "follow_up_research": "可以直接基于本文提出的\"trait-based animal cohorts\"模块化框架，设计针对特定重野化区域（如欧洲）的DGVM参数化方案；也可以聚焦文中提到的模型验证空白，用你自己的实地放牧强度数据做经验验证。",
+      "next_step_perspective": "这篇文章提供的建模框架可以直接作为你研究的理论/方法基础：把你已有的放牧强度-土壤碳观测数据，映射到文中的'consumption-transformation-redistribution-disturbance'四类动物驱动机制上，可能为你的研究提供一个更严谨的机制分类体系，也便于未来把你的实证发现反哺进DGVM开发。",
+      "why_this_journal": "Functional Ecology注重机制性、功能性状驱动的生态学研究，本文横跨动物生态学、生物地球化学与地球系统建模，兼具理论整合价值与模型开发的实际指导意义，是DGVM子领域少见的针对性综述。",
+      "author_profile": {
+        "name": "Yue Cheng",
+        "institution": "Center for Ecological Dynamics in a Novel Biosphere (ECONOVO), Aarhus University",
+        "intro": "目前在丹麦奥胡斯大学ECONOVO中心工作。近期研究高度集中于重野化对土壤温室气体通量与碳动态的建模（包括欧洲背景下的重野化建模研究），与你的研究方向几乎完全重合，值得关注其后续工作。",
+        "other_works": [
+          {
+            "title": "Peak season soil GHG exchange after 23 years of ungulate exclusion in an old-growth temperate forest",
+            "year": "2026",
+            "journal": "Agricultural and Forest Meteorology",
+            "doi": "10.1016/j.agrformet.2026.111329"
+          },
+          {
+            "title": "Modeling the effects of rewilding on soil carbon dynamics and greenhouse gas mitigation in Europe",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu25-11704"
+          },
+          {
+            "title": "Effects of different nature management strategies on soil GHG fluxes: Trophic rewilding, passive rewilding and mowing",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu25-17711"
+          },
+          {
+            "title": "Distributions and drivers of soil organic carbon on the Tibetan Plateau",
+            "year": "2025",
+            "journal": "Plant and Soil",
+            "doi": "10.1007/s11104-025-07845-1"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.science.org/doi/abs/10.1126/science.aeb2344?af=R",
       "title": "Drying of the Aral Sea reshapes the anthropogenic carbon inventory of Central Asia",
