@@ -1,8 +1,67 @@
 {
   "date": "2026-07-16",
   "generated_at": "2026-07-16T20:58:55.788299+00:00",
-  "count": 24,
+  "count": 29,
   "articles": [
+    {
+      "id": "https://doi.org/10.1016/j.oneear.2026.101704",
+      "title": "Toward climate-smart rewilding: An integrated framework for biodiversity, climate change, and society",
+      "link": "https://doi.org/10.1016/j.oneear.2026.101704",
+      "summary": "(摘要未公开，以下分析基于标题、期刊定位及作者既往研究方向推测)",
+      "journal": "One Earth",
+      "published": "2026-06-01T00:00:00+00:00",
+      "doi": "10.1016/j.oneear.2026.101704",
+      "affiliation": "German Centre for Integrative Biodiversity Research (iDiv), Leipzig",
+      "title_zh": "迈向气候智慧型重野化：一个整合生物多样性、气候变化与社会的框架",
+      "relevance_score": 10,
+      "key_conclusion": "（摘要未公开，基于标题与作者既往研究推测）本文提出一个整合性框架，将重野化实践与气候变化应对、生物多样性保护及社会维度（公众参与、治理）统一考虑，即“气候智慧型重野化”。具体量化结论建议查阅原文。",
+      "relevance_note": "与你的核心研究方向（大型食草动物重野化）几乎完全重合，是你主动指名想看的文章。提供了一个更高层次的整合框架，把你研究的碳循环议题放进更大的气候-生物多样性-社会政策图景。",
+      "related_papers": [
+        {
+          "title": "Actions to halt biodiversity loss generally benefit the climate",
+          "link": "https://doi.org/10.1111/gcb.16109",
+          "venue": "Global Change Biology",
+          "year": 2022
+        },
+        {
+          "title": "Transforming forest management through rewilding: Enhancing biodiversity and climate resilience",
+          "link": "https://doi.org/10.1016/j.oneear.2025.101195",
+          "venue": "One Earth",
+          "year": 2025
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何构建一个同时兼顾生物多样性恢复、气候变化减缓/适应、以及社会可接受性的重野化实施框架？",
+      "contributions_limitations": "（基于标题推测）贡献可能在于首次系统性整合气候、生物多样性与社会维度进统一的重野化决策框架。局限性无法从标题判断，建议查阅原文。",
+      "follow_up_research": "可将该框架应用到大型食草动物重野化案例中，检验土壤碳收益能否在多目标框架下被量化和权衡；也可探索“社会”维度如何影响放牧/重野化强度决策。",
+      "next_step_perspective": "可能为你的研究提供上位理论框架，把“食草动物重野化对土壤碳的影响”这一具体机制研究嵌入更大的政策/社会讨论中，有助于论证研究的现实意义。",
+      "why_this_journal": "（推测）One Earth强调跨学科整合(环境科学-社会科学-政策)，本文横跨生物多样性、气候变化与社会治理，符合期刊定位。",
+      "author_profile": {
+        "name": "Gavin Stark",
+        "institution": "German Centre for Integrative Biodiversity Research (iDiv)",
+        "intro": "目前就职于iDiv。近期论文持续深耕rewilding领域，包括两栖动物、爬行动物重野化恢复生态系统功能，是专注重野化实践与理论的研究者，与你的方向高度契合。",
+        "other_works": [
+          {
+            "title": "The Hidden Costs of Climate Change Tracking: Climate Velocity, Movement Energetics, and Connectivity in European Protected Areas",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.64898/2026.04.20.719608"
+          },
+          {
+            "title": "Rewilding a vanishing taxon – Restoring aquatic ecosystems using amphibians",
+            "year": "2024",
+            "journal": "Biological Conservation",
+            "doi": "10.1016/j.biocon.2024.110559"
+          },
+          {
+            "title": "Rewilding in cold blood: Restoring functionality in degraded ecosystems using herbivorous reptiles",
+            "year": "2024",
+            "journal": "Global Ecology and Conservation",
+            "doi": "10.1016/j.gecco.2024.e02834"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002437",
       "title": "me4soc: a multi-model ensemble interface for soil organic carbon predictions",
@@ -426,6 +485,82 @@
       }
     },
     {
+      "id": "https://doi.org/10.1016/j.tree.2021.05.010",
+      "title": "Extended phenotypes: buffers or amplifiers of climate change?",
+      "link": "https://doi.org/10.1016/j.tree.2021.05.010",
+      "summary": "(摘要未公开，以下分析基于标题与领域背景推测)",
+      "journal": "Trends in Ecology and Evolution",
+      "published": "2021-10-01T00:00:00+00:00",
+      "doi": "10.1016/j.tree.2021.05.010",
+      "affiliation": null,
+      "title_zh": "延伸表型：气候变化的缓冲器还是放大器？",
+      "relevance_score": 8,
+      "key_conclusion": "（摘要未公开，基于标题推测）本文讨论生物构建的“延伸表型”（如巢穴、丝网、洞穴等生物自建结构/行为）在多大程度上能缓冲个体免受气候变化影响，又在何种情况下反而会放大气候变化的负面效应。",
+      "relevance_note": "你明确指名想看的文章。延伸表型概念可用于思考大型食草动物的行为/构筑活动（如践踏形成的微地形、粪便堆积）如何缓冲或放大气候变化对土壤碳过程的影响，是一个有启发性的理论视角。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "生物的延伸表型（自建结构与相关行为）在什么条件下能缓冲气候变化压力，又在什么条件下会放大压力，其背后的一般性规律是什么？",
+      "contributions_limitations": "（基于标题推测）贡献可能在于提出一个跨物种、跨系统的理论框架，用于预测延伸表型的气候缓冲/放大效应方向。局限性无法从标题判断，建议查阅原文获取具体案例与机制。",
+      "follow_up_research": "可探索大型食草动物的活动痕迹（践踏形成的地形异质性、粪便斑块）是否构成一种“延伸表型”，并检验其对局地土壤温湿度、碳矿化速率的缓冲/放大效应。",
+      "next_step_perspective": "这个理论框架可以为你解释“动物活动如何间接调节土壤碳对气候变化的响应”提供一个新的概念工具，值得在文献综述部分引用来搭建理论桥梁。",
+      "why_this_journal": "（推测）Trends in Ecology and Evolution擅长发表整合性强、启发新研究方向的观点类文章，这篇提出了一个可迁移到多个子领域的概念框架，符合期刊定位。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.1016/j.tree.2026.04.006",
+      "title": "Nature-based solutions: a double-edged sword for biological invasions?",
+      "link": "https://doi.org/10.1016/j.tree.2026.04.006",
+      "summary": "(摘要未公开，以下分析基于标题与领域背景推测)",
+      "journal": "Trends in Ecology and Evolution",
+      "published": "2026-07-01T00:00:00+00:00",
+      "doi": "10.1016/j.tree.2026.04.006",
+      "affiliation": "Stellenbosch University",
+      "title_zh": "基于自然的解决方案：应对生物入侵的双刃剑？",
+      "relevance_score": 8,
+      "key_conclusion": "（摘要未公开，基于标题推测）本文探讨基于自然的解决方案(NbS)在应对气候变化的同时，可能无意中助长生物入侵风险的双重性，呼吁在NbS设计中纳入入侵风险评估。",
+      "relevance_note": "你明确指名想看的文章，也符合你对NbS在气候变化中的作用与局限的关注点。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "基于自然的解决方案（如植树造林、湿地恢复）在实现气候目标的同时，是否会、以及通过何种机制增加生物入侵的风险？",
+      "contributions_limitations": "（基于标题推测）贡献可能在于系统梳理NbS与入侵生态学的交叉风险，提出风险规避原则。局限性无法从标题判断。",
+      "follow_up_research": "可评估重野化（作为一种NbS）本身是否存在类似的入侵风险权衡，例如引入的大型食草动物或伴随的植被变化是否可能为入侵物种创造机会。",
+      "next_step_perspective": "提醒你在讨论重野化的生态系统服务收益时，也应考虑潜在的负面权衡（如入侵风险），让研究论证更全面。",
+      "why_this_journal": "（推测）TREE偏好发表对政策实践有直接指导意义、能引发领域内讨论的观点文章，NbS与生物入侵的张力是当前气候-生态政策的热点议题。",
+      "author_profile": {
+        "name": "Luke J. Potgieter",
+        "institution": "Stellenbosch University",
+        "intro": "目前就职于南非斯泰伦博斯大学，该校是入侵生态学研究重镇（CIB中心所在地）。",
+        "other_works": []
+      }
+    },
+    {
+      "id": "https://doi.org/10.1016/j.tree.2026.01.005",
+      "title": "Human-induced trait shifts reshape predator–prey interactions",
+      "link": "https://doi.org/10.1016/j.tree.2026.01.005",
+      "summary": "(摘要未公开，以下分析基于标题与领域背景推测)",
+      "journal": "Trends in Ecology and Evolution",
+      "published": "2026-05-01T00:00:00+00:00",
+      "doi": "10.1016/j.tree.2026.01.005",
+      "affiliation": "Charles Sturt University",
+      "title_zh": "人类导致的性状变化重塑捕食者-猎物关系",
+      "relevance_score": 8,
+      "key_conclusion": "（摘要未公开，基于标题推测）本文综述人类活动（狩猎、栖息地改变、气候变化等）如何驱动捕食者和猎物的性状（体型、行为、生理等）发生变化，进而重塑二者间的相互作用动态。",
+      "relevance_note": "你明确指名想看的文章。捕食者-猎物关系是重野化恢复食物网结构的核心机制之一，性状介导的视角对理解重野化后生态系统如何重新达到平衡有直接参考价值。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "人类活动导致的捕食者与猎物性状变化，通过哪些机制重塑二者的相互作用强度与稳定性？",
+      "contributions_limitations": "（基于标题推测）贡献可能在于整合性状介导捕食理论与人类世背景，提出预测性框架。局限性无法从标题判断。",
+      "follow_up_research": "可探索重野化引入的大型食草动物性状（体型、警觉行为）在缺乏顶级捕食者或捕食者种群仍在恢复阶段时如何变化，及其对植被利用/践踏强度的连锁影响。",
+      "next_step_perspective": "为你理解“重野化恢复的食物网是否能重建历史性状-互作格局”提供理论视角，也提示在设计放牧强度实验时考虑食草动物的行为性状可塑性。",
+      "why_this_journal": "（推测）TREE偏好整合性、有理论推广价值的综述，人类世背景下的性状-互作变化是行为生态学与保护生态学交叉的热点。",
+      "author_profile": {
+        "name": "Eamonn I.F. Wooster",
+        "institution": "Charles Sturt University",
+        "intro": "目前就职于查尔斯特大学，澳大利亚，该机构在捕食者生态学与重野化研究方面有较强积累。",
+        "other_works": []
+      }
+    },
+    {
       "id": "https://www.nature.com/articles/s41561-026-02064-4",
       "title": "Publisher Correction: Limited energy for microorganisms constrains carbon accrual in soil",
       "link": "https://www.nature.com/articles/s41561-026-02064-4",
@@ -775,6 +910,33 @@
             "doi": "10.1111/1365-2745.70270"
           }
         ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.1016/j.tree.2025.06.014",
+      "title": "How can China protect 30% of its land?",
+      "link": "https://doi.org/10.1016/j.tree.2025.06.014",
+      "summary": "(摘要未公开，以下分析基于标题与领域背景推测)",
+      "journal": "Trends in Ecology and Evolution",
+      "published": "2025-09-01T00:00:00+00:00",
+      "doi": "10.1016/j.tree.2025.06.014",
+      "affiliation": "South China Botanical Garden, Chinese Academy of Sciences",
+      "title_zh": "中国如何实现保护30%国土面积的目标？",
+      "relevance_score": 7,
+      "key_conclusion": "（摘要未公开，基于标题推测）本文围绕“30x30”全球生物多样性目标，讨论中国实现保护30%陆地面积这一目标所面临的挑战与可行路径。",
+      "relevance_note": "你明确指名想看的文章。虽然聚焦中国而非欧洲，但30x30目标框架下的土地保护/恢复策略讨论，对评估重野化作为达成保护目标手段之一的可行性有参考价值。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "中国要实现“保护30%陆地面积”这一全球生物多样性目标，需要克服哪些制度、生态与社会经济障碍，有哪些可行路径？",
+      "contributions_limitations": "（基于标题推测）贡献可能在于结合中国具体国情（土地权属、人口密度、现有保护地体系）提出实施路径。局限性无法从标题判断，地域针对性强，向欧洲情境的直接推广需谨慎。",
+      "follow_up_research": "可比较中国与欧洲在实现30x30目标时对“重野化”这一手段的采纳程度与实施方式差异。",
+      "next_step_perspective": "为你思考重野化研究成果的政策转化路径提供一个国际比较视角（欧洲 vs 中国的保护地扩张策略）。",
+      "why_this_journal": "（推测）TREE关注具有全球政策意义的保护生物学议题，30x30目标的国别实施路径是当前保护生态学的核心议题之一。",
+      "author_profile": {
+        "name": "Hai Ren",
+        "institution": "South China Botanical Garden, Chinese Academy of Sciences",
+        "intro": "目前就职于中国科学院华南植物园，长期从事恢复生态学与保护地体系相关研究。",
+        "other_works": []
       }
     },
     {
