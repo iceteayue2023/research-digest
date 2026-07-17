@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-16T20:58:55.792257+00:00",
+  "generated_at": "2026-07-17T02:55:54.978006+00:00",
   "count": 14,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "In this issue: Effects of ice shelf fractures on the rate of ice loss, temperature thresholds in tropical forests, and energy requirements of Hannibal’s crossing of the Alps. In PNAS: https://ow.ly/jhuN50Zo5hF",
+      "created_at": "2026-07-16T21:00:20.068623392Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mqs4x7yihr2t",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -144,17 +155,6 @@
       "external_description": "Climate change is a threat to many species. Here the authors show that species’ range dynamics determine the ability of correlative and process-based models to predict extinction risk under climate ch...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03125-y",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiecbfutd2rmzjqn7hzbxkitfcgq4d2btbedj75ry452ke43slreoi"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "🌍 #SDG 13: Climate Action\n\nA PNAS study finds that a new climate regime is restructuring the ecology of Canada's Northern Great Lakes, highlighting how peer-reviewed research can support progress toward the UN Sustainable Development Goals.\n\nRead the article: https://ow.ly/fFf250ZmIi4 ",
-      "created_at": "2026-07-13T23:00:15.117984962Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mqksav73fh2g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
