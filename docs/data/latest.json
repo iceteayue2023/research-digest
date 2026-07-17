@@ -1,8 +1,174 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T02:55:54.977377+00:00",
-  "count": 1,
+  "generated_at": "2026-07-17T07:55:32.896538+00:00",
+  "count": 5,
   "articles": [
+    {
+      "id": "https://www.science.org/doi/abs/10.1126/science.aeb2344?af=R",
+      "title": "Drying of the Aral Sea reshapes the anthropogenic carbon inventory of Central Asia",
+      "link": "https://www.science.org/doi/abs/10.1126/science.aeb2344?af=R",
+      "summary": "Science, Volume 393, Issue 6808, Page 300-305, July 2026.",
+      "journal": "Science",
+      "published": "2026-07-16T06:00:06+00:00",
+      "doi": "10.1126/science.aeb2344",
+      "affiliation": "Centre for Advanced Studies, Spanish National Research Council (CEAB-CSIC), Blanes, Spain.; Catalan Institute for Water Research (ICRA), Girona, Spain.; Siberian Federal University (SFU), Krasnoyarsk, Russia.",
+      "title_zh": "咸海干涸重塑中亚人为碳库",
+      "relevance_score": 6,
+      "key_conclusion": "该研究揭示了咸海干涸导致大面积湖床暴露，改变了中亚地区的人为碳循环，可能释放大量历史封存的有机碳。这凸显了大型水文生态变化对区域碳收支的重要影响。",
+      "relevance_note": "研究关注干旱区巨大水体消失对碳库的影响，与你关注的陆地生态系统碳循环（尤其是退化与碳损失）高度相关。文章发表在Science正刊，且涉及碳库变化，值得关注。",
+      "related_papers": [
+        {
+          "title": "Organic aerosol and global climate modelling: a review",
+          "link": "https://doi.org/10.5194/acp-5-1053-2005",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2005
+        },
+        {
+          "title": "Earth beyond six of nine planetary boundaries",
+          "link": "https://doi.org/10.1126/sciadv.adh2458",
+          "venue": "Science Advances",
+          "year": 2023
+        },
+        {
+          "title": "A comprehensive biomass burning emission inventory with high spatial and temporal resolution in China",
+          "link": "https://doi.org/10.5194/acp-17-2839-2017",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2017
+        },
+        {
+          "title": "Sources and light absorption of water-soluble organic carbon aerosols in the outflow from northern China",
+          "link": "https://doi.org/10.5194/acp-14-1413-2014",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2014
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "咸海的干涸如何改变中亚地区的人为碳循环？具体而言，大面积湖床的暴露对历史封存有机碳的释放及区域碳收支有何影响？",
+      "contributions_limitations": "主要贡献：首次定量评估了大型内陆水体干涸对区域碳循环的重塑作用，揭示了历史封存有机碳可能大量释放，这为理解极端水文事件（如人类活动导致的水体消失）对碳收支的影响提供了新视角。局限性：基于现有摘要信息，其具体机制（如释放速率、微生物分解路径）和空间范围（对中亚整体碳预算的相对贡献）尚不明确，建议查看原文获取详细数据和模型结果。",
+      "follow_up_research": "后续研究可关注：1) 干涸湖床上的植被恢复过程（如自然演替或人为干预）是否能部分抵消碳释放，这与rewilding中的植被-土壤反馈直接相关；2) 暴露出的历史有机质是否会被微生物快速分解，其化学稳定性（POM vs MAOM）如何，可结合土壤有机质形成机制开展研究。",
+      "next_step_perspective": "这篇文章提示您：在大型食草动物重野化研究中，若涉及湿地或湖泊边缘退化生态系统的恢复，需要考虑水文条件剧烈变化（如排水、干旱化）对土壤碳库稳定性的影响。其研究方法（如碳收支估算模型）可迁移至评估rewilding过程中水位变动区域（如欧洲退化湿地的恢复）的碳后果。",
+      "why_this_journal": "推测：Science正刊看重该研究颠覆性的环境意义——揭示了一个此前被忽视的大型人为碳源（咸海干涸），并具有全球类比价值（如里海、美国大盐湖等），跨地球科学与生态学的创新性突出。",
+      "author_profile": {
+        "name": "Rafael Marcé",
+        "institution": "Centre d'Estudis Avançats de Blanes (CEAB-CSIC)",
+        "intro": "Rafael Marcé目前就职于西班牙布拉内斯高级研究中心（CEAB-CSIC），从其历史论文看，主要研究方向为淡水生态系统碳动态，包括溶解有机碳的机器学习预测、内陆水体温室气体排放，以及本文关注的咸海碳循环。这些研究与您的方向（生态系统碳循环、土壤有机质）有交叉，尤其在湿地/水体-陆地界面碳通量的模拟与观测方法上可提供技术参考。",
+        "other_works": [
+          {
+            "title": "Drying of the Aral Sea reshapes the anthropogenic carbon inventory of Central Asia",
+            "year": "2026",
+            "journal": "Science",
+            "doi": "10.1126/science.aeb2344"
+          },
+          {
+            "title": "A machine learning approach to driver attribution of dissolved organic matter dynamics in two contrasting freshwater systems",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-2661-2026"
+          },
+          {
+            "title": "Seasonal forecasting of dissolved organic carbon in a Mediterranean catchment: Enhancing upstream control of disinfection by-product precursors",
+            "year": "2026",
+            "journal": "Environmental Monitoring and Assessment",
+            "doi": "10.1007/s10661-026-15288-z"
+          },
+          {
+            "title": "Net CO2 Emissions From Dry Inland Waters Persist in the Presence of Vegetation",
+            "year": "2026",
+            "journal": "Global Biogeochemical Cycles",
+            "doi": "10.1029/2025gb008801"
+          },
+          {
+            "title": "Machine learning-based seasonal forecasting of dissolved organic matter to support drinking water management at the source ",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-15667"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-6417-2026",
+      "title": "A high-resolution urban CO2 transport model with anthropogenic and biogenic fluxes",
+      "link": "https://doi.org/10.5194/gmd-19-6417-2026",
+      "summary": "A high-resolution urban CO2 transport model with anthropogenic and biogenic fluxes\n                    Linfeng Li, Jie Zheng, and Fangxin Fang\n                        Geosci. Model Dev., 19, 6417–6449, https://doi.org/10.5194/gmd-19-6417-2026, 2026\n                        Cities need better tools to understand where carbon dioxide comes from and how it moves through streets and green spaces. We developed a computer model that simulates carbon dioxide in cities at fine detail, including emissions from human activities and exchanges with vegetation. Tests in London and against independent observations showed that the model reproduces daily and seasonal patterns well. The results can help improve estimates of urban emissions and support climate action in cities.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-07-17T08:30:01+02:00",
+      "doi": "10.5194/gmd-19-6417-2026",
+      "affiliation": null,
+      "title_zh": "一个包含人为和生物通量的高分辨率城市CO2输运模型",
+      "relevance_score": 6,
+      "key_conclusion": "开发了一个精细分辨率的城市CO2模型，包含人为排放和植被与大气间的碳交换，在伦敦的验证显示了良好的日、季节模拟能力，有助于改善城市排放估算。",
+      "relevance_note": "该模型核心关注城市碳循环，特别是CO2通量（生物源+人为源），与你的“陆地生态系统碳循环”和“生态系统模型改进”主题直接相关。城市生态系统作为特殊陆地系统，其碳收支研究对你具有参考价值。",
+      "related_papers": [
+        {
+          "title": "Estimates of global terrestrial isoprene emissions using MEGAN (Model of Emissions of Gases and Aerosols from Nature)",
+          "link": "https://doi.org/10.5194/acp-6-3181-2006",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2006
+        },
+        {
+          "title": "The Indianapolis Flux Experiment (INFLUX): A test-bed for developing urban greenhouse gas emission measurements",
+          "link": "https://doi.org/10.1525/elementa.188",
+          "venue": "Elementa Science of the Anthropocene",
+          "year": 2017
+        },
+        {
+          "title": "Accounting for urban biogenic fluxes in regional carbon budgets",
+          "link": "https://doi.org/10.1016/j.scitotenv.2017.03.028",
+          "venue": "The Science of The Total Environment",
+          "year": 2017
+        },
+        {
+          "title": "Description and evaluation of the Model for Ozone and Related chemical Tracers, version 4 (MOZART-4)",
+          "link": "https://doi.org/10.5194/gmd-3-43-2010",
+          "venue": "Geoscientific model development",
+          "year": 2010
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/6417/2026/gmd-19-6417-2026-avatar-web.png",
+      "scientific_question": "如何构建一个高分辨率的城市CO₂传输模型，同时准确耦合人为排放和植被生物源通量，以改进城市尺度的碳收支估算？",
+      "contributions_limitations": "主要贡献：开发了一个精细空间分辨率的城市CO₂模型，成功整合了人为和植被生物源通量，并在伦敦经过独立观测验证，增强了城市碳核算的能力。局限性：基于摘要信息，模型对植被功能的刻画可能较简化（如未区分不同植物功能类型或土壤碳动态），且主要聚焦城市环境，对自然生态系统（如重野化区域）的适用性需进一步评估。",
+      "follow_up_research": "后续工作可：1) 将该模型框架扩展至半自然或恢复中的生态系统（如rewilding区域），以解析植被恢复（如大型食草动物引入后的草-灌-树动态）对区域碳通量的影响；2) 引入DGVM中的动态植被模块，模拟长期植被演替与碳收支的互馈。",
+      "next_step_perspective": "这篇文章为您提供的方法启发：其精细尺度建模思路（如街道-公园级别）可用于评估重野化项目在小流域或保护区的碳效应，尤其是动物活动造成的“热点”碳通量（如排泄物分解、土壤扰动）。此外，人为与生物源通量的耦合方法对您研究动物介导的生物地球化学循环（如食草动物粪便的碳氮释放）也有借鉴意义。",
+      "why_this_journal": "推测：Geoscientific Model Development专注于地球系统模型开发，本文模型的高分辨率和耦合创新（人为+生物通量）符合期刊对方法学新进展的定位，且具备实际应用价值（支撑城市气候行动）。",
+      "author_profile": {
+        "name": "Linfeng Li",
+        "institution": null,
+        "intro": "Linfeng Li目前机构未在给定信息中明确，从其历史论文看，主要研究方向为城市碳通量模型开发（如PALM-CO2）、人工智能（神经网络）在地球系统模型中的应用，以及数据同化方法。这些研究偏重计算建模，与您的生态过程实证研究方向形成互补，若合作可为其模型提供野外观测数据验证。",
+        "other_works": [
+          {
+            "title": "A high-resolution urban CO2 transport model with anthropogenic and biogenic fluxes",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-6417-2026"
+          },
+          {
+            "title": "PALM-CO2 (v01): A High-Resolution Urban CO2 Transport Model with Anthropogenic and Biogenic Fluxes",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-970"
+          },
+          {
+            "title": "Duo‐AttnOPNets: Advancing Global Operational Forecasting for Atmospheric Carbon Monoxide With AI‐Empowered 4D‐Var",
+            "year": "2026",
+            "journal": "Journal of Advances in Modeling Earth Systems",
+            "doi": "10.1029/2025MS005319"
+          },
+          {
+            "title": "Data assimilation by optimized neural network for the fluidity code",
+            "year": "2025",
+            "journal": "Physics of Fluids",
+            "doi": "10.1063/5.0273157"
+          },
+          {
+            "title": "Neural Network Implementation of Finite Element Models for Fluid-Structure Interaction",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.52843/cassyni.6sxy94"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.nature.com/articles/s41559-026-03149-4",
       "title": "Publisher Correction: Top-down effects dominate the relationship between plant–herbivorous insect interactions and ecosystem stability",
@@ -85,6 +251,136 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70497?af=R",
+      "title": "Environmental detection of the amphibian chytrid fungus in water bodies is associated with host infection along a deforestation gradient",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70497?af=R",
+      "summary": "Journal of Applied Ecology, Volume 63, Issue 7, July 2026.",
+      "journal": "Journal of Applied Ecology",
+      "published": "2026-07-16T18:56:45-07:00",
+      "doi": "10.1111/1365-2664.70497",
+      "affiliation": "Departamento de Biodiversidade Centro de Aquicultura (CAUNESP) e CBioClima, Instituto de Biociências, Universidade Estadual Paulista  Rio Claro São Paulo Brazil; Departamento de Fisiologia Geral Instituto de Biociências, Universidade de São Paulo  São Paulo São Paulo Brazil; Department of Biology, College of Science and Engineering Texas State University  San Marcos Texas USA",
+      "title_zh": "沿森林砍伐梯度，水环境中两栖动物壶菌的环境检测与宿主感染相关",
+      "relevance_score": 5,
+      "key_conclusion": "研究证实，在森林砍伐梯度上，水体中检测到的两栖动物壶菌（一种致命病原体）与环境因子相关，且与两栖动物宿主的感染率显著关联，说明栖息地退化加剧了疾病传播风险。",
+      "relevance_note": "文章涉及森林退化（栖息地变化）对宿主-病原体动态的影响，与你的“植物-微生物/动物互作”及“生态系统功能恢复”主题存在联系。虽然不直接涉及大型食草动物，但环境变化介导的生物相互作用（尤其是疾病）是你关注的方向之一。研究地点在巴西（非欧洲），但讨论主题有交叉。",
+      "related_papers": [
+        {
+          "title": "Deforestation, host community structure, and amphibian disease risk",
+          "link": "https://doi.org/10.1016/j.baae.2015.08.004",
+          "venue": "Basic and Applied Ecology",
+          "year": 2015
+        },
+        {
+          "title": "Disease Risk in Temperate Amphibian Populations Is Higher at Closed-Canopy Sites",
+          "link": "https://doi.org/10.1371/journal.pone.0048205",
+          "venue": "PLoS ONE",
+          "year": 2012
+        },
+        {
+          "title": "Data from: Environmental detection of the amphibian chytrid fungus in water bodies is associated with host infection along a deforestation gradient",
+          "link": "https://doi.org/10.5061/dryad.1g1jwsvd1",
+          "venue": "DRYAD",
+          "year": 2026
+        },
+        {
+          "title": "Understanding the drivers of<scp>S</scp>outheast<scp>A</scp>sian biodiversity loss",
+          "link": "https://doi.org/10.1002/ecs2.1624",
+          "venue": "Ecosphere",
+          "year": 2017
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在森林砍伐梯度上，水体中两栖动物壶菌（Batrachochytrium dendrobatidis）的环境DNA检测是否预测了宿主感染率？栖息地退化如何影响该疾病的传播？",
+      "contributions_limitations": "主要贡献：提供了栖息地退化（森林砍伐）加剧两栖动物疾病传播风险的经验证据，并建立了环境检测与宿主感染率的定量关联，为疾病监测提供了有效工具。局限性：基于摘要，环境因素的具体中介机制（如温度、湿度变化如何影响真菌存活）可能未完全阐明，且研究局限于两栖动物系统，对大型食草动物重野化中的疾病风险启示需谨慎外推。",
+      "follow_up_research": "后续可研究：1) 在重野化恢复的生态系统中，大型食草动物的回归是否通过改变栖息地结构（如增加开放水域、践踏植被）影响野生动物的病原体循环，类似疾病生态学问题；2) 环境DNA方法学可迁移至监测重野化后土壤微生物群落（如病原菌）的变化。",
+      "next_step_perspective": "这篇文章为您提示：重野化项目不仅涉及植物-土壤反馈，还应考虑动物健康与疾病风险的生态后果。其环境DNA检测病原体的思路可用于监测大型食草动物引入对土壤和水体微生物组（如人畜共患病原体）的潜在影响，是您关注“植物-动物-微生物互作”的一个具体应用场景。",
+      "why_this_journal": "推测：Journal of Applied Ecology注重管理导向的生态学研究，本文的发现对森林保护与两栖动物保育有直接应用价值（如指导砍伐缓冲区的设计），且方法（环境DNA）具有可推广性。",
+      "author_profile": {
+        "name": "Ananda Brito de Assis",
+        "institution": null,
+        "intro": "根据姓名和论文库，Ananda Brito de Assis主要研究热带两栖动物生态与疾病，聚焦于森林破碎化如何影响宿主皮肤微生物组、蠕虫多样性和抗病能力。其工作与您的方向（生物多样性-生态系统功能、植物-微生物互作）在“栖息地改变对宿主-病原体系统的影响”这一交叉点上有共同兴趣，但具体到大型动物仍需要知识迁移。",
+        "other_works": [
+          {
+            "title": "Environmental detection of the amphibian chytrid fungus in water bodies is associated with host infection along a deforestation gradient",
+            "year": "2026",
+            "journal": "Journal of Applied Ecology",
+            "doi": "10.1111/1365-2664.70497"
+          },
+          {
+            "title": "Environmental Detection of the Amphibian Chytrid Fungus in Water Bodies Predicts Host Infection Along a Deforestation Gradient",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.08.21.671594"
+          },
+          {
+            "title": "Host-associated helminth diversity and microbiome composition contribute to anti-pathogen defences in tropical frogs impacted by forest fragmentation",
+            "year": "2024",
+            "journal": "Royal Society Open Science",
+            "doi": "10.1098/rsos.240530"
+          },
+          {
+            "title": "Habitat-host Microbial Associations Across a Gradient in Land Use Intensification in Southern Amazon",
+            "year": "2021",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-242221/v1"
+          },
+          {
+            "title": "Environmental influences on and antimicrobial activity of the skin microbiota of Proceratophrys boiei (Amphibia, Anura) across forest fragments",
+            "year": "2020",
+            "journal": "Ecology and Evolution",
+            "doi": "10.1002/ece3.5949"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.science.org/doi/abs/10.1126/science.aek5960?af=R",
+      "title": "Tree-killing beetle is spreading to urban forests around the world",
+      "link": "https://www.science.org/doi/abs/10.1126/science.aek5960?af=R",
+      "summary": "Science, Volume 393, Issue 6808, Page 233-234, July 2026.",
+      "journal": "Science",
+      "published": "2026-07-16T06:00:06+00:00",
+      "doi": "10.1126/science.aek5960",
+      "affiliation": null,
+      "title_zh": "杀树甲虫正向全球城市森林蔓延",
+      "relevance_score": 4,
+      "key_conclusion": "文章报道了一种能杀死树木的甲虫正在全球城市森林中扩散，造成树木大量死亡，威胁城市森林健康和生态系统服务。",
+      "relevance_note": "文章主要关注生物入侵和城市森林健康，虽与植物-动物互作有一定关联，但与你的核心研究方向（大型草食动物重野化与碳循环）直接联系较弱。仅因发表于Science正刊且涉及生态学问题而给予中等分数。",
+      "related_papers": [
+        {
+          "title": "Drivers and mechanisms of tree mortality in moist tropical forests",
+          "link": "https://doi.org/10.1111/nph.15027",
+          "venue": "New Phytologist",
+          "year": 2018
+        },
+        {
+          "title": "Biological invasions in forest ecosystems",
+          "link": "https://doi.org/10.1007/s10530-017-1458-5",
+          "venue": "Biological Invasions",
+          "year": 2017
+        },
+        {
+          "title": "Significant increase in natural disturbance impacts on European forests since 1950",
+          "link": "https://doi.org/10.1111/gcb.16531",
+          "venue": "Global Change Biology",
+          "year": 2022
+        },
+        {
+          "title": "The ecology, distribution, conservation and management of large old trees",
+          "link": "https://doi.org/10.1111/brv.12290",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2016
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "一种能杀死树木的甲虫如何以及为何在全球城市森林中扩散，造成树木大量死亡？",
+      "contributions_limitations": "主要贡献：作为一篇Science正刊的新闻报道/观点类文章，它及时提醒了全球城市森林面临的一个新兴生物胁迫，具有重要的生态预警和管理意义。局限性：基于简短摘要（推测为News & Views栏目），不含原始实验数据或定量分析，主要是现象描述和概括。它可能缺乏对扩散机制（如气候驱动、人类运输）的深入解析。",
+      "follow_up_research": "后续研究可：1) 探究树木对甲虫的防御机制（如次生代谢物、NSC利用策略）是否在入侵压力下发生变化，这与您感兴趣的“植物碳分配策略”相关；2) 评估树木大量死亡对城市土壤碳库（尤其是枯死木分解释放的CO₂）的短期和长期影响。",
+      "next_step_perspective": "这篇文章提醒您：生态系统干扰（如虫害爆发）是碳循环的重要驱动力，在重野化后的森林恢复中需考虑害虫爆发的风险（如引入大型食草动物可能改变树木密度和健康状况，影响其对甲虫的易感性）。它进一步强调了您关注的“极端气候事件对碳循环的扰动”中的生物性扰动维度。",
+      "why_this_journal": "推测：Science正刊的News板块注重报道具有广泛科学和社会影响的前沿动态，城市森林虫害的全球化扩散满足了新闻价值、及时性和跨学科关注度。",
+      "author_profile": null
     }
   ]
 }
