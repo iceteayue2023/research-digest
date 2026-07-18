@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T07:30:14.277992+00:00",
-  "count": 127,
+  "generated_at": "2026-07-18T13:03:52.870052+00:00",
+  "count": 129,
   "articles": [
     {
       "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70350?af=R",
@@ -842,6 +842,89 @@
             "year": "2023",
             "journal": "Basic and Applied Ecology",
             "doi": "10.1016/j.baae.2023.04.005"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70409?af=R",
+      "title": "Integrating large mammalian herbivores into Dynamic Global Vegetation Models: Status and next steps",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70409?af=R",
+      "summary": "Functional Ecology, EarlyView.",
+      "journal": "Functional Ecology",
+      "published": "2026-07-17T03:01:40-07:00",
+      "doi": "10.1111/1365-2435.70409",
+      "affiliation": "Center for Ecological Dynamics in a Novel Biosphere (ECONOVO), Section of Ecoinformatics and Biodiversity, Department of Biology Aarhus University  Aarhus Denmark; Department of Geosciences and Natural Resource Management University of Copenhagen  Copenhagen Denmark; Department of Anthropology City University of New York  New York New York USA",
+      "title_zh": "将大型哺乳动物食草动物整合到动态全球植被模型中：现状与下一步",
+      "relevance_score": 9,
+      "key_conclusion": "该综述指出当前动态全球植被模型（DGVM）普遍未考虑大型食草动物的作用，导致对生态系统过程的模拟存在偏差。文章总结了将大型食草动物纳入DGVM的现有方法和挑战，并提出了未来发展的关键步骤。",
+      "relevance_note": "文章直接涉及您核心方向中的大型食草动物与DGVM结合，是您明确点出的兴趣点（地球系统模式中DGVM的开发与验证）。同时，丹麦欧登塞大学等多所欧洲机构作者使研究地点在欧洲，因此相关性高。作为综述类文章，应给予较高分数。",
+      "related_papers": [
+        {
+          "title": "Impacts of large herbivores on terrestrial ecosystems",
+          "link": "https://doi.org/10.1016/j.cub.2023.04.024",
+          "venue": "Current Biology",
+          "year": 2023
+        },
+        {
+          "title": "The spatial distribution of African savannah herbivores: species associations and habitat occupancy in a landscape context",
+          "link": "https://doi.org/10.1098/rstb.2015.0314",
+          "venue": "Philosophical Transactions of the Royal Society B Biological Sciences",
+          "year": 2016
+        },
+        {
+          "title": "Adapt or die—Response of large herbivores to environmental changes in Europe during the Holocene",
+          "link": "https://doi.org/10.1111/gcb.14733",
+          "venue": "Global Change Biology",
+          "year": 2019
+        },
+        {
+          "title": "The Report of the Ecological Society of America Committee on the Scientific Basis for Ecosystem Management",
+          "link": "https://doi.org/10.2307/2269460",
+          "venue": "Ecological Applications",
+          "year": 1996
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "当前动态全球植被模型（DGVM）在模拟生态系统过程中，如何有效整合大型哺乳食草动物的作用？现有的整合方法存在哪些挑战，以及未来的发展步骤是什么？",
+      "contributions_limitations": "主要贡献：该综述系统性地总结了大型食草动物在DGVM中被忽视的现状，并提出了将其纳入模型的关键步骤和方法，为改进地球系统模式提供了重要方向。局限性：由于是综述文章，仅基于现有研究进行总结，未提供新的模型模拟或实证数据，因此对具体整合效果缺乏定量验证。基于现有信息推测，文章可能未深入讨论不同食草动物功能类型（如体型、消化策略）对模型参数化的差异化影响。",
+      "follow_up_research": "基于该综述，可以进一步开发一个专门整合大型食草动物功能的DGVM模块，并利用欧洲不同放牧强度梯度的长期观测数据（如草食动物排除实验）进行验证。此外，研究食草动物引起的植被-土壤反馈（如凋落物质量变化、土壤压实）对土壤有机碳组分（POM/MAOM）的模拟影响，是评估模型精确性的重要方向。",
+      "next_step_perspective": "这篇文章直接契合用户对DGVM开发和验证的兴趣，提供了将大型食草动物（尤其是重野化中的大型有蹄类）纳入碳循环模型的明确框架。用户可以利用文中提出的方法步骤，结合自己关注的欧洲研究地点，设计模型模拟来量化重野化对土壤有机碳动态的长期影响。文章还提示了当前模型的空白点，即忽略了动物介导的生物地球化学循环（zoogeochemistry），这为用户的研究提供了具体的切入点。",
+      "why_this_journal": "Functional Ecology关注生态学中的功能性状和机制，而该综述探讨的是大型食草动物作为生态系统工程师如何通过功能性状（如取食、践踏）影响植被碳分配和土壤过程，这与期刊定位高度吻合。将大型动物整合进DGVM是一个具有前瞻性的方法论议题，具有较高的新颖性和跨学科意义，推测因此被接受。",
+      "author_profile": {
+        "name": "Yue Cheng",
+        "institution": "Aarhus University",
+        "intro": "Yue Cheng目前在奥胡斯大学（Aarhus University）从事研究。从其历史论文标题可以看出，他的研究方向包括大型食草动物对土壤温室气体交换的影响、土地利用对植物多样性的作用，以及森林生态系统多功能性等。这些研究与用户的大型食草动物重野化与碳循环主题高度相关，尤其是在欧洲温带森林和牧区间相互作用方面，提供了方法学上的直接参考。",
+        "other_works": [
+          {
+            "title": "Peak season soil GHG exchange after 23 years of ungulate exclusion in an old-growth temperate forest",
+            "year": "2026",
+            "journal": "Agricultural and Forest Meteorology",
+            "doi": "10.1016/j.agrformet.2026.111329"
+          },
+          {
+            "title": "Integrating large mammalian herbivores into Dynamic Global Vegetation Models: Status and next steps",
+            "year": "2026",
+            "journal": "Functional Ecology",
+            "doi": "10.1111/1365-2435.70409"
+          },
+          {
+            "title": "Multidimensional evidence of the positive effects of land use on plant biodiversity in the Hengduan Mountains",
+            "year": "2026",
+            "journal": "Journal of Environmental Management",
+            "doi": "10.1016/j.jenvman.2026.129788"
+          },
+          {
+            "title": "Forest Attributes and Soil Moisture Availability Drive Ecosystem Multifunctionality of Forests in Eastern Tibetan Plateau, China",
+            "year": "2026",
+            "journal": "Plants",
+            "doi": "10.3390/plants15030518"
+          },
+          {
+            "title": "Atmospheric forcing uncertainty contributes to divergent estimates of China’s terrestrial carbon dynamics",
+            "year": "2026",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ae2af8"
           }
         ]
       }
@@ -3372,6 +3455,53 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70396?af=R",
+      "title": "Divergent long‐term trends in vegetation carbon turnover between mature and young forests",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70396?af=R",
+      "summary": "Journal of Ecology, Volume 114, Issue 7, July 2026.",
+      "journal": "Journal of Ecology",
+      "published": "2026-07-17T09:24:09-07:00",
+      "doi": "10.1111/1365-2745.70396",
+      "affiliation": "Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources Research Chinese Academy of Sciences  Beijing China; National Ecosystem Science Data Center, Institute of Geographic Sciences and Natural Resources Research Chinese Academy of Sciences  Beijing China; College of Resources and Environment University of Chinese Academy of Sciences  Beijing China",
+      "title_zh": "成熟林和幼龄林之间植被碳周转的长期趋势差异",
+      "relevance_score": 7,
+      "key_conclusion": "研究发现成熟林和幼龄林在植被碳周转速率上表现出长期分异趋势：成熟林碳周转速率减缓，而幼龄林碳周转速率加快，二者共同驱动了森林生态系统碳汇的动态变化。",
+      "relevance_note": "研究主题直接涉及陆地生态系统碳循环中的碳周转动态，属于您指定相邻领域(1)。虽然不直接谈rewilding，但森林发育阶段差异对碳循环的影响可类比至恢复过程中的碳获取。此外，文章作者来自中国机构，不在欧洲，但主题相关性高。",
+      "related_papers": [
+        {
+          "title": "Recent global decline of CO <sub>2</sub> fertilization effects on vegetation photosynthesis",
+          "link": "https://doi.org/10.1126/science.abb7772",
+          "venue": "Science",
+          "year": 2020
+        },
+        {
+          "title": "Forest microclimates and climate change: Importance, drivers and future research agenda",
+          "link": "https://doi.org/10.1111/gcb.15569",
+          "venue": "Global Change Biology",
+          "year": 2021
+        },
+        {
+          "title": "Understanding the uncertainty in global forest carbon turnover",
+          "link": "https://doi.org/10.5194/bg-17-3961-2020",
+          "venue": "Biogeosciences",
+          "year": 2020
+        },
+        {
+          "title": "Review on carbon storage estimation of forest ecosystem and applications in China",
+          "link": "https://doi.org/10.1186/s40663-019-0210-2",
+          "venue": "Forest Ecosystems",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://besjournals.onlinelibrary.wiley.com/cms/asset/18fbd3e5-6f1b-4256-b8c0-cd1a671a2c66/jec70396-toc-0001-m.jpg?trick=1784379822111",
+      "scientific_question": "",
+      "contributions_limitations": "",
+      "follow_up_research": "",
+      "next_step_perspective": "",
+      "why_this_journal": "",
+      "author_profile": null
     },
     {
       "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70984?af=R",

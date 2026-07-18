@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T07:30:14.294667+00:00",
-  "count": 11,
+  "generated_at": "2026-07-18T13:03:52.891737+00:00",
+  "count": 8,
   "posts": [
     {
       "handle": "science.org",
@@ -89,39 +89,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Our Helper applications for the BES Annual Meeting 2026 are open \n\nGet the opportunity to meet new friends, make connections and get an insight into what goes into the biggest ecology conference in Europe! \n\nApply by 10 August 👇\n\nhttps://f.mtr.cool/rrqxpeqdmk",
-      "created_at": "2026-07-15T10:02:57.841858773Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mqohqsx6sd2c",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Experimental Interaction Ecology",
-      "text": "New collaborative paper led by Takehiro Sasaki out @natecoevo.nature.com with plenty of contributors from our group & others @idiv-research.bsky.social \n\nBiodiversity enhances productivity under drought in more arid grasslands but has limited effects in more arid forests 🌱🌲\n\ndoi.org/10.1038/s415...",
-      "created_at": "2026-07-15T09:55:59.867Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mqohee7d5s2i",
-      "external_title": "Biodiversity effects under climate extremes intensify with aridity in grasslands but not forests - Nature Ecology & Evolution",
-      "external_description": "Biodiversity effects on ecosystem functioning under climate extremes may depend on ecosystem type and baseline aridity. Here the authors show that the effects of plant diversity on productivity are st...",
-      "external_uri": "https://doi.org/10.1038/s41559-026-03130-1",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jhm3qokmibyaov6apg7b2hgp/bafkreianq5fngtelbwtw44lvoxm4uxvmmydwgtrttq363xjis3ccbmcl2e"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Compiling a global database of non-structural carbohydrates (NSCs) from >2,000 plant species, the authors show that evolutionary history explains a larger proportion of NSC variation than environmental controls 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-07-15T08:22:13.612Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mqoc4olnj22l",
-      "external_title": "Evolutionary history drives organ-specific variability in plant non-structural carbohydrates - Nature Ecology & Evolution",
-      "external_description": "Compiling a global database of non-structural carbohydrates (NSCs) from &gt;2,000 plant species, the authors show that evolutionary history explains a larger proportion of NSC variation than environme...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03129-8",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihdov6twsq2edhgzp4ndk5olp6sgn5nzmea5leio7p7iu7wnjldky"
     }
   ]
 }
