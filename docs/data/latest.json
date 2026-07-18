@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
-  "generated_at": "2026-07-18T03:12:56.185554+00:00",
-  "count": 126,
+  "generated_at": "2026-07-18T07:30:14.277992+00:00",
+  "count": 127,
   "articles": [
     {
       "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70350?af=R",
@@ -8564,6 +8564,89 @@
             "year": "2020",
             "journal": "In silico plants",
             "doi": "10.1093/insilicoplants/diaa005"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70320?af=R",
+      "title": "Boldness and niche width structure spatial interactions in a natural rodent community",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70320?af=R",
+      "summary": "Journal of Animal Ecology, EarlyView.",
+      "journal": "Journal of Animal Ecology",
+      "published": "2026-07-17T03:17:54-07:00",
+      "doi": "10.1111/1365-2656.70320",
+      "affiliation": "Animal Ecology, Institute of Biochemistry and Biology University of Potsdam  Potsdam Germany; Plant Ecology and Nature Conservation, Institute of Biochemistry and Biology University of Potsdam  Potsdam Germany; Behavioural Biology, Institute for Neuro‐ and Behavioural Biology University of Münster  Münster Germany",
+      "title_zh": "大胆性和生态位宽度塑造了自然啮齿动物群落的空间互作",
+      "relevance_score": 4,
+      "key_conclusion": "该研究发现在自然啮齿动物群落中，个体的行为特征（如大胆性）和生态位宽度共同影响其空间利用和种间互作格局。行为差异是驱动群落空间结构的重要因素。",
+      "relevance_note": "文章涉及动物行为生态与群落互作，与用户关注的捕食者-猎物关系（性状介导效应）有部分关联。但研究对象为小型啮齿动物，并非大型食草动物，且未涉及碳循环或重野化，相关性中等偏低。研究地点（德国）在欧洲，可略微提升评价。",
+      "related_papers": [
+        {
+          "title": "Ecological succession drives the structural change of seed-rodent interaction networks in fragmented forests",
+          "link": "https://doi.org/10.1016/j.foreco.2018.03.023",
+          "venue": "Forest Ecology and Management",
+          "year": 2018
+        },
+        {
+          "title": "Exploration profiles drive activity patterns and temporal niche specialization in a wild rodent",
+          "link": "https://doi.org/10.1093/beheco/araa022",
+          "venue": "Behavioral Ecology",
+          "year": 2020
+        },
+        {
+          "title": "Seasonal dynamics of diet–gut microbiota interaction in adaptation of yaks to life at high altitude",
+          "link": "https://doi.org/10.1038/s41522-021-00207-6",
+          "venue": "npj Biofilms and Microbiomes",
+          "year": 2021
+        },
+        {
+          "title": "Phylogenetic structure illuminates the mechanistic role of environmental heterogeneity in community organization",
+          "link": "https://doi.org/10.1111/j.1365-2656.2011.01900.x",
+          "venue": "Journal of Animal Ecology",
+          "year": 2011
+        }
+      ],
+      "image_url": "https://besjournals.onlinelibrary.wiley.com/cms/asset/50efb904-c5d5-4699-a87d-fa9062a7efec/jane70320-toc-0001-m.jpg?trick=1784359805597",
+      "scientific_question": "在自然啮齿动物群落中，个体的行为特征（如大胆性）和生态位宽度如何共同影响其空间利用和种间互作格局？",
+      "contributions_limitations": "基于现有信息推测，该研究的主要贡献在于揭示了行为特征（而不是单纯的物种身份）是驱动群落空间结构的重要因素，为理解动物行为在群落组装中的作用提供了新视角。可能的局限性是研究仅聚焦于单一啮齿动物群落，其结论向大型食草动物群落或跨生态系统的推广性有待验证；另外，摘要信息不足以评估样本量和因果推断的强度。",
+      "follow_up_research": "基于该研究，可将行为特征（如大胆性）与大型食草动物的空间利用、放牧模式联系起来，探索行为多样性如何影响重野化过程中动物对植被异质性的塑造及土壤碳分布的反馈。此外，可在放牧梯度上量化个体行为变异与生态位宽度，模型化其对土壤有机碳库空间格局的预测作用。",
+      "next_step_perspective": "该研究为你提供了从个体行为差异（boldness）切入群落空间互作的方法视角，启发你在重野化研究中不仅关注物种组成，更要关注个体行为性状如何通过空间利用间接影响土壤碳循环。例如，不同行为型的大型食草动物可能形成不同的“放牧热点”，导致土壤有机碳的局部积累或分解差异。",
+      "why_this_journal": "推测：Journal of Animal Ecology 重视行为生态与群落生态学的交叉研究，该工作将个体行为变异（大胆性）与传统生态位理论结合，具有新颖性和机制深度，契合期刊对个体到群落尺度整合研究的高标准。",
+      "author_profile": {
+        "name": "Jonas Stiegler",
+        "institution": "University of Potsdam",
+        "intro": "Jonas Stiegler 目前任职于德国波茨坦大学，从其发表的多项工作来看，他主要研究哺乳动物的行为生态学，包括动物对人为干扰的恢复力、清道夫行为及气候变化下的活动模式。他对大型哺乳动物（如非洲羚羊）的移动生态也有涉及，这与你的大型食草动物重野化研究在行为-空间-生态系统功能的交叉点上具有潜在关联，尤其可借鉴其对个体行为尺度的分析方法。",
+        "other_works": [
+          {
+            "title": "Boldness and niche width structure spatial interactions in a natural rodent community",
+            "year": "2026",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70320"
+          },
+          {
+            "title": "Mammals show faster recovery from capture and tagging in human-disturbed landscapes",
+            "year": "2024",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-024-52381-8"
+          },
+          {
+            "title": "Seasonal variability of scavenger visitations is independent of carrion predictability",
+            "year": "2024",
+            "journal": "Basic and Applied Ecology",
+            "doi": "10.1016/j.baae.2024.05.005"
+          },
+          {
+            "title": "Sensitivities of mammals to capture and tagging: faster recovery in human-disturbed landscapes",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-3891149/v1"
+          },
+          {
+            "title": "The heat is on: impacts of rising temperature on the activity of a common European mammal",
+            "year": "2023",
+            "journal": "Frontiers in Ecology and Evolution",
+            "doi": "10.3389/fevo.2023.1193861"
           }
         ]
       }
