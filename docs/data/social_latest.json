@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-18T13:03:52.891737+00:00",
-  "count": 8,
+  "generated_at": "2026-07-19T03:18:28.536902+00:00",
+  "count": 6,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Opinion piece: #Environmental challenges are bigger and more complex than ever. To address them, we need comprehensive #ethics training that balances immediate needs with long-term #sustainability. In PNAS Front Matter: https://ow.ly/eOUu50Zo5gP\n\n#ecosystems  #ClimateChange",
+      "created_at": "2026-07-18T17:00:24.176556435Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mqwqhzq5qc2y",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "science.org",
       "author_name": "Science Magazine",
@@ -56,39 +67,6 @@
       "external_description": "Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.",
       "external_uri": "https://go.nature.com/4538due",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiemeik7wopg33komoutzjqlvotfzz4h4pc5rbsisb3mbv4syjioda"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Portfolio",
-      "text": "Dust concentrations increased consistently across much of Europe between 2012 and 2021, with some of the largest rises in southern Europe and the Mediterranean region, according to research in Nature. go.nature.com/44wcZjO 🌎🧪",
-      "created_at": "2026-07-15T22:15:01.208Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mqpqntfyfs24",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Geoscience",
-      "text": "⚒️ Article: Krypton and xenon in lunar farside soils are solar wind-derived and suggest deeper penetration because the solar wind is not slowed by Earth’s magnetosphere, unlike the nearside\n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-15T15:00:05.622Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mqoye4plbk27",
-      "external_title": "Deeper solar wind penetration on the Moon’s farside from noble gas records - Nature Geoscience",
-      "external_description": "Krypton and xenon in lunar farside soils are derived from solar wind and suggest deeper penetration because the solar wind is not slowed by Earth’s magnetosphere. This contrasts with the nearside, acc...",
-      "external_uri": "https://www.nature.com/articles/s41561-026-02042-w?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreiclpvcjkozijd7t4taokgttbw2e4hu5usi6l362mgveuxv2f4lz5m"
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "Copernicus ECMWF",
-      "text": "A new study published in @natclimate.nature.com, authored by scientists from #CopernicusClimate, shows global heat stress is not only intensifying, but also persisting for longer & affecting previously untouched regions.\n\n🔗 climate.copernicus.eu/global-study...\n\n@ecmwf.int",
-      "created_at": "2026-07-15T14:44:33.708Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mqoxidxuxk2t",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
