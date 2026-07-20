@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "generated_at": "2026-07-20T08:48:13.057685+00:00",
-  "count": 29,
+  "generated_at": "2026-07-20T13:58:31.739809+00:00",
+  "count": 46,
   "articles": [
     {
       "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70986?af=R",
@@ -236,6 +236,89 @@
             "year": "2024",
             "journal": "Journal of Cleaner Production",
             "doi": "10.1016/j.jclepro.2024.142546"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1029/2025EF006739",
+      "title": "Soil Carbon Saturation Constrains Long‐Term Sequestration Under Revegetation on China's Loess Plateau",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EF006739?af=R",
+      "summary": "Earth's Future, Volume 14, Issue 7, July 2026.",
+      "journal": "Earths Future",
+      "published": "2026-07-19T14:37:06-07:00",
+      "doi": "10.1029/2025EF006739",
+      "affiliation": "Key Laboratory of Ecological Safety and Sustainable Development in Arid Lands Northwest Institute of Eco‐Environment and Resources Chinese Academy of Sciences  Lanzhou China; State Key Laboratory of Herbage Improvement and Grassland Agro‐ecosystems Lanzhou University  Lanzhou China; School of Life Sciences Yan'an University  Yan'an China",
+      "title_zh": "土壤碳饱和限制了黄土高原植被恢复下的长期固碳",
+      "relevance_score": 9,
+      "key_conclusion": "在中国黄土高原植被恢复过程中，土壤碳饱和现象限制了长期碳固存潜力。",
+      "relevance_note": "文章直接探讨了植被恢复对土壤有机碳固存的影响机制（碳饱和约束），与用户核心研究方向（重野化/植被恢复对土壤碳循环的影响）高度契合，但研究地点在中国而非欧洲。",
+      "related_papers": [
+        {
+          "title": "Role of Soil Microbiota Enzymes in Soil Health and Activity Changes Depending on Climate Change and the Type of Soil Ecosystem",
+          "link": "https://doi.org/10.3390/biology13020085",
+          "venue": "Biology",
+          "year": 2024
+        },
+        {
+          "title": "SOIL CARBON SATURATION CONSTRAINS LONG-TERM SEQUESTRATION UNDER REVEGETATION ON CHINA'S LOESS PLATEAU",
+          "link": "https://doi.org/10.5281/zenodo.18238527",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "SOIL CARBON SATURATION CONSTRAINS LONG-TERM SEQUESTRATION UNDER REVEGETATION ON CHINA'S LOESS PLATEAU",
+          "link": "https://doi.org/10.5281/zenodo.18238526",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Disentangling the Impact of Event‐ and Annual‐Scale Precipitation Extremes on Critical‐Zone Hydrology in Semiarid Loess Vegetated by Apple Trees",
+          "link": "https://doi.org/10.1029/2022wr033042",
+          "venue": "Water Resources Research",
+          "year": 2023
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在中国黄土高原的植被恢复工程中，土壤有机碳固存是否受到碳饱和效应的限制，从而影响长期碳汇潜力？",
+      "contributions_limitations": "主要贡献在于直接实证了大规模植被恢复中土壤碳饱和现象的存在，挑战了无限固碳的假设，对“基于自然的解决方案”的长期碳汇潜力评估具有重要警示意义。局限性可能是研究集中在黄土高原特定区域，结论的外推性需要更多不同气候和土壤类型下的验证；此外，摘要信息不足以判断其是否区分了颗粒态有机碳(POC)与矿物结合态有机碳(MAOC)的不同饱和路径，建议查看原文。",
+      "follow_up_research": "可以进一步探索通过管理措施（如调节放牧强度、引入大型食草动物）来突破或延缓土壤碳饱和阈值是否可行。另一个方向是在地球系统模式中整合土壤碳饱和模块，以更准确地预测植被恢复对全球碳循环的长期影响。",
+      "next_step_perspective": "这篇文章与用户关注的“土壤有机质形成与稳定机制”以及“基于自然解决方案的局限性”高度相关。它提供了一个具体案例，说明再绿化（revegetation）达到饱和后碳汇效益可能下降，这提示用户在评估大型食草动物重野化的碳汇效益时，也需要考虑土壤碳饱和的潜在瓶颈。其方法（长期观测或模型）可用于重野化场景的预测。",
+      "why_this_journal": "推测：Earth's Future 关注未来地球系统的变化与可持续性。该研究挑战了植被恢复作为长期碳汇的普遍乐观预期，揭示了生态工程中的关键制约因素，这对未来气候缓解策略的制定具有重要政策和社会影响，符合期刊定位。",
+      "author_profile": {
+        "name": "Xilong Zhang",
+        "institution": "Northwest Institute of Eco-Environment and Resources",
+        "intro": "Xilong Zhang 目前主要在中国科学院西北生态环境资源研究院（Northwest Institute of Eco-Environment and Resources）工作。从其历史论文看，研究方向涵盖能源地质学（油气成藏）、环境化学（废水处理）以及土壤碳循环，研究领域较为多元。本次土壤碳饱和的研究与其环境方向有交集，但并非其唯一专注领域。",
+        "other_works": [
+          {
+            "title": "Soil Carbon Saturation Constrains Long‐Term Sequestration Under Revegetation on China's Loess Plateau",
+            "year": "2026",
+            "journal": "Earth's Future",
+            "doi": "10.1029/2025EF006739"
+          },
+          {
+            "title": "Integrated characteristics of the Niudong gas reservoir in the Altun Mountains Front Belt, Qaidam Basin: implications for coal-derived gas accumulation and exploration",
+            "year": "2026",
+            "journal": "Journal of Petroleum Exploration and Production Technology",
+            "doi": "10.1007/s13202-025-02122-4"
+          },
+          {
+            "title": "Peroxymonosulfate Activation by Cu–OMS-2 Nanofibers for Efficient Degradation of N-Containing Heterocycles in Aquatic Solution",
+            "year": "2023",
+            "journal": "Langmuir",
+            "doi": "10.1021/acs.langmuir.3c02819"
+          },
+          {
+            "title": "Oxidative removal of carbazole and alkylated derivatives by FeOx/OMS-2 nanorods activated peroxymonosulfate (PMS) and their utilizing for real wastewater",
+            "year": "2023",
+            "journal": "Journal of Water Process Engineering",
+            "doi": "10.1016/j.jwpe.2023.104120"
+          },
+          {
+            "title": "Characteristics of Liquid-Hydrocarbon Yield and Biomarkers in Various Thermal-Evolution Stages: A Simulation Experiment with the Middle Jurassic Source Rocks in the Northern Margin of the Qaidam Basin",
+            "year": "2022",
+            "journal": "Energies",
+            "doi": "10.3390/en15207793"
           }
         ]
       }
@@ -531,6 +614,212 @@
       "image_url": "https://besjournals.onlinelibrary.wiley.com/cms/asset/bdcf3545-006d-4a8f-92e6-d7f579121840/pan3.v8.7.cover.jpg?trick=1784537151106"
     },
     {
+      "id": "10.1111/gcb.70986",
+      "title": "Biogeography of Stress: Graded and Threshold Phenological Responses in European Beech‐Dominated Forests Under Disruptive Heatwaves",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70986?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-20T00:08:47-07:00",
+      "doi": "10.1111/gcb.70986",
+      "affiliation": "Research Centre for Forestry and Wood Council for Agricultural Research and Economics (CREA)  Italy; Department of Civil, Constructional and Environmental Engineering (DICEA) Sapienza University of Rome  Italy; Maison de la Télédétection National Research Institute for Agriculture, Food and Environment (INRAE)  France",
+      "title_zh": "胁迫生物地理学：破坏性热浪下欧洲山毛榉主导森林的渐变与阈值物候响应",
+      "relevance_score": 8,
+      "key_conclusion": "欧洲山毛榉林在极端热浪下表现出渐变的阈值物候响应，揭示了胁迫响应的生物地理格局。",
+      "relevance_note": "该研究地点在欧洲，关注极端气候（热浪）对森林物候和胁迫响应的影响，与用户对欧洲研究及极端气候事件干扰碳循环（森林恢复与退化）的兴趣高度相关。",
+      "related_papers": [
+        {
+          "title": "Mimicking bark beetle attacks: field and phytotron insights into Norway spruce defense responses",
+          "link": "",
+          "venue": "DIGITAL.CSIC (Spanish National Research Council (CSIC))",
+          "year": 2025
+        },
+        {
+          "title": "Harnessing High-Throughput Phenotyping and Metabolomics to Reveal Intraspecific Variation in Drought Sensitivity of Norway Spruce (Picea abies (L.) H. Karst.) for Climate-Resilient Forestry",
+          "link": "",
+          "venue": "DIGITAL.CSIC (Spanish National Research Council (CSIC))",
+          "year": 2025
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "欧洲山毛榉（Fagus sylvatica）占优势的森林在极端热浪干扰下，其物候响应是否存在从渐变到阈值的生物地理格局，以及这种胁迫响应的空间分布规律？",
+      "contributions_limitations": "主要贡献是描绘了欧洲大陆尺度上森林物候对极端气候胁迫响应的空间异质性，区分了渐进式和阈值式两种响应模式，为预测气候变化对森林功能的影响提供了新视角。局限性可能在于主要依赖遥感数据，缺乏对地下过程（如根系动态、土壤碳循环）的耦合分析，且以单一优势树种为对象，结论向混交林的推广性有待检验。基于现有信息推测",
+      "follow_up_research": "后续研究可以探索这种物候胁迫响应模式如何影响森林生态系统的碳收支（尤其是土壤碳输入时机），以及大型食草动物（如鹿、野牛）的干扰是否会改变树木的胁迫响应阈值。此外，将物候胁迫模型与动态全球植被模型（DGVM）耦合也是一个有价值的方向。",
+      "next_step_perspective": "这篇文章与用户“欧洲研究地点”和“极端气候事件对碳循环扰动”的兴趣高度吻合。它提供了一个评估气候变化对森林生态系统影响的新维度——物候胁迫响应。用户可以借鉴其方法（大尺度遥感分析）来研究重野化区植被的胁迫动态，或者探索大型动物的取食行为（延伸表型）如何通过改变冠层结构来缓冲或放大这种物候胁迫。",
+      "why_this_journal": "推测：Global Change Biology 关注全球变化对生物系统的影响。该研究首次在大尺度上揭示了森林物候响应的阈值行为，这种非线性生态响应机制对于理解全球变化下的生态系统脆弱性和稳定性至关重要，具有较高的新颖性和跨区域比较意义。",
+      "author_profile": {
+        "name": "Lorenzo Cesaretti",
+        "institution": "Universita` degli Studi di ROMA \"La Sapienza\"",
+        "intro": "Lorenzo Cesaretti 目前在罗马大学（La Sapienza Università di Roma）。其历史论文标题显示他的核心研究方向是欧洲山毛榉森林的物候学，尤其是利用遥感和地面观测数据结合的方法来研究极端气候（热浪）对物候的影响。这与用户关注的欧洲森林生态系统和极端气候扰动主题一致。",
+        "other_works": [
+          {
+            "title": "Biogeography of Stress: Graded and Threshold Phenological Responses in European Beech‐Dominated Forests Under Disruptive Heatwaves",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70986"
+          },
+          {
+            "title": "Exploring the phenological responses of European beech forests to summer extreme weather events from remotely sensed data",
+            "year": "2026",
+            "journal": null,
+            "doi": null
+          },
+          {
+            "title": "Exploring the discrepancies between ground- and satellite-based autumn phenology: a comparative analysis in European beech forests",
+            "year": "2025",
+            "journal": "International Journal of Remote Sensing",
+            "doi": "10.1080/01431161.2025.2570550"
+          },
+          {
+            "title": "Copernicus for monitoring European forests. Strengths, challenges and potential",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1080/22797254.2025.2540109"
+          },
+          {
+            "title": "Dataset of heatwaves affecting European beech forests",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5281/zenodo.17098110"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71016",
+      "title": "Demographic and Growth Dynamics Jointly Shape Grassland Productivity Under Extreme Drought",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71016?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-18T10:39:52-07:00",
+      "doi": "10.1111/gcb.71016",
+      "affiliation": "Erguna Forest‐Steppe Ecotone Research Station, CAS Key Laboratory of Forest Ecology and Silviculture, Institute of Applied Ecology Chinese Academy of Sciences  Shenyang China; University of Chinese Academy of Sciences  Beijing China; School of Grassland Science Beijing Forestry University  Beijing China",
+      "title_zh": "人口与生长动态共同塑造极端干旱下的草地生产力",
+      "relevance_score": 8,
+      "key_conclusion": "极端干旱下，草地生产力的变化由种群动态（个体死亡/补充）和个体生长动态共同塑造，二者交互作用决定了生产力响应。",
+      "relevance_note": "研究关注极端干旱对草地生产力的影响机制，涉及植被-土壤反馈和生态系统功能恢复，与用户对极端气候事件干扰及恢复生态过程的兴趣高度相关。",
+      "related_papers": [
+        {
+          "title": "A review of environmental droughts: Increased risk under global warming?",
+          "link": "https://doi.org/10.1016/j.earscirev.2019.102953",
+          "venue": "Earth-Science Reviews",
+          "year": 2019
+        },
+        {
+          "title": "The impacts of increasing drought on forest dynamics, structure, and biodiversity in the United States",
+          "link": "https://doi.org/10.1111/gcb.13160",
+          "venue": "Global Change Biology",
+          "year": 2016
+        },
+        {
+          "title": "Drought, Heat, and the Carbon Cycle: a Review",
+          "link": "https://doi.org/10.1007/s40641-018-0103-4",
+          "venue": "Current Climate Change Reports",
+          "year": 2018
+        },
+        {
+          "title": "Defining Extreme Wildfire Events: Difficulties, Challenges, and Impacts",
+          "link": "https://doi.org/10.3390/fire1010009",
+          "venue": "Fire",
+          "year": 2018
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在极端干旱事件中，草地生产力的变化主要由哪些生态过程驱动？是种群动态（如个体死亡和补充）还是个体生长速率的变化起主导作用，它们之间如何相互作用？",
+      "contributions_limitations": "主要贡献在于区分并量化了种群动态（人口统计）与个体生长对极端干旱下草地生产力变化的相对贡献，揭示了二者交互作用的重要性，超越了仅关注总生物量的传统研究。局限性可能在于该研究是在特定草原生态系统进行的，且干旱处理强度单一，其结论向其他生态系统或更复杂的多因子胁迫场景推广时需谨慎。基于现有信息推测",
+      "follow_up_research": "可以进一步分析大型食草动物放牧如何调节干旱下的种群动态和个体生长（例如，适度放牧能否通过降低竞争来补偿干旱导致的死亡率）。另一个方向是将该分析框架应用于重野化后的生态系统，探索食草动物恢复如何改变植物群落对气候极端事件的抵抗力。",
+      "next_step_perspective": "该文为理解“放牧强度-植被反馈”提供了一个新工具，即通过分解种群和个体水平的动态来揭示生产力恢复的机制。用户在研究大型食草动物重野化对碳循环的影响时，可以借鉴此方法，区分动物活动是通过改变物种组成（种群动态）还是个体植物碳分配策略（个体生长）来影响土壤碳输入。",
+      "why_this_journal": "推测：Global Change Biology 要求研究具备全球变化背景。该工作深入解析了极端干旱影响草地生产力的内在机理，超越了简单的“干旱降低生产力”的结论，为理解全球变化下草地功能维持机制提供了新的生态学视角，具有方法学上的创新性。",
+      "author_profile": {
+        "name": "Wang Ma",
+        "institution": null,
+        "intro": "Wang Ma 作者无明确机构信息。从其近期的论文标题判断，其研究兴趣集中在干旱对草地生态系统的影响，涵盖生产力、物种组成、养分利用效率和节肢动物网络等层面，并涉及欧亚与北美草原的对比。这些研究与用户关注的草原碳循环、放牧影响和生态系统功能密切相关。",
+        "other_works": [
+          {
+            "title": "Demographic and Growth Dynamics Jointly Shape Grassland Productivity Under Extreme Drought",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71016"
+          },
+          {
+            "title": "Contrasting drought sensitivity of Eurasian and North American grasslands",
+            "year": "2025",
+            "journal": "Nature",
+            "doi": "10.1038/s41586-024-08478-7"
+          },
+          {
+            "title": "Changes of Chinese forest‐grassland ecotone in geographical scope and landscape structure from 1990 to 2020",
+            "year": "2024",
+            "journal": "Ecography",
+            "doi": "10.1111/ecog.07296"
+          },
+          {
+            "title": "Later-melting rather than thickening of snowpack enhance the productivity and alter the community composition of temperate grassland",
+            "year": "2024",
+            "journal": "Science of The Total Environment",
+            "doi": "10.1016/j.scitotenv.2024.171440"
+          },
+          {
+            "title": "Effects of nitrogen addition and drought on the relationship between nitrogen- and water-use efficiency in a temperate grassland",
+            "year": "2023",
+            "journal": "Ecological Processes",
+            "doi": "10.1186/s13717-023-00448-7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1007/s00442-026-05930-5",
+      "title": "Cross-ecosystem engineers: the dual role of fruit bats in cave nutrient dynamics and landscape seed dispersal",
+      "link": "https://link.springer.com/article/10.1007/s00442-026-05930-5",
+      "summary": "Bats provide key ecosystem services, yet their dual role in subterranean habitats remains understudied. Frugivorous species such as Artibeus planirostris can act both as seed dispersers in surface environments and as sources of organic matter in caves through guano deposition. We investigated these functions in Toca do Morrinho Cave (Bahia, Brazil), combining captive experiments and field monitoring to assess guano production, diet, deposition patterns, and seed fate. Bats consumed fruits from 11 plant species and produced an average of 3.24 g of dry guano per day. Most feces (91.1%) were deposited outside the cave, corresponding to ~ 275 seeds per bat per day, underscoring their efficiency as seed dispersers. In contrast, only 8.9% of feces were dropped inside the cave, where seeds failed to germinate under aphotic conditions. Nevertheless, this deposition enriched the hypogean environment, providing organic matter and moisture that support invertebrate assemblages. Germination trials showed that gut passage generally preserved or enhanced seed viability, particularly for Ficus gomelleira. Our results highlight the multifunctionality of A. planirostris as both a driver of plant recruitment across landscapes and a contributor to subterranean nutrient dynamics. While seed dispersal is highly effective in epigean systems, deposition underground represents an antagonistic outcome for plants but a critical subsidy for cave communities. By linking above- and belowground ecosystems",
+      "journal": "Oecologia",
+      "published": "2026-07-20T00:00:00+00:00",
+      "doi": "10.1007/s00442-026-05930-5",
+      "affiliation": null,
+      "title_zh": "跨生态系统工程师：果蝠在洞穴养分动态和景观种子传播中的双重作用",
+      "relevance_score": 8,
+      "key_conclusion": "该研究揭示了果蝠既是高效的种子传播者(将大部分粪便沉积在洞穴外)，又是洞穴地下生态系统的关键养分贡献者(通过洞穴内的粪便沉积)。其跨生态系统作用连接了地上和地下食物网。",
+      "relevance_note": "文章核心探讨动物(果蝠)介导的生物地球化学循环(zoogeochemistry)和养分流动，动物介导的养分循环(包括C-N-P)是您明确提及的兴趣点。果蝠作为'生态系统工程师'与大型食草动物的角色有类比价值，但研究物种非食草动物。",
+      "related_papers": [
+        {
+          "title": "Feeding habits and multifunctional classification of soil‐associated consumers from protists to vertebrates",
+          "link": "https://doi.org/10.1111/brv.12832",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2022
+        },
+        {
+          "title": "Bats in Habitats, Bats as Habitats: An integrative ecological framework for understanding synergistic interactions across levels of community organization",
+          "link": "https://doi.org/10.32942/x2rw59",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "Ecological effects of the feeding and construction activities of the Eurasian beaver (Castor fiber) in Scotland: Implications for reintroduction.",
+          "link": "",
+          "venue": "Stirling Online Research Repository (University of Stirling)",
+          "year": 2006
+        },
+        {
+          "title": "Mainstreaming Nature-based Solutions for Climate-induced Disaster Risk Reduction in the Philippines’ Build Better More Project: From Vicious to Virtuous Cycles",
+          "link": "https://doi.org/10.55845/jos-2026-2197",
+          "venue": "Journal of Sustainability",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00442-026-05930-5/MediaObjects/442_2026_5930_Fig1_HTML.png",
+      "scientific_question": "食果蝙蝠（Artibeus planirostris）在洞穴内外分别扮演什么功能角色？它如何通过粪便沉积同时实现种子的跨景观传播和向洞穴地下生态系统提供有机质输入？",
+      "contributions_limitations": "主要贡献是定量揭示了果蝠作为“跨生态系统工程师”的双重功能：地上作为高效种子传播者，地下作为关键养分输入者。这种连接地上和地下过程的视角非常有价值。局限性可能在于研究仅针对单个洞穴和单一蝙蝠物种，其结论的普遍性（尤其是对大型洞穴系统和不同蝙蝠类群）需要更多比较研究。基于现有信息推测",
+      "follow_up_research": "可以进一步研究洞穴粪便输入是否通过影响洞穴土壤微生物群落（如白蚁、真菌）间接促进有机碳的矿化或稳定，从而影响局部碳循环。此外，大型食草动物（如牛、鹿）是否也能在洞穴环境中扮演类似的“跨生态系统养分输送者”角色？",
+      "next_step_perspective": "这篇关于果蝠的研究为用户关于“动物介导的生物地球化学循环”（zoogeochemistry）提供了生动案例。虽然主体是蝙蝠而非大型食草动物，但它展示了一种关键机制：动物通过非均匀的、聚集性的排泄行为（延伸表型）创造资源热点，从而显著影响生态系统碳和养分循环。这提示用户在研究重野化时，应关注大型动物排泄物在景观中的空间分布模式对土壤有机碳形成（尤其是POM和MAOM）的异质性影响。",
+      "why_this_journal": "推测：Oecologia 是综合性生态学期刊，关注生物与环境间的相互作用。该研究巧妙地结合了行为观察、野外监测和室内实验，清晰展示了单一物种同时驱动地上和地下两种截然不同的生态过程，这种跨生态系统的功能角色联系是生态学的核心议题，符合期刊的学术定位。",
+      "author_profile": {
+        "name": "Maricélio de Medeiros Guimarães",
+        "institution": null,
+        "intro": "Maricélio de Medeiros Guimarães 无作者历史信息和机构信息可查。",
+        "other_works": []
+      }
+    },
+    {
       "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71001?af=R",
       "title": "Contrasting Effects of Nitrogen Input on Soil Carbon Pools in Arid and Humid Climates",
       "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71001?af=R",
@@ -692,6 +981,255 @@
             "year": "2023",
             "journal": "Environmental Research Letters",
             "doi": "10.1088/1748-9326/accbd6"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71001",
+      "title": "Contrasting Effects of Nitrogen Input on Soil Carbon Pools in Arid and Humid Climates",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71001?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-20T00:06:54-07:00",
+      "doi": "10.1111/gcb.71001",
+      "affiliation": "Forest Ecology and Conservation in the Upper Reaches of the Yangtze River Key Laboratory of Sichuan Province &amp; Sichuan mt. Emei Forest Ecosystem National Observation and Research Station, College of Forestry, Sichuan Agricultural University  Chengdu China; State Key Laboratory of Biocontrol, School of Ecology Sun Yat‐Sen University  Shenzhen China; State Key Laboratory of Subtropical Silviculture Zhejiang A&amp;F University  Hangzhou China",
+      "title_zh": "氮输入对干旱与湿润气候下土壤碳库的对比效应",
+      "relevance_score": 7,
+      "key_conclusion": "氮输入对土壤碳库的影响因气候类型而异，在干旱和湿润气候下呈现相反效应。",
+      "relevance_note": "文章直接研究氮输入对不同气候区土壤碳库的影响，涉及土壤有机质稳定与养分循环，与用户关注的陆地生态系统碳循环及C-N-P化学计量相关，但研究地点不在欧洲。",
+      "related_papers": [
+        {
+          "title": "EFFECTS OF BIODIVERSITY ON ECOSYSTEM FUNCTIONING: A CONSENSUS OF CURRENT KNOWLEDGE",
+          "link": "https://doi.org/10.1890/04-0922",
+          "venue": "Ecological Monographs",
+          "year": 2005
+        },
+        {
+          "title": "Calcium-mediated stabilisation of soil organic carbon",
+          "link": "https://doi.org/10.1007/s10533-017-0410-1",
+          "venue": "Biogeochemistry",
+          "year": 2017
+        },
+        {
+          "title": "Pathways of Grazing Effects on Soil Organic Carbon and Nitrogen",
+          "link": "https://doi.org/10.2111/08-255.1",
+          "venue": "Rangeland Ecology & Management",
+          "year": 2010
+        },
+        {
+          "title": "ENVIRONMENTAL CHARACTERIZATION OF GLOBAL SOURCES OF ATMOSPHERIC SOIL DUST IDENTIFIED WITH THE NIMBUS 7 TOTAL OZONE MAPPING SPECTROMETER (TOMS) ABSORBING AEROSOL PRODUCT",
+          "link": "https://doi.org/10.1029/2000rg000095",
+          "venue": "Reviews of Geophysics",
+          "year": 2002
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "氮输入如何在不同气候（干旱vs湿润）下影响土壤碳库的大小和组成？",
+      "contributions_limitations": "主要贡献在于揭示了氮输入对土壤碳库的影响方向取决于气候条件（干旱vs湿润），为理解区域尺度上氮沉降的碳汇效应提供了新视角。基于现有信息推测，局限性可能在于对具体机制（如微生物群落或矿物结合过程）的探讨不够深入，且文章可能主要关注总碳库而非POM/MAOM组分，建议查看原文确认。",
+      "follow_up_research": "可进一步研究干旱和湿润地区氮输入影响下的土壤有机质物理组分（POM/MAOM）计算差异。此外，结合大型食草动物活动的氮富集效应（如通过尿液和粪便），探讨在rewilding背景下，动物介导的养分输入如何在不同气候区调节土壤碳库，这将与用户的研究高度相关。",
+      "next_step_perspective": "本研究为理解不同气候背景下养分输入（如N）对土壤碳循环的差异效应提供了框架，可启发用户在设计大型食草动物重野化实验时，需考虑气候区（如欧洲的潮湿vs地中海干旱区域）对土壤碳响应方向的调控。方法上可以借鉴其如何区分气候效应。",
+      "why_this_journal": "Global Change Biology关注全球变化驱动因素（如氮沉降）对生态系统过程的宏观影响，该研究揭示了气候和氮交互作用的非线性效应，具有跨区域比较的格局意义，符合期刊对格局性和机制性结合的偏好。此推测基于期刊定位。",
+      "author_profile": {
+        "name": "Yakov Kuzyakov",
+        "institution": "Georg-August-Universität Göttingen",
+        "intro": "Yakov Kuzyakov任职于德国哥廷根大学，其历史研究主题涵盖土壤有机质动态、微生物碳利用效率、冻融循环及矿质肥料的长期效应。他的工作专注于土壤生物地球化学循环的微观机制，特别是微生物代谢和矿物-有机质相互作用，这为用户探索土壤碳稳定机制（特别是MAOM形成）提供了方法和理论参考。",
+        "other_works": [
+          {
+            "title": "Returned straw type over soil temperature dominates microbial hotspot dynamics and SOC sequestration",
+            "year": "2026",
+            "journal": "Soil and Tillage Research",
+            "doi": "10.1016/j.still.2026.107336"
+          },
+          {
+            "title": "Freeze-thaw-induced destabilization of organic matter in Mollisols after decadal mineral fertilization",
+            "year": "2026",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2026.110252"
+          },
+          {
+            "title": "Growing, maintaining and deceased bacteria in soils: Detection and significance",
+            "year": "2026",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2026.110246"
+          },
+          {
+            "title": "Long-term nitrogen enrichment reduces microbial carbon use efficiency by restructuring active microbial metabolism",
+            "year": "2026",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2026.110218"
+          },
+          {
+            "title": "Microbial life history mediates the reduced temperature sensitivity of soil organic matter decomposition across an aridity gradient",
+            "year": "2026",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2026.110217"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71003",
+      "title": "Differential Effects of Long‐Term Fertilization and Plant Species Richness on Soil Fungi and Protists",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71003?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-16T18:51:54-07:00",
+      "doi": "10.1111/gcb.71003",
+      "affiliation": "Institute of Biology/Geobotany and Botanical Garden Martin Luther University Halle‐Wittenberg  Halle Germany; German Centre of Integrative Biodiversity Research (iDiv) Halle‐Jena‐Leipzig  Leipzig Germany; Department of Environment, Soils and Landuse Teagasc Johnstown Castle  Wexford Ireland",
+      "title_zh": "长期施肥与植物物种丰富度对土壤真菌和原生生物的不同影响",
+      "relevance_score": 7,
+      "key_conclusion": "长期施肥和植物物种丰富度对土壤真菌和原生生物群落的影响不同，揭示了土壤微生物多样性的调控因素。",
+      "relevance_note": "文章研究施肥和植物多样性对土壤微生物（真菌、原生生物）群落的影响，与用户关注的土壤微生物群落结构对生态系统功能的影响相关，研究地点在欧洲（德国、爱尔兰），加分。",
+      "related_papers": [
+        {
+          "title": "Differential responses of soil bacteria, fungi, archaea and protists to plant species richness and plant functional group identity",
+          "link": "https://doi.org/10.1111/mec.14175",
+          "venue": "Molecular Ecology",
+          "year": 2017
+        },
+        {
+          "title": "Protist communities are more sensitive to nitrogen fertilization than other microorganisms in diverse agricultural soils",
+          "link": "https://doi.org/10.1186/s40168-019-0647-0",
+          "venue": "Microbiome",
+          "year": 2019
+        },
+        {
+          "title": "The Role of Soil Microorganisms in Plant Mineral Nutrition—Current Knowledge and Future Directions",
+          "link": "https://doi.org/10.3389/fpls.2017.01617",
+          "venue": "Frontiers in Plant Science",
+          "year": 2017
+        },
+        {
+          "title": "Soil bacterial networks are less stable under drought than fungal networks",
+          "link": "https://doi.org/10.1038/s41467-018-05516-7",
+          "venue": "Nature Communications",
+          "year": 2018
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "长期施肥（农业管理）和植物物种丰富度如何差异化地影响土壤真菌和原生生物的群落结构？",
+      "contributions_limitations": "主要贡献在于区分了两种关键土壤微生物类群（真菌和原生生物）对农业集约化（施肥）与生物多样性（植物丰富度）的不同响应，强调了并非所有微生物类群都以相同方式响应。基于摘要信息不足，推测其局限性可能在于仅关注群落组成变化而未深入探讨其功能后果（如养分循环速率），且研究地点是否是自然生态系统或草地尚不明确，建议查看原文。",
+      "follow_up_research": "可沿此方向研究在rewilding情境下（引入大型食草动物导致草本植物多样性增加、养分斑块化），土壤原生生物（捕食者）和真菌（分解者/共生者）的群落如何协同变化，以及这种变化如何介导土壤有机碳的形成与稳定。这对于理解动物驱动的土壤食物网重组至关重要。",
+      "next_step_perspective": "该研究强调了区分不同微生物功能群（如原生生物作为捕食者）的重要性。这启示用户在研究重野化后的土壤过程时，不能仅关注细菌/真菌多样性，还需关注原生生物等微型捕食者对微生物群落的调控作用（即微食物网），这可能才是连接大型动物与SOC动态的关键环节。",
+      "why_this_journal": "Global Change Biology侧重探讨人类活动（如施肥、利用方式改变）和生物多样性变化对生态系统功能的影响。该研究同时操纵施肥和植物多样性两个全球变化因子，并聚焦于被忽视的土壤原生生物，具有新颖性和跨学科意义。此推测基于期刊定位和摘要信息。",
+      "author_profile": {
+        "name": "Peter Dietrich",
+        "institution": "Martin-Luther-Universität Halle-Wittenberg Institut für Biologie",
+        "intro": "Peter Dietrich任职于德国马丁路德·哈勒维滕贝格大学，其研究主题涵盖植物与土壤生物多样性对多功能性的贡献、森林恢复中的生物多样性效应以及微生物群落对施肥的响应。他的工作尤其关注土壤微真核生物（microeukaryotes），这与用户对土壤微生物-动物互作及BEF关系的研究兴趣非常契合。",
+        "other_works": [
+          {
+            "title": "Contrasting contributions of plant and soil biodiversity to multifunctionality in a subtropical forest decades after restoration",
+            "year": "2026",
+            "journal": "Forest Ecology and Management",
+            "doi": "10.1016/j.foreco.2026.123890"
+          },
+          {
+            "title": "Soil microeukaryotic communities, soil properties, and plant biomass production in the DivResource experiment, 2022",
+            "year": "2026",
+            "journal": "Zenodo",
+            "doi": "10.5281/zenodo.21216635"
+          },
+          {
+            "title": "Differential Effects of Long‐Term Fertilization and Plant Species Richness on Soil Fungi and Protists",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71003"
+          },
+          {
+            "title": "Leaf trait data for species Fraxinus ornus, Pinus halepensis and Quercus ilex from IDENT Macomer in 2025",
+            "year": "2026",
+            "journal": "Zenodo",
+            "doi": "10.5281/zenodo.19384543"
+          },
+          {
+            "title": "Data from: Depth-dependent mechanisms regulate accumulation of plant- and microbial-derived residues under long-term nitrogen addition in a semiarid grassland",
+            "year": "2026",
+            "journal": "Dryad",
+            "doi": "10.5061/dryad.866t1g25j"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2664.70509",
+      "title": "Mixed‐species afforestation enhances soil multifunctionality through microbial reassembly and SOC molecular diversification",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70509?af=R",
+      "summary": "Journal of Applied Ecology, Volume 63, Issue 7, July 2026.",
+      "journal": "Journal of Applied Ecology",
+      "published": "2026-07-19T23:48:51-07:00",
+      "doi": "10.1111/1365-2664.70509",
+      "affiliation": "Guangdong Provincial Key Laboratory of Applied Botany, South China Botanical Garden Chinese Academy of Sciences  Guangzhou China; Key Laboratory of National Forestry and Grassland Administration on Plant Conservation and Utilization in Southern China, South China Botanical Garden Chinese Academy of Sciences  Guangzhou China; Guangdong Heshan National Observation and Research Station for Forest Ecosystem, South China Botanical Garden Chinese Academy of Sciences  Guangzhou China",
+      "title_zh": "混交造林通过微生物重组和土壤有机碳分子多样化增强土壤多功能性",
+      "relevance_score": 7,
+      "key_conclusion": "与单一树种造林相比，混交造林通过改变土壤微生物群落结构(重组)和增加土壤有机碳的分子多样性，显著提升了土壤多功能性(养分循环、碳固存等)。",
+      "relevance_note": "文章直接研究造林(植被恢复)对土壤微生物、土壤有机碳(SOC)分子组成和多功能性的影响，与您对土壤有机碳形成与稳定机制(POM、MAOM)、植被-土壤反馈、以及生态系统功能恢复(基于自然的解决方案)的核心兴趣高度相关，且涉及土壤微生物群落结构对功能的影响。研究地点虽在中国，但主题契合。",
+      "related_papers": [
+        {
+          "title": "Data of \"Mixed-species afforestation enhances soil multifunctionality through microbial reassembly and SOC molecular diversification\"",
+          "link": "https://doi.org/10.5281/zenodo.18253821",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Data of \"Mixed-species afforestation enhances soil multifunctionality through microbial reassembly and SOC molecular diversification\"",
+          "link": "https://doi.org/10.5281/zenodo.21126558",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Data of \"Mixed-species afforestation enhances soil multifunctionality through microbial reassembly and SOC molecular diversification\"",
+          "link": "https://doi.org/10.5281/zenodo.18253820",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Sustainable forage yield improvement through perennial grass–legume intercropping in degraded grasslands",
+          "link": "https://doi.org/10.55730/1300-011x.3261",
+          "venue": "TURKISH JOURNAL OF AGRICULTURE AND FORESTRY",
+          "year": 2025
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "与单一树种造林相比，混交造林如何通过调控微生物群落和SOC分子多样性来增强土壤多功能性？",
+      "contributions_limitations": "主要贡献在于从微生物群落组装（reassembly）和SOC分子多样性两个新视角，阐释了混交造林提升土壤功能的机制，超越了仅关注碳总量的传统研究。基于信息推测，可能的局限性在于研究焦点是森林恢复而非草地或草地-树木镶嵌系统，且对分子多样性变化是否直接受植食动物影响未涉及，建议查看原文确认。",
+      "follow_up_research": "可借鉴此研究思路，探究在rewilding过程中（如引入大型食草动物导致的植被异质性），植物的功能多样性（而非仅仅是种多样性）如何通过改变凋落物和根系分泌物输入，驱动土壤微生物群落重组和SOC分子（如木质素、脂质、碳水化合物）的多样化，从而影响碳固存和稳定性。",
+      "next_step_perspective": "该研究提供了一个关键机制视角：SOC的‘分子多样性’（而非总量）与其稳定性和多功能性相关。这对用户的研究极为重要，因为大型食草动物通过选择性取食和排泄，会改变输入土壤的有机质的化学组成，可能由此增加SOC的分子多样性，从而提升土壤多功能性（包括碳固存和养分循环）。这是潜在的创新突破口。",
+      "why_this_journal": "Journal of Applied Ecology关注将生态学理论应用于管理实践。该研究直接为森林恢复的造林实践（混交vs纯林）提供了科学依据，兼具理论机制（微生物与分子过程）和应用价值（提升生态系统多功能性），非常契合期刊定位。此推测基于摘要信息。",
+      "author_profile": {
+        "name": "Zhanfeng Liu",
+        "institution": "South China Botanical Garden",
+        "intro": "Zhanfeng Liu任职于中国科学院华南植物园，其研究主要围绕亚热带森林生态系统，特别关注次生演替、气候变暖及海拔梯度下的土壤碳周转、微生物代谢限制及养分循环。其强调微生物-矿物耦合和生态化学计量的工作，对用户在热带/亚热带背景下研究土壤过程具有方法论启发性。",
+        "other_works": [
+          {
+            "title": "Secondary forest succession shifts soil carbon priming from microbial to mineral control through dynamic microbe–mineral coupling",
+            "year": "2026",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2026.110232"
+          },
+          {
+            "title": "Benchmarking GC and HPLC for amino sugar analyses across soils: A comprehensive evaluation",
+            "year": "2026",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2025.110066"
+          },
+          {
+            "title": "Soil Food Webs Regulate Carbon Persistence Across Succession",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70726"
+          },
+          {
+            "title": "Ecoenzymatic stoichiometry reveals increased phosphorus limitation of microbial metabolism in tropical forests along elevation gradients",
+            "year": "2026",
+            "journal": "Soil Ecology Letters",
+            "doi": "10.1007/S42832-026-0403-X"
+          },
+          {
+            "title": "Seasonal shifts outweigh elevational effects on microbial metabolic limitation in subtropical forest soils",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.2139/ssrn.6578117"
           }
         ]
       }
@@ -1109,6 +1647,104 @@
       }
     },
     {
+      "id": "10.1111/gcb.71004",
+      "title": "From Deficiency to Enrichment: Diverging Soil Phosphorus Trajectories Across China's Croplands (1980–2018)",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71004?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-18T10:46:51-07:00",
+      "doi": "10.1111/gcb.71004",
+      "affiliation": "State Key Laboratory of Nutrient Use and Management, College of Resources and Environmental Sciences, National Academy of Agriculture Green Development China Agricultural University  Beijing China",
+      "title_zh": "从匮乏到富集：中国农田土壤磷轨迹的分化（1980-2018）",
+      "relevance_score": 6,
+      "key_conclusion": "1980至2018年间，中国农田土壤磷含量呈现从整体缺乏到部分地区富集的时空分异轨迹。",
+      "relevance_note": "文章聚焦土壤磷元素长期动态，与用户关注的土壤C-N-P化学计量及养分循环有关，属于相邻领域，但研究系统为农田而非自然或重野化生态系统。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "在近40年（1980-2018）间，中国农田土壤磷的含量和空间分布发生了怎样的长期演变？",
+      "contributions_limitations": "主要贡献在于基于长期、大尺度的数据，刻画了中国农田土壤磷从整体缺乏到部分地区富集的时空动态轨迹，为理解养分管理的历史效应提供了清晰画面。基于摘要信息，局限性在于研究范围限于农田系统，其结论向自然或半自然生态系统（如rewilding的重建区域）的外推性有限，且可能未涉及磷的形态变化（如有机磷或矿物态磷的比例），建议查看原文。",
+      "follow_up_research": "可对比研究自然生态系统（如rewilding恢复区），大型食草动物如何通过取食、排泄和活动，在不同景观尺度上创造‘磷热点’和非热点区，从而重塑土壤磷的有效性和空间格局。此类研究对于理解动物介导的磷循环及其对植物群落和碳汇的影响至关重要。",
+      "next_step_perspective": "该研究强调磷（P）作为限制性营养元素，其长期平衡对生态系统功能至关重要。在rewilding研究中，大型食草动物的引入会加剧磷的空间重分布和动物质地富集。用户应该关注‘磷富集’和‘磷缺乏’斑块的形成如何影响植被组成及土壤微生物对碳的固持效率，这可能是连接动物、植物和土壤碳的关键养分循环环节。",
+      "why_this_journal": "Global Change Biology关注全球变化的长期和宏观影响。该研究利用跨越40年的全国尺度历史数据，揭示了人类活动（农业施肥）对土壤养分库长期演变的深刻影响，具有重要的时空格局意义和政策关联性，符合期刊对宏观趋势和长期演变的重视。此推测基于期刊定位。",
+      "author_profile": {
+        "name": "Zhen Xu",
+        "institution": "China Agricultural University",
+        "intro": "Zhen Xu任职于中国农业大学，鉴于其研究主题聚焦于中国农田土壤磷的长期变化，其研究背景很可能与农业生态学、土壤养分管理及长期定位实验有关。尽管其其他著作未提供，但此项工作显示了其在宏观养分循环数据综合分析方面的能力，可为用户研究提供大尺度背景下的比较参照。",
+        "other_works": []
+      }
+    },
+    {
+      "id": "10.1111/gcb.70995",
+      "title": "Climate Change Projected to Increase Rates of Background Tree Mortality Across Eastern North America",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70995?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-11T10:19:46-07:00",
+      "doi": "10.1111/gcb.70995",
+      "affiliation": "Faculty of Forestry and Environmental Management University of New Brunswick  Fredericton New Brunswick Canada; Département des sciences du bois et de la forêt, Faculté de foresterie, de géographie et de géomatique Université Laval  Québec Quebec Canada; Department of Renewable Resources University of Alberta  Edmonton Alberta Canada",
+      "title_zh": "气候变化预计将增加北美东部背景树木死亡率",
+      "relevance_score": 6,
+      "key_conclusion": "研究预测气候变化将增加北美东部地区背景树木死亡率，即与竞争、干旱和病虫害相关的自然死亡，这可能会影响森林碳储量和碳汇功能。",
+      "relevance_note": "文章直接涉及气候变化对树木死亡率的影响，进而影响森林碳循环和碳汇/碳源变化，与您对陆地生态系统碳循环(森林退化与恢复)的兴趣高度相关。",
+      "related_papers": [
+        {
+          "title": "Adaptation, migration or extirpation: climate change outcomes for tree populations",
+          "link": "https://doi.org/10.1111/j.1752-4571.2007.00013.x",
+          "venue": "Evolutionary Applications",
+          "year": 2008
+        },
+        {
+          "title": "Weather and Climate Extreme Events in a Changing Climate",
+          "link": "https://doi.org/10.1017/9781009157896.013",
+          "venue": "Cambridge University Press eBooks",
+          "year": 2023
+        },
+        {
+          "title": "The Regional Impacts of Climate Change: An Assessment of Vulnerability",
+          "link": "",
+          "venue": "University of North Texas Digital Library (University of North Texas)",
+          "year": 1998
+        },
+        {
+          "title": "Couplings Between Changes in the Climate System and Biogeochemistry",
+          "link": "",
+          "venue": "eScholarship (California Digital Library)",
+          "year": 2007
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "气候变化如何影响北美东部森林中背景树木死亡率，及其对未来森林碳储量和碳汇功能的潜在影响？",
+      "contributions_limitations": "基于现有信息，该研究的主要贡献是预测气候变化将增加背景树木死亡率，这直接关联到森林碳动态，可能与用户关注的碳循环主题紧密相关。但摘要信息非常有限，无法评估具体方法（如是否考虑了树种差异、林分结构或土壤反馈）和局限性。",
+      "follow_up_research": "可以进一步研究增加树木死亡率如何改变土壤有机碳输入（如凋落物量）和分解速率，尤其是在重野化背景下大型食草动物活动可能改变凋落物质量和分布。同时，将死亡率模型与动态植被模型（DGVM）耦合，以改进对未来碳汇变化的预测。",
+      "next_step_perspective": "该研究提供了气候变化胁迫下森林碳损失的一个关键路径（背景死亡率），用户可将其与放牧或重野化导致的植被-土壤反馈比较，探讨不同干扰形式下碳库稳定性的差异。",
+      "why_this_journal": "推测Global Change Biology作为生态学领域顶级期刊，注重研究对全球变化问题的机制性贡献。该研究量化了气候变化对森林碳汇关键参数（死亡率）的影响，具有区域至全球尺度意义，且与碳循环热点直接相关。",
+      "author_profile": {
+        "name": "Jiejie Wang",
+        "institution": "University of New Brunswick",
+        "intro": "Jiejie Wang目前在University of New Brunswick。其历史研究包括气候变化对树木死亡率、树木生长以及森林冠层位置对生长响应的影响，主要聚焦于北美温带和北方森林的树木生理生态和气候变化响应。这与用户关注的碳循环和植物碳分配策略（如NSC）有交叉，但更侧重个体和种群层面，而非大型食草动物或重野化。",
+        "other_works": [
+          {
+            "title": "Climate Change Projected to Increase Rates of Background Tree Mortality Across Eastern North America",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70995"
+          },
+          {
+            "title": "Boreal Tree Growth May Be More Tolerant to Warming Than Previously Considered: Implications for Future Modelling Studies",
+            "year": "2025",
+            "journal": "Global Ecology and Biogeography",
+            "doi": "10.1111/geb.70034"
+          },
+          {
+            "title": "Tree species growth response to climate warming varies by forest canopy position in boreal and temperate forests",
+            "year": "2023",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.16853"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://doi.org/10.5194/bg-23-4927-2026",
       "title": "Assessing forest biomass and productivity with data-driven vegetation indices: insights from 900 000 simulated forest stands",
       "link": "https://doi.org/10.5194/bg-23-4927-2026",
@@ -1488,6 +2124,338 @@
             "year": "2025",
             "journal": null,
             "doi": "10.1101/2025.06.02.657040"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03111-4",
+      "title": "Increased nutrient diversity can induce loss of microbial diversity through enhanced resource uptake",
+      "link": "https://www.nature.com/articles/s41559-026-03111-4",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 20 July 2026; doi:10.1038/s41559-026-03111-4Increasing nutrient diversity is expected to promote microbial diversity. This study shows that more complex environments can enhance resource uptake, intensify competition and lead to microbial biodiversity loss, challenging a central ecological assumption.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-07-20T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03111-4",
+      "affiliation": null,
+      "title_zh": "增加养分多样性可通过增强资源摄取导致微生物多样性丧失",
+      "relevance_score": 5,
+      "key_conclusion": "本研究发现，更复杂的营养环境可以增强资源摄取、加剧竞争，反而导致微生物生物多样性丧失，挑战了经典生态学假设。",
+      "relevance_note": "文章探讨了养分多样性对微生物多样性和竞争的影响，与用户关注的土壤微生物群落结构及生态系统功能有间接关联，是相关领域的基础机制研究。",
+      "related_papers": [
+        {
+          "title": "The gut microbiota of insects – diversity in structure and function",
+          "link": "https://doi.org/10.1111/1574-6976.12025",
+          "venue": "FEMS Microbiology Reviews",
+          "year": 2013
+        },
+        {
+          "title": "Global assessment of nitrogen deposition effects on terrestrial plant diversity: a synthesis",
+          "link": "https://doi.org/10.1890/08-1140.1",
+          "venue": "Ecological Applications",
+          "year": 2010
+        },
+        {
+          "title": "EFFECTS OF BIODIVERSITY ON ECOSYSTEM FUNCTIONING: A CONSENSUS OF CURRENT KNOWLEDGE",
+          "link": "https://doi.org/10.1890/04-0922",
+          "venue": "Ecological Monographs",
+          "year": 2005
+        },
+        {
+          "title": "Microbial diversity drives carbon use efficiency in a model soil",
+          "link": "https://doi.org/10.1038/s41467-020-17502-z",
+          "venue": "Nature Communications",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03111-4/MediaObjects/41559_2026_3111_Fig1_HTML.png",
+      "scientific_question": "增加营养物质多样性是否以及如何影响微生物多样性？这一过程是否挑战了“资源多样性促进生物多样性”的经典生态学假设？",
+      "contributions_limitations": "该研究的主要贡献是揭示了一种反直觉的机制：更复杂的营养环境加剧资源竞争，反而导致微生物多样性丧失，对传统生态理论构成了重要修正。局限性可能包括实验条件的简化（如微宇宙或培养皿环境）是否能推广到复杂的野外土壤系统，以及未充分考虑微生物互作（如共生、拮抗）的具体路径。",
+      "follow_up_research": "基于此，可以探究在重野化系统中，大型食草动物的排泄物和选择性取食如何改变土壤中营养物质（如碳、氮、磷）的多样性与空间异质性，进而介导土壤微生物多样性与功能的权衡关系。还可结合zoogeochemistry视角，量化动物介导的资源斑块化对微生物群落组装的影响。",
+      "next_step_perspective": "该研究直接触及用户关注的土壤微生物群落结构与功能的关系。用户在进行重野化对土壤有机碳（特别是POM与MAOM）形成影响的研究时，需要考虑动物输入带来的营养多样性增加是否反而会简化微生物群落，从而改变有机质分解和稳定化路径。",
+      "why_this_journal": "推测该文章能够发表在Nature Ecology & Evolution，是因为它挑战了一个被广泛接受的生态学基本假设，具有高度的概念创新性和理论意义。研究方法上可能结合了理论模型与可控实验，证据链完整，符合该刊追求高辨识度、变革性研究的定位。",
+      "author_profile": {
+        "name": "Or Shalev",
+        "institution": "University of Tübingen",
+        "intro": "Or Shalev目前在University of Tübingen。其研究方向涵盖微生物生态学、植物-微生物互作（如拟南芥叶际微生物组）、空间转录组学在宿主-细菌-真菌互作中的应用。虽然不直接涉及大型食草动物，但其对微生物群落组装和功能的理解，尤其是利用先进组学技术解析跨界互作，对用户研究重野化中植物-土壤-微生物反馈提供了方法论参考。",
+        "other_works": [
+          {
+            "title": "Increased nutrient diversity can induce loss of microbial diversity through enhanced resource uptake",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03111-4"
+          },
+          {
+            "title": "Spatial metatranscriptomics resolves host–bacteria–fungi interactomes",
+            "year": "2023",
+            "journal": "Nature Biotechnology",
+            "doi": "10.1038/s41587-023-01979-2"
+          },
+          {
+            "title": "Replaying the evolution of multicellularity",
+            "year": "2023",
+            "journal": "Trends in Ecology &amp; Evolution",
+            "doi": "10.1016/j.tree.2023.07.007"
+          },
+          {
+            "title": "Contrasting patterns of microbial dominance in the Arabidopsis thaliana phyllosphere",
+            "year": "2022",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2211881119"
+          },
+          {
+            "title": "Spatially resolved host-bacteria-fungi interactomes via spatial metatranscriptomics",
+            "year": "2022",
+            "journal": null,
+            "doi": "10.1101/2022.07.18.496977"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.70999",
+      "title": "A Simple Stomatal Model That Unifies the Metabolic and Hydraulic Control of Carbon and Water Flux",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70999?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-11T10:16:44-07:00",
+      "doi": "10.1111/gcb.70999",
+      "affiliation": "Department of Plant Sciences University of California, Davis  Davis California USA; Centre de Recherche sur la Biodiversité et l'Environnement (CRBE) Université de Toulouse, CNRS, IRD, Toulouse INP, Université Toulouse 3—Paul Sabatier (UT3)  Toulouse France; USDA Agricultural Research Service, Water Management and Systems Research Unit  Fort Collins Colorado USA",
+      "title_zh": "一个统一碳与水分通量代谢与水力控制的气孔模型",
+      "relevance_score": 5,
+      "key_conclusion": "该研究提出了一个简单气孔模型，统一了光合作用代谢和水力传导对碳和水通量的控制，改进了对植物-大气间碳水和能量交换的模拟。",
+      "relevance_note": "文章涉及植物碳和水通量模型，与您对生态系统模型改进和植物碳分配策略(如NSC)的兴趣相关，但其核心是气孔机制而非直接研究碳循环或重野化。",
+      "related_papers": [
+        {
+          "title": "Mechanisms of plant survival and mortality during drought: why do some plants survive while others succumb to drought?",
+          "link": "https://doi.org/10.1111/j.1469-8137.2008.02436.x",
+          "venue": "New Phytologist",
+          "year": 2008
+        },
+        {
+          "title": "Carbon–concentration and carbon–climate feedbacks in CMIP6 models and their comparison to CMIP5 models",
+          "link": "https://doi.org/10.5194/bg-17-4173-2020",
+          "venue": "Biogeosciences",
+          "year": 2020
+        },
+        {
+          "title": "How do stomata respond to water status?",
+          "link": "https://doi.org/10.1111/nph.15899",
+          "venue": "New Phytologist",
+          "year": 2019
+        },
+        {
+          "title": "Nonstructural Carbon in Woody Plants",
+          "link": "https://doi.org/10.1146/annurev-arplant-050213-040054",
+          "venue": "Annual Review of Plant Biology",
+          "year": 2013
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何构建一个能够同时统一描述气孔对代谢（光合作用）和水力（水分传导）双重控制的气孔导度模型，以改进对植物碳-水通量的模拟？",
+      "contributions_limitations": "该研究的主要贡献是提出了一个简化的气孔模型，将光合代谢和水力学整合起来，这有助于改进DGVM和生态系统模型对碳、水循环的模拟精度。局限性可能在于模型的普适性（是否适用于不同植物功能型，如C3/C4、阔叶/针叶）以及关键参数（如水力传导率）的获取难度。",
+      "follow_up_research": "该模型可作为工具，预测在重野化场景下，由于食草动物改变植被组成和林冠结构（如啃食导致叶片性状变化）后，植物水分利用效率和光合能力的动态变化。后续研究可将此模型与动物觅食行为模型耦合，评估植被-动物反馈对区域水热通量和碳平衡的影响。",
+      "next_step_perspective": "用户关注DGVM和生态系统模型改进。这个模型提供了一个更机械化的气孔行为子模块，可以直接嵌入到用户使用的模型中，用于评估重野化过程中植被结构变化如何通过气孔控制影响碳吸收和蒸散，从而更准确地估算净生态系统生产力。",
+      "why_this_journal": "推测该文章能发表在Global Change Biology，是因为它解决了气候变化研究中碳-水耦合模拟的一个关键瓶颈，即气孔行为的参数化。简化模型的提出具有较高的实用价值，能够直接服务于全球变化情景下的生态系统模型预测，符合该刊对方法学创新的偏好。",
+      "author_profile": {
+        "name": "Thomas N. Buckley",
+        "institution": "University of California, Davis",
+        "intro": "Thomas N. Buckley目前在University of California, Davis。其研究高度集中于植物叶片气体交换、气孔导度模型的理论与校准、以及温度和水力对气孔行为的调控。其工作直接关联到用户关注的陆地生态系统碳、水循环的机理模型，但主要聚焦于植物生理，而非大型食草动物。",
+        "other_works": [
+          {
+            "title": "A Simple Stomatal Model That Unifies the Metabolic and Hydraulic Control of Carbon and Water Flux",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70999"
+          },
+          {
+            "title": "Leaf gas exchange measurement for steady‐state stomatal conductance model calibration",
+            "year": "2026",
+            "journal": "New Phytologist",
+            "doi": "10.1111/nph.70949"
+          },
+          {
+            "title": "The Stomatal Response to Temperature Is Enhanced by High Evaporative Demand, Consistent With a Partially Hydraulic Mechanism",
+            "year": "2026",
+            "journal": "Plant, Cell & Environment",
+            "doi": "10.1111/pce.70347"
+          },
+          {
+            "title": "The stomatal response to temperature is enhanced by high evaporative demand, consistent with a partially hydraulic mechanism",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.22541/au.175856249.94385155/v1"
+          },
+          {
+            "title": "TinyCO2: High‐performance, low‐cost CO2 enrichment for field‐grown plants",
+            "year": "2025",
+            "journal": "Methods in Ecology and Evolution",
+            "doi": "10.1111/2041-210X.70068"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.70981",
+      "title": "Prolonged Nutrient Enrichment Slows the Recovery of Biodiversity and Productivity After Its Cessation",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70981?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-10T00:14:50-07:00",
+      "doi": "10.1111/gcb.70981",
+      "affiliation": "Department of Ecology, Evolution, and Behavior University of Minnesota  St. Paul Minnesota USA; Department of Biology, Institute of Science, Ecology and Biodiversity Utrecht University  Utrecht the Netherlands; Department of Biology Saint Louis University  St. Louis Missouri USA",
+      "title_zh": "长期养分富集减缓恢复停止后的生物多样性和生产力恢复",
+      "relevance_score": 5,
+      "key_conclusion": "即使在长期的养分富集(施肥)停止后，生态系统的生物多样性和生产力恢复也会显著减缓，表明历史遗留效应对生态系统恢复有持久影响。",
+      "relevance_note": "文章涉及生态系统功能恢复(生产力与生物多样性)和养分循环，与您研究放牧强度、植被-土壤反馈和生态系统功能恢复的主题高度相关，但未涉及大型食草动物或重野化。",
+      "related_papers": [
+        {
+          "title": "Data and script for He et al. (2026) Prolonged nutrient enrichment slows the recovery of biodiversity and productivity after its cessation",
+          "link": "https://doi.org/10.6084/m9.figshare.32774583.v1",
+          "venue": "Figshare",
+          "year": 2026
+        },
+        {
+          "title": "Data and script for He et al. (2026) Prolonged nutrient enrichment slows the recovery of biodiversity and productivity after its cessation",
+          "link": "https://doi.org/10.6084/m9.figshare.32774583",
+          "venue": "Figshare",
+          "year": 2026
+        },
+        {
+          "title": "Invader presence disrupts the stabilizing effect of species richness in plant community recovery after drought",
+          "link": "https://doi.org/10.1111/gcb.15025",
+          "venue": "Global Change Biology",
+          "year": 2020
+        },
+        {
+          "title": "Effects of natural and human-induced hypoxia on coastal benthos",
+          "link": "https://doi.org/10.5194/bg-6-2063-2009",
+          "venue": "Biogeosciences",
+          "year": 2009
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "长期养分富集（施肥）在停止后，对生态系统生物多样性和生产力的恢复速度有何长期遗留效应？",
+      "contributions_limitations": "该研究的主要贡献是明确了即使停止养分输入，历史遗留效应（放牧遗留效应类似）仍会显著延缓生态系统的恢复进程。这突出了生态恢复中时间维度和历史背景的重要性。局限性可能在于未涉及恢复过程中土壤有机碳（特别是MAOM）的微观动态，也未探讨动物活动（如重新引入的放牧者）如何抵消或加剧这种遗留效应。",
+      "follow_up_research": "可以进一步研究在这种延缓恢复的系统中，重野化（如重新引入大型草食动物）是否能够通过扰动土壤、增加资源异质性或改变植物群落竞争格局来加速恢复。尤其应关注动物活动如何改变养分富集遗留效应下的碳、氮、磷化学计量关系及其对MAOM稳定性的影响。",
+      "next_step_perspective": "该研究与用户关注的放牧强度以及重野化对生态系统恢复的影响高度相关。它提供了一个清晰的框架：必须将历史土地利用（如施肥、高强度放牧）纳入考虑，因为其生态效应会持续很长时间。用户在设计重野化实验或分析数据时，需要将历史养分状态作为重要协变量。",
+      "why_this_journal": "推测Global Change Biology接受了这篇文章，因为它探讨了全球变化因子（氮沉降）的长期后效应，对理解和预测人为干扰后生态系统的恢复轨迹至关重要。研究主题紧扣全球变化生态学的核心问题，且结果对生态管理（如停止施肥后的自然恢复策略）具有直接指导意义。",
+      "author_profile": {
+        "name": "Miao He",
+        "institution": null,
+        "intro": "Miao He没有提供明确的机构信息，但其历史研究集中在氮沉降、二氧化碳富集、放牧强度对草地生态系统生产力和多样性以及生态化学计量学的影响。研究主题与用户的核心方向（放牧强度、植被-土壤反馈、生态系统功能恢复、C:N:P化学计量）高度一致，是一位在同一个研究领域内有丰富产出的研究者。",
+        "other_works": [
+          {
+            "title": "Prolonged Nutrient Enrichment Slows the Recovery of Biodiversity and Productivity After Its Cessation",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70981"
+          },
+          {
+            "title": "Nitrogen and CO2 enrichment interact to decrease biodiversity impact on complementarity and selection effects",
+            "year": "2025",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-025-62691-0"
+          },
+          {
+            "title": "Cumulative nitrogen enrichment alters the drivers of grassland overyielding",
+            "year": "2024",
+            "journal": "Communications Biology",
+            "doi": "10.1038/s42003-024-05999-9"
+          },
+          {
+            "title": "Grazing and global change factors differentially affect biodiversity‐ecosystem functioning relationships in grassland ecosystems",
+            "year": "2022",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.16305"
+          },
+          {
+            "title": "Grazing intensity significantly changes the C : N : P stoichiometry in grassland ecosystems",
+            "year": "2019",
+            "journal": "Global Ecology and Biogeography",
+            "doi": "10.1111/geb.13028"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1007/s00442-026-05938-x",
+      "title": "Field warming increases activity time, body mass and abundance of field slugs in an alpine meadow",
+      "link": "https://link.springer.com/article/10.1007/s00442-026-05938-x",
+      "summary": "Global warming can alter not only the seasonal timing of animal activity but also daily activity, a fundamental dimension of animal behavior with important consequences for energy acquisition and species performance. Although studies have focused predominantly on global warming effects on animal phenology, the effects on daily activity remain largely unexplored. Here, we used long-term field experimental warming with large open-top chambers (15 × 15 × 2.5 m), which increased temperatures by 0.24 °C in the growing season and 0.55 °C in the non-growing season from 2017 to 2023, to determine whether warming alters daily activity time, body mass, and species abundance of the crepuscular slug Agriolimax agrestis in an alpine meadow on the eastern Tibetan Plateau. Experimental warming increased slug activity time by 37 min (+ 25%) in 2022 and 50 min (+ 29%) in 2023, and increased body mass by 65% and 57%, respectively, without changing growth phenology. To determine whether warming could directly affect slug activity time and growth, we conducted a complementary, short-term (18 days in August) experiment using small open-top chambers (2 × 2 × 2 m), which elevated temperature by 0.44 °C. Warming increased slug activity time by 180% and body mass by 36%, which was consistent with the result of the long-term experiment. Slug abundance increased by an average of 497% in warmed plots from 2019 to 2023, likely driven by enhanced survival and increased fecundity, both of which might be as",
+      "journal": "Oecologia",
+      "published": "2026-07-20T00:00:00+00:00",
+      "doi": "10.1007/s00442-026-05938-x",
+      "affiliation": null,
+      "title_zh": "野外增温增加了高寒草甸蛞蝓的活动时间、体重和丰度",
+      "relevance_score": 5,
+      "key_conclusion": "长期和短期野外增温实验均表明，气候变暖显著增加了蛞蝓(一种无脊椎动物)的日间活动时间、个体体重和种群丰度，改变其行为、生长和种群动态。",
+      "relevance_note": "文章探讨气候变化对动物(无脊椎动物)行为、生长和种群的影响，与您对极端气候事件扰动生态系统的兴趣有关，但蛞蝓不属于大型食草动物，且研究地点在中国而非欧洲。",
+      "related_papers": [
+        {
+          "title": "Forty years of carabid beetle research in Europe – from taxonomy, biology, ecology and population studies to bioindication, habitat assessment and conservation",
+          "link": "https://doi.org/10.3897/zookeys.100.1523",
+          "venue": "ZooKeys",
+          "year": 2011
+        },
+        {
+          "title": "Useful model organisms, indicators, or both? Ground beetles (Coleoptera, Carabidae) reflecting environmental conditions",
+          "link": "https://doi.org/10.3897/zookeys.100.1533",
+          "venue": "ZooKeys",
+          "year": 2011
+        },
+        {
+          "title": "Humusica 1, article 8: Terrestrial humus systems and forms – Biological activity and soil aggregates, space-time dynamics",
+          "link": "https://doi.org/10.1016/j.apsoil.2017.07.020",
+          "venue": "Applied Soil Ecology",
+          "year": 2017
+        },
+        {
+          "title": "Thermal constraints on embryonic development as a proximate cause for elevational range limits in two Mediterranean lacertid lizards",
+          "link": "https://doi.org/10.1111/j.1600-0587.2010.06905.x",
+          "venue": "Ecography",
+          "year": 2011
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00442-026-05938-x/MediaObjects/442_2026_5938_Fig1_HTML.png",
+      "scientific_question": "气候变暖如何通过改变无脊椎动物（蛞蝓）的日常活动时间、体重和丰度，进而影响高山草甸生态系统的功能？",
+      "contributions_limitations": "贡献：长期野外增温实验揭示了气候变暖对蛞蝓行为、生长和种群动态的直接影响，提供了增温放大效应的证据。局限性：仅关注单一无脊椎动物物种（蛞蝓），且实验地点位于青藏高原，生态系统类型与用户关注的欧洲大型食草动物重野化/森林系统不同。基于现有信息推测，研究未涉及蛞蝓对土壤碳循环或植被的反馈效应。",
+      "follow_up_research": "可研究蛞蝓丰度增加后对土壤有机碳分解、植物群落组成和草地生产力的级联效应，特别是其对食草动物重野化背景下土壤碳库的潜在影响。此外，在气候变暖情境下，探究类似的无脊椎动物功能群变化如何通过食物网介导土壤碳循环。",
+      "next_step_perspective": "本研究提供了增温改变无脊椎动物种群动力学的实验范式，可用于类比分析大型食草动物（如欧洲野牛）在重野化后，其行为（如放牧强度、移动模式）如何受气候变化调节，并最终影响土壤有机碳。尽管研究对象不同，其野外增温装置和长期监测方法值得借鉴。",
+      "why_this_journal": "推测：Oecologia 作为生态学领域的主流期刊，发表关于有机体与环境之间相互作用的机制性研究。本文通过长期野外实验，提供了全球变化背景下动物行为生态学与种群生物学整合的扎实证据，符合期刊定位。",
+      "author_profile": {
+        "name": "Shucun Sun",
+        "institution": "Nanjing University",
+        "intro": "Shucun Sun目前任职于南京大学生命科学学院。从其历史论文标题看，主要研究方向为高山草地生态系统对气候变化的响应、植物光合生理以及分解者/土壤节肢动物生态学。这些研究与环境变化对陆地生态系统功能的影响高度相关，可为用户理解气候变化如何通过生物（包括无脊椎动物和植物）作用于碳循环提供机制层面的参考。",
+        "other_works": [
+          {
+            "title": "Field warming increases activity time, body mass and abundance of field slugs in an alpine meadow",
+            "year": "2026",
+            "journal": "Oecologia",
+            "doi": "10.1007/s00442-026-05938-x"
+          },
+          {
+            "title": "Environmental heterogeneity reshapes arthropod communities and overrides biodiversity effects on carrion decomposition across the Qinghai–Tibet Plateau",
+            "year": "2026",
+            "journal": "Ecological Entomology",
+            "doi": "10.1111/een.70119"
+          },
+          {
+            "title": "Biodiversity Assessment of Urban Green Space Based on Remote Sensing—A Case Study of Hangzhou Bay Urban Agglomeration",
+            "year": "2026",
+            "journal": "Remote Sensing",
+            "doi": "10.3390/rs18121898"
+          },
+          {
+            "title": "Vertical Variations of Leaf Photosynthetic and Biochemical Parameters Within Winter Wheat and Paddy Rice Canopies at Different Growth Stages",
+            "year": "2026",
+            "journal": "Agronomy",
+            "doi": "10.3390/agronomy16100950"
+          },
+          {
+            "title": "Vertical Variations of Leaf Photosynthetic and Biochemical Parameters Within Winter Wheat and Paddy Rice Canopies at Different Growth Stages",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.20944/preprints202604.0820.v1"
           }
         ]
       }
@@ -2083,6 +3051,302 @@
             "year": "2025",
             "journal": null,
             "doi": "10.1101/2025.07.07.663143"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03131-0",
+      "title": "Biotic interactions shape the realized niche of toxic cyanobacteria",
+      "link": "https://www.nature.com/articles/s41559-026-03131-0",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 20 July 2026; doi:10.1038/s41559-026-03131-0Using five years of daily lake plankton monitoring data and empirical dynamic modelling, this study shows that grazing, competition and facilitation reshape the temperature and nutrient conditions required for toxic cyanobacterial blooms.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-07-20T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03131-0",
+      "affiliation": null,
+      "title_zh": "生物互作塑造有毒蓝藻的实际生态位",
+      "relevance_score": 4,
+      "key_conclusion": "基于五年每日湖泊浮游生物监测数据与经验动态模型，研究显示牧食、竞争和互惠关系重塑了有毒蓝藻水华所需的温度和营养条件。",
+      "relevance_note": "文章涉及微生物-动物互作及营养动态，与用户关注的生物间互作网络（特别是微生物-动物互作）相关，但主要聚焦水生系统与有毒藻类。",
+      "related_papers": [
+        {
+          "title": "Biotic Interactions in Soil are Underestimated Drivers of Microbial Carbon Use Efficiency",
+          "link": "https://doi.org/10.1007/s00284-022-02979-2",
+          "venue": "Current Microbiology",
+          "year": 2022
+        },
+        {
+          "title": "Microbiome definition re-visited: old concepts and new challenges",
+          "link": "https://doi.org/10.1186/s40168-020-00875-0",
+          "venue": "Microbiome",
+          "year": 2020
+        },
+        {
+          "title": "Scientists’ warning to humanity: microorganisms and climate change",
+          "link": "https://doi.org/10.1038/s41579-019-0222-5",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2019
+        },
+        {
+          "title": "Biotic interactions shape the realised niche of toxic cyanobacteria",
+          "link": "https://doi.org/10.1101/2025.04.16.649070",
+          "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03131-0/MediaObjects/41559_2026_3131_Fig1_HTML.png",
+      "scientific_question": "生物间相互作用（如牧食、竞争和互利共生）如何通过重塑生态位，改变有毒蓝藻水华暴发所需的温度和营养生态位条件？",
+      "contributions_limitations": "贡献：利用五年高频率湖泊监测数据和经验动态模型，量化了生物互作对蓝藻水华非生物生态位（温度、营养）的重塑作用，挑战了仅从环境因子预测水华的传统观点。局限性：研究聚焦于水生生态系统中的蓝藻，与用户关注的陆地大型食草动物/土壤碳循环系统不同。此外，基于摘要信息无法判断该研究是否考虑了其他环境因子（如光照）或空间异质性。",
+      "follow_up_research": "可将类似的经验动态模型框架应用于陆地生态系统，研究大型食草动物放牧如何通过植物-土壤反馈（如改变凋落物质量和养分可用性）重塑土壤微生物群落的功能生态位，从而影响有机碳的稳定与分解。",
+      "next_step_perspective": "本研究提供了一个重要的概念视角：生态系统功能（如碳循环）不能仅由非生物环境（温度、降水）预测，生物互作（如放牧、竞争）能够重塑物种（如微生物、植物）的“现实生态位”。用户在设计关于重野化对土壤碳影响的实验时，应考虑大型食草动物介导的互作如何改变土壤微生物的“温度或养分最适区”。",
+      "why_this_journal": "推测：Nature Ecology & Evolution 注重发表能揭示生态学基本过程（如生态位构建、生物互作）的实证研究，本文通过高时空分辨率数据和动态建模，挑战了关于水华控制的传统范式，具有较高的理论和方法学新颖性。",
+      "author_profile": null
+    },
+    {
+      "id": "10.1111/gcb.70983",
+      "title": "Body Size Decline in an Endangered Bat Is Associated With Climate Change at a Continental Scale but Varies by Phenophase and Region",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70983?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-14T00:44:49-07:00",
+      "doi": "10.1111/gcb.70983",
+      "affiliation": "Wildlife Research and Monitoring Section Ontario Ministry of Natural Resources  Peterborough Canada; Department of Biology University of Waterloo  Waterloo Canada; Department of Environment Government of Yukon  Whitehorse Canada",
+      "title_zh": "一种濒危蝙蝠的体型衰退与大陆尺度的气候变化相关，但随物候期和区域变化",
+      "relevance_score": 4,
+      "key_conclusion": "该研究在北美大陆尺度上发现一种濒危蝙蝠的体型衰退与气候变化相关，且这种关联在不同物候期和区域间存在差异。",
+      "relevance_note": "文章涉及气候变化对动物(蝙蝠)的影响，与您对极端气候事件扰动碳循环的兴趣有间接关联，但核心是动物体型变化而非碳循环或重野化。",
+      "related_papers": [
+        {
+          "title": "Bumblebee resilience to climate change, through plastic and adaptive responses",
+          "link": "https://doi.org/10.1111/gcb.15751",
+          "venue": "Global Change Biology",
+          "year": 2021
+        },
+        {
+          "title": "Linking plant phenology to conservation biology",
+          "link": "https://doi.org/10.1016/j.biocon.2015.12.033",
+          "venue": "Biological Conservation",
+          "year": 2016
+        },
+        {
+          "title": "The importance of including phenology when modelling species ecological niche",
+          "link": "https://doi.org/10.1111/ecog.06143",
+          "venue": "Ecography",
+          "year": 2022
+        },
+        {
+          "title": "Trends in Area of Occurrence and Biomass of Fish and Macroinvertebrates on the Northeast U.S. Shelf Ecosystem",
+          "link": "https://doi.org/10.1002/mcf2.10235",
+          "venue": "Marine and Coastal Fisheries",
+          "year": 2023
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在北美大陆尺度上，气候变暖如何导致濒危蝙蝠的体型衰退？这种体型变化在不同物候期和区域间是否存在差异？",
+      "contributions_limitations": "贡献：首次在大陆尺度上揭示了气候变化（推测为降水或温度变化）与濒危蝙蝠体型衰退的关联，并强调了物候期和区域异质性的重要性。局限性：基于摘要信息，研究为相关性分析，未建立直接因果关系。且研究对象（蝙蝠）与用户核心方向（大型食草动物）偏差较大，但属于用户感兴趣的“捕食者-猎物”或“气候变化对动物性状”范畴。",
+      "follow_up_research": "可进一步探究蝙蝠体型变化如何通过影响其捕食效率（如对昆虫的取食压力），间接影响森林或草地生态系统的养分循环和土壤碳输入。此外，可在欧洲类似研究中对比大型食草动物（如鹿类）体型变化对植被-土壤反馈的影响。",
+      "next_step_perspective": "本研究强调“体型作为气候变化敏感指标”，这一视角对用户的研究有借鉴价值：大型食草动物的体型大小（如欧洲野牛、马）可能受气候变暖影响而改变，进而影响其放牧强度（采食量、践踏），最终反馈于土壤有机碳库。用户可关注重野化区域中动物体型或行为的长期监测数据。",
+      "why_this_journal": "推测：Global Change Biology 专注于气候变化等全球变化因子对生物系统的影响。本文在大时空尺度上揭示了全球变化对动物体型及种群生存的影响，具有保育生物学和宏观生态学意义，符合该期刊发表综合性、高影响力研究的定位。",
+      "author_profile": {
+        "name": "Valerie von Zuben",
+        "institution": "Ontario Ministry of Natural Resources",
+        "intro": "Valerie von Zuben 目前任职于安大略省自然资源部。从其历史论文标题看，主要研究方向为蝙蝠及其他野生动物对气候变化的响应、城市化影响以及病毒宿主专一性。这些研究侧重于野生动物生态与保护，但并未直接涉及大型食草动物重野化或土壤碳循环。",
+        "other_works": [
+          {
+            "title": "Body Size Decline in an Endangered Bat Is Associated With Climate Change at a Continental Scale but Varies by Phenophase and Region",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70983"
+          },
+          {
+            "title": "High host specificity of alphacoronaviruses in Nearctic, insectivorous bats",
+            "year": "2025",
+            "journal": "npj Viruses",
+            "doi": "10.1038/s44298-025-00115-y"
+          },
+          {
+            "title": "High variation in Eastern Whip-poor-will home-range size and shape limits the effectiveness of one-size-fits-all habitat protection methods",
+            "year": "2025",
+            "journal": "Avian Conservation and Ecology",
+            "doi": "10.5751/ace-02804-200114"
+          },
+          {
+            "title": "Urbanization and artificial light at night reduce the functional connectivity of migratory aerial habitat",
+            "year": "2022",
+            "journal": "Ecography",
+            "doi": "10.1111/ecog.05581"
+          },
+          {
+            "title": "Rapidly declining body size in an insectivorous bat is associated with increased precipitation and decreased survival",
+            "year": "2022",
+            "journal": "Ecological Applications",
+            "doi": "10.1002/eap.2639"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.70997",
+      "title": "Saline Permafrost and Cryopegs as Potentially Important Sources of CO2—Assessing Organic Carbon Mineralization Potentials on the Alaskan Coastal Plain",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70997?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-11T10:12:56-07:00",
+      "doi": "10.1111/gcb.70997",
+      "affiliation": "Permafrost Research Section Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research  Potsdam Germany; Institute of Geosciences University of Potsdam  Potsdam Germany; Physical Geography, Institute of Geography Technische Universität Dresden  Dresden Germany",
+      "title_zh": "含盐冻土和冻层作为潜在重要CO2来源——评估阿拉斯加沿海平原有机碳矿化潜力",
+      "relevance_score": 4,
+      "key_conclusion": "研究发现北极含盐冻土和冻层中埋藏的有机碳具有较高矿化潜力，在升温条件下可能释放大量CO2，成为重要碳源。",
+      "relevance_note": "文章涉及冻土区有机碳矿化和碳源潜力，与您对陆地生态系统碳循环(碳源碳汇变化)的兴趣相关，但生态系统类型(北极冻土)与您的主要兴趣点(森林、放牧生态系统)有距离。",
+      "related_papers": [
+        {
+          "title": "Permafrost and groundwater interaction: current state and future perspective",
+          "link": "https://doi.org/10.3389/feart.2023.1254309",
+          "venue": "Frontiers in Earth Science",
+          "year": 2023
+        },
+        {
+          "title": "Sources and fate of terrestrial organic matter in Arctic coastal waters",
+          "link": "https://doi.org/10.26153/tsw/62993",
+          "venue": "Open MIND",
+          "year": 2023
+        },
+        {
+          "title": "Sorted Paterned in Karst Caves: Development and Potential for Permafrost Research",
+          "link": "",
+          "venue": "Helmholtz-Zentrum für Polar-und Meeresforschung (Alfred-Wegener-Institut)",
+          "year": 2019
+        },
+        {
+          "title": "Abstracts: 2021 Regional Conference on Permafrost and 19th International Conference on Cold Regions Engineering",
+          "link": "https://doi.org/10.52381/rcop2021.abstracts.1",
+          "venue": null,
+          "year": 2022
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "北极含盐冻土及深层‘cryopegs’中埋藏的有机碳，其矿化潜力如何？在升温条件下是否可能成为重要的CO2排放源？",
+      "contributions_limitations": "贡献：率先评估了以往被忽视的含盐冻土和地下卤水层（cryopegs）的碳矿化潜力，发现这些并非惰性碳库，其CO2释放潜力可能很高。局限性：研究针对北极特殊环境（含盐冻土），与用户关注的欧洲温带/亚热带生态系统及大型食草动物重野化无直接地理或生态对应。但方法学（碳矿化潜力测定）具有参考价值。",
+      "follow_up_research": "可将此研究中的有机碳矿化潜力评估方法（如培养实验、有机质质量指标）应用于重野化研究，评估不同放牧强度或恢复措施下，土壤活性有机碳组分的分解潜力与碳固持效应。",
+      "next_step_perspective": "本研究提醒用户，土壤有机碳的稳定性（如MAOM vs POM）不仅受物理化学保护影响，还取决于有机质的“内禀质量”和微生物的矿化活性。在大型食草动物重野化背景下，动物粪便和践踏引起的土壤压实可能改变土壤微环境（如氧气、水分），进而影响特定有机碳组分的矿化，这与本研究发现的盐度和有机质质量对矿化的影响有类比性。",
+      "why_this_journal": "推测：Global Change Biology 关注全球变化背景下的生物地球化学循环。本文揭示了北极冻土中一个被忽视的碳库（含盐冻土/cryopegs）在气候变化下的潜在风险，对于完善全球碳循环模型和预测气候反馈具有重要科学意义，因此得以发表。",
+      "author_profile": {
+        "name": "Fabian Seemann",
+        "institution": "Technische Universität Dresden",
+        "intro": "Fabian Seemann目前任职于德累斯顿工业大学。从其历史论文标题看，主要研究方向是北极冻土区的有机质降解过程、生物标志物分析和温室气体（CO2、CH4）产生。这些研究与用户关注的土壤碳循环高度相关，为该领域提供了低温环境下的有机质降解机制知识，但对欧洲大型食草动物重野化并无直接关联。",
+        "other_works": [
+          {
+            "title": "Saline Permafrost and Cryopegs as Potentially Important Sources of CO2—Assessing Organic Carbon Mineralization Potentials on the Alaskan Coastal Plain",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70997"
+          },
+          {
+            "title": "Sedimentary insights into organic matter alteration in Arctic Alaska's saline permafrost",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-3675-2026"
+          },
+          {
+            "title": "Deciphering organic matter degradation in the continuous permafrost zone of Alaska based on biomarker analyses.",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-18132"
+          },
+          {
+            "title": "Differences in reactive nitrogen availability and N2O production between active layer and ice-rich Yedoma permafrost",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-18948"
+          },
+          {
+            "title": "Setting up and parametrising a thermo-erosional gully model to study the impact of morphology and snowdrift on development trajectories",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-21908"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1007/s00442-026-05929-y",
+      "title": "‘Fast’ and ‘slow’ water handling strategies explain pinyon pine decline and juniper expansion",
+      "link": "https://link.springer.com/article/10.1007/s00442-026-05929-y",
+      "summary": "Semiarid forests in the western USA have undergone large-scale shifts in dominance due to decreasing pinyon pine abundance and increasing juniper abundance. This shift has been attributed to fast water loss in aboveground pinyon tissues during a long-term drought. Water loss, or ‘outputs’, however, are only a part of a plant’s water budget. Water inputs, or root water uptake, are also important, but rarely well understood. We used depth-controlled tracer experiments, root water potentials, and soil water flow models to estimate pinyon and juniper inputs (root water uptake) and stomatal conductance as a proxy for water outputs. Measurements were made over two years at three sites that crossed an aridity gradient, Utah, USA. Pinyon roots were good at ‘following’ water through the soil, but not good at absorbing water from dry soil. Pinyon tracer uptake profiles (1–90 cm) changed more from month to month than juniper (coefficient of variation = 0.25 ± 0.02 and 0.16 ± 0.02, respectively) in ways that provided 12% more water over time. However, because pinyon roots had higher water potentials, the net water uptake advantage for pinyon was smaller: over six sampling dates, pinyon absorbed 2% more tracer than juniper. Aboveground, pinyon stomatal conductance was 25% greater than juniper. Results indicate that pinyon both absorbs and releases water faster than juniper. These ‘fast’ aboveground and belowground strategies place pinyon at higher risk of rapid transitions from growth to ",
+      "journal": "Oecologia",
+      "published": "2026-07-20T00:00:00+00:00",
+      "doi": "10.1007/s00442-026-05929-y",
+      "affiliation": null,
+      "title_zh": "“快”与“慢”的水分处理策略解释松树衰退和刺柏扩张",
+      "relevance_score": 4,
+      "key_conclusion": "研究通过对比两种树种的根系吸水和地上蒸腾策略发现，一种松树'快速'吸收和释放水分，使其在干旱期面临更高的衰退风险；而刺柏'慢速'策略使其更具竞争力。植物水分策略差异导致物种组成变化。",
+      "relevance_note": "文章涉及植物-水分关系和物种更替，与您对植物碳分配策略(如水分利用效率)有间接关联，但核心是水分而非碳，且未涉及动物影响或重野化。",
+      "related_papers": [
+        {
+          "title": "'Fast' and 'Slow' Water Handling Strategies Explain Pinyon Pine Decline and Juniper Expansion",
+          "link": "",
+          "venue": "Digital Commons - USU (Utah State University)",
+          "year": 2026
+        },
+        {
+          "title": "R Code and Supporting Data for \"Fast and Slow Water Handling Strategies Explain Pinyon Pine Decline and Juniper Expansion\"",
+          "link": "https://doi.org/10.26078/39mw-pa79",
+          "venue": "Digital Commons - USU (Utah State University)",
+          "year": 2026
+        },
+        {
+          "title": "Climate, Environment, and Disturbance History Govern Resilience of Western North American Forests",
+          "link": "https://doi.org/10.3389/fevo.2019.00239",
+          "venue": "Frontiers in Ecology and Evolution",
+          "year": 2019
+        },
+        {
+          "title": "Ecology and management of oak and associated woodlands: Perspectives in the southwestern United States and northern Mexico",
+          "link": "https://doi.org/10.2737/rm-gtr-218",
+          "venue": null,
+          "year": 1992
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00442-026-05929-y/MediaObjects/442_2026_5929_Fig1_HTML.png",
+      "scientific_question": "在半干旱森林中，因长期干旱导致的松树减少和刺柏扩张的物种组成变化，是否主要源于两种树种在根系吸水和地上蒸腾方面的‘快’与‘慢’水分处理策略差异，以及这种策略如何影响它们的竞争能力和生存风险？",
+      "contributions_limitations": "主要贡献在于整合了地上和地下的水分收支（根系吸水与蒸腾），揭示了松树的‘快’策略（快速吸水且快速蒸腾）使其在干旱中更脆弱，而刺柏的‘慢’策略更具优势，这有助于解释物种组成变化机制。局限性可能包括：研究仅基于三个地点的两年数据，样本量有限，且未直接量化长期干旱下的死亡率或碳平衡；此外，该研究未涉及植物-土壤反馈对土壤有机碳的影响，且与大型食草动物重野化无直接关联。基于现有信息推测。",
+      "follow_up_research": "未来可研究大型食草动物（如鹿或牛）的采食或践踏是否影响此类物种的水分策略（例如改变根系分布或土壤水分利用率），从而间接改变物种竞争格局和碳循环。此外，可探讨在重野化背景下，引入大型动物是否通过改变土壤物理性质（如压实度）影响不同水分策略树种的适应性，进而判断其对生态系统碳存储的潜在效应。",
+      "next_step_perspective": "本文的‘快’与‘慢’水分策略框架可用于研究大型食草动物对植被-土壤反馈的影响，例如放牧强度如何改变植物水分利用策略（如通过减少地上生物量或改变根系深度），从而影响土壤有机碳的输入与分解。用户可借鉴其多维度原位监测方法（深度控制示踪实验、根水势、土壤水模型）来量化动物介导的生态水文过程，尤其是在欧洲半干旱或地中海生态系统中。",
+      "why_this_journal": "据推测，该研究能发表在Oecologia上是因为它将地上和地下水分过程整合到生态位分化与物种共存理论中，提供了机制性解释，且方法上结合了实地实验与建模，符合该期刊关注植物生态生理与生态系统功能的定位。",
+      "author_profile": {
+        "name": "Andrew Kulmatiski",
+        "institution": null,
+        "intro": "Andrew Kulmatiski多次在本文以及其列出的其他工作中（如‘水分匹配’理论、物种根系分布）专注于干旱生态系统中植物水分获取与共存机制。他目前可能在美国机构（如犹他州立大学）工作，主要研究方向为植物-水分关系及其对生态系统动态的影响。这与用户研究方向的关联在于，用户关注放牧对土壤碳循环的影响，而作者的水分策略研究提供了理解植被变化驱动因素的视角，但两者在动物介导过程上交集有限。",
+        "other_works": [
+          {
+            "title": "‘Fast’ and ‘slow’ water handling strategies explain pinyon pine decline and juniper expansion",
+            "year": "2026",
+            "journal": "Oecologia",
+            "doi": "10.1007/s00442-026-05929-y"
+          },
+          {
+            "title": "Dominant and subdominant rooting niches",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70302"
+          },
+          {
+            "title": "Drought intensity and duration interact to magnify losses in primary productivity",
+            "year": "2025",
+            "journal": "Science",
+            "doi": "10.1126/science.ads8144"
+          },
+          {
+            "title": "Season, wind speed, and seasonal rain are major drivers of a regional aeolian sediment transport model",
+            "year": "2025",
+            "journal": "PLOS One",
+            "doi": "10.1371/journal.pone.0333166"
+          },
+          {
+            "title": "Water matching: an explanation for plant growth and coexistence in water-limited systems",
+            "year": "2024",
+            "journal": "Discover Soil",
+            "doi": "10.1007/s44378-024-00002-7"
           }
         ]
       }
