@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T13:28:09.566507+00:00",
-  "count": 6,
+  "generated_at": "2026-07-20T03:32:30.767082+00:00",
+  "count": 2,
   "posts": [
     {
       "handle": "pnas.org",
@@ -23,50 +23,6 @@
       "external_description": "EISCAT_3D will paint a new picture of the upper atmosphere as it is roiled by solar outbursts",
       "external_uri": "https://scim.ag/44xgAhC",
       "external_thumb": null
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "Robert Streit",
-      "text": "The journal Nature Climate Change recently had it's 15th birthday - and 'celebrated' by reflecting in stunning visuals how climate change has changed in its lifetime.\n\nwww.nature.com/immersive/s4...\n\n@natclimate.nature.com",
-      "created_at": "2026-07-17T02:18:47.958Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mqsoqnzfjk2i",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "In this issue: Effects of ice shelf fractures on the rate of ice loss, temperature thresholds in tropical forests, and energy requirements of Hannibal’s crossing of the Alps. In PNAS: https://ow.ly/jhuN50Zo5hF",
-      "created_at": "2026-07-16T21:00:20.068623392Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mqs4x7yihr2t",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Managing trade-offs between food production and conservation is even more difficult than usual at high altitudes, according to a study of the Tibetan Plateau—especially when extreme weather events are considered. In PNAS: https://ow.ly/z0N350Zo9ZN",
-      "created_at": "2026-07-16T19:00:30.188105647Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mqrwax5cgy2p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Nature research paper: Highly fragmented European wetlands with uneven restoration needs\n\ngo.nature.com/4538due",
-      "created_at": "2026-07-16T17:22:01.639Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mqrqqtutkl2g",
-      "external_title": "Highly fragmented European wetlands with uneven restoration needs - Nature",
-      "external_description": "Satellite imagery and machine learning used for the mapping of six seminatural open wetland types and land-use disturbance in European countries shows that wetlands are highly fragmented and have uneven restoration needs.",
-      "external_uri": "https://go.nature.com/4538due",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiemeik7wopg33komoutzjqlvotfzz4h4pc5rbsisb3mbv4syjioda"
     }
   ]
 }
