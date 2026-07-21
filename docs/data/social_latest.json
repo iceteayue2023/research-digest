@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-21T08:11:33.962843+00:00",
-  "count": 5,
+  "generated_at": "2026-07-21T13:28:35.498519+00:00",
+  "count": 8,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "A satellite-derived metric is widely used as proxy for ecosystem resilience despite the lack of mechanistic validation. Is it a real ecophysiological signal? How sensitive is it to methodological choices? Find out here (open-access):\n\nwww.nature.com/articles/s41...\n\n@gerslab.bsky.social",
+      "created_at": "2026-07-21T12:16:53.766Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mr5rztadvk27",
+      "external_title": "Physiological fidelity of a satellite-derived forest resilience indicator in the Amazon - Nature Ecology & Evolution",
+      "external_description": "This analysis shows that a widely used satellite-based ecosystem resilience indicator is a real signal linked to plant physiological responses to water deficit, provided that the estimation is based o...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03116-z",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreib2moteslyzsiz43s55rksepfnybafps4nnzs24o4n3wsqn6t5xbm"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Registration and call for abstracts for the BES Annual Meeting 2026 are now open 🔥\n\nOur sold-out and Europe's largest ecology conference is returning this year to Birmingham's ICC on 14–17 December, and we can't wait to see you there.\n\nFind out more here 👇\nhttps://tinyurl.com/2s3nupvu",
+      "created_at": "2026-07-21T12:03:18.017857970Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mr5rbjp77r2y",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Rising dust pollution across Europe in a changing climate\n\ngo.nature.com/4wO1Dnj",
+      "created_at": "2026-07-21T09:52:01.780Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mr5jwrxl2d2n",
+      "external_title": "Rising dust pollution across Europe in a changing climate - Nature",
+      "external_description": "A database of daily dust metals in Europe is established and a machine learning model shows that transported dust intrusion events over the past decade are linked to changes in atmospheric circulation, while an ice core shows that the increase in dust since pre-industrial times is governed by increasing aridity in North Africa..",
+      "external_uri": "https://go.nature.com/4wO1Dnj",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidcerqxcdohmirprkoypvcne4jzpbcvbtwgq52qyowqvdjitgohbe"
+    },
     {
       "handle": "natgeosci.nature.com",
       "author_name": "Kau)))",

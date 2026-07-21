@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T08:11:33.961685+00:00",
-  "count": 4,
+  "generated_at": "2026-07-21T13:28:35.496408+00:00",
+  "count": 9,
   "articles": [
     {
       "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70317?af=R",
@@ -158,6 +158,320 @@
       }
     },
     {
+      "id": "https://www.nature.com/articles/s41559-026-03116-z",
+      "title": "Physiological fidelity of a satellite-derived forest resilience indicator in the Amazon",
+      "link": "https://www.nature.com/articles/s41559-026-03116-z",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 21 July 2026; doi:10.1038/s41559-026-03116-zThis analysis shows that a widely used satellite-based ecosystem resilience indicator is a real signal linked to plant physiological responses to water deficit, provided that the estimation is based on appropriate methodological choice.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-07-21T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03116-z",
+      "affiliation": null,
+      "title_zh": "亚马逊地区卫星衍生森林恢复力指标的生理保真度",
+      "relevance_score": 8,
+      "key_conclusion": "该分析表明，广泛使用的基于卫星的生态系统恢复力指标是一个真实的信号，与植物对水分亏缺的生理反应有关，前提是估算基于适当的方法选择。",
+      "relevance_note": "文章直接关联用户关注的(1)中热带雨林退化与恢复以及碳循环扰动；且研究地点在亚马逊，属于(1)提及的森林类型。对理解植被响应与生态系统功能恢复有参考价值。",
+      "related_papers": [
+        {
+          "title": "White-Sand Savannas Expand at the Core of the Amazon After Forest Wildfires",
+          "link": "https://doi.org/10.1007/s10021-021-00607-x",
+          "venue": "Ecosystems",
+          "year": 2021
+        },
+        {
+          "title": "Edaphic, structural and physiological contrasts across Amazon Basin forest–savanna ecotones suggest a role for potassium as a key modulator of tropical woody vegetation structure and function",
+          "link": "https://doi.org/10.5194/bg-12-6529-2015",
+          "venue": "Biogeosciences",
+          "year": 2015
+        },
+        {
+          "title": "Understanding Forest Health with Remote Sensing -Part I—A Review of Spectral Traits, Processes and Remote-Sensing Characteristics",
+          "link": "https://doi.org/10.3390/rs8121029",
+          "venue": "Remote Sensing",
+          "year": 2016
+        },
+        {
+          "title": "Toward an integrated monitoring framework to assess the effects of tropical forest degradation and recovery on carbon stocks and biodiversity",
+          "link": "https://doi.org/10.1111/gcb.13087",
+          "venue": "Global Change Biology",
+          "year": 2015
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03116-z/MediaObjects/41559_2026_3116_Fig1_HTML.png",
+      "scientific_question": "广泛使用的基于卫星的生态系统恢复力指标是否真实反映了植物的生理响应，而非单纯的统计伪像？",
+      "contributions_limitations": "主要贡献在于通过实证分析证实了该卫星恢复力指标与植物对水分亏缺的生理反应之间存在真实的生理联系，提高了其作为生态系统健康指示器的可信度。局限性可能在于该结论依赖于特定的方法论选择，对亚马逊雨林的适用性可能无法直接推广到其他生态系统类型。",
+      "follow_up_research": "可进一步探索该生理保真度指标在不同气候区（如欧洲温带森林）和面对不同干扰（如放牧、火灾）时的表现。此外，可将该指标与土壤有机碳动态及大型食草动物活动联系起来，评估动物介导的扰动如何改变植被恢复力的卫星信号。",
+      "next_step_perspective": "该研究提供了一种方法学启示：可以利用卫星遥感指标来量化生态系统的恢复力。您可以借鉴其思路，探索大型食草动物重野化是否会影响生态系统对干旱等气候事件的恢复力，从而间接影响土壤碳库的稳定性。",
+      "why_this_journal": "推测：该研究通过对广泛使用的卫星指标进行严格的生理学验证，解决了生态遥感领域的核心争议，方法严谨且具有跨学科意义（遥感与植物生理学交叉），符合Nature Ecology & Evolution对高影响力生态学研究的要求。",
+      "author_profile": {
+        "name": "Kexin Song",
+        "institution": "Yale University",
+        "intro": "Kexin Song目前在耶鲁大学工作。从其历史论文标题来看，其研究方向包括城市化过程遥感诊断、人类活动时空动态卫星分析以及算法开发。这些研究与用户的重野化土壤碳方向关联度较低，但Song在卫星遥感信号解读方面的专长可能为研究提供技术工具视角。",
+        "other_works": [
+          {
+            "title": "The Urban Pulse: Diagnosing the urbanization process as spiky, cyclical, and asynchronous",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2537770123"
+          },
+          {
+            "title": "Satellite imagery reveals increasing volatility in human night-time activity",
+            "year": "2026",
+            "journal": "Nature",
+            "doi": "10.1038/s41586-026-10260-w"
+          },
+          {
+            "title": "TIF: A time-series-based image fusion algorithm",
+            "year": "2025",
+            "journal": "Remote Sensing of Environment",
+            "doi": "10.1016/j.rse.2025.115035"
+          },
+          {
+            "title": "A shift from human-directed to undirected wild land disturbances in the USA",
+            "year": "2025",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-025-01792-3"
+          },
+          {
+            "title": "Evaluation of Summertime Passive Microwave and Reanalysis Sea‐Ice Concentration in the Central Arctic",
+            "year": "2024",
+            "journal": "Earth and Space Science",
+            "doi": "10.1029/2023ea003214"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02058-2",
+      "title": "Extreme warming fans the flames during mass extinctions",
+      "link": "https://www.nature.com/articles/s41561-026-02058-2",
+      "summary": "Nature Geoscience, Published online: 21 July 2026; doi:10.1038/s41561-026-02058-2Most major mass extinctions in Earth history are linked to greenhouse gas emissions causing warmer and drier climates. Research shows these perturbations also led to widespread wildfires and the expansion of fern savannahs during one of the most acute events at the end of the Triassic period, potentially holding lessons for the future.",
+      "journal": "Nature Geoscience",
+      "published": "2026-07-21T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02058-2",
+      "affiliation": null,
+      "title_zh": "极端变暖为大灭绝中的野火添柴加火",
+      "relevance_score": 5,
+      "key_conclusion": "地球历史上大多数大规模灭绝都与温室气体排放导致的气候变暖和干旱有关。研究表明这些扰动也导致了广泛野火和蕨类稀树草原的扩张，可能为未来提供教训。",
+      "relevance_note": "文章主题涉及极端气候事件对生态系统（森林崩溃、火灾）的扰动，与用户关注的(1)中“极端气候事件对碳循环的扰动”相关。但时间尺度为地质历史时期，与rewilding的直接关联较弱。",
+      "related_papers": [
+        {
+          "title": "Flame Retardant Coatings: Additives, Binders, and Fillers",
+          "link": "https://doi.org/10.3390/polym14142911",
+          "venue": "Polymers",
+          "year": 2022
+        },
+        {
+          "title": "Characterisation of flame development with ethanol, butanol, iso-octane, gasoline and methane in a direct-injection spark-ignition engine",
+          "link": "https://doi.org/10.1016/j.fuel.2012.12.088",
+          "venue": "Fuel",
+          "year": 2013
+        },
+        {
+          "title": "Functional coatings for textiles: advancements in flame resistance, antimicrobial defense, and self-cleaning performance",
+          "link": "https://doi.org/10.1039/d5ra01429h",
+          "venue": "RSC Advances",
+          "year": 2025
+        },
+        {
+          "title": "Plasma–liquid interactions: a review and roadmap",
+          "link": "https://doi.org/10.1088/0963-0252/25/5/053002",
+          "venue": "Plasma Sources Science and Technology",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02058-2/MediaObjects/41561_2026_2058_Fig1_HTML.png",
+      "scientific_question": "极端变暖事件如何通过加剧野火影响地球历史上的大规模灭绝事件，以及这些过程对当前气候危机有何启示？",
+      "contributions_limitations": "主要贡献在于建立了温室气体排放、气候变干与广泛野火之间的联系，并指出三叠纪末事件中蕨类稀树草原扩张与野火的反馈作用。局限性是历史事件类比现代时需谨慎，且文章主要基于古记录，定量机制理解可能不足。",
+      "follow_up_research": "可以探究现代生态系统（如欧洲受重野化影响的地中海或森林区域）在气候变暖背景下，大型食草动物活动如何改变燃料负荷和火灾风险。此外，可结合历史事件研究植物-火灾-食草动物之间的长期反馈。",
+      "next_step_perspective": "该研究提供了一种历史视角：极端气候驱动的植被转变会改变火灾动态，从而影响碳循环。您可考虑在重野化研究中，评估大型食草动物是否通过改变植被结构（如减少可燃物）来缓冲或放大极端气候对土壤碳的间接影响。",
+      "why_this_journal": "推测：该文章以古气候古生态记录为基础，揭示了一个跨越地质时间尺度的系统临界正反馈过程（变暖-野火-植被崩塌），对理解当代气候变化具有重要警示意义，符合Nature Geoscience关注地球系统过程及其响应的定位。",
+      "author_profile": {
+        "name": "Chris Mays",
+        "institution": "Natural History Museum Vienna",
+        "intro": "Chris Mays目前在维也纳自然历史博物馆工作。其历史论文主要围绕古植物灭绝与陆地生态系统崩溃、古食物网、以及古碳汇功能展开，涉及三叠纪-侏罗纪边界事件。这与用户关注的碳循环扰动及生态系统崩溃有直接联系，提供了一种深时视角。",
+        "other_works": [
+          {
+            "title": "Extreme warming fans the flames during mass extinctions",
+            "year": "2026",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-026-02058-2"
+          },
+          {
+            "title": "The geological history of plant mass extinction and terrestrial ecosystem collapse",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-9282628/v1"
+          },
+          {
+            "title": "<p>Defences Against Herbivory in Gondwanan Triassic Plants</p>",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.2139/ssrn.6727264"
+          },
+          {
+            "title": "Measures of prehistoric terrestrial net ecosystem productivity and carbon sink function",
+            "year": "2025",
+            "journal": "Earth-Science Reviews",
+            "doi": "10.1016/j.earscirev.2025.105222"
+          },
+          {
+            "title": "Age-controlled south polar floral trends show a staggered Early Triassic gymnosperm recovery following the end-Permian event",
+            "year": "2025",
+            "journal": "Geological Society of America Bulletin",
+            "doi": "10.1130/b38017.1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02048-4",
+      "title": "Continental-scale fern savannah wildfires during end-Triassic greenhouse warming",
+      "link": "https://www.nature.com/articles/s41561-026-02048-4",
+      "summary": "Nature Geoscience, Published online: 21 July 2026; doi:10.1038/s41561-026-02048-4Fern savannahs spread rapidly following the collapse of the forest ecosystem during the end-Triassic mass extinction, setting the conditions for widespread wildfires, according to an analysis of the darkening of fossil pollen and spores.",
+      "journal": "Nature Geoscience",
+      "published": "2026-07-21T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02048-4",
+      "affiliation": null,
+      "title_zh": "三叠纪末期温室变暖期间大陆尺度蕨类稀树草原野火",
+      "relevance_score": 5,
+      "key_conclusion": "在三叠纪末大灭绝期间，森林生态系统崩溃后蕨类稀树草原迅速扩张，为大面积野火创造了条件。",
+      "relevance_note": "研究与(1)中“森林退化与恢复”及“极端气候事件”相关，涉及生态系统崩溃与植被类型转变，对理解碳循环扰动有参考价值。但为古生态学研究，与当代rewilding实践关联有限。",
+      "related_papers": [
+        {
+          "title": "Hyperthermal-driven mass extinctions: killing models during the Permian–Triassic mass extinction",
+          "link": "https://doi.org/10.1098/rsta.2017.0076",
+          "venue": "Philosophical Transactions of the Royal Society A Mathematical Physical and Engineering Sciences",
+          "year": 2018
+        },
+        {
+          "title": "Regime Shifts in an Early Triassic Subtropical Ecosystem",
+          "link": "https://doi.org/10.3389/feart.2020.588696",
+          "venue": "Frontiers in Earth Science",
+          "year": 2020
+        },
+        {
+          "title": "World atlas of biodiversity: earth's living resources in the 21st century",
+          "link": "https://doi.org/10.5860/choice.40-3993",
+          "venue": "Choice Reviews Online",
+          "year": 2003
+        },
+        {
+          "title": "Continental-scale wildfires during end-Triassic greenhouse warming",
+          "link": "https://doi.org/10.5194/egusphere-egu25-17654",
+          "venue": null,
+          "year": 2025
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02048-4/MediaObjects/41561_2026_2048_Fig1_HTML.png",
+      "scientific_question": "在三叠纪末大灭绝期间，蕨类稀树草原如何通过野火反馈机制在大陆尺度上扩张并塑造生态系统？",
+      "contributions_limitations": "主要贡献是通过化石花粉和孢子的变暗分析，证实了森林崩溃后蕨类植被的快速扩张及其为大规模野火创造条件的反馈机制。局限性在于对野火强度的定量重建和与现代生态系统的直接类比可能受到古环境和现代生态差异的限制。",
+      "follow_up_research": "可进一步研究现代重野化过程中，大型食草动物促进的稀树草原或开阔生境是否通过改变凋落物和生物量积累影响火灾风险。这可以与古记录进行对比，验证当代“新型生态系统”的野火潜力。",
+      "next_step_perspective": "该研究揭示了植被转换（从森林到稀树草原）与野火之间的正反馈，对土壤碳循环有长期影响。您可借鉴其思路，在您的研究中关注重野化带来的植被结构变化（如从森林到疏林/草地）是否会从燃料角度改变区域火灾发生频率，进而影响土壤有机碳的稳定性和周转。",
+      "why_this_journal": "推测：该研究提供了大陆尺度生态系统崩溃与野火耦合的明确古证据，展示了地球系统一个关键反馈过程，研究方法创新（孢粉变暗分析），结论对预测当前气候变暖下的生态变化具有现实意义，符合Nature Geoscience的发表标准。",
+      "author_profile": {
+        "name": "B. van de Schootbrugge",
+        "institution": "Universiteit Utrecht",
+        "intro": "B. van de Schootbrugge目前在乌得勒支大学工作。其历史论文多聚焦于三叠纪-侏罗纪边界事件、孢子壁损伤与汞富集、以及古海洋化学梯度。这些研究关注全球变化事件下的生态系统响应，与用户对生态系统功能恢复和碳循环扰动的兴趣有间接关联，尤其是从古环境角度。",
+        "other_works": [
+          {
+            "title": "Hg-accumulation in above-ground fern biomass and spore malformations around industrial sites (Czechia): Implications for mass extinction scenarios",
+            "year": "2026",
+            "journal": "Chemosphere",
+            "doi": "10.1016/j.chemosphere.2026.145025"
+          },
+          {
+            "title": "Warming, stress and survival",
+            "year": "2026",
+            "journal": "Proceedings of the Royal Society B: Biological     Sciences",
+            "doi": "10.1098/rspb.2025.2880"
+          },
+          {
+            "title": "Organic-walled microphytoplankton from the West Midlands, England, following the end-Triassic mass extinction: palynological evidence from the Prees 2 borehole, Cheshire Basin",
+            "year": "2026",
+            "journal": "Geological Magazine",
+            "doi": "10.1017/S0016756825100459"
+          },
+          {
+            "title": "Continental-scale wildfires during end-Triassic greenhouse warming",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-8211214/v1"
+          },
+          {
+            "title": "Simulated charcoalification of Lycopodium spores",
+            "year": "2025",
+            "journal": "Review of Palaeobotany and Palynology",
+            "doi": "10.1016/j.revpalbo.2025.105405"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1007/s10533-026-01350-y",
+      "title": "Biophysical and biogeochemical controls on nitrogen fixation in cyanolichen and decaying wood",
+      "link": "https://link.springer.com/article/10.1007/s10533-026-01350-y",
+      "summary": "Cryptic (non-symbiotic) forms of nitrogen (N) fixation are increasingly recognized as a major source of N to natural and agroecosystems, yet the mechanistic controls on cryptic N fixation remain unresolved. A recent synthesis posited that both biophysical (temperature and moisture) and biogeochemical (nutrients) factors regulate N fixation rates, but that biophysical factors exert primary control. Given this conceptual framework, we tested the hypothesis that both biophysical and biogeochemical factors regulate N fixation rates in foliose cyanolichen and decaying wood, but that biogeochemical controls would be stronger when biophysical conditions were more favorable for fixation. We conducted two experiments to explore controls on rates of nitrogenase activity among cyanolichen and decaying wood samples from a temperate lodgepole pine (Pinus contorta var. latifolia) forest. We measured the effects of moisture, temperature, N and phosphorus (P) availability on acetylene reduction rates on samples in both field and growth chamber settings. Moisture and temperature exerted predominant control, but lichen nitrogenase activity responded more to moisture while wood nitrogenase activity responded more to temperature. We found little evidence of nutrient (N and P) controls on nitrogenase activity even when biophysical conditions were favorable for N fixation. Our study suggests that the nature and strength of biophysical and/or biogeochemical controls on cryptic N fixation vary in re",
+      "journal": "Biogeochemistry",
+      "published": "2026-07-21T00:00:00+00:00",
+      "doi": "10.1007/s10533-026-01350-y",
+      "affiliation": null,
+      "title_zh": "蓝藻地衣和腐烂木材中固氮作用的生物物理与生物地球化学控制",
+      "relevance_score": 5,
+      "key_conclusion": "水分和温度对固氮酶活性起主导控制作用。地衣固氮酶活性对水分更敏感，而木材固氮酶活性对温度更敏感。当生物物理条件有利时，未发现养分（氮、磷）的强控制作用。",
+      "relevance_note": "文章涉及氮循环（固氮作用）及其生物物理/生物地球化学控制，与用户关注的(2)中碳氮磷化学计量与养分循环相关，但研究对象为地衣和朽木，与大型动物重野化及动物介导的生物地球化学循环无直接关联。",
+      "related_papers": [
+        {
+          "title": "Exploring the Role of Cryptic Nitrogen Fixers in Terrestrial Ecosystems: A Frontier in Nitrogen Cycling Research",
+          "link": "https://doi.org/10.1007/s10021-022-00804-2",
+          "venue": "Ecosystems",
+          "year": 2022
+        },
+        {
+          "title": "A new synthesis for terrestrial nitrogen inputs",
+          "link": "https://doi.org/10.5194/soil-1-381-2015",
+          "venue": "SOIL",
+          "year": 2015
+        },
+        {
+          "title": "Tropical montane cloud forest: environmental drivers of vegetation structure and ecosystem function",
+          "link": "https://doi.org/10.1017/s0266467415000176",
+          "venue": "Journal of Tropical Ecology",
+          "year": 2015
+        },
+        {
+          "title": "Towards a Systems Biology Approach to Understanding the Lichen Symbiosis: Opportunities and Challenges of Implementing Network Modelling",
+          "link": "https://doi.org/10.3389/fmicb.2021.667864",
+          "venue": "Frontiers in Microbiology",
+          "year": 2021
+        }
+      ],
+      "image_url": "https://media.springernature.com/full/springer-static/cover-hires/journal/10533",
+      "scientific_question": "在隐生固氮（地衣与朽木）过程中，生物物理（温度、水分）和生物地球化学（养分）因素如何共同调控固氮速率？",
+      "contributions_limitations": "主要贡献在于通过实验证实了水分和温度对隐生固氮的主控作用，并揭示地衣与朽木的不同敏感性（水分vs.温度），同时否定了养分（N、P）在有利生物物理条件下的强控制作用。局限性在于研究针对特定森林类型，且实验室控制条件可能无法完全代表野外自然动态的复杂性。",
+      "follow_up_research": "可研究在大型食草动物重野化改变地表微环境（如通过踩踏和排泄增加局部养分和水分变异）后，隐生固氮的速率和空间分布如何变化。此外，可将该机制整合到生态系统模型中，评估其对总氮输入和碳氮耦合循环的影响。",
+      "next_step_perspective": "该研究强调了生物物理因素（水分、温度）对养分循环的关键控制作用。在您的重野化研究中，大型食草动物会通过改变土壤物理结构、凋落物层和蒸发蒸腾来改变微气候，这可能通过影响朽木和地衣的固氮作用，间接改变土壤养分供给（尤其是氮），从而影响土壤有机碳的形成和稳定。",
+      "why_this_journal": "推测：该研究深入探讨了隐生固氮这一被忽视的氮源的控制机制，通过精细的实验设计测试了著名的概念框架，为理解生态系统氮循环提供了新的机理证据，符合Biogeochemistry对生物地球化学过程机制研究的定位。",
+      "author_profile": {
+        "name": "Robert E. Heumann",
+        "institution": "University of Montana",
+        "intro": "Robert E. Heumann目前在蒙大拿大学工作。其历史论文标题仅涉及氮固定控制因子，且专注于火灾后森林。这些研究直接与用户关注的生态系统恢复中的养分循环相关，但其对大型食草动物的影响关注较少。他的研究为理解干扰后（如火灾）环境中氮输入的调控提供了方法，这可能与重野化场景有相似之处。",
+        "other_works": [
+          {
+            "title": "Biophysical and biogeochemical controls on nitrogen fixation in cyanolichen and decaying wood",
+            "year": "2026",
+            "journal": "Biogeochemistry",
+            "doi": "10.1007/s10533-026-01350-y"
+          },
+          {
+            "title": "Rates and controls of nitrogen fixation in postfire lodgepole pine forests",
+            "year": "2025",
+            "journal": "Ecology",
+            "doi": "10.1002/ecy.70016"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.nature.com/articles/d41586-026-02211-2",
       "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
       "link": "https://www.nature.com/articles/d41586-026-02211-2",
@@ -283,6 +597,89 @@
             "year": "2021",
             "journal": null,
             "doi": "10.1101/2021.01.07.425800"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70368?af=R",
+      "title": "Link prediction in ecological meta‐networks under extreme taxonomic bias",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70368?af=R",
+      "summary": "Methods in Ecology and Evolution, EarlyView.",
+      "journal": "Methods in Ecology and Evolution",
+      "published": "2026-07-20T04:38:46-07:00",
+      "doi": "10.1111/2041-210x.70368",
+      "affiliation": "Department of Statistical Science Duke University  Durham North Carolina USA; Nicholas School of the Environment Duke University  Durham North Carolina USA",
+      "title_zh": "极端类群偏差下生态元网络的链接预测",
+      "relevance_score": 4,
+      "key_conclusion": "（摘要信息不足，无法提炼核心结论。根据标题推测：文章提出了在生态网络数据存在极端类群抽样偏差的情况下，进行网络链接预测的方法。）",
+      "relevance_note": "文章主题涉及生态网络（meta-network）分析方法（链接预测），可能与用户关注的(4)食物网复杂性、(8)生物间互作网络有方法论上的关联。但缺乏具体研究结论，且与rewilding和碳循环的直接关联不明确。",
+      "related_papers": [
+        {
+          "title": "Sparse and Compositionally Robust Inference of Microbial Ecological Networks",
+          "link": "https://doi.org/10.1371/journal.pcbi.1004226",
+          "venue": "PLoS Computational Biology",
+          "year": 2015
+        },
+        {
+          "title": "The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture",
+          "link": "https://doi.org/10.2307/1941447",
+          "venue": "Ecology",
+          "year": 1992
+        },
+        {
+          "title": "A global network of coexisting microbes from environmental and whole-genome sequence data",
+          "link": "https://doi.org/10.1101/gr.104521.109",
+          "venue": "Genome Research",
+          "year": 2010
+        },
+        {
+          "title": "Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries",
+          "link": "https://doi.org/10.3389/fdata.2019.00013",
+          "venue": "Frontiers in Big Data",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在生态网络中，当存在极端类群抽样偏差（即某些类群数据丰富而其他类群数据极度匮乏）时，如何准确识别和预测缺失的物种间相互作用链接？",
+      "contributions_limitations": "主要贡献：提出了一种适用于极端抽样偏差下生态元网络链接预测的新方法，填补了方法论空白，可能整合机器学习和网络理论。基于现有信息推测：局限性可能包括方法对数据质量高度敏感、需要大量计算资源，且验证需要完备的参考网络数据集。",
+      "follow_up_research": "后续研究可将该方法应用于具体生态过程，例如大型食草动物重野化过程中，预测数据匮乏的古生物或入侵物种与现有生物群落的潜在互作关系。此外，可探索该方法在预测动物介导的营养物质转移路径（zoogeochemistry）上的适用性。",
+      "next_step_perspective": "用户研究方向涉及大型食草动物对环境的影响，该方法可帮助用户弥补观测数据中缺失的物种互作（如食草动物-植物-微生物），从而更完整地建模重野化对碳循环的级联效应。尤其可应用于欧洲研究点，若当地存在类群数据偏差（如微生物数据丰富而大型动物数据稀疏）。",
+      "why_this_journal": "推测理由：该文发表于《Methods in Ecology and Evolution》，是因提出了一种创新的生态网络分析工具，填补了数据处理方法的空白，具有较高的方法学普适性和跨生态子领域应用潜力。",
+      "author_profile": {
+        "name": "Jennifer N. Kampe",
+        "institution": "University of Jyväskylä",
+        "intro": "Jennifer N. Kampe目前任职于芬兰于韦斯屈莱大学（University of Jyväskylä）。从其历史论文标题来看，她主要研究方向包括：生态网络互作预测（尤其关注数据偏差问题）、生物多样性丧失对生态系统功能的影响（如食果动物衰退对森林生物量影响），以及机器学习在生态与化学信息学中的应用。这些研究与用户方向均相关，特别是网络分析方法可迁移到重野化场景中的生物互作建模。",
+        "other_works": [
+          {
+            "title": "Link prediction in ecological meta‐networks under extreme taxonomic bias",
+            "year": "2026",
+            "journal": "Methods in Ecology and Evolution",
+            "doi": "10.1111/2041-210x.70368"
+          },
+          {
+            "title": "Frugivore Declines Across Taxa Affect Forest Biomass",
+            "year": "2026",
+            "journal": "Global Change Biology Communications",
+            "doi": "10.1002/gcb4.70014"
+          },
+          {
+            "title": "Leveraging ontologies to predict biological activity of chemicals across genes",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.48550/ARXIV.2512.02327"
+          },
+          {
+            "title": "Link prediction in ecological networks under extreme taxonomic bias",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.48550/ARXIV.2506.23370"
+          },
+          {
+            "title": "Nested exemplar latent space models for dimension reduction in dynamic networks",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.48550/ARXIV.2412.07604"
           }
         ]
       }
