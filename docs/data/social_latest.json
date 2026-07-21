@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-20T13:58:31.748620+00:00",
-  "count": 3,
+  "generated_at": "2026-07-21T03:13:39.010106+00:00",
+  "count": 4,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Some Indonesian palm oil companies have made zero-deforestation promises, and most have maintained less than 1% deforestation per year. A study finds that this was more likely due to broad economic and policy conditions than to restraint. In PNAS: https://ow.ly/sGkx50Zoa4b",
+      "created_at": "2026-07-20T19:00:21.576855720Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mr3y4el2vy27",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Opinion piece: #EnhancedRockWeathering removes #CO2 from the atmosphere. But the practice might actually have more promise as a #farming practice than as a #CarbonDioxideRemoval technology. In PNAS Front Matter: https://ow.ly/ekUM50Zo5hp",
+      "created_at": "2026-07-20T17:00:35.609486677Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mr3rg7dzod2l",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "britishecologicalsociety.org",
       "author_name": "Journal of Applied Ecology",
@@ -22,17 +44,6 @@
       "external_title": null,
       "external_description": null,
       "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "This fall, European Incoherent Scatter AB, an international organization headquartered in Sweden, plans to unveil EISCAT_3D, a $65 million next-generation radar system that will allow researchers to probe the upper atmosphere as never before. https://scim.ag/44xgAhC",
-      "created_at": "2026-07-17T16:23:11.757793234Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mqu5wkshbx2f",
-      "external_title": "Scandinavian radar array will probe mysteries of the northern lights",
-      "external_description": "EISCAT_3D will paint a new picture of the upper atmosphere as it is roiled by solar outbursts",
-      "external_uri": "https://scim.ag/44xgAhC",
       "external_thumb": null
     }
   ]
