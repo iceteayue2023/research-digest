@@ -1,8 +1,162 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T03:13:39.009568+00:00",
-  "count": 1,
+  "generated_at": "2026-07-21T08:11:33.961685+00:00",
+  "count": 4,
   "articles": [
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70317?af=R",
+      "title": "Comparisons of wild and domestic ungulate zoogeochemical impacts rarely evaluate mechanisms underlying functional dissimilarity",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70317?af=R",
+      "summary": "Journal of Animal Ecology, EarlyView.",
+      "journal": "Journal of Animal Ecology",
+      "published": "2026-07-20T03:52:06-07:00",
+      "doi": "10.1111/1365-2656.70317",
+      "affiliation": "Department of Environmental Science, Policy, &amp; Management University of California ‐ Berkeley  Berkeley California USA; Department of Environmental Studies New York University  New York New York USA; Stone Center for Environmental Stewardship  Berkeley California USA",
+      "title_zh": "野生与家养有蹄类动物生物地球化学影响的比较很少评估功能差异背后的机制",
+      "relevance_score": 9,
+      "key_conclusion": "文章指出，虽然研究常比较野生与家养有蹄类动物的生物地球化学影响，但很少深入评估造成这些功能差异的潜在机制（如放牧行为、排泄物分布等）。强调需要理解驱动因素以实现预测性管理。",
+      "relevance_note": "该文章直接命中你的核心主题：大型食草动物（有蹄类）对生物地球化学循环（zoogeochemistry）的影响，比较野生与家养动物，涉及放牧强度与生态系统功能差异。与研究主题高度相关。",
+      "related_papers": [
+        {
+          "title": "Data from: Comparisons of wild and domestic ungulate zoogeochemical impacts rarely evaluate mechanisms underlying functional dissimilarity",
+          "link": "https://doi.org/10.17605/osf.io/69ngd",
+          "venue": "Open MIND",
+          "year": 2026
+        },
+        {
+          "title": "Outcome monitoring of water vole reintroductions in ecological restoration",
+          "link": "",
+          "venue": "CINECA IRIS Institutional Research Information System (Fondazione Edmund Mach)",
+          "year": 2026
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "野生与家养有蹄类动物对生物地球化学循环的功能差异（即zoogeochemical impacts）背后，是否缺乏对其潜在驱动机制的深入评估？如何实现对这些差异的预测性管理？",
+      "contributions_limitations": "主要贡献在于明确指出了当前比较野生与家养有蹄类动物生物地球化学影响的研究中，普遍忽视了对潜在机制（如放牧行为、排泄物分布模式）的深入探讨，并强调了理解这些机制对于预测性管理的重要性。局限性在于作为一篇观点或综述性文章，可能未提供新的实验数据来直接验证这些机制，其观点可能需要更多实证研究支持。",
+      "follow_up_research": "基于此，未来研究可以设计实验，量化不同有蹄类动物（如野生与家养）的放牧行为差异（如食性选择、移动模式）如何影响排泄物中碳、氮、磷的时空分布，进而影响土壤有机碳的组分（如POM与MAOM）和稳定性。此外，可探索如何将这些机制参数化，整合到生态系统模型中，以预测重野化后土壤碳动态的变化。",
+      "next_step_perspective": "这篇文章为用户研究“大型食草动物重野化对土壤碳循环的影响”提供了关键视角：即不能仅停留在比较野生与家养动物的功能差异，而应深入剖析其背后的行为与生理机制。用户可借鉴其强调的“机制性理解”思路，在设计重野化实验或分析野化区数据时，重点关注动物放牧强度、排泄物输入模式等具体过程，而非仅关注总效应。",
+      "why_this_journal": "基于现有信息推测：Journal of Animal Ecology 注重动物与其环境（包括生物地球化学循环）的相互作用，该文章提出了一个重要的研究空白和未来的研究方向，对于推动动物生态学与生态系统功能（如zoogeochemistry）的交叉领域发展具有启发性，符合该期刊引领前沿研究的定位。",
+      "author_profile": {
+        "name": "Julia D. Monk",
+        "institution": "New York University",
+        "intro": "Julia D. Monk 目前任职于纽约大学。从其历史论文标题看，她的研究方向集中于野生与家养有蹄类动物的生态系统影响比较、动物输入的时空尺度、以及动物福利与保育伦理。这些研究方向与用户的“大型食草动物重野化”核心课题高度相关，特别是其关于动物生物地球化学影响机制的研究，直接为用户提供了分析框架和理论支撑。",
+        "other_works": [
+          {
+            "title": "Comparisons of wild and domestic ungulate zoogeochemical impacts rarely evaluate mechanisms underlying functional dissimilarity",
+            "year": "2026",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70317"
+          },
+          {
+            "title": "Hot spots or hot moments? Contextualizing the spatio‐temporal scale of research on animal inputs",
+            "year": "2026",
+            "journal": "Ecography",
+            "doi": "10.1002/ecog.08351"
+          },
+          {
+            "title": "Outdated reproductive norms, the naturalistic fallacy, and misunderstandings of welfare in recent call for zoo breed-and-feed programs",
+            "year": "2025",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2504225122"
+          },
+          {
+            "title": "Wild vs. domestic ungulate ecosystem impacts: understanding functional differences requires greater focus on mechanisms",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.32942/X2HK85"
+          },
+          {
+            "title": "Support US OCTOPUS Act to keep octopuses wild",
+            "year": "2024",
+            "journal": "Science",
+            "doi": "10.1126/science.adr3813"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71000?af=R",
+      "title": "Simulated CO2 Fertilization Drives Progressive Phosphorus Limitation via Accelerated Organic Cycling in Amazonian Forests",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71000?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-20T01:01:16-07:00",
+      "doi": "10.1111/gcb.71000",
+      "affiliation": "Systems Ecology, Faculty of Science Vrije Universiteit Amsterdam  Amsterdam the Netherlands; Biogeochemical Signals Department Max‐Planck‐Institute for Biogeochemistry  Jena Germany; Department of Earth System Sciences Hamburg University  Hamburg Germany",
+      "title_zh": "模拟二氧化碳施肥通过加速有机循环驱动亚马逊森林渐进性磷限制",
+      "relevance_score": 8,
+      "key_conclusion": "研究表明，在亚马逊森林中，模拟的CO2施肥效应通过加速土壤有机质循环，导致生态系统逐渐出现磷限制，进而可能限制未来的碳汇能力。该发现强调了磷可用性在热带森林碳循环中的关键作用。",
+      "relevance_note": "该文章直接涉及你的(1)陆地生态系统碳循环与热带雨林碳汇变化，以及(2)土壤C-N-P化学计量与养分循环。研究地点在亚马逊，虽非欧洲，但高度相关于你对养分限制与碳循环互作的理解。",
+      "related_papers": [
+        {
+          "title": "Tamm Review: Influence of forest management activities on soil organic carbon stocks: A knowledge synthesis",
+          "link": "https://doi.org/10.1016/j.foreco.2020.118127",
+          "venue": "Forest Ecology and Management",
+          "year": 2020
+        },
+        {
+          "title": "Nutrient limitation reduces land carbon uptake in simulations with a model of combined carbon, nitrogen and phosphorus cycling",
+          "link": "https://doi.org/10.5194/bg-9-3547-2012",
+          "venue": "Biogeosciences",
+          "year": 2012
+        },
+        {
+          "title": "Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO <sub>2</sub>",
+          "link": "https://doi.org/10.1111/nph.16866",
+          "venue": "New Phytologist",
+          "year": 2020
+        },
+        {
+          "title": "Differential effects of nitrogen vs. phosphorus limitation on terrestrial carbon storage in two subtropical forests: A Bayesian approach",
+          "link": "https://doi.org/10.1016/j.scitotenv.2021.148485",
+          "venue": "The Science of The Total Environment",
+          "year": 2021
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在亚马逊森林中，模拟的CO2施肥效应是否会通过加速有机质循环，导致生态系统出现渐进性的磷限制，从而限制未来的碳汇能力？",
+      "contributions_limitations": "主要贡献在于通过模拟研究，揭示了在CO2浓度升高条件下，热带森林碳循环可能受到磷可利用性的强烈限制，并阐明了加速的有机质循环是导致磷限制的关键过程。局限性在于基于现有信息推测，这是一篇模拟研究，其结论可能依赖于模型的假设和参数化，需要长期野外实验数据（如eCO2实验）进行验证，且结论可能不适用于磷限制较轻的其他生态系统。",
+      "follow_up_research": "未来研究可以集中在：1）在其他热带或温带森林进行类似的模拟研究，检验磷限制机制的普遍性；2）结合大型食草动物（如重野化引入的物种）活动，研究动物排泄物（高磷输入）是否能够缓解CO2施肥诱导的磷限制，从而改变碳汇动态；3）开发包含动物介导的磷循环过程的动态植被模型（DGVM），以更准确地预测未来碳循环。",
+      "next_step_perspective": "这篇文章为用户提供了重要的养分循环视角：在重野化背景下，大型食草动物的引入不仅可能改变土壤碳库，还可能通过排泄物输入磷等关键养分，影响系统的养分限制格局。用户可以将此与自己的研究结合，思考重野化是否能为受CO2施肥或长期退化影响的生态系统提供额外的养分输入，从而对冲或改变其碳汇潜力。",
+      "why_this_journal": "基于现有信息推测：Global Change Biology 关注全球变化对生态系统的影响。该研究揭示了CO2施肥与磷限制这一关键反馈机制，对预测未来热带森林碳汇功能有重要意义，具有很高的生态学与全球变化科学价值，符合该期刊对全球尺度、机制性研究的偏好。",
+      "author_profile": {
+        "name": "Katrin Fleischer",
+        "institution": "Vrije Universiteit Amsterdam",
+        "intro": "Katrin Fleischer 目前任职于阿姆斯特丹自由大学。从其历史论文标题看，她的研究方向聚焦于热带森林的碳-养分循环，特别是利用模型研究CO2施肥效应下的植物-微生物互作、根系过程与磷限制机制。这与用户关注的“植物碳分配策略”、“土壤有机质形成机制”以及“碳-磷耦合循环”直接相关，其建模方法可为用户研究重野化的生态系统效应提供参考。",
+        "other_works": [
+          {
+            "title": "Modelling root exudation and plant-microbe interactions under CO2 fertilization in a mature forest",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-4529-2026"
+          },
+          {
+            "title": "Simulated CO2 Fertilization Drives Progressive Phosphorus Limitation via Accelerated Organic Cycling in Amazonian Forests",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71000"
+          },
+          {
+            "title": "Soil fertility controls on tropical forest productivity and mortality: synthesis and roadmap",
+            "year": "2026",
+            "journal": "New Phytologist",
+            "doi": "10.1111/nph.71367"
+          },
+          {
+            "title": "Amazonian understory forests change phosphorus acquisition strategies under elevated CO2",
+            "year": "2026",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-026-72098-0"
+          },
+          {
+            "title": "Phosphorus enrichment does not enlarge the predicted CO2 fertilization effect on forest carbon sequestration",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences of the United States of America (PNAS)",
+            "doi": "10.1073/pnas.2516152123"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.nature.com/articles/d41586-026-02211-2",
       "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
@@ -49,6 +203,89 @@
       "next_step_perspective": "这篇文章为本用户研究提供视角：欧洲湿地是大型食草动物重野化的潜在重要栖息地，通过机器学习生成的详细地图可用于识别适合重野化项目的湿地斑块，并评估这些生态系统在碳循环中的作用。",
       "why_this_journal": "推测：发表在Nature上是因为其利用先进的机器学习技术（新颖性）解决高分辨率环境制图问题（方法学突破），且湿地地图对全球生态保护（跨学科意义）具有直接应用价值。",
       "author_profile": null
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70404?af=R",
+      "title": "Alternative seed trait strategies are linked to a trade‐off between spatial and temporal dispersal",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70404?af=R",
+      "summary": "Functional Ecology, EarlyView.",
+      "journal": "Functional Ecology",
+      "published": "2026-07-20T18:14:42-07:00",
+      "doi": "10.1111/1365-2435.70404",
+      "affiliation": "Department of Biological Sciences California State University Sacramento  Sacramento California USA; Department of Evolution and Ecology University of California Davis  Davis California USA; Department of Environmental Science &amp; Policy University of California Davis  Davis California USA",
+      "title_zh": "替代性种子性状策略与时空扩散之间的权衡相关",
+      "relevance_score": 4,
+      "key_conclusion": "研究表明，植物种子存在不同的性状策略，这些策略与空间扩散和时间扩散（如土壤种子库）之间的权衡密切相关。不同的策略适应不同的环境稳定性和干扰格局。",
+      "relevance_note": "该文章涉及植物功能性状与扩散策略，与你关注的(3)植物碳分配策略和(8)植物-环境互作有间接联系，可拓展你对植物适应策略的理解，但未直接涉及动物或碳循环。",
+      "related_papers": [
+        {
+          "title": "New handbook for standardised measurement of plant functional traits worldwide",
+          "link": "https://doi.org/10.1071/bt12225",
+          "venue": "Australian Journal of Botany",
+          "year": 2013
+        },
+        {
+          "title": "TRY – a global database of plant traits",
+          "link": "https://doi.org/10.1111/j.1365-2486.2011.02451.x",
+          "venue": "Global Change Biology",
+          "year": 2011
+        },
+        {
+          "title": "The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture",
+          "link": "https://doi.org/10.2307/1941447",
+          "venue": "Ecology",
+          "year": 1992
+        },
+        {
+          "title": "A research agenda for seed‐trait functional ecology",
+          "link": "https://doi.org/10.1111/nph.15502",
+          "venue": "New Phytologist",
+          "year": 2018
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "植物的种子性状策略是否由空间扩散（通过风或动物）与时间扩散（通过土壤种子库）之间的权衡所驱动？这种权衡如何与不同的环境稳定性和干扰格局相关联？",
+      "contributions_limitations": "主要贡献在于提出了基于空间-时间扩散权衡的种子性状策略框架，这有助于理解植物在异质环境中的定殖与持久性策略。局限性在于基于现有信息推测，该研究可能基于观察性或理论性分析，未完全定量验证不同干扰格局下（如放牧）该权衡的具体生态后果，且研究场景可能未专门考虑大型动物对种子扩散的影响。",
+      "follow_up_research": "未来研究可以：1）检验重野化区域中，大型食草动物的活动如何影响种子性状策略的空间-时间权衡（例如，动物体表或肠道传播是否偏向于空间扩散策略，而高强度践踏则可能促进形成持久种子库）；2）将此种子性状策略纳入到植被动态模型（如DGVM）中，评估重野化后植物群落组成与地上-地下碳输入的长期变化。",
+      "next_step_perspective": "这篇文章为用户提供了植物生态策略的新视角。在评估大型食草动物对生态系统碳循环影响时，用户可考虑动物不仅直接改变土壤物理化学性质，也会通过影响种子传播与种子库动态，间接改变植被群落结构和功能。群落结构的变化又会影响凋落物质量和数量，从而反馈到土壤有机碳的形成与稳定，尤其是POM组分。",
+      "why_this_journal": "基于现有信息推测：Functional Ecology 聚焦于生物体性状如何适应环境并影响生态系统功能。该论文揭示了种子性状策略背后的核心权衡，概念性强，对理解植物种群动态和群落构建具有重要意义，符合该期刊发表功能性状与生态策略相关高水平研究的定位。",
+      "author_profile": {
+        "name": "Marina L. LaForgia",
+        "institution": "California State University, Sacramento",
+        "intro": "Marina L. LaForgia 目前任职于加州州立大学萨克拉门托分校。从其历史论文标题看，她的主要研究方向包括植物种子扩散策略、入侵植物对土壤与根际微生物组的影响，以及养分添加对草地多样性的影响。其关于种子策略的工作可能与用户关注的植被-土壤反馈间接相关，但其入侵生态学与微生物互作的研究兴趣与用户的部分兴趣点（如生物入侵、植物-微生物互作）有交叉。",
+        "other_works": [
+          {
+            "title": "Alternative seed trait strategies are linked to a trade‐off between spatial and temporal dispersal",
+            "year": "2026",
+            "journal": "Functional Ecology",
+            "doi": "10.1111/1365-2435.70404"
+          },
+          {
+            "title": "Invasive plant species interact with drought to shift key functions and families in the native rhizosphere",
+            "year": "2023",
+            "journal": null,
+            "doi": "10.1101/2023.04.24.538159"
+          },
+          {
+            "title": "Nutrient addition drives declines in grassland species richness primarily via enhanced species loss",
+            "year": "2023",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.14038"
+          },
+          {
+            "title": "Impacts of invasive annual grasses and their litter vary by native functional strategy",
+            "year": "2021",
+            "journal": "Biological Invasions",
+            "doi": "10.1007/s10530-021-02527-2"
+          },
+          {
+            "title": "Invasive grass dominance over native forbs is linked to shifts in the bacterial rhizosphere microbiome",
+            "year": "2021",
+            "journal": null,
+            "doi": "10.1101/2021.01.07.425800"
+          }
+        ]
+      }
     }
   ]
 }
