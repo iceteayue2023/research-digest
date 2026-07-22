@@ -1,8 +1,385 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T08:11:22.817460+00:00",
-  "count": 1,
+  "generated_at": "2026-07-22T13:41:18.193827+00:00",
+  "count": 7,
   "articles": [
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008899?af=R",
+      "title": "Deep Learning Reconstruction of Daily Soil CO2 Efflux Reveals Biogeochemical Insights and Reduces Annual Estimate Uncertainty Despite Limitated Daily Predictability",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB008899?af=R",
+      "summary": "Global Biogeochemical Cycles, Volume 40, Issue 7, July 2026.",
+      "journal": "Global Biogeochemical Cycles",
+      "published": "2026-07-21T04:01:07-07:00",
+      "doi": "10.1029/2025GB008899",
+      "affiliation": "Department of Civil and Environmental Engineering Penn State University  University Park PA USA; Pacific Northwest National Laboratory Joint Global Change Research Institute  College Park MD USA; School of Life Sciences Arizona State University  Tempe AZ USA",
+      "title_zh": "基于深度学习的日尺度土壤CO2通量重建揭示生物地球化学见解并降低年总量估算不确定性",
+      "relevance_score": 9,
+      "key_conclusion": "通过深度学习重建了日尺度土壤CO2通量，该方法能揭示关键的生物地球化学过程（如温度、水分敏感性），并显著降低了年土壤CO2排放量估算的不确定性，尽管日预测能力有限。",
+      "relevance_note": "直接针对您核心研究方向中的土壤有机碳分解与碳通量，探讨了土壤呼吸这一陆地生态系统碳循环的关键环节。该方法的改进对研究土壤有机碳动态至关重要。",
+      "related_papers": [],
+      "image_url": "https://agupubs.onlinelibrary.wiley.com/cms/asset/93377b55-4e14-4c97-8008-4bf203a5c24b/gbc.v40.7.cover.jpg?trick=1784727637205",
+      "scientific_question": "如何利用深度学习模型提升日尺度土壤CO2通量（Rs）的估算精度，并降低年排放总量的不确定性？",
+      "contributions_limitations": "主要贡献在于提出了一种深度学习方法，能有效识别影响Rs的关键生物地球化学过程（如温度、水分敏感性），并显著降低了年排放估算的不确定性。局限性在于日尺度的预测能力仍然有限，模型可能未能完全捕捉极端事件或特定微生物过程的异质性，且未直接揭示模型所表征的过程机制与土壤有机碳组分（POM/MAOM）之间的关联。",
+      "follow_up_research": "可将该深度学习框架与土壤有机碳组分（POM vs MAOM）的实测数据耦合，量化不同组分对Rs的贡献差异。进一步，可将模型应用于大型食草动物重野化地点的Rs监测，探究放牧或动物扰动如何改变土壤呼吸的温度/水分敏感性。",
+      "next_step_perspective": "提供了利用AI方法从时间序列数据中提取生物地球化学过程参数（如Q10）的技术路径，可直接用于分析重野化或不同放牧强度梯度下土壤异养呼吸对气候变化的响应差异。同时，该研究对估算不确定性降低的强调，提示您在评估动物介导的碳库变化时，需重视模型不确定性量化。",
+      "why_this_journal": "推测：研究使用先进的数据驱动方法解决土壤碳通量估算这一全球生物地球化学循环中的核心问题，且方法具有普适性，符合GBG期刊关注全球尺度过程和量化不确定性的定位。",
+      "author_profile": {
+        "name": "Valerie Smykalov",
+        "institution": "Penn State",
+        "intro": "Valerie Smykalov目前在美国宾夕法尼亚州立大学（Penn State）工作。从历史论文看，其研究方向聚焦于流域尺度生物地球化学（如BioRT-HBV模型）和基于深度学习（DL）的土壤CO2通量全球模拟。这些工作与用户的核心方向（土壤碳循环、过程建模）高度相关，其DL方法可直接应用于预测重野化地点长期的土壤碳动态。",
+        "other_works": [
+          {
+            "title": "Deep Learning Reconstruction of Daily Soil CO2 Efflux Reveals Biogeochemical Insights and Reduces Annual Estimate Uncertainty Despite Limitated Daily Predictability",
+            "year": "2026",
+            "journal": "Global Biogeochemical Cycles",
+            "doi": "10.1029/2025GB008899"
+          },
+          {
+            "title": "Declining River Discharge Intensifies Water Scarcity Despite Increasing Precipitation",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.22541/essoar.177248835.50751698/v1"
+          },
+          {
+            "title": "Towards a global deep learning model for daily soil CO2 efflux",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.31223/X5QH84"
+          },
+          {
+            "title": "BioRT‐HBV 1.0: A Biogeochemical Reactive Transport Model at the Watershed Scale",
+            "year": "2024",
+            "journal": "Journal of Advances in Modeling Earth Systems",
+            "doi": "10.1029/2024MS004217"
+          },
+          {
+            "title": "Controls From Above or Below? The Influence of Entangled Climate and Land Characteristics on Hydrological Dynamics in Headwater Catchments",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.22541/au.172835110.01342533/v1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02697-8",
+      "title": "Ecological novelty induced by climate change",
+      "link": "https://www.nature.com/articles/s41558-026-02697-8",
+      "summary": "Nature Climate Change, Published online: 22 July 2026; doi:10.1038/s41558-026-02697-8The authors review ecological novelty—ecological situations with no precedent—arising from climate change. They discuss ecological novelty due to direct and indirect effects of climate change, and due to adaptation and mitigation measures, and explore management options that are against, for or tolerant of ecological novelty.",
+      "journal": "Nature Climate Change",
+      "published": "2026-07-22T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02697-8",
+      "affiliation": null,
+      "title_zh": "气候变化导致的生态新奇性",
+      "relevance_score": 7,
+      "key_conclusion": "文章综述了由气候变化及其适应与减缓措施所引发的生态新奇性（无先例的生态状况）。探讨了面对这种新奇性时，与之对抗、顺应或容忍的管理选项。",
+      "relevance_note": "这是一篇综述，涵盖气候变化对生态系统的直接和间接影响，与您对极端气候事件扰动碳循环及生态系统功能恢复的关注相契合。其探讨的管理选项与基于自然的解决方案的理念相关。",
+      "related_papers": [
+        {
+          "title": "Ecological novelty and the emergence of evolutionary traps",
+          "link": "https://doi.org/10.1016/j.tree.2013.04.004",
+          "venue": "Trends in Ecology & Evolution",
+          "year": 2013
+        },
+        {
+          "title": "Novel ecosystems: theoretical and management aspects of the new ecological world order",
+          "link": "https://doi.org/10.1111/j.1466-822x.2006.00212.x",
+          "venue": "Global Ecology and Biogeography",
+          "year": 2006
+        },
+        {
+          "title": "The Impact of Climate Change on Mental Health: A Systematic Descriptive Review",
+          "link": "https://doi.org/10.3389/fpsyt.2020.00074",
+          "venue": "Frontiers in Psychiatry",
+          "year": 2020
+        },
+        {
+          "title": "Evolution and behavioural responses to human‐induced rapid environmental change",
+          "link": "https://doi.org/10.1111/j.1752-4571.2010.00166.x",
+          "venue": "Evolutionary Applications",
+          "year": 2011
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02697-8/MediaObjects/41558_2026_2697_Fig1_HTML.png",
+      "scientific_question": "气候变化如何产生生态新奇性（即无历史先例的生态状况），以及面对这种新奇性时应采取何种管理策略？",
+      "contributions_limitations": "主要贡献在于系统综述了气候变化直接、间接效应以及人类适应/减缓措施所驱动的生态新奇性，并提出了三种应对策略（对抗、顺应、容忍）。局限性在于综述性质决定了其缺乏具体的实证数据，对不同策略在特定生态系统（如温带草原）中的有效性讨论可能不够深入。",
+      "follow_up_research": "可基于生态新奇性概念，研究大型食草动物重野化如何作为一种“自然气候解决方案”（NbS）在产生或缓解生态新奇性中发挥作用。例如，引入已灭绝物种（如欧洲野牛）是否会因其遗留效应（extended phenotype）而创造出前所未有的生态系统状态？",
+      "next_step_perspective": "文章提出的“对抗vs.顺应vs.容忍”管理框架对您的重野化研究有直接影响：重野化应被视为对抗（还原历史状态）还是顺应（接受新条件下新的动物-土壤反馈体系）？这为评估重野化项目在气候变化背景下的长期合理性提供了理论视角。",
+      "why_this_journal": "推测：该话题紧扣气候变化前沿，提出了具有显著政策启示的原创性概念框架（生态新奇性的应对分类），符合Nature Climate Change关注发现与影响并重的定位。",
+      "author_profile": null
+    },
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB009005?af=R",
+      "title": "Global Patterns on Nutrient Release During Leaf Litter Decomposition in Blue Carbon Ecosystems",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GB009005?af=R",
+      "summary": "Global Biogeochemical Cycles, Volume 40, Issue 7, July 2026.",
+      "journal": "Global Biogeochemical Cycles",
+      "published": "2026-07-21T04:11:25-07:00",
+      "doi": "10.1029/2025GB009005",
+      "affiliation": "Guangdong Basic Research Center of Excellence for Ecological Security and Green Development Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)  Guangzhou China; Research Centre of Ecology &amp; Environment for Coastal Area and Deep Sea Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)  Guangzhou China; Guangdong Provincial Key Laboratory of Water Quality Improvement and Ecological Restoration for Watersheds School of Ecology, Environment and Ocean Guangdong University of Technology  Guangzhou China",
+      "title_zh": "蓝碳生态系统凋落物分解过程中养分释放的全球模式",
+      "relevance_score": 7,
+      "key_conclusion": "（基于标题和期刊背景推断）文章系统分析了全球蓝碳生态系统（如红树林、海草床）凋落物分解过程中的养分（如C、N、P）释放模式。",
+      "relevance_note": "直接涉及碳氮磷化学计量与养分循环，以及分解这一关键碳循环过程。虽然生态系统是蓝碳（海岸带），但其探讨的机制（养分释放、分解）与您对土壤有机质形成与稳定及C-N-P化学计量的兴趣密切相关。",
+      "related_papers": [
+        {
+          "title": "Global Carbon Budget 2020",
+          "link": "https://doi.org/10.5194/essd-12-3269-2020",
+          "venue": "Earth system science data",
+          "year": 2020
+        },
+        {
+          "title": "Consequences of biodiversity loss for litter decomposition across biomes",
+          "link": "https://doi.org/10.1038/nature13247",
+          "venue": "Nature",
+          "year": 2014
+        },
+        {
+          "title": "Global Carbon Budget 2022",
+          "link": "https://doi.org/10.5194/essd-14-4811-2022",
+          "venue": "Earth system science data",
+          "year": 2022
+        },
+        {
+          "title": "Global Carbon Budget 2019",
+          "link": "https://doi.org/10.5194/essd-11-1783-2019",
+          "venue": "Earth system science data",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://agupubs.onlinelibrary.wiley.com/cms/asset/93377b55-4e14-4c97-8008-4bf203a5c24b/gbc.v40.7.cover.jpg?trick=1784727640821",
+      "scientific_question": "全球蓝碳生态系统（红树林、盐沼、海草床）中，凋落物分解过程中养分（C、N、P）的释放模式及其驱动因素是什么？",
+      "contributions_limitations": "贡献在于提供了全球尺度蓝碳生态系统凋落物养分释放的综合格局，弥补了以往对分解过程养分循环认知的不足。局限性在于基于摘要信息推测，可能未能深入区分不同组分（如叶片vs根系凋落物）及动物（如蟹类啃食）对分解速率的生物扰动效应。研究地点为全球尺度，但可能以热带亚热带海岸带为主，非欧洲。",
+      "follow_up_research": "可以将此研究框架迁移至欧洲温带草地或森林生态系统，直接比较重野化后大型食草动物（如欧洲野牛、科尼卡马）的食草与踩踏行为如何改变根系/叶片凋落物的C:N:P释放动态。此外，可探索动物粪便（尿液、粪便）的分解速率与大尺度养分释放模式的耦合。",
+      "next_step_perspective": "该研究为理解动物介导的养分循环（zoogeochemistry）提供了方法学参考——即如何通过荟萃分析或大尺度观测建立凋落物化学计量与养分释放速率的关系。您可借鉴此方法，分析重野化地点不同放牧强度下，土壤有机质组分（POM/MAOM）的C:N:P化学计量变化是否与分解模式一致。",
+      "why_this_journal": "推测：研究具有全球尺度的综合性与趋势揭示性，聚焦海岸带碳库这一热点领域，符合Global Biogeochemical Cycles对全球元素循环定量研究的偏好。",
+      "author_profile": {
+        "name": "Xiaoguang Ouyang",
+        "institution": "Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou)",
+        "intro": "Xiaoguang Ouyang目前在南方海洋科学与工程广东省实验室（广州）工作。其历史工作围绕蓝碳生态系统（红树林）的恢复、分解与固碳动态，以及利用遥感技术监测生态学过程。这些方向与您的重野化研究在方法论（如恢复对碳循环的影响）和主题（有机碳周转）上有较强关联，尤其可参考其关于根分解与微生物介导碳周转的工作。",
+        "other_works": [
+          {
+            "title": "Impact of restoration on reducing carbon emissions from different blue carbon ecosystems",
+            "year": "2026",
+            "journal": "Ocean and Coastal Management",
+            "doi": "10.1016/J.OCECOAMAN.2025.107962"
+          },
+          {
+            "title": "Interactive drivers of root decomposition in restored and natural mangroves",
+            "year": "2026",
+            "journal": "Journal of Applied Ecology",
+            "doi": "10.1111/1365-2664.70336"
+          },
+          {
+            "title": "Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/GCB.70763"
+          },
+          {
+            "title": "Rethinking trophic transfer efficiency in freshwater ecosystems: Current understanding and knowledge gaps",
+            "year": "2026",
+            "journal": "Limnology and Oceanography",
+            "doi": "10.1002/LNO.70343"
+          },
+          {
+            "title": "Stage-Specific Drivers of Carbon-Sequestration Dynamics in <i>Porphyra</i> Mariculture and Responses to Global Warming",
+            "year": "2026",
+            "journal": "Environmental Science & Technology",
+            "doi": "10.1021/ACS.EST.5C15527"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-6627-2026",
+      "title": "Computational library for the nutrient-unicellular-multicellular plankton modeling framework v. 1.0",
+      "link": "https://doi.org/10.5194/gmd-19-6627-2026",
+      "summary": "Computational library for the nutrient-unicellular-multicellular plankton modeling framework v. 1.0\n                    Amalia Papapostolou, Anton V. Almgren, Trine F. Hansen, Athanasios Kandylas, Camila Serra-Pompei, Andre W. Visser, and Ken H. Andersen\n                        Geosci. Model Dev., 19, 6627–6661, https://doi.org/10.5194/gmd-19-6627-2026, 2026\n                        The Nutrient-Unicellular-Multicellular model library simulates marine plankton ecosystems, structuring predator-prey dynamics by body size. It integrates feeding strategies in single-cell plankton and copepod life stages, essential for understanding their growth, survival, and predator-prey interactions. Validated with real data, this user-friendly tool recreates ecosystems across scales, offering insights for marine ecology and biogeochemistry.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-07-22T12:37:13+02:00",
+      "doi": "10.5194/gmd-19-6627-2026",
+      "affiliation": null,
+      "title_zh": "营养盐-单细胞-多细胞浮游生物建模框架计算库 v.1.0",
+      "relevance_score": 6,
+      "key_conclusion": "该计算库能模拟海洋浮游生物生态系统，按体型结构捕食者-猎物动态，整合了单细胞浮游植物和桡足类的摄食策略数据，并验证了生态系统的跨尺度重现。",
+      "relevance_note": "该文章开发了描述捕食者-猎物动态和食物网结构的模型，并涉及生物地球化学循环，与您对食物网复杂性、DGVM开发以及动物介导的生物地球化学循环的兴趣高度相关。虽然主体为海洋系统，其模型框架和理念对陆地系统有借鉴意义。",
+      "related_papers": [
+        {
+          "title": "Computational library for the Nutrient-Unicellular-Multicellular plankton modeling framework v. 1.0",
+          "link": "https://doi.org/10.5194/egusphere-2025-755",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "Machine learning techniques to characterize functional traits of plankton from image data",
+          "link": "https://doi.org/10.1002/lno.12101",
+          "venue": "Limnology and Oceanography",
+          "year": 2022
+        },
+        {
+          "title": "Neoproterozoic origin and multiple transitions to macroscopic growth in green seaweeds",
+          "link": "https://doi.org/10.1073/pnas.1910060117",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2020
+        },
+        {
+          "title": "Scaling body size fluctuations",
+          "link": "https://doi.org/10.1073/pnas.1301552110",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2013
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/6627/2026/gmd-19-6627-2026-avatar-web.png",
+      "scientific_question": "如何构建一个基于体型的、整合营养盐-单细胞-多细胞浮游生物的建模框架，以模拟海洋浮游生态系统的捕食者-猎物动态？",
+      "contributions_limitations": "贡献在于开发了一个开源的、经实测数据验证的计算库，能按体型结构化建模，真实再现不同营养级间的物质流过程，为理解海洋生物泵与生物地球化学循环提供了工具。局限性在于模型目前聚焦海洋浮游系统，未直接纳入大型动物（如鱼类）或底栖过程，且计算模拟仍需要在真实世界场景中进一步验证其对气候变化的预测能力。",
+      "follow_up_research": "该建模框架的体型结构化方法可启发开发适用于陆地食草动物-植物相互作用的新模型。例如，构建一个按体型（体重）区分的大型食草动物（如小型鹿科 vs 大型野牛）与植被（草本/木本）的相互作用模型，量化不同动物体型对土壤驱动物理扰动和养分再分配的差异。",
+      "next_step_perspective": "文章提供了开发基于个体/体型食物网模型的代码库与思路，这为您研究大型食草动物重野化对草地食物网结构及土壤生物（如微生物、土壤无脊椎动物）互作网络的影响提供了新工具。您可借鉴其捕食者-猎物关系结构，建立“大型食草动物-植物-土壤微生物-分解者”的能量流模型。",
+      "why_this_journal": "推测：Geoscientific Model Development以发表新型地球系统模型为特色。该研究提供了一个完整的、通用性强的浮游生态模型框架，具有显著的跨学科（生态-生物地球化学）应用潜力和开源软件价值。",
+      "author_profile": {
+        "name": "Amalia Papapostolou",
+        "institution": "Technical University of Denmark",
+        "intro": "Amalia Papapostolou目前在丹麦技术大学（Technical University of Denmark）工作。其历史论文关注中远洋食物网中的营养传递效率，显示其主要研究方向是海洋浮游食物网结构与生物地球化学循环的关联。与用户的主要关联在于“生物多样性-生态系统功能”和食物网理论，尤其是其体型建模方法可为陆地动物-生态系统功能互动建模提供借鉴。",
+        "other_works": [
+          {
+            "title": "Trophic Transfer Efficiency in the Pelagic Food Chain",
+            "year": "2024",
+            "journal": null,
+            "doi": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-4999-2026",
+      "title": "Vegetation patterns and competitive dynamics along elevation gradients: interactions between environmental factors and vegetation in the Central Himalayas",
+      "link": "https://doi.org/10.5194/bg-23-4999-2026",
+      "summary": "Vegetation patterns and competitive dynamics along elevation gradients: interactions between environmental factors and vegetation in the Central Himalayas\n                    Prashant Paudel, Stefan Olin, Mark Tjoelker, Mikael Pontarp, Daniel Metcalfe, and Benjamin Smith\n                        Biogeosciences, 23, 4999–5018, https://doi.org/10.5194/bg-23-4999-2026, 2026\n                        We used computer simulations to study how vegetation changes from low to high elevations in the Himalayas. We found that competition between plants is more important in warm lowlands, while cold conditions limit plant growth at high elevations. These differences influence plant diversity, vegetation structure, and the amount of plant growth across mountain landscapes, showing how climate and plant strategies together shape ecosystems.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-21T11:54:29+02:00",
+      "doi": "10.5194/bg-23-4999-2026",
+      "affiliation": null,
+      "title_zh": "沿着海拔梯度的植被格局与竞争动态：喜马拉雅中部环境因子与植被的相互作用",
+      "relevance_score": 6,
+      "key_conclusion": "模拟研究显示，在暖低海拔地区植物间竞争更显著，而在高海拔地区低温限制了植物生长。这些差异影响了植物多样性、结构和初级生产力。",
+      "relevance_note": "探讨了植物竞争动态、环境梯度与生态系统功能（初级生产力）的关系，与您对植被-土壤反馈和生态系统功能恢复的兴趣相符。研究涉及植物碳分配策略（通过模型模拟），且其关于竞争和气候限制的理论框架具有参考价值。",
+      "related_papers": [
+        {
+          "title": "Environmental impacts of utility-scale solar energy",
+          "link": "https://doi.org/10.1016/j.rser.2013.08.041",
+          "venue": "Renewable and Sustainable Energy Reviews",
+          "year": 2013
+        },
+        {
+          "title": "The use of chronosequences in studies of ecological succession and soil development",
+          "link": "https://doi.org/10.1111/j.1365-2745.2010.01664.x",
+          "venue": "Journal of Ecology",
+          "year": 2010
+        },
+        {
+          "title": "Epiphytic lichen diversity along elevational gradients: biological traits reveal a complex response to water and energy",
+          "link": "https://doi.org/10.1111/jbi.12493",
+          "venue": "Journal of Biogeography",
+          "year": 2015
+        },
+        {
+          "title": "Large‐scale fungal diversity assessment in the Andean Yungas forests reveals strong community turnover among forest types along an altitudinal gradient",
+          "link": "https://doi.org/10.1111/mec.12765",
+          "venue": "Molecular Ecology",
+          "year": 2014
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/4999/2026/bg-23-4999-2026-avatar-web.png",
+      "scientific_question": "在喜马拉雅山中部海拔梯度上，环境因素（如温度）和植物间的竞争如何相互作用，共同塑造植被格局（如多样性、结构、生产力）？",
+      "contributions_limitations": "主要贡献：通过计算机模拟揭示了竞争在温暖低海拔地区的主导作用与低温在高海拔地区的限制作用，阐明了气候与植物策略共同驱动山地生态系统的机制。局限性：基于现有信息推测，模型参数化和假设可能无法完全捕捉实地生态系统的复杂性，且模拟结果在推广至其他山脉或重野化生态恢复场景时需谨慎。",
+      "follow_up_research": "基于该研究，可进一步探索大型食草动物重野化是否改变海拔梯度上的植物竞争与限制关系（如通过采食/传播种子影响物种组成）。也可将这种竞争-限制框架应用于欧洲山地生态系统，评估重野化后土壤有机碳与植物生产力如何随海拔变化。",
+      "next_step_perspective": "该研究提供了模拟植物竞争与环境胁迫的方法学视角，可用于预测大型食草动物重新引入后植被结构和初级生产力的变化，进而评估对土壤有机碳的影响。用户可借鉴其建模思路，将动物干扰（如放牧强度）作为新的竞争因子纳入模拟。",
+      "why_this_journal": "推测：Biogeosciences 聚焦生物地球科学过程，而该研究将海拔梯度上的环境-植被相互作用量化，过程与机制（竞争 vs. 限制）清晰，对理解高山生态系统功能具贡献，符合期刊对过程驱动研究的偏好。",
+      "author_profile": {
+        "name": "Prashant Paudel",
+        "institution": "Western Sydney University",
+        "intro": "Prashant Paudel 目前任职于西悉尼大学（Western Sydney University），从其历史论文标题看，主要研究方向包括植被模式、竞争动态、植物功能性状对生态系统结构与生产力的影响，尤其关注海拔梯度与热带稀树草原。这些研究与用户的大型食草动物重野化研究有交集，因为动物可通过采食与养分循环影响植被竞争与生产力，进而影响土壤碳循环。",
+        "other_works": [
+          {
+            "title": "Vegetation patterns and competitive dynamics along elevation gradients: interactions between environmental factors and vegetation in the Central Himalayas",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-4999-2026"
+          },
+          {
+            "title": "Impacts of Tree Allometry on Structure, Composition, Functioning and Competitive Interactions in Savanna Ecosystems on the Northern Australian Tropical Transect",
+            "year": "2026",
+            "journal": "Journal of Biogeography",
+            "doi": "10.1111/jbi.70131"
+          },
+          {
+            "title": "Supplementary material to \"Vegetation Patterns and Competitive Dynamics along Elevation Gradients: Interactions between Environmental Factors and Vegetation in the Central Himalayas\"",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-4821-supplement"
+          },
+          {
+            "title": "Vegetation Patterns and Competitive Dynamics along Elevation Gradients: Interactions between Environmental Factors and Vegetation in the Central Himalayas",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-4821"
+          },
+          {
+            "title": "Savanna ecosystem structure and productivity along a rainfall gradient: the role of competition and stress tolerance mediated by plant functional traits",
+            "year": "2025",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-22-6153-2025"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03132-z",
+      "title": "Forecasting cyanobacterial blooms requires improved understanding of species interactions",
+      "link": "https://www.nature.com/articles/s41559-026-03132-z",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 22 July 2026; doi:10.1038/s41559-026-03132-zDaily monitoring by underwater imaging of an entire lake plankton community over five years reveals that grazing, competition and facilitation dynamically modify the temperature and nutrient conditions in which toxic cyanobacterial blooms can form.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-07-22T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03132-z",
+      "affiliation": null,
+      "title_zh": "预报蓝藻水华需要更深入理解物种互作",
+      "relevance_score": 5,
+      "key_conclusion": "通过对整个湖泊浮游生物群落长达五年的每日水下成像监测，发现捕食、竞争和促进作用动态地调节了有毒蓝藻水华形成的温度和营养条件。",
+      "relevance_note": "文章研究了生物互作（捕食、竞争）对生态系统过程（水华形成）的影响，与您关心的食物网复杂性和生物间互作网络领域相关。但对您核心的陆地碳循环课题直接相关性一般。",
+      "related_papers": [
+        {
+          "title": "Harmful algal blooms and climate change: Learning from the past and present to forecast the future",
+          "link": "https://doi.org/10.1016/j.hal.2015.07.009",
+          "venue": "Harmful Algae",
+          "year": 2015
+        },
+        {
+          "title": "The dual role of nitrogen supply in controlling the growth and toxicity of cyanobacterial blooms",
+          "link": "https://doi.org/10.1016/j.hal.2016.01.010",
+          "venue": "Harmful Algae",
+          "year": 2016
+        },
+        {
+          "title": "A systematic literature review of forecasting and predictive models for cyanobacteria blooms in freshwater lakes",
+          "link": "https://doi.org/10.1016/j.watres.2020.115959",
+          "venue": "Water Research",
+          "year": 2020
+        },
+        {
+          "title": "Cyanobacterial blooms in oligotrophic lakes: Shifting the high‐nutrient paradigm",
+          "link": "https://doi.org/10.1111/fwb.13791",
+          "venue": "Freshwater Biology",
+          "year": 2021
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03132-z/MediaObjects/41559_2026_3132_Fig1_HTML.png",
+      "scientific_question": "如何更准确地预测有毒蓝藻水华的形成？物种互作（捕食、竞争、促进）在调节温度与营养条件对水华影响中扮演什么角色？",
+      "contributions_limitations": "主要贡献：通过长达五年的每日水下成像监测，揭示了物种互作动态调节蓝藻水华形成的环境条件，复杂了“温度+营养”的简单预测模型。局限性：基于现有信息推测，研究聚焦于单一湖泊浮游生态系统，其结论向大型食草动物重野化涉及的陆地生态系统推广时需谨慎；且未能直接量化互作对碳循环的影响。",
+      "follow_up_research": "可借鉴其高分辨率监测方法，研究大型食草动物重野化后土壤微生物互作如何调节养分循环与有机碳稳定性。例如，捕食性线虫与细菌的互作是否改变土壤有机质形成路径（POM/MAOM）。",
+      "next_step_perspective": "该研究强调物种互作动态对生态系统功能的调节作用，用户可参考其思路，在大型食草动物重野化研究中关注动物-植物-微生物互作如何共同影响土壤有机碳，而不只关注放牧强度的直接效应。其方法（每日高频监测）对捕捉动物活动引起的短期碳通量波动有启发。",
+      "why_this_journal": "推测：Nature Ecology & Evolution 偏好发表揭示生态过程复杂性、挑战传统假设的高影响力研究。该文通过高分辨率长期数据证明物种互作是环境驱动因素与蓝藻水华之间被忽视的关键环节，具新颖性和方法论示范价值。",
+      "author_profile": null
+    },
     {
       "id": "https://www.nature.com/articles/s43017-026-00812-z",
       "title": "Fingerprinting microbe–mineral electron transfer with differential pulse voltammetry",
