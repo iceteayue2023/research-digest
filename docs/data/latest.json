@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T08:15:36.561626+00:00",
-  "count": 11,
+  "generated_at": "2026-07-23T13:46:13.475887+00:00",
+  "count": 14,
   "articles": [
     {
       "id": "https://www.nature.com/articles/d41586-026-02259-0",
@@ -468,6 +468,64 @@
       }
     },
     {
+      "id": "https://doi.org/10.5194/gmd-19-6663-2026",
+      "title": "Ensemble forecasts of isolated and compound wind and precipitation extremes in Europe using HC-SWG (v3.1) and MA-SWG (v1.1) Stochastic Weather Generators",
+      "link": "https://doi.org/10.5194/gmd-19-6663-2026",
+      "summary": "Ensemble forecasts of isolated and compound wind and precipitation extremes in Europe using HC-SWG (v3.1) and MA-SWG (v1.1) Stochastic Weather Generators\n                    Meriem Krouma and Gabriele Messori\n                        Geosci. Model Dev., 19, 6663–6685, https://doi.org/10.5194/gmd-19-6663-2026, 2026\n                        We present two forecasting methods for extreme precipitation and extreme wind in Europe, using stochastic weather generators and past atmospheric patterns. One targets precipitation via weather model reforecasts; the other predicts wind from large-scale patterns. Both outperform standard weather models up to 10 d ahead, offering improved accuracy for both individual and compound extreme events.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-07-23T13:01:10+02:00",
+      "doi": "10.5194/gmd-19-6663-2026",
+      "affiliation": null,
+      "title_zh": "利用HC-SWG (v3.1)和MA-SWG (v1.1)随机天气发生器对欧洲孤立和复合风与降水极端事件进行集合预报",
+      "relevance_score": 6,
+      "key_conclusion": "本文提出了两种基于随机天气发生器和历史大气模式的极端降水与极端风预报方法。两种方法均能在10天预报期内优于标准天气模型，提高了对孤立及复合极端事件的预报精度。",
+      "relevance_note": "文章的研究地点在欧洲，符合用户第6条偏好；且主题涉及极端气候事件的预报，与用户感兴趣的第1条相邻领域（极端气候事件对碳循环的扰动）相关，可用于理解驱动生态系统碳过程变化的环境因素。",
+      "related_papers": [],
+      "image_url": "https://gmd.copernicus.org/articles/19/6663/2026/gmd-19-6663-2026-avatar-web.png",
+      "scientific_question": "这篇文章试图解决的核心科学问题是：如何利用随机天气发生器提高对欧洲极端降水和极端风事件（包括复合极端事件）的预报精度，以克服传统天气模型在10天预报期内的局限性。",
+      "contributions_limitations": "基于现有信息推测，主要贡献是提出了两种新的预报方法，它们在10天预报期内优于标准天气模型，为极端事件（尤其是复合事件）的预报提供了更准确的工具。可能的局限性：预报方法可能依赖于历史大气模式的重现，在气候变化导致的非平稳条件下，其长期适用性可能需要进一步评估。",
+      "follow_up_research": "基于本文，后续可以研究：(1) 将这些高精度的极端事件预报应用于生态系统碳循环模型，评估极端气候对欧洲草地或森林土壤有机碳动态的影响；(2) 探索这种预报方法能否与动态植被模型(DGVM)耦合，以模拟极端气候事件对植物碳分配策略（如NSC）的即时和滞后效应。",
+      "next_step_perspective": "这篇文章为用户提供了方法论上的启示：可以借鉴其利用高精度气候事件预报数据来驱动生态过程模型的方法，以此来研究极端风、降水事件对大型食草动物重野化区域土壤有机碳的扰动。特别是，复合极端事件（如风+雨）的预报对于理解动物介导的土壤物理扰动和碳流失有潜在价值。",
+      "why_this_journal": "推测原因：该文章开发了新的天气生成器预报方法，并对方法进行了严格的验证和对比，其模型开发与评估的严谨性完全符合Geoscientific Model Development期刊的定位。",
+      "author_profile": {
+        "name": "Meriem Krouma",
+        "institution": "Uppsala University",
+        "intro": "Meriem Krouma目前任职于Uppsala University。从其历史论文标题看，她的主要研究方向集中在欧洲及泛大西洋区域的复合极端气候事件（如冷湿风事件）的预报、可预测性评估，以及气候对干旱和营养不良影响的关系。其研究方向与用户的核心领域（大型食草动物重野化与碳循环）不直接相关，但她发展的极端天气预报工具可为用户的碳循环研究提供气候驱动输入。",
+        "other_works": [
+          {
+            "title": "Ensemble forecasts of isolated and compound wind and precipitation extremes in Europe using HC-SWG (v3.1) and MA-SWG (v1.1) Stochastic Weather Generators",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-6663-2026"
+          },
+          {
+            "title": "Predictability assessment of cold–wet–windy pan-Atlantic extremes",
+            "year": "2026",
+            "journal": "Weather and Climate Extremes",
+            "doi": "10.1016/j.wace.2026.100903"
+          },
+          {
+            "title": "Assessment of the Relationship Between Drought and Malnutrition",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-2754"
+          },
+          {
+            "title": "Assessment of the predictability of cold-wet-windy Pan Atlantic compound extremes",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-5109"
+          },
+          {
+            "title": "Ensemble forecasts of isolated and compound wind and precipitation extremes in Europe using HC-SWG (v3.1) and MA-SWG (v1.1) Stochastic Weather Generators",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-3662"
+          }
+        ]
+      }
+    },
+    {
       "id": "10.1007/s00442-026-05943-0",
       "title": "Honeydew-mediated indirect interactions: magnet and spillover effects of an invasive willow–aphid complex",
       "link": "https://link.springer.com/article/10.1007/s00442-026-05943-0",
@@ -521,6 +579,89 @@
             "year": "2022",
             "journal": "FUNCTIONAL ECOLOGY",
             "doi": "10.1111/1365-2435.14163"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005716?af=R",
+      "title": "Enhancing the Advanced Lake Biogeochemistry Model for Application to Thermokarst Lakes on Qinghai‐Tibet Plateau",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025MS005716?af=R",
+      "summary": "Journal of Advances in Modeling Earth Systems, Volume 18, Issue 7, July 2026.",
+      "journal": "JAMES",
+      "published": "2026-07-22T12:02:33-07:00",
+      "doi": "10.1029/2025MS005716",
+      "affiliation": "State Key Laboratory of Earth Surface Processes and Disaster Risk Reduction Beijing Normal University  Beijing China; Department of Physical Geography and Ecosystem Science Lund University  Lund Sweden; Key Laboratory of Mountain Hazards and Engineering Resilience/Institute of Mountain Hazards and Environment Chinese Academy of Sciences  Chengdu China",
+      "title_zh": "改进先进湖泊生物地球化学模型以应用于青藏高原热喀斯特湖",
+      "relevance_score": 5,
+      "key_conclusion": "该研究改进了先进湖泊生物地球化学模型，并将其应用于青藏高原的热喀斯特湖。",
+      "relevance_note": "虽然主题为湖泊模型，但涉及模型改进和生物地球化学循环，与用户感兴趣的生态系统模型改进方向（第5条）有一定关联。且青藏高原冻土区的研究与碳循环密切相关，可间接参考模型方法论。",
+      "related_papers": [
+        {
+          "title": "Permafrost Hydrology of the Qinghai-Tibet Plateau: A Review of Processes and Modeling",
+          "link": "https://doi.org/10.3389/feart.2020.576838",
+          "venue": "Frontiers in Earth Science",
+          "year": 2021
+        },
+        {
+          "title": "Thermokarst and thaw-related landscape dynamics -- an annotated bibliography with an emphasis on potential effects on habitat and wildlife",
+          "link": "https://doi.org/10.3133/ofr20131161",
+          "venue": "Antarctica A Keystone in a Changing World",
+          "year": 2013
+        },
+        {
+          "title": "Permafrost soils and carbon cycling",
+          "link": "https://doi.org/10.5194/soil-1-147-2015",
+          "venue": "SOIL",
+          "year": 2015
+        },
+        {
+          "title": "The response of aquatic ecosystems to the interactive effects of stratospheric ozone depletion, UV radiation, and climate change",
+          "link": "https://doi.org/10.1007/s43630-023-00370-z",
+          "venue": "Photochemical & Photobiological Sciences",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://agupubs.onlinelibrary.wiley.com/cms/asset/9388e1af-def2-4c8e-899b-7fd62ab33128/jame.v18.7.cover.jpg?trick=1784814354202",
+      "scientific_question": "基于现有信息推测，这篇文章试图回答的核心科学问题是：如何改进湖泊生物地球化学模型以使其适用于青藏高原热喀斯特湖，从而更准确地模拟这些特殊水体的碳循环过程。",
+      "contributions_limitations": "基于摘要信息不足，建议查看原文。推测主要贡献是改进了模型参数或过程描述，使其能够模拟青藏高原热喀斯特湖独特的甲烷（CH4）和二氧化碳（CO2）排放动态。可能的局限性：模型应用可能局限于特定的湖区环境，其泛化能力需在其他永久冻土区进行验证。",
+      "follow_up_research": "基于本文，后续研究可以考虑：(1) 将改进后的模型与陆地生态系统模型耦合，量化热喀斯特湖扩张对区域甚至全球土壤有机碳库及温室气体收支的反馈； (2) 研究热喀斯特湖的形成和扩张如何改变周边陆地植被的动态以及大型食草动物的栖息地分布。",
+      "next_step_perspective": "这篇文章与用户的核心课题（大型食草动物重野化与碳循环）存在间接关联。青藏高原的放牧活动和热喀斯特湖变化是生态热点，用户可借鉴其模型改进思路，思考如何将动物扰动（如踩踏、排泄）参数化到土壤-植被-碳模型中。此外，文章涉及的高原环境可作为用户研究地点的非欧洲对照组。",
+      "why_this_journal": "推测原因：该文章在模型开发与应用方面有显著创新，特别是针对青藏高原独特的热喀斯特湖系统，其研究地点的新颖性和模型改进的贡献，符合Journal of Advances in Modeling Earth Systems (JAMES) 对地球系统模型发展的关注。",
+      "author_profile": {
+        "name": "Jiahui Lin",
+        "institution": "Lund University",
+        "intro": "Jiahui Lin目前任职于Lund University。从其历史论文标题看，他的主要研究方向集中在青藏高原热喀斯特湖的碳循环（包括CH4和CO2排放、有机碳储存）、微生物群落变化，以及高山冰川和苔原环境对气候变化的响应。这些研究与用户关注的高寒生态系统碳循环有交集，特别是在甲烷排放和永久冻土碳库方面。",
+        "other_works": [
+          {
+            "title": "Enhancing the Advanced Lake Biogeochemistry Model for Application to Thermokarst Lakes on Qinghai‐Tibet Plateau",
+            "year": "2026",
+            "journal": "Journal of Advances in Modeling Earth Systems",
+            "doi": "10.1029/2025MS005716"
+          },
+          {
+            "title": "Tundra Root Responses to Environmental Change - A Meta-Analysis",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-5524"
+          },
+          {
+            "title": "The Role of Thermokarst Lake Expansion in Altering the Microbial Community and Methane Cycling in Beiluhe Basin on Tibetan Plateau",
+            "year": "2022",
+            "journal": "Microorganisms",
+            "doi": "10.3390/microorganisms10081620"
+          },
+          {
+            "title": "Sedimentary organic carbon storage of thermokarst lakes and ponds across Tibetan permafrost region",
+            "year": "2022",
+            "journal": "Science of The Total Environment",
+            "doi": "10.1016/j.scitotenv.2022.154761"
+          },
+          {
+            "title": "CH4 and CO2 observations from a melting high mountain glacier, Laohugou Glacier No. 12",
+            "year": "2022",
+            "journal": "Advances in Climate Change Research",
+            "doi": "10.1016/j.accre.2021.11.007"
           }
         ]
       }
@@ -644,6 +785,89 @@
             "year": "2026",
             "journal": "European Journal of Wildlife Research",
             "doi": "10.1007/s10344-026-02072-0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-6687-2026",
+      "title": "A data-driven method for identifying climate drivers of agricultural yield failure from daily weather data",
+      "link": "https://doi.org/10.5194/gmd-19-6687-2026",
+      "summary": "A data-driven method for identifying climate drivers of agricultural yield failure from daily weather data\n                    Lily-belle Sweet, Christoph Müller, Jonas Jägermeyr, and Jakob Zscheischler\n                        Geosci. Model Dev., 19, 6687–6735, https://doi.org/10.5194/gmd-19-6687-2026, 2026\n                        This study presents a method to identify climate drivers of an impact, such as agricultural yield failure, from high-resolution weather data. The approach systematically generates, selects and combines predictors that generalise across different environments. Tested on crop model simulations, the identified drivers are used to create parsimonious models that achieve high predictive performance over long time horizons, offering a more interpretable alternative to black-box models.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-07-23T13:01:10+02:00",
+      "doi": "10.5194/gmd-19-6687-2026",
+      "affiliation": null,
+      "title_zh": "一种从日尺度天气数据中识别农业减产气候驱动因素的数据驱动方法",
+      "relevance_score": 4,
+      "key_conclusion": "本研究提出了一种从高分辨率天气数据中识别农业减产等影响的气候驱动因素的方法，能系统生成、选择和组合预测因子，并在长时间尺度上实现高预测性能，提供比黑箱模型更可解释的替代方案。",
+      "relevance_note": "文章聚焦农业系统，但其开发的数据驱动方法可用于识别影响陆地生态系统碳循环（如极端气候事件对碳汇的扰动）的关键气候变量，与用户相邻领域（第1条）的方法论相关。",
+      "related_papers": [
+        {
+          "title": "Weather and Climate Extreme Events in a Changing Climate",
+          "link": "https://doi.org/10.1017/9781009157896.013",
+          "venue": "Cambridge University Press eBooks",
+          "year": 2023
+        },
+        {
+          "title": "Climate Change 2014 - Synthesis Report",
+          "link": "https://doi.org/10.59327/ipcc/ar5-9789291691432",
+          "venue": null,
+          "year": 2015
+        },
+        {
+          "title": "Adaptation to Climate Change: Evidence from US Agriculture",
+          "link": "https://doi.org/10.1257/pol.20130025",
+          "venue": "American Economic Journal Economic Policy",
+          "year": 2016
+        },
+        {
+          "title": "Climate variability and vulnerability to climate change: a review",
+          "link": "https://doi.org/10.1111/gcb.12581",
+          "venue": "Global Change Biology",
+          "year": 2014
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/6687/2026/gmd-19-6687-2026-avatar-web.png",
+      "scientific_question": "这篇文章试图回答的核心科学问题是：如何开发一种可解释的、数据驱动的方法，从高分辨率日天气数据中识别导致农业减产的关键气候驱动因子。",
+      "contributions_limitations": "基于摘要信息推测，主要贡献是提出了一种系统化、可跨环境泛化的预测因子筛选与组合方法，使用作物模型模拟数据进行测试，并构建了在长时间尺度上预测性能高的简约模型。潜在的局限性：方法在作物模型模拟数据中表现良好，但应用于真实的产量观测数据时，其稳健性和对非气候因素的剥离能力可能需要进一步验证。",
+      "follow_up_research": "基于本文，后续可以：(1) 将该方法应用于欧洲自然生态系统（如rewilding区域），识别驱动草地或森林净初级生产力（NPP）变化的关键气候因子；(2) 将此方法与土壤有机碳动态模型结合，探索极端气候事件（如干旱热浪）对土壤有机碳分解和稳定的非线性驱动机制。",
+      "next_step_perspective": "这篇文章为用户提供了一个强大的分析工具视角。用户可以借鉴这种可解释的机器学习方法，来从高维生态数据（如长期碳通量、土壤呼吸、植被指数等）中识别出哪些气候变量和极端事件是影响重野化区域土壤有机碳库变化的关键驱动因子，从而为机理模型假设提供数据支撑。",
+      "why_this_journal": "推测原因：文章开发了一种新的数据驱动建模方法论，该方法具有跨学科（气象学与农学）的应用价值，且注重模型的可解释性，这符合Geoscientific Model Development期刊对模型开发和评估的严格要求。",
+      "author_profile": {
+        "name": "Lily-belle Sweet",
+        "institution": "Helmholtz Centre for Environmental Research - UFZ",
+        "intro": "Lily-belle Sweet目前任职于Helmholtz Centre for Environmental Research - UFZ。从其历史论文标题看，她的主要研究方向是利用数据驱动和过程模型相结合的方法，识别农作物（如小麦、玉米）产量失败的气候驱动因素，以及跨学科协调在农业模型中的作用。其方法论与用户寻找生态系统功能气候驱动因子的需求高度相关。",
+        "other_works": [
+          {
+            "title": "A data-driven method for identifying climate drivers of agricultural yield failure from daily weather data",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-6687-2026"
+          },
+          {
+            "title": "Identifying robust climate drivers of wheat yield failure in Europe from high-dimensional, multivariate spatiotemporal data",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-20132"
+          },
+          {
+            "title": "Using process-based model simulations to develop and validate a data-driven approach for identifying climate drivers of maize yield failure",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-19652"
+          },
+          {
+            "title": "A data-driven method for identifying climate drivers of agricultural yield failure from daily weather data",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-3006"
+          },
+          {
+            "title": "Transdisciplinary coordination is essential for advancing agricultural modeling with machine learning",
+            "year": "2025",
+            "journal": "One Earth",
+            "doi": "10.1016/j.oneear.2025.101233"
           }
         ]
       }
