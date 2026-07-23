@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-23T03:19:24.077900+00:00",
-  "count": 13,
+  "generated_at": "2026-07-23T08:15:36.563739+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Non-epitaxial perovskite polariton laser diode operating under direct current\n\ngo.nature.com/4vIS7Rq",
+      "created_at": "2026-07-23T08:07:01.901Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mrceyuzkly2e",
+      "external_title": "Non-epitaxial perovskite polariton laser diode operating under direct current - Nature",
+      "external_description": "By integrating a solution-grown perovskite microplate with chemically inert single-walled carbon nanotube electrodes and embedding them into an optical microcavity, the new microdevices can achieve polariton lasing under a constant direct current at 8 K.",
+      "external_uri": "https://go.nature.com/4vIS7Rq",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreieegdgch22xz2ph3vy3l2c4knnh4np4f6cz3ebeh7o6mgijbmvuca"
+    },
     {
       "handle": "natgeosci.nature.com",
       "author_name": "Nature Geoscience",

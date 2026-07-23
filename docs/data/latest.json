@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T03:19:24.076173+00:00",
-  "count": 7,
+  "generated_at": "2026-07-23T08:15:36.561626+00:00",
+  "count": 11,
   "articles": [
     {
       "id": "https://www.nature.com/articles/d41586-026-02259-0",
@@ -96,6 +96,64 @@
       "next_step_perspective": "为用户提供方法启发：长期剔除实验设计可用于模拟大型食草动物选择性采食或践踏对植物群落和土壤碳过程的级联效应。需关注动物介导的物种更替如何影响土壤有机碳组分（如POM和MAOM）。",
       "why_this_journal": "推测：该研究因其长达15年的实验周期和揭示生物多样性-生态系统功能关系时间动态的深刻见解，符合PNAS对长期生态机制研究的重视。",
       "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5071-2026",
+      "title": "The timing of warming matters as much as its intensity for the annual carbon balance of a degraded raised bog",
+      "link": "https://doi.org/10.5194/bg-23-5071-2026",
+      "summary": "The timing of warming matters as much as its intensity for the annual carbon balance of a degraded raised bog\n                    Nicolas Behrens, Klaus-Holger Knorr, Christoph Rückriem, and Mana Gharun\n                        Biogeosciences, 23, 5071–5094, https://doi.org/10.5194/bg-23-5071-2026, 2026\n                        We analysed carbon fluxes and their response to climate in a drained bog. Annual budgets varied from net emissions to near-neutral. Warm spring temperatures increased CO2 uptake, a warm autumn increased emissions. Atmospheric drought early in the year reduced CO2 uptake more than later. Our results show that carbon fluxes from drained bogs are variable and the timing of climate anomalies controls their impact on carbon fluxes. This will be increasingly important with ongoing climate warming.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-23T09:12:38+02:00",
+      "doi": "10.5194/bg-23-5071-2026",
+      "affiliation": null,
+      "title_zh": "变暖的时间与其强度对于退化隆起沼泽年度碳平衡同样重要",
+      "relevance_score": 8,
+      "key_conclusion": "文章分析了排水沼泽的碳通量及其对气候的响应。年度碳收支从净排放到接近中性不等。温暖的春季增加了二氧化碳吸收，而温暖的秋季则增加了排放。年初的大气干旱对二氧化碳吸收的减少作用大于后期。结果显示排水沼泽的碳通量是可变的，且气候异常的时间控制了其对碳通量的影响。",
+      "relevance_note": "该文章直接研究受扰动生态系统的碳平衡，探讨了气候变暖的时间与强度对碳循环的影响，这属于用户关注的(1)陆地生态系统碳循环范畴，特别是退化生态系统的碳源/汇动态，因此相关性较高。研究地点在欧洲（德国），已在此条中明确指出，加分。",
+      "related_papers": [],
+      "image_url": "https://bg.copernicus.org/articles/23/5071/2026/bg-23-5071-2026-avatar-web.png",
+      "scientific_question": "排水退化沼泽的年碳收支如何受变暖时间（春季变暖 vs. 秋季变暖）和干旱时间（年初 vs. 后期）的影响？气候异常的时间是否与强度同等重要？",
+      "contributions_limitations": "主要贡献：利用通量数据证明变暖和干旱的时间（而非仅强度）对排水沼泽的碳收支具有决定性影响，春季变暖促进碳吸收而秋季变暖促进排放，年初干旱对吸收的抑制更强。局限性：研究仅针对单一排水沼泽地点（德国），结果对其他类型泥炭地/湿地或不同排水历史的普适性未知。基于摘要信息推测。",
+      "follow_up_research": "未来可探究不同排水程度或恢复状态下的泥炭地对气候时间敏感性的差异，并将时间动态参数引入生态系统碳循环模型。还可以结合动物介导的养分循环（如大型食草动物践踏或觅食对泥炭地水文和植被的影响），研究其对碳通量时间响应的调节作用。",
+      "next_step_perspective": "研究视角：变暖与干旱的时间效应为理解碳循环对气候变化的响应提供了新维度，可借鉴到用户关注的放牧强度影响碳循环的研究中——例如放牧的季节性时间（春季 vs. 秋季放牧）可能对土壤有机碳动态产生不同影响。方法启发：利用连续通量观测数据驱动分析，是量化时间效应的有效手段。",
+      "why_this_journal": "该研究揭示了气候变暖时间而非仅强度对碳平衡的控制作用，具有方法论和概念上的新颖性，符合Biogeosciences关注生物地球化学循环过程及其对气候变化响应的期刊定位。此为推测。",
+      "author_profile": {
+        "name": "Nicolas Behrens",
+        "institution": "University of Münster",
+        "intro": "Nicolas Behrens，明斯特大学，从其论文标题看，主要研究方向是排水泥炭地的碳通量、能量平衡和植被-气候相互作用。这些研究与用户关注的碳循环和生态系统功能恢复高度相关。",
+        "other_works": [
+          {
+            "title": "The timing of warming matters as much as its intensity for the annual carbon balance of a degraded raised bog",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5071-2026"
+          },
+          {
+            "title": "Seasonal variation in vegetation-climate interactions shape the CO2 exchange in a degraded raised bog",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1496"
+          },
+          {
+            "title": "Supplementary material to \"Seasonal variation in vegetation-climate interactions shape the CO2 exchange in a degraded raised bog\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1496-supplement"
+          },
+          {
+            "title": "Seasonal dynamics of vegetation effect on peatland surface energy balance",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5633"
+          },
+          {
+            "title": "Supplementary material to \"Seasonal dynamics of vegetation effect on peatland surface energy balance\"",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5633-supplement"
+          }
+        ]
+      }
     },
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2537753123?af=R",
@@ -370,6 +428,104 @@
       "author_profile": null
     },
     {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70403?af=R",
+      "title": "Trait networks and the whole‐plant economics spectrum: Uncovering key determinants of growth rate across 33 temperate tree species",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70403?af=R",
+      "summary": "Journal of Ecology, Volume 114, Issue 7, July 2026.",
+      "journal": "Journal of Ecology",
+      "published": "2026-07-22T02:24:11-07:00",
+      "doi": "10.1111/1365-2745.70403",
+      "affiliation": "CAS Key Laboratory of Forest Ecology and Silviculture, Institute of Applied Ecology Chinese Academy of Sciences  Shenyang Liaoning China; Key Laboratory of Terrestrial Ecosystem Carbon Neutrality  Shenyang Liaoning China; Forest Ecology and Forest Management Group Wageningen University  Wageningen The Netherlands",
+      "title_zh": "性状网络与全植物经济学谱：揭示影响33种温带树种生长速率的关键决定因素",
+      "relevance_score": 6,
+      "key_conclusion": "文章通过分析温带树种的性状网络，揭示了决定生长速率的关键性状及其关系，验证了全植物经济学谱概念。",
+      "relevance_note": "该文章研究植物功能性状和生长策略，属于植物碳分配策略(3)的延伸范畴。植物经济学谱是理解生态系统碳循环的基础，但与大型食草动物重野化的直接关联较弱。研究地点未明确指出，但作者来自荷兰，可能涉及欧洲树种。",
+      "related_papers": [],
+      "image_url": "https://besjournals.onlinelibrary.wiley.com/cms/asset/bd975b82-b4e5-4bfb-9ecf-a02e3fb18a7e/jec70403-toc-0001-m.jpg?trick=1784794506001",
+      "scientific_question": "温带树种的生长速率受哪些关键功能和结构性状决定？这些性状之间的关系如何构成全植物经济学谱？",
+      "contributions_limitations": "基于现有信息推测：主要贡献是应用性状网络方法，综合多个性状而非单个性状来揭示决定生长速率的因子，并验证全植物经济学谱在温带树种中的适用性。局限性可能包括：仅涵盖33个树种，在空间尺度或干扰梯度上的代表性有限，且网络分析可能对性状选择敏感。",
+      "follow_up_research": "后续可将性状网络方法扩展至包含植物碳分配策略（如非结构性碳水化合物NSC储存）或菌根共生类型，以探究这些内在储存与共生关系如何调制经济学谱与生长速率的关系。",
+      "next_step_perspective": "方法启发：性状网络分析可以应用于放牧或重野化情景下的植物群落，评估大型食草动物对植物功能性状网络结构的影响，进而预测其对生态系统碳循环（如凋落物分解、土壤碳输入）的间接效应。",
+      "why_this_journal": "Journal of Ecology 专注于植物种群、群落和生态系统生态学。该研究从多性状网络角度阐述植物经济学谱，是植物功能生态学的前沿，符合期刊对机制性研究的追求。此为推测。",
+      "author_profile": {
+        "name": "Yong‐Jiao Zhou",
+        "institution": "Institute of Applied Ecology",
+        "intro": "Yong‐Jiao Zhou，中国科学院沈阳应用生态研究所。其研究聚焦于植物功能性状（如枝、叶）与企业规则、生产力之间的关系。这些工作与用户关注的植物碳分配策略和植被-土壤反馈有交叉。",
+        "other_works": [
+          {
+            "title": "Trait networks and the whole‐plant economics spectrum: Uncovering key determinants of growth rate across 33 temperate tree species",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70403"
+          },
+          {
+            "title": "Corner's Rules and Their Linkages With Twig Functions and Tree Productivity in Simple‐ and Compound‐Leaved Tree Species",
+            "year": "2025",
+            "journal": "Plant, Cell & Environment",
+            "doi": "10.1111/pce.15352"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1007/s00442-026-05943-0",
+      "title": "Honeydew-mediated indirect interactions: magnet and spillover effects of an invasive willow–aphid complex",
+      "link": "https://link.springer.com/article/10.1007/s00442-026-05943-0",
+      "summary": "Indirect interactions are key drivers of community structure, yet their role in invasion ecology remains understudied. In riparian ecosystems of northern Patagonia, invasive willows (Salix fragilis) frequently host dense colonies of the invasive giant willow aphid (Tuberolachnus salignus) that produces copious amounts of honeydew. This novel, sugar-rich resource may alter pollinators’ foraging activity or spatial distribution, with cascading consequences for co-occurring native plants. We quantified the abundance and taxonomic richness of insect pollinators feeding on honeydew at invasive willows. We then conducted a randomized block experiment comparing pollinator visits to the native herb Solidago chilensis placed near (~ 25 m) and far (~ 150 m) from the complex. Honeydew from the willow–aphid complex attracted a diverse assemblage of pollinators (16 taxa across three orders), including both native and exotic species. Pollinator abundance and richness on So. chilensis were significantly higher near the complex, evidencing a positive associational effect consistent with a magnet-resource mechanism and spillover effect. Our results reveal an underexplored pathway through which biological invasions reshape ecological networks. By showing that an interaction between two invasive species can indirectly facilitate native plants via honeydew-mediated pollinator attraction, we highlight the need to consider both positive and negative indirect effects when evaluating the ecological ",
+      "journal": "Oecologia",
+      "published": "2026-07-23T00:00:00+00:00",
+      "doi": "10.1007/s00442-026-05943-0",
+      "affiliation": null,
+      "title_zh": "蜜露介导的间接相互作用：入侵柳树-蚜虫复合体的磁石和溢出效应",
+      "relevance_score": 5,
+      "key_conclusion": "入侵柳树上的入侵蚜虫产生的蜜露吸引了多样的传粉者。靠近该入侵植物-蚜虫复合体的本土植物获得了更多的传粉者访问，表明存在一种积极的关联效应（磁石资源效应和溢出效应）。",
+      "relevance_note": "该研究探讨了生物入侵（属于基于自然的解决方案潜在的负面效应相关）对生态网络（食物网/互作网络）的影响，属于用户关注的(10)和(8)领域。虽然不是直接研究重野化，但其研究入侵物种间的正反馈效应与用户关注的生态过程重塑有关。研究地点在巴塔哥尼亚，非欧洲。",
+      "related_papers": [],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00442-026-05943-0/MediaObjects/442_2026_5943_Fig1_HTML.png",
+      "scientific_question": "入侵植物-蚜虫复合体（柳树-蚜虫）产生的蜜露如何通过吸引传粉者改变本土植物的传粉网络结构？在入侵生态中，这种由两种入侵物种互作而产生的间接正效应（磁石效应和溢出效应）是什么？",
+      "contributions_limitations": "主要贡献：揭示了两种入侵物种之间的互作（蜜露生产）可以通过溢出效应间接促进本土植物的传粉，拓展了对入侵网络复杂后果的认识。局限性：研究地点在巴塔哥尼亚的河岸生态系统，结果是否适用于其他生态系统中其他蜜露生产系统（如蚜虫→蚂蚁互作）尚需验证。",
+      "follow_up_research": "后续可探究蜜露的养分（如碳氮比）如何通过微生物介导的分解进一步影响土壤养分循环，这是用户关注的动物介导生物地球化学循环的一个新切入点。还可关注大型食草动物（如牛、鹿）对柳树/蚜虫密度的调控是否间接改变了这种溢出效应。",
+      "next_step_perspective": "研究空白提示：重野化引入大型食草动物可能通过改变植物群落组成和昆虫种群密度，间接影响蜜露生产和传粉网络，进而影响生态系统碳循环（如传粉促进结实→种子生产→碳分配）。方法启发：磁石与溢出效应分析可应用于放牧影响下的资源集中效应（如动物粪便肥力岛）。",
+      "why_this_journal": "Oecologia 涵盖多层面的生态学，该研究关注基于资源（蜜露）的间接互作及其对入侵和传粉网络的跨物种影响，具有较高的机制深度和创新性。此为推测。",
+      "author_profile": {
+        "name": "María Natalia Lescano",
+        "institution": "Universidad Nacional del Comahue",
+        "intro": "María Natalia Lescano，科马韦国立大学（阿根廷）。其研究涉及蚂蚁、蚜虫等昆虫营养生态和入侵生物学，近期也关注拉美地区特定入侵的动态。这些昆虫-植物互作研究与用户关注的生物间互作网络和基于自然的解决方案风险相关。",
+        "other_works": [
+          {
+            "title": "Citizen Science Quickly Reveals the Argentine Ant <i>Linepithema humile</i> (Mayr, 1868) Distribution in an Invaded Urban Area and Provides Unexpected Findings",
+            "year": "2025",
+            "journal": "NEOTROPICAL ENTOMOLOGY",
+            "doi": "10.1007/S13744-025-01348-5"
+          },
+          {
+            "title": "Distance From Nest and Climate Explain Geographical Trends of Harvester Ant's Food Resource Use: A Multi-Species Approach",
+            "year": "2025",
+            "journal": "JOURNAL OF BIOGEOGRAPHY",
+            "doi": "10.1111/JBI.15012"
+          },
+          {
+            "title": "Flexible, but not enough: how an omnivorous ant copes with macronutrient imbalances",
+            "year": "2025",
+            "journal": "OIKOS",
+            "doi": "10.1002/OIK.11557"
+          },
+          {
+            "title": "Wild vs. cultivated strawberries: differential fruit quality traits and antioxidant properties in <i>Fragaria chiloensis</i> and <i>Fragaria</i> x <i>ananassa</i>",
+            "year": "2025",
+            "journal": "DISCOVER FOOD",
+            "doi": "10.1007/S44187-025-00346-1"
+          },
+          {
+            "title": "Excessive nutrient input induces an ecological cost for aphids by modifying their attractiveness towards mutualist ants",
+            "year": "2022",
+            "journal": "FUNCTIONAL ECOLOGY",
+            "doi": "10.1111/1365-2435.14163"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2535317123?af=R",
       "title": "Raman imaging of the phycosphere reveals sharp gradients of organic matter exuded by single phytoplankton cells",
       "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2535317123?af=R",
@@ -430,6 +586,64 @@
             "year": "2022",
             "journal": "Scientific Reports",
             "doi": "10.1038/S41598-022-08581-7"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1007/s00442-026-05939-w",
+      "title": "Early post-fire declines of mammals in a tree-and-shrub savanna",
+      "link": "https://link.springer.com/article/10.1007/s00442-026-05939-w",
+      "summary": "Wildfires strongly shape savanna ecosystems through vegetation restructuring, nutrient recycling and abiotic change. Post-fire habitat conditions can progressively redistribute wildlife, with differential responses between functional groups and across vegetation successional stages. Using camera traps and environmental data loggers, we monitored a large landscape (650km2) affected by a wildfire in a tree-and-shrub savanna of eastern Namibia to quantify early-phase responses of medium- to large-size mammals across burned areas, adjacent proximal zones and unburned controls. We applied a multi-season, multi-species occupancy model to six months of camera-trap data spanning one month pre-fire and five months post-fire to assess community- and functional group–level dynamics of 31 species. Burned areas experienced higher temperatures, lower humidity, and reduced vegetation growth following the wildfire. Community-level mammal occupancy declined progressively in burned areas (from 0.53 to 0.33), while remaining nearly stable in control areas (from 0.45 to 0.43) and showing small declines in proximal zones (from 0.58 to 0.52). Functional group responses differed in intensity: small carnivores and burrow-associated species showed the strongest fire-driven declines, followed by large carnivores, browsers, and grazers. Proximal areas did not function as refugia and instead showed slight occupancy declines relative to controls, indicating that fire impacts extended beyond the burned pe",
+      "journal": "Oecologia",
+      "published": "2026-07-23T00:00:00+00:00",
+      "doi": "10.1007/s00442-026-05939-w",
+      "affiliation": null,
+      "title_zh": "树木-灌木稀树草原火灾后哺乳动物的早期减少",
+      "relevance_score": 4,
+      "key_conclusion": "火灾后，火烧区域的哺乳动物群落占有率从0.53下降到0.33，而对照区域保持稳定。小型食肉动物和穴居物种对火灾的响应最强烈。火灾的影响超出了火烧区域本身。",
+      "relevance_note": "该研究关注火灾干扰对大型哺乳动物群落的影响，与用户核心研究课题(大型食草动物重野化)关联较弱，但涉及到干扰对大型动物的影响，可视为相邻领域。研究地点在非洲纳米比亚，非欧洲，略微降低评分。",
+      "related_papers": [],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00442-026-05939-w/MediaObjects/442_2026_5939_Fig1_HTML.png",
+      "scientific_question": "萨瓦纳森林大火后，中大型哺乳动物群落的早期（火灾后5个月内）响应模式是什么？不同功能类群（如食肉动物、穴居动物、食草动物）的响应是否存在差异？火灾影响是否局限于火烧边界？",
+      "contributions_limitations": "主要贡献：利用大规模相机陷阱和物种多季节占有率模型，量化了火灾后短时期内哺乳动物群落的显著下降，并发现邻近未烧区也受到影响（功能丧失），否定了“邻近区作为逃避所”的简单假设。局限性：仅涵盖非洲纳米比亚一种类型的树灌萨瓦纳，且缺乏火灾后一年以上的长期轨迹。",
+      "follow_up_research": "后续可结合植被恢复演替与大型食草动物（如大象、羚羊）的聚集和移动，研究火灾后动物介导的养分和碳循环动态。也可探索捕食者-猎物关系在火灾后的反馈变化，以及火后生境斑块中动物介导对土壤碳的空间再分配。",
+      "next_step_perspective": "研究视角：火灾作为干扰的短期效应与用户研究的大型食草动物重野化对生态系统功能的影响直接相关——大型食草动物的放牧和践踏可能改变火灾风险、强度和恢复轨迹。本研究的空间分析（火烧区 vs 邻近区 vs 对照区）为评估重野化区域内动物群落空间模式提供了参考框架。",
+      "why_this_journal": "该研究关注火灾干扰后的关键短期动态，利用高质量数据（多季节模型、多物种）揭示了功能类群间的差异性响应，对火生态和保护管理具有明确启示，符合Oecologia的方法和主题定位。此为推测。",
+      "author_profile": {
+        "name": "Stijn Verschueren",
+        "institution": "Cheetah Conservation Fund",
+        "intro": "Stijn Verschueren，猎豹保护基金（纳米比亚）。其研究专注于大型食肉动物（如猎豹、非洲野犬等）和食肉动物的生态、饮食与对人类活动的响应。这些工作与捕食者-猎物互作和人类活动导致的性状变化直接相关。",
+        "other_works": [
+          {
+            "title": "Early post-fire declines of mammals in a tree-and-shrub savanna",
+            "year": "2026",
+            "journal": "Oecologia",
+            "doi": "10.1007/s00442-026-05939-w"
+          },
+          {
+            "title": "Mesocarnivore diet in a human-dominated landscape with abundant livestock and low large carnivore occurrence",
+            "year": "2026",
+            "journal": "Wildlife Research",
+            "doi": "10.1071/WR26008"
+          },
+          {
+            "title": "Seasonal Dynamics of Resource Availability and Human Presence Shape Habitat Use of Large Carnivores in Chad",
+            "year": "2026",
+            "journal": "Ecology and Evolution",
+            "doi": "10.1002/ece3.73957"
+          },
+          {
+            "title": "Potential vs. Realized Large Carnivore Density: The Influence of Livestock on Carnivore Carrying Capacity Estimation",
+            "year": "2026",
+            "journal": "Animal Conservation",
+            "doi": "10.1111/acv.70079"
+          },
+          {
+            "title": "Donkeys as livestock guardians against predators in an African savanna",
+            "year": "2026",
+            "journal": "European Journal of Wildlife Research",
+            "doi": "10.1007/s10344-026-02072-0"
           }
         ]
       }
