@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T02:57:26.611093+00:00",
-  "count": 2,
+  "generated_at": "2026-07-24T08:10:56.433873+00:00",
+  "count": 3,
   "articles": [
     {
       "id": "https://www.nature.com/articles/d41586-026-02293-y",
@@ -96,6 +96,89 @@
       "next_step_perspective": "这篇文章为我提供了一个重要的方法论视角：在研究重野化对碳循环的影响时，需要区分“自然恢复”效应和“气候变化扰动”效应。借鉴其提到的归因技术，可以帮助我设计模型实验，从而分离出放牧制度变化与气候异常对土壤有机碳变化的相对贡献。",
       "why_this_journal": "推测：Science正刊的This Week in Science或相关评论栏目，旨在为读者提供前沿科学动态的快速洞察。该文章抓住了气候变化科学中一个极为关键且应用广泛的领域（极端事件归因）的最新进展，兼具科学高度和现实紧迫性。",
       "author_profile": null
+    },
+    {
+      "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71018?af=R",
+      "title": "Amazon Dry Season Will Lengthen Under Future Climate",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71018?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-23T00:30:56-07:00",
+      "doi": "10.1111/gcb.71018",
+      "affiliation": "Remote Sensing Postgraduate Program (PGSER), Coordination for Education, Research and Outreach (COEPE) Brazil's National Institute for Space Research (INPE)  São José dos Campos São Paulo Brazil; Lancaster Environment Centre Lancaster University  Lancaster Lancashire UK; Faculty of Environment, Science and Economy University of Exeter  Exeter UK",
+      "title_zh": "气候变化将延长亚马逊旱季",
+      "relevance_score": 6,
+      "key_conclusion": "研究预测，在未来气候情景下，亚马逊地区的旱季持续时间将延长。这可能导致热带雨林面临更频繁和严重的干旱胁迫。",
+      "relevance_note": "这篇文章与您关注的陆地生态系统碳循环和极端气候事件对碳循环的扰动（第1子领域）相关。亚马逊雨林退化与碳损失密切相关，旱季延长可能加剧森林死亡率和碳释放，进而影响全球碳汇。",
+      "related_papers": [
+        {
+          "title": "Climate-induced variations in global wildfire danger from 1979 to 2013",
+          "link": "https://doi.org/10.1038/ncomms8537",
+          "venue": "Nature Communications",
+          "year": 2015
+        },
+        {
+          "title": "Compositional response of Amazon forests to climate change",
+          "link": "https://doi.org/10.1111/gcb.14413",
+          "venue": "Global Change Biology",
+          "year": 2018
+        },
+        {
+          "title": "Weather and Climate Extreme Events in a Changing Climate",
+          "link": "https://doi.org/10.1017/9781009157896.013",
+          "venue": "Cambridge University Press eBooks",
+          "year": 2023
+        },
+        {
+          "title": "Couplings Between Changes in the Climate System and Biogeochemistry",
+          "link": "",
+          "venue": "eScholarship (California Digital Library)",
+          "year": 2007
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "未来气候变化将如何改变亚马逊地区的旱季长度及强度？这种变化对热带雨林生态系统有何潜在影响？",
+      "contributions_limitations": "主要贡献：基于气候模型预测亚马逊旱季延长，为理解热带雨林面临干旱胁迫的未来趋势提供了量化依据。局限性：基于现有信息，文章可能未直接探讨旱季延长如何通过植被-土壤反馈影响碳循环（如土壤有机碳稳定性）或大型动物活动，也未量化极端干旱对碳汇/碳源转换的具体幅度。",
+      "follow_up_research": "可将此预测与动态植被模型（DGVM）结合，评估旱季延长对亚马逊雨林土壤有机碳分解速率及颗粒态/矿物结合态有机质（POM/MAOM）分布的影响；进一步研究极端干旱事件如何扰动动物（如大型食草动物）的栖息地利用及其介导的养分循环反馈。",
+      "next_step_perspective": "提供关键气候驱动变量（旱季长度）用于校准用户研究的碳循环模型，尤其可对比欧洲与亚马逊地区在干旱胁迫下的土壤碳响应差异；启示用户在分析大型食草动物重野化对碳影响时，需将未来干旱情景作为背景扰动因子纳入实验设计。",
+      "why_this_journal": "推测：该文章发表在Global Change Biology，因其聚焦全球变化对热带雨林结构的直接预测，属于领域核心议题，且方法（气候模型）具有严谨性和时效性，能吸引碳循环与生态学交叉领域读者。",
+      "author_profile": {
+        "name": "Igor José Malfetoni Ferreira",
+        "institution": null,
+        "intro": "Igor José Malfetoni Ferreira 的工作主要关注巴西生物群落的火灾、干旱及气候损失损害，使用模型方法预测森林退化与燃烧面积。其研究方向（森林退化、气候极端事件）与用户关注的碳循环扰动及生态系统退化恢复高度相关，但更侧重于火灾与水文而非大型动物直接效应。",
+        "other_works": [
+          {
+            "title": "Amazon Dry Season Will Lengthen Under Future Climate",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71018"
+          },
+          {
+            "title": "Climate evidence for Loss & Damage in the context of Wildfires in Amazonia and Pantanal Biomes",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-6936"
+          },
+          {
+            "title": "FLAME 1.0: a novel approach for modelling burned area in the Brazilian biomes using the maximum entropy concept",
+            "year": "2025",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-18-3533-2025"
+          },
+          {
+            "title": "Burning In Pantanal Driven By Wetland Degradation And Lower Precipitation",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu25-18657"
+          },
+          {
+            "title": "Prediction of forest degradation as a subsidy for mitigating actions to preventing fires and wildfires in a new Amazonian frontier",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu24-6369"
+          }
+        ]
+      }
     }
   ]
 }
