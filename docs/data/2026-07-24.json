@@ -1,8 +1,66 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T08:10:56.433873+00:00",
-  "count": 3,
+  "generated_at": "2026-07-24T13:27:09.203060+00:00",
+  "count": 7,
   "articles": [
+    {
+      "id": "https://doi.org/10.5194/gmd-19-6777-2026",
+      "title": "Biogeochemistry-Informed Neural Network (BINN v1.0) for improving accuracy of model prediction and scientific understanding of soil organic carbon storage",
+      "link": "https://doi.org/10.5194/gmd-19-6777-2026",
+      "summary": "Biogeochemistry-Informed Neural Network (BINN v1.0) for improving accuracy of model prediction and scientific understanding of soil organic carbon storage\n                    Haodi Xu, Joshua Fan, Feng Tao, Lifen Jiang, Fengqi You, Benjamin Houlton, Ying Sun, Carla P. Gomes, and Yiqi Luo\n                        Geosci. Model Dev., 19, 6777–6795, https://doi.org/10.5194/gmd-19-6777-2026, 2026\n                        We developed the Biogeochemistry-Informed Neural Network (BINN) which embeds a process-based model inside an AI framework so the model’s parameters can be learned from empirical data. BINN could recover prescribed parameters in synthetic tests and retrieve key processes controlling the modeled soil organic carbon when applied to ~25 000 soil profiles in US. It operates more than 50 times faster than the traditional Bayesian approach for data-model integration.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-07-24T15:02:27+02:00",
+      "doi": "10.5194/gmd-19-6777-2026",
+      "affiliation": null,
+      "title_zh": "生物地球化学信息神经网络（BINN v1.0）：用于提高模型预测精度和土壤有机碳存储科学认识",
+      "relevance_score": 8,
+      "key_conclusion": "开发了BINN模型，将过程模型嵌入AI框架以从经验数据学习参数。该模型能恢复合成测试中的指定参数，并在应用于约25,000个美国土壤剖面时检索出控制土壤有机碳模拟的关键过程，其运行速度比传统贝叶斯方法快50倍以上。",
+      "relevance_note": "直接涉及土壤有机碳存储的模型预测与理解，与用户核心研究方向（如土壤碳循环、重野化对土壤有机碳的影响）高度相关，且该模型方法可应用于评估动物对碳循环的反馈效应。",
+      "related_papers": [],
+      "image_url": "https://gmd.copernicus.org/articles/19/6777/2026/gmd-19-6777-2026-avatar-web.png",
+      "scientific_question": "如何结合过程模型和人工智能框架，提高土壤有机碳（SOC）储量的预测精度，并从中提取关键的生物地球化学机制？",
+      "contributions_limitations": "开发了BINN模型，将过程模型嵌入AI框架，实现了从数据中学习参数，比传统贝叶斯方法快50倍以上，并能从约25,000个美国土壤剖面中检索出控制SOC的关键过程。局限性可能在于模型对输入数据的质量和代表性高度敏感，且其‘可解释性’在揭示全新机制方面可能仍有局限。",
+      "follow_up_research": "基于BINN框架，可以将其迁移至大型食草动物重野化场景，利用放牧梯度或恢复时间序列的SOC数据，量化动物活动（如践踏、排泄）对SOC形成与稳定过程的参数影响。此外，可以扩展模型以纳入植物-土壤反馈和动物介导的养分循环模块。",
+      "next_step_perspective": "该文提供了一种强大的数据-模型融合方法，可直接应用于用户研究的核心问题：量化重野化对SOC储量的影响。用户可以使用BINN或类似框架，结合欧洲重野化项目的长期监测数据，识别控制SOC变化的关键过程（如POM/MAOM比例变化）及其与放牧强度的关系。",
+      "why_this_journal": "本文提出了一种新颖的模型框架（BINN），有效融合了过程模型与机器学习，在方法论上具有高度创新性，符合Geoscientific Model Development期刊专注于地球系统模型开发与验证的定位。该推测基于摘要信息。",
+      "author_profile": {
+        "name": "Haodi Xu",
+        "institution": null,
+        "intro": "Haodi Xu目前应在美国康奈尔大学（Cornell University）或相关机构从事博士后研究，根据其历史论文标题，研究方向集中在碳循环模型、土地利用变化对土壤有机碳的影响以及森林恢复的碳汇效力。这些研究与用户关注的生态系统碳循环、模型改进高度相关。",
+        "other_works": [
+          {
+            "title": "Time-dependent efficacy of carbon dioxide removal via forest restoration",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-8929952/v1"
+          },
+          {
+            "title": "Net primary productivity orchestrates uncertainty sources driving global soil organic carbon under land use change",
+            "year": "2026",
+            "journal": "Communications Earth & Environment",
+            "doi": "10.1038/s43247-026-03312-6"
+          },
+          {
+            "title": "Reply on CEC1",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-3282-AC1"
+          },
+          {
+            "title": "Reply on CEC2",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-3282-AC2"
+          },
+          {
+            "title": "Reply on RC1",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-3282-AC3"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.nature.com/articles/d41586-026-02293-y",
       "title": "This El Niño is set to be the largest on record by a ‘mind-blowing margin’",
@@ -179,6 +237,219 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5117-2026",
+      "title": "Global vegetation responses to wet and dry soil moisture extremes",
+      "link": "https://doi.org/10.5194/bg-23-5117-2026",
+      "summary": "Global vegetation responses to wet and dry soil moisture extremes\n                    Xueyan Cheng, Chunhui Zhan, Martin G. De Kauwe, Anke Hildebrandt, and Rene Orth\n                        Biogeosciences, 23, 5117–5131, https://doi.org/10.5194/bg-23-5117-2026, 2026\n                        Using long-term satellite greenness data and a machine-learning attribution approach, we assessed vegetation responses to wet and dry soil moisture extremes and identified their dominant drivers. Dry extremes caused widespread negative greenness anomalies mainly controlled by pre-extreme conditions and seasonal timing, while wet extremes showed more heterogeneous responses additionally shaped by climate and topography, highlighting contrasting ecosystem sensitivity to hydrological extremes.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-24T15:16:40+02:00",
+      "doi": "10.5194/bg-23-5117-2026",
+      "affiliation": null,
+      "title_zh": "全球植被对干湿土壤水分极端事件的响应",
+      "relevance_score": 6,
+      "key_conclusion": "干旱极端事件导致广泛且以负值为主的植被绿度异常，主要受极端事件前条件和季节性时间控制；而湿润极端事件的响应更为异质，还受气候和地形影响，突显了生态系统对水文极端事件的敏感性差异。",
+      "relevance_note": "文章直接关注(1)极端气候事件对碳循环（植被响应）的扰动，与用户研究方向中的陆地生态系统碳循环对气候极端事件的响应高度相关，有助于理解重野化背景下生态系统功能的恢复。",
+      "related_papers": [
+        {
+          "title": "GLEAM v3: satellite-based land evaporation and root-zone soil moisture",
+          "link": "https://doi.org/10.5194/gmd-10-1903-2017",
+          "venue": "Geoscientific model development",
+          "year": 2017
+        },
+        {
+          "title": "The International Soil Moisture Network: a data hosting facility for global in situ soil moisture measurements",
+          "link": "https://doi.org/10.5194/hess-15-1675-2011",
+          "venue": "Hydrology and earth system sciences",
+          "year": 2011
+        },
+        {
+          "title": "The climate hazards infrared precipitation with stations—a new environmental record for monitoring extremes",
+          "link": "https://doi.org/10.1038/sdata.2015.66",
+          "venue": "Scientific Data",
+          "year": 2015
+        },
+        {
+          "title": "A Multiscalar Drought Index Sensitive to Global Warming: The Standardized Precipitation Evapotranspiration Index",
+          "link": "https://doi.org/10.1175/2009jcli2909.1",
+          "venue": "Journal of Climate",
+          "year": 2009
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5117/2026/bg-23-5117-2026-avatar-web.png",
+      "scientific_question": "全球尺度上，植被对极端土壤水分（干旱和湿润）事件的响应有何不同，其主要驱动因素是什么？",
+      "contributions_limitations": "",
+      "follow_up_research": "可以将该研究框架应用于欧洲重野化区域，分析极端干旱/湿润事件对重野化草地或森林恢复区植被生产力的影响。后续研究可以结合土壤碳动态数据，探索极端气候如何通过改变植被生产力进而影响SOC库的稳定性。",
+      "next_step_perspective": "该研究直接关联用户关注的极端气候事件对碳循环的扰动。用户可以参考其方法，评估重野化生态系统是否比管理下的牧场或耕地更具弹性来抵御水文极端事件，从而间接影响碳汇功能。",
+      "why_this_journal": "该文针对一个全球性的关键问题（水文极端事件对植被的影响）提供了大尺度的定量评估，研究方法和结论具有广泛的生物地球科学意义，适合发表在Biogeosciences。该推测基于摘要信息。",
+      "author_profile": {
+        "name": "Xueyan Cheng",
+        "institution": "University of Freiburg",
+        "intro": "Xueyan Cheng目前任职于德国弗莱堡大学（University of Freiburg），研究方向为全球植被动态、土壤水分极端事件对植被的影响及城市热岛效应。其研究与用户关注的陆地生态系统碳循环、极端气候事件对生态系统的扰动领域高度吻合。",
+        "other_works": [
+          {
+            "title": "Global vegetation responses to wet and dry soil moisture extremes",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5117-2026"
+          },
+          {
+            "title": "Global vegetation responses to wet and dry soil moisture extremes",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1199"
+          },
+          {
+            "title": "Supplementary material to \"Global vegetation responses to wet and dry soil moisture extremes\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1199-supplement"
+          },
+          {
+            "title": "Global vegetation responses to wet and dry soil moisture extremes",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-5488"
+          },
+          {
+            "title": "Cooling efficiency of trees and short vegetation in large cities across the globe",
+            "year": "2025",
+            "journal": "Environmental Research Communications",
+            "doi": "10.1088/2515-7620/ae0f83"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41477-026-02327-3",
+      "title": "Non-native and invasive tree species are abundant in neotropical secondary forest but decline over time",
+      "link": "https://www.nature.com/articles/s41477-026-02327-3",
+      "summary": "Nature Plants, Published online: 24 July 2026; doi:10.1038/s41477-026-02327-3Non-native and invasive trees establish early during the regeneration of secondary forests. However, their decline over time suggests that native forest recovery can limit their abundance. Thus, neotropical secondary forests may buffer tree invasions.",
+      "journal": "Nature Plants",
+      "published": "2026-07-24T00:00:00+00:00",
+      "doi": "10.1038/s41477-026-02327-3",
+      "affiliation": null,
+      "title_zh": "非本土和入侵树种在新热带次生林中丰富但随时间减少",
+      "relevance_score": 5,
+      "key_conclusion": "非本土和入侵树种在次生林再生早期建立，但随时间推移其丰度下降，表明本地森林恢复可以限制其数量。因此，新热带次生林可能缓冲树木入侵。",
+      "relevance_note": "文章涉及森林恢复过程中的植物群落动态，与用户关注的(1)森林退化与恢复中的碳获取、(10)基于自然的解决方案（入侵风险）有较好关联，虽未直接涉及rewilding或大型动物，但属于相关领域。",
+      "related_papers": [
+        {
+          "title": "The Potential for Species Conservation in Tropical Secondary Forests",
+          "link": "https://doi.org/10.1111/j.1523-1739.2009.01338.x",
+          "venue": "Conservation Biology",
+          "year": 2009
+        },
+        {
+          "title": "Insect Declines in the Anthropocene",
+          "link": "https://doi.org/10.1146/annurev-ento-011019-025151",
+          "venue": "Annual Review of Entomology",
+          "year": 2019
+        },
+        {
+          "title": "Ecosystem Decay of Amazonian Forest Fragments: a 22‐Year Investigation",
+          "link": "https://doi.org/10.1046/j.1523-1739.2002.01025.x",
+          "venue": "Conservation Biology",
+          "year": 2002
+        },
+        {
+          "title": "Pervasive shifts in forest dynamics in a changing world",
+          "link": "https://doi.org/10.1126/science.aaz9463",
+          "venue": "Science",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41477-026-02327-3/MediaObjects/41477_2026_2327_Fig1_HTML.png",
+      "scientific_question": "新热带次生林在自然恢复过程中，非本土和入侵树种的丰度如何变化？次生林是否能缓冲森林入侵？",
+      "contributions_limitations": "主要贡献是证明了非本土和入侵树种在次生林早期再生阶段丰富，但随着森林恢复其丰度下降，为‘次生林能缓冲入侵’这一观点提供了实证。局限性在于研究焦点限于新热带地区，且长时间尺度上的入侵动态和环境影响仍有待进一步揭示。",
+      "follow_up_research": "基于此，用户可研究欧洲重野化过程中，大型食草动物引入是否会影响非本土植物的入侵动态。例如，动物践踏和选择性采食可能为入侵种创造机会，也可能通过促进土著种竞争而抑制入侵，这与该文的发现形成对比。",
+      "next_step_perspective": "该文为用户关注的‘基于自然的解决方案（NbS）潜在负面效应’提供了新视角：自然恢复本身可能限制外来种入侵。用户可以将此作为审视重野化项目潜在入侵风险的参照，并探讨大型动物是否改变这种自然抑制机制。",
+      "why_this_journal": "该研究在生态恢复与入侵生物学交叉领域提出了一个新颖且具有实践意义的观点，揭示了自然恢复过程对入侵的动态控制，成果新穎且与全球保护议题相关，符合Nature Plants的高标准。该推测基于摘要信息。",
+      "author_profile": {
+        "name": "Angélica F. Resende",
+        "institution": "Universidade de São Paulo",
+        "intro": "Angélica F. Resende目前任职于巴西圣保罗大学（Universidade de São Paulo），研究方向主要集中在热带森林生态学、森林恢复、生物多样性与生态系统功能，尤其关注碳汇和生物经济机遇。她的研究虽未直接涉及大型动物，但其对森林恢复过程中群落动态的研究，与用户关注的生态系统功能恢复具有重要联系。",
+        "other_works": [
+          {
+            "title": "Non-native and invasive tree species are abundant in neotropical secondary forest but decline over time",
+            "year": "2026",
+            "journal": "Nature Plants",
+            "doi": "10.1038/s41477-026-02327-3"
+          },
+          {
+            "title": "Bioeconomic opportunities in restored tropical forests",
+            "year": "2025",
+            "journal": "Ambio",
+            "doi": "10.1007/s13280-025-02234-5"
+          },
+          {
+            "title": "Remote sensing approaches to monitor tropical forest restoration: Current methods and future possibilities",
+            "year": "2025",
+            "journal": "Journal of Applied Ecology",
+            "doi": "10.1111/1365-2664.14830"
+          },
+          {
+            "title": "Canopy functional trait variation across Earth's tropical forests",
+            "year": "2025",
+            "journal": "NATURE",
+            "doi": "10.1038/S41586-025-08663-2"
+          },
+          {
+            "title": "Current constraints to reconcile tropical forest restoration and bioeconomy",
+            "year": "2025",
+            "journal": "SUSTAINABILITY SCIENCE",
+            "doi": "10.1007/S11625-024-01573-8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5133-2026",
+      "title": "Seasonal upwelling–dust controls on export production in the Canary Current System revealed by Lagrangian particle tracking",
+      "link": "https://doi.org/10.5194/bg-23-5133-2026",
+      "summary": "Seasonal upwelling–dust controls on export production in the Canary Current System revealed by Lagrangian particle tracking\n                    Catarina V. Guerreiro, Bror F. Jonsson, Peter Land, Javier Arístegui, Jan-Berend Stuut, Afonso Ferreira, Gavin H. Tilstone, Vanda Brotas, and Steve B. Groom\n                        Biogeosciences, 23, 5133–5161, https://doi.org/10.5194/bg-23-5133-2026, 2026\n                        This study examines how winds, ocean currents, and Saharan dust influence the transfer of carbon-rich material from surface waters to the deep open ocean off NW Africa. By tracking seawater pathways and sinking particles throughout the year, the research shows that winter-spring upwelling drives offshore export, while summer dust deposition contributes through ballasting and episodic fertilisation. This study improves our understanding of the drivers controlling open ocean export production.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-24T15:16:40+02:00",
+      "doi": "10.5194/bg-23-5133-2026",
+      "affiliation": null,
+      "title_zh": "加那利海流系统季节性上升流-沙尘对输出生产力的控制：拉格朗日粒子追踪的揭示",
+      "relevance_score": 4,
+      "key_conclusion": "研究发现冬季-春季上升流驱动近海碳输出，而夏季沙尘沉降通过压载和间歇性施肥促进输出，增进了对开放大洋输出生产力驱动因素的理解。",
+      "relevance_note": "文章涉及海洋碳循环与沙尘输送，与用户关注的(1)陆地生态系统碳循环机制有关联，但研究地点在海洋，与大型动物重野化不直接相关。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"Seasonal upwelling–dust controls on export production in the Canary Current System revealed by Lagrangian particle tracking\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-5789-supplement",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "A Satellite-Based Lagrangian View on Phytoplankton Dynamics",
+          "link": "https://doi.org/10.1146/annurev-marine-121916-063204",
+          "venue": "Annual Review of Marine Science",
+          "year": 2017
+        },
+        {
+          "title": "Supporting datasets and Python code for: \"Seasonal upwelling–dust controls on export production in the Canary Current System revealed by Lagrangian particle tracking\"",
+          "link": "https://doi.org/10.5281/zenodo.21041445",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Supporting datasets and Python code for: \"Seasonal upwelling–dust controls on export production in the Canary Current System revealed by Lagrangian particle tracking\"",
+          "link": "https://doi.org/10.5281/zenodo.21041444",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5133/2026/bg-23-5133-2026-avatar-web.png",
+      "scientific_question": "在加那利海流系统中，风、洋流和撒哈拉沙尘如何季节性控制碳从表层向深海输出？",
+      "contributions_limitations": "通过拉格朗日粒子追踪方法，揭示了冬季-春季上升流和夏季沙尘沉降对碳输出的不同驱动机制，增进了对开放大洋输出生产力的理解。局限性在于研究聚焦于特定海区，结论推广到其他海区或与大型食草动物重野化的陆地生态系统关联较弱。",
+      "follow_up_research": "本文的方法对用户研究帮助有限，但主题上可启发思考：在陆地生态系统中，动物活动（如践踏、翻找土壤）是否类似‘生物压载’，影响土壤团聚体和有机碳的物理保护与垂直迁移？这种跨界的压力-碳输出类比可能具有理论价值。",
+      "next_step_perspective": "尽管该文主题是海洋碳循环，但其‘生物压载’和‘脉冲式施肥’的概念可以类比到重野化系统中大型食草动物的生态效应。例如，动物通过粪便和践踏（压载）将碳从地表向地下输送，从而影响SOC的稳定和分布。",
+      "why_this_journal": "该文针对一个区域海洋系统（加那利海流）的碳输出关键过程进行了精细的机制解析，研究结果对理解全球大洋碳泵有重要贡献，符合Biogeosciences关注生物地球化学循环过程的定位。该推测基于摘要信息。",
+      "author_profile": null
     }
   ]
 }
