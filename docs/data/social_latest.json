@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-23T13:46:13.478632+00:00",
-  "count": 12,
+  "generated_at": "2026-07-24T02:57:26.611932+00:00",
+  "count": 9,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The El Niño climate pattern that is strengthening in the Pacific Ocean is on track to be the largest one in at least 150 years, researchers said today at a briefing.\n\ngo.nature.com/4fkayak",
+      "created_at": "2026-07-23T17:33:16.189Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mrdenfgife2n",
+      "external_title": "This El Niño is set to be the largest on record by a ‘mind-blowing margin’",
+      "external_description": "Forecasters predict that the monster climate pattern will combine with global warming to push global temperatures in 2027 to new heights.",
+      "external_uri": "https://go.nature.com/4fkayak",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov3fvqd3hhjxogeclhln6xh3nkbvfof3bbm4nzveruuc54uo54"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -47,17 +58,6 @@
       "external_thumb": null
     },
     {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "These microbial clusters can eject “escape pods” to survive.\n\nLearn more: https://scim.ag/4gJ8WrE",
-      "created_at": "2026-07-21T16:30:23.622581935Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mr6a74jfbl2g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
       "handle": "natgeosci.nature.com",
       "author_name": "Nature Geoscience",
       "text": "News & Views on this paper by Chris Mays (@nhmwien.bsky.social):\n\nwww.nature.com/articles/s41...",
@@ -96,39 +96,6 @@
       "text": "Registration and call for abstracts for the BES Annual Meeting 2026 are now open 🔥\n\nOur sold-out and Europe's largest ecology conference is returning this year to Birmingham's ICC on 14–17 December, and we can't wait to see you there.\n\nFind out more here 👇\nhttps://tinyurl.com/2s3nupvu",
       "created_at": "2026-07-21T12:03:18.017857970Z",
       "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mr5rbjp77r2y",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Kau)))",
-      "text": "🚨🚨We have a new paper out in @natgeosci.nature.com led by postdoctoral scholar Na Wang (now  @ucsantabarbara.bsky.social), where we identify a last-millennium climate “seesaw” linking extreme #hydroclimate events across both Central Asia & mainland Southeast Asia ☔️ \n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-20T23:59:51.159Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mr4itvbja226",
-      "external_title": "Opposing hydroclimate extremes in Central and mainland Southeast Asia over past millennium - Nature Geoscience",
-      "external_description": "Opposing wet and dry conditions in Central and mainland Southeast Asia over the past millennium were controlled by climate variability over the Pacific and Indian oceans, a pattern likely to become mo...",
-      "external_uri": "https://www.nature.com/articles/s41561-026-02020-2",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3p7ttmv3hdd2zfnghjv7lkll/bafkreibiqytw7afz5qidfavalffmfr2tt56pefvps7d2aza5mguajkw7cm"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Some Indonesian palm oil companies have made zero-deforestation promises, and most have maintained less than 1% deforestation per year. A study finds that this was more likely due to broad economic and policy conditions than to restraint. In PNAS: https://ow.ly/sGkx50Zoa4b",
-      "created_at": "2026-07-20T19:00:21.576855720Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mr3y4el2vy27",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Opinion piece: #EnhancedRockWeathering removes #CO2 from the atmosphere. But the practice might actually have more promise as a #farming practice than as a #CarbonDioxideRemoval technology. In PNAS Front Matter: https://ow.ly/ekUM50Zo5hp",
-      "created_at": "2026-07-20T17:00:35.609486677Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mr3rg7dzod2l",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
