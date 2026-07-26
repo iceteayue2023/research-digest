@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-24T13:27:09.204687+00:00",
-  "count": 8,
+  "generated_at": "2026-07-26T13:10:14.226001+00:00",
+  "count": 9,
   "posts": [
+    {
+      "handle": "natplants.nature.com",
+      "author_name": "Nature Plants",
+      "text": "New Article: \"Non-native and invasive tree species are abundant in neotropical secondary forest but decline over time\" rdcu.be/fvZt6\n\nDecline of non-native trees suggests that native forest recovery can limit their abundance. #PlantScience",
+      "created_at": "2026-07-26T02:38:12.265Z",
+      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mrjdznjz2k2l",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The El Niño climate pattern that is strengthening in the Pacific Ocean is on track to be the largest one in at least 150 years\n\ngo.nature.com/4wYyh5F",
+      "created_at": "2026-07-25T13:35:29.808Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mrhyc2p6bu2d",
+      "external_title": "This El Niño is set to be the largest on record by a ‘mind-blowing margin’",
+      "external_description": "Forecasters predict that the monster climate pattern will combine with global warming to push global temperatures in 2027 to new heights.",
+      "external_uri": "https://go.nature.com/4wYyh5F",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov3fvqd3hhjxogeclhln6xh3nkbvfof3bbm4nzveruuc54uo54"
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Portfolio",
+      "text": "Fern savannahs spread rapidly following the collapse of the forest ecosystem during the end-Triassic mass extinction, setting the conditions for widespread wildfires, according to an analysis reported in Nature Geoscience. go.nature.com/4wmgIg5 🌎🧪",
+      "created_at": "2026-07-24T19:03:01.607Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrg24smmf52u",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Opinion: Environmental challenges demand more than science—they require ethical decision-making. 🌍 Explore why comprehensive #ethics training is essential for tackling #ClimateChange, #biodiversity, and long-term #sustainability.  In PNAS Front Matter: https://ow.ly/n8HK50ZsnK9 ",
+      "created_at": "2026-07-24T17:01:00.226278920Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mrftcmob7r2k",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Geoscience",
+      "text": "⚒️ Article: Future tropical cyclone rainfall constrained by increased atmospheric dryness\n\nwww.nature.com/articles/s41...",
+      "created_at": "2026-07-24T15:30:08.086Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrfoa4t6ys2e",
+      "external_title": "Future tropical cyclone rainfall constrained by increased atmospheric dryness - Nature Geoscience",
+      "external_description": "Climate model ensembles suggest tropical cyclones will bring more rain as the world warms, but increases may be smaller than expected. Atmospheric dryness reduces how much rain storms produce, offsett...",
+      "external_uri": "https://www.nature.com/articles/s41561-026-02047-5?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreihlqnlrfjmnufjo4gjwc43tdfdtshwok3424ieve3fwfof2b4vlmu"
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -12,6 +67,17 @@
       "external_description": "Establishing a universal evolutionary timescale of nematodes has been complicated by their patchy fossil record and analytical limitations. Combining genomic data from 156 nematode species with fossil...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03128-9",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreibman62zbrrz2p7ocmeoqcln4z22mr2ctja3qz3jhymrfaeledu6a"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Institute of Botany, Czech Academy of Sciences",
+      "text": "New study in @science.org: \"Invasive species’ environmental impacts are more severe in the Global South\" by Petr Pyšek @ibotcz.bsky.social and international colleagues reveals that invasive species have far greater impacts in the Global South than previously thought. www.science.org/doi/full/10....",
+      "created_at": "2026-07-24T06:27:21.885Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mrepvlbmdk2v",
+      "external_title": "Invasive species’ environmental impacts are more severe in the Global South",
+      "external_description": "Invasive alien species (IAS) are a major threat to biodiversity, yet their impact distribution remains poorly understood. Global biodiversity assessments suggest the highest impacts in wealthy countri...",
+      "external_uri": "https://www.science.org/doi/full/10.1126/science.aed0603?_gl=1*1alttg1*_up*MQ..*_ga*MTIwMTI1NzM4Ni4xNzg0ODczNzc5*_ga_KQG7WRFJWG*czE3ODQ4NzM3NzkkbzEkZzAkdDE3ODQ4NzM3NzkkajYwJGwwJGgw",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xa4enefhmdo7boob25tmuk4m/bafkreicqbd3cu6sqh2mzef3hiqjsdqdb3br4fe3556n4oakz7faupnhkbe"
     },
     {
       "handle": "nature.com",
@@ -25,70 +91,15 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov3fvqd3hhjxogeclhln6xh3nkbvfof3bbm4nzveruuc54uo54"
     },
     {
-      "handle": "nature.com",
+      "handle": "natgeosci.nature.com",
       "author_name": "Nature",
-      "text": "Nature research paper: Non-epitaxial perovskite polariton laser diode operating under direct current\n\ngo.nature.com/4vIS7Rq",
-      "created_at": "2026-07-23T08:07:01.901Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mrceyuzkly2e",
-      "external_title": "Non-epitaxial perovskite polariton laser diode operating under direct current - Nature",
-      "external_description": "By integrating a solution-grown perovskite microplate with chemically inert single-walled carbon nanotube electrodes and embedding them into an optical microcavity, the new microdevices can achieve polariton lasing under a constant direct current at 8 K.",
-      "external_uri": "https://go.nature.com/4vIS7Rq",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreieegdgch22xz2ph3vy3l2c4knnh4np4f6cz3ebeh7o6mgijbmvuca"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Geoscience",
-      "text": "⚒️ Article: Shifting atmospheric circulation patterns over Europe since the 1980s have been the major cause of increasingly severe droughts\n\n@sebastian-sippel.bsky.social @anabastos.bsky.social @meteoleipzig.bsky.social \n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-22T15:00:05.171Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mralmkj3t227",
-      "external_title": "European summer drying largely driven by atmospheric circulation changes since the 1980s - Nature Geoscience",
-      "external_description": "Shifting atmospheric circulation patterns over Europe since the 1980s have been the major cause of increasingly severe droughts on the continent, according to nudged circulation climate model simulati...",
-      "external_uri": "https://www.nature.com/articles/s41561-026-02050-w?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreibydjydqbk4z3ebd7qklvdnjck54fi6lszmtte6nj75ykzlaqyso4"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "What does it mean to be an ecologist? 🔎🔬📸\n\nThe Ecologists in Action category of our Capturing Ecology competition celebrates the people behind ecology, working to understand and protect our natural world.\n\nSubmit your photos by 31 August 👇 BES members enter for free. \n\n",
-      "created_at": "2026-07-22T11:04:35.448244535Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mra6hhimaf22",
-      "external_title": "Ecology Photo Competition | Capturing Ecology 2026 | BES",
-      "external_description": "Enter the BES 2026 annual ecology photo competition and submit pictures of ecology that showcase nature, wildlife and research for a chance to win prizes.",
-      "external_uri": "https://f.mtr.cool/vwhacmqubx",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreicp2s5ivmwd3yqf32ewmhzviwr3eruwft2f3q7y7lokp4inobseoy"
-    },
-    {
-      "handle": "natplants.nature.com",
-      "author_name": "Nature Plants",
-      "text": "New Editorial: \"Europe’s two tiers of genome editing\" rdcu.be/fu1Ur\n\nNature Plants has existed for 11.5 years, during which time the European Union has been constantly struggling towards a clear stance on genome engineering. Perhaps they have finally found it. #PlantScience",
-      "created_at": "2026-07-22T03:35:46.241Z",
-      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mr7fevnwk22p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Geoscience",
-      "text": "News & Views on this paper by Chris Mays (@nhmwien.bsky.social):\n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-21T15:00:11.397Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mr635xaids2f",
-      "external_title": "Extreme warming fans the flames during mass extinctions - Nature Geoscience",
-      "external_description": "Most major mass extinctions in Earth history are linked to greenhouse gas emissions causing warmer and drier climates. Research shows these perturbations also led to widespread wildfires and the expan...",
-      "external_uri": "https://www.nature.com/articles/s41561-026-02058-2?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreihlsvhveamkaaw5qblqf74liqd6gw73q2kwtww5xb6wsfg2avyp7m"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Geoscience",
-      "text": "⚒️ Article: Fern savannahs especially susceptible to wildfires spread rapidly following the collapse of forest ecosystem during the end-Triassic mass extinction\n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-21T15:00:11.396Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mr635sycwc2f",
-      "external_title": "Continental-scale fern savannah wildfires during end-Triassic greenhouse warming - Nature Geoscience",
-      "external_description": "Fern savannahs spread rapidly following the collapse of the forest ecosystem during the end-Triassic mass extinction, setting the conditions for widespread wildfires, according to an analysis of the d...",
-      "external_uri": "https://www.nature.com/articles/s41561-026-02048-4?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreicbam2pgi2i3umona7f2qzeu32gyfdyznwxuriddltrgq3lblh44y"
+      "text": "The El Niño climate pattern that is strengthening in the Pacific Ocean is on track to be the largest one in at least 150 years, researchers said today at a briefing.\n\ngo.nature.com/4fkayak",
+      "created_at": "2026-07-23T17:33:16.189Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrdenfgife2n",
+      "external_title": "This El Niño is set to be the largest on record by a ‘mind-blowing margin’",
+      "external_description": "Forecasters predict that the monster climate pattern will combine with global warming to push global temperatures in 2027 to new heights.",
+      "external_uri": "https://go.nature.com/4fkayak",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov3fvqd3hhjxogeclhln6xh3nkbvfof3bbm4nzveruuc54uo54"
     }
   ]
 }
