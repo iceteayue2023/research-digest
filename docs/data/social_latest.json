@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-27T03:32:37.056622+00:00",
-  "count": 7,
+  "generated_at": "2026-07-27T09:35:28.789071+00:00",
+  "count": 6,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Genomic and evolutionary basis of parthenogenesis in a disease-vector tick species 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-07-27T08:43:45.724Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrmiwaern222",
+      "external_title": "Genomic and evolutionary basis of parthenogenesis in a disease-vector tick species - Nature Ecology & Evolution",
+      "external_description": "The authors combine comparative genomics across arthropods with comparative transcriptomics, population genetics analysis and functional experiments in Haemaphysalis longicornis ticks to elucidate the...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03137-8",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreificjvmgmndion6gozypaojlvc2otacuh22m7kzfd6ounvd5fq4u4"
+    },
     {
       "handle": "natplants.nature.com",
       "author_name": "Nature Plants",
@@ -56,28 +67,6 @@
       "external_description": "Climate model ensembles suggest tropical cyclones will bring more rain as the world warms, but increases may be smaller than expected. Atmospheric dryness reduces how much rain storms produce, offsett...",
       "external_uri": "https://www.nature.com/articles/s41561-026-02047-5?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreihlqnlrfjmnufjo4gjwc43tdfdtshwok3424ieve3fwfof2b4vlmu"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Combining genomic data from 156 nematode species with fossil calibrations, the authors develop a time-calibrated phylogeny that resolves the timing of nematode diversification and evolution of parasitism, while accounting for variation in divergence time estimates 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-07-24T08:12:30.719Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrevrltw2s2e",
-      "external_title": "The timescale of nematode evolution reveals late and convergent radiations of parasitism - Nature Ecology & Evolution",
-      "external_description": "Establishing a universal evolutionary timescale of nematodes has been complicated by their patchy fossil record and analytical limitations. Combining genomic data from 156 nematode species with fossil...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03128-9",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreibman62zbrrz2p7ocmeoqcln4z22mr2ctja3qz3jhymrfaeledu6a"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Institute of Botany, Czech Academy of Sciences",
-      "text": "New study in @science.org: \"Invasive species’ environmental impacts are more severe in the Global South\" by Petr Pyšek @ibotcz.bsky.social and international colleagues reveals that invasive species have far greater impacts in the Global South than previously thought. www.science.org/doi/full/10....",
-      "created_at": "2026-07-24T06:27:21.885Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mrepvlbmdk2v",
-      "external_title": "Invasive species’ environmental impacts are more severe in the Global South",
-      "external_description": "Invasive alien species (IAS) are a major threat to biodiversity, yet their impact distribution remains poorly understood. Global biodiversity assessments suggest the highest impacts in wealthy countri...",
-      "external_uri": "https://www.science.org/doi/full/10.1126/science.aed0603?_gl=1*1alttg1*_up*MQ..*_ga*MTIwMTI1NzM4Ni4xNzg0ODczNzc5*_ga_KQG7WRFJWG*czE3ODQ4NzM3NzkkbzEkZzAkdDE3ODQ4NzM3NzkkajYwJGwwJGgw",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xa4enefhmdo7boob25tmuk4m/bafkreicqbd3cu6sqh2mzef3hiqjsdqdb3br4fe3556n4oakz7faupnhkbe"
     }
   ]
 }

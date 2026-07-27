@@ -1,6 +1,142 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T03:32:37.056317+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-07-27T09:35:28.788301+00:00",
+  "count": 2,
+  "articles": [
+    {
+      "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70982?af=R",
+      "title": "Diagnosing Linearity Along the Carbon Cascade in Terrestrial Biosphere Models and Observations",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70982?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-26T07:26:12-07:00",
+      "doi": "10.1111/gcb.70982",
+      "affiliation": "Environmental Change Institute, School of Geography and the Environment University of Oxford  Oxford UK; Leverhulme Centre for Nature Recovery University of Oxford  Oxford UK; Department of Ecology, Environment and Geoscience Umeå University  Umeå Sweden",
+      "title_zh": "诊断陆地生物圈模型与观测中碳级联的线性特征",
+      "relevance_score": 8,
+      "key_conclusion": "该研究评估了陆地生物圈模型（TBMs）在模拟碳从植被到土壤再到大气的级联过程中的线性表现，并与观测数据进行了对比，揭示了模型在碳循环模拟中的关键不确定性。",
+      "relevance_note": "该文直接涉及陆地生态系统碳循环模型（TBMs）的验证与改进，与用户关注的生态系统模型改进（如DGVM）和碳循环主题高度相关。研究地在欧洲（牛津大学、于默奥大学），应给予较高分数。",
+      "related_papers": [
+        {
+          "title": "Trajectories of the Earth System in the Anthropocene",
+          "link": "https://doi.org/10.1073/pnas.1810141115",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2018
+        },
+        {
+          "title": "Uncertainties in CMIP5 Climate Projections due to Carbon Cycle Feedbacks",
+          "link": "https://doi.org/10.1175/jcli-d-12-00579.1",
+          "venue": "Journal of Climate",
+          "year": 2013
+        },
+        {
+          "title": "Controls on terrestrial carbon feedbacks by productivity versus turnover in the CMIP5 Earth System Models",
+          "link": "https://doi.org/10.5194/bg-12-5211-2015",
+          "venue": "Biogeosciences",
+          "year": 2015
+        },
+        {
+          "title": "Evaluation of carbonyl sulfide biosphere exchange in the Simple Biosphere Model (SiB4)",
+          "link": "https://doi.org/10.5194/bg-18-6547-2021",
+          "venue": "Biogeosciences",
+          "year": 2021
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "该研究旨在评估陆地生物圈模型在模拟碳从植被到土壤再到大气的级联过程中的线性表现，并比较模型结果与观测数据，以揭示当前模型在碳循环模拟中的关键不确定性来源。",
+      "contributions_limitations": "主要贡献：该研究首次系统地诊断了陆地生物圈模型在碳级联过程中的线性假设是否成立，并定量对比了模型与观测的差异，为改进模型结构提供了重要依据。局限性：基于现有信息推测，该研究可能聚焦于模型间的对比，对特定生态系统（如大型食草动物重野化场景）的代表性可能不足，且‘线性’诊断可能简化了复杂的非线性生物地球化学过程。",
+      "follow_up_research": "基于这一研究，未来可以探索在大型食草动物重野化场景下，碳级联的非线性特征如何被动物介导的土壤扰动和植被反馈所改变。此外，可以开发针对优先流或动物挖掘行为的模块，以改进碳级联中土壤碳转移过程的模拟。",
+      "next_step_perspective": "该研究为用户提供了评估和诊断生态系统碳循环模型的方法框架，特别是‘线性’诊断思路。用户可借鉴该框架，测试现有动态植被模型（DGVM）在模拟重野化地区土壤有机碳动态时，是否过度简化了碳从植被凋落物到土壤有机质库的转移过程，从而识别模型改进的切入点。",
+      "why_this_journal": "推测：该研究针对全球变化背景下碳循环模拟的核心不确定性，具有跨越模型与观测数据的跨学科整合意义，方法严谨且对生态学、气候学等广泛领域有启示，符合《Global Change Biology》关注全球变化前沿科学问题的定位。",
+      "author_profile": {
+        "name": "Huanyuan Zhang‐Zheng",
+        "institution": null,
+        "intro": "Huanyuan Zhang‐Zheng目前的研究方向集中于陆地生态系统碳循环建模、土地利用变化对土壤有机碳的影响（如原始林转变为草地后的碳变化），以及植物-微生物互作（如根际细菌对水稻根鞘形成的调控）。其历史工作（如关于El Niño干旱对热带稀树草原敏感性、家猫沿丝绸之路扩散等）显示出跨学科兴趣。这些研究，特别是碳循环模型诊断和土壤碳动态主题，与用户关注的生态系统碳循环、模型改进高度相关。",
+        "other_works": [
+          {
+            "title": "Diagnosing Linearity Along the Carbon Cascade in Terrestrial Biosphere Models and Observations",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70982"
+          },
+          {
+            "title": "Changes in soil organic carbon after land-use change from primary forest to grassland",
+            "year": "2026",
+            "journal": "Environmental Sciences Europe",
+            "doi": "10.1186/s12302-026-01335-6"
+          },
+          {
+            "title": "The late arrival of domestic cats in China via the Silk Road after 3,500 years of human-leopard cat commensalism",
+            "year": "2026",
+            "journal": "Cell Genomics",
+            "doi": "10.1016/j.xgen.2025.101099"
+          },
+          {
+            "title": "Diagnosing linearity along the carbon cascade in terrestrial biosphere models",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.09.01.673458"
+          },
+          {
+            "title": "Auxin‐Producing\n                    <i>Pseudomonas</i>\n                    Recruited by Root Flavonoids Increases Rice Rhizosheath Formation through the Bacterial Histidine Kinase Under Soil Drying",
+            "year": "2025",
+            "journal": "Advanced Science",
+            "doi": "10.1002/advs.202500607"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008296?af=R",
+      "title": "Dominant Controls on Preferential Flow and Their Implications for Future Soil Water Fluxes",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008296?af=R",
+      "summary": "Earth's Future, Volume 14, Issue 7, July 2026.",
+      "journal": "Earths Future",
+      "published": "2026-07-27T00:59:47-07:00",
+      "doi": "10.1029/2026EF008296",
+      "affiliation": "College of Earth, Ocean, and Atmospheric Sciences Oregon State University  Corvallis OR USA; Earth and Environmental Sciences Area Lawrence Berkeley National Laboratory  Berkeley CA USA; Department of Forestry and Environmental Resources North Carolina State University  Raleigh NC USA",
+      "title_zh": "优先流的主要控制因素及其对未来土壤水分通量的影响",
+      "relevance_score": 5,
+      "key_conclusion": "该研究识别了控制土壤优先流的主导因素，并探讨了其对未来土壤水分通量的影响。",
+      "relevance_note": "土壤水分通量是影响土壤有机碳分解和植被-土壤反馈的重要因素，与用户研究的土壤有机碳循环有间接关联。但文章未直接涉及重野化或大型动物。",
+      "related_papers": [
+        {
+          "title": "Macropores and water flow in soils revisited",
+          "link": "https://doi.org/10.1002/wrcr.20156",
+          "venue": "Water Resources Research",
+          "year": 2013
+        },
+        {
+          "title": "The <scp>M</scp> icrobial <scp>E</scp> fficiency‐ <scp>M</scp> atrix <scp>S</scp> tabilization ( <scp>MEMS</scp> ) framework integrates plant litter decomposition with soil organic matter stabilization: do labile plant inputs form stable soil organic matter?",
+          "link": "https://doi.org/10.1111/gcb.12113",
+          "venue": "Global Change Biology",
+          "year": 2012
+        },
+        {
+          "title": "The Ecology of Soil Carbon: Pools, Vulnerabilities, and Biotic and Abiotic Controls",
+          "link": "https://doi.org/10.1146/annurev-ecolsys-112414-054234",
+          "venue": "Annual Review of Ecology Evolution and Systematics",
+          "year": 2017
+        },
+        {
+          "title": "Illuminating hydrological processes at the soil‐vegetation‐atmosphere interface with water stable isotopes",
+          "link": "https://doi.org/10.1002/2015rg000515",
+          "venue": "Reviews of Geophysics",
+          "year": 2016
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "该研究试图回答：在土壤中控制优先流（如大孔隙流）的主导因素是什么？这些因素如何影响未来气候情景下的土壤水分通量？",
+      "contributions_limitations": "基于现有信息推测，主要贡献是识别了影响优先流的关键驱动因子（如土壤结构、根系通道、动物活动等），并评估了其对水分通量的潜在影响。局限性：可能缺乏对大型食草动物（如野化动物）践踏和挖穴等行为对优先流直接影响的专门研究，且未来情景预测依赖于模型假设，不确定性较大。",
+      "follow_up_research": "未来可研究大型食草动物重野化如何通过践踏改变土壤压实度、破坏或创造大孔隙，进而影响优先流路径。此外，可将动物介导的土壤物理变化参数化，集成到流域水文模型中，以更准确地预测野化区的土壤水分动态及碳分解速率。",
+      "next_step_perspective": "该研究为用户提供了连接土壤物理过程（优先流）与生态系统功能的视角。用户可关注优先流如何影响土壤有机碳的迁移和矿化速率，尤其是在大型动物重野化改变土壤结构后。这提示用户，在探讨动物-土壤-碳反馈时，不仅要考虑生物化学过程，也要纳入土壤物理结构变化（如优先流）作为关键变量。",
+      "why_this_journal": "推测：该研究针对未来气候变化下土壤水文过程的不确定性，识别关键控制因素，具有前瞻性和跨学科意义，符合《Earth's Future》关注地球系统未来变化的定位。",
+      "author_profile": {
+        "name": "Bonan Li",
+        "institution": "Oregon State University",
+        "intro": "Bonan Li目前在Oregon State University工作。根据提供的有限信息，其历史工作不明确，因此无法准确描述其研究方向。建议进一步查阅其发表记录以评估与用户方向（如动物介导的土壤过程）的关联性。",
+        "other_works": []
+      }
+    }
+  ]
 }
