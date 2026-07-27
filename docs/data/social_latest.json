@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-27T09:35:28.789071+00:00",
-  "count": 6,
+  "generated_at": "2026-07-27T14:22:13.243417+00:00",
+  "count": 10,
   "posts": [
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "Nature Climate Change",
+      "text": "Another of our anniversary News & Views is now online - @katharinevincent.bsky.social looks back at Berrang-Ford et al systematic review of evidence on human adaptation to climate change rdcu.be/fwdAZ",
+      "created_at": "2026-07-27T13:59:58.785Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mrn2loiphs2b",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: The planktonic microbiome of the Great Barrier Reef\n\ngo.nature.com/4fMmgKR",
+      "created_at": "2026-07-27T10:36:01.904Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mrmp6ypqmt2c",
+      "external_title": "The planktonic microbiome of the Great Barrier Reef - Nature",
+      "external_description": "The Great Barrier Reef Microbial Genomes Database compiles prokaryotic, viral and eukaryotic genomes from seawater collected from the Great Barrier Reef, providing a rich resource for the study of marine microbial communities and ecosystem research and management.",
+      "external_uri": "https://go.nature.com/4fMmgKR",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiggrodveuefppo4py465y5emjy45sudwijltalt2w554a2qspsk3m"
+    },
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "Earth Observation Lab",
+      "text": "The related paper, \"Canopy-mediated climate feedbacks in the boreal continuous permafrost zone\", by @smstuenzi.bsky.social, @grosseguido.bsky.social et al. is out now in Nature Climate Change! \n\nwww.nature.com/articles/s41...",
+      "created_at": "2026-07-27T09:24:22.212Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mrml6xwqic2q",
+      "external_title": "Canopy-mediated climate feedbacks in the boreal continuous permafrost zone - Nature Climate Change",
+      "external_description": "Soil carbon stocks are greater than biomass carbon in boreal forests. This study shows that tree canopies thermally protect more carbon in permafrost from thaw than is stored in biomass, highlighting ...",
+      "external_uri": "https://www.nature.com/articles/s41558-026-02692-z",
+      "external_thumb": null
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -19,6 +52,17 @@
       "text": "New Article: \"Non-native and invasive tree species are abundant in neotropical secondary forest but decline over time\" rdcu.be/fvZt6\n\nDecline of non-native trees suggests that native forest recovery can limit their abundance. #PlantScience",
       "created_at": "2026-07-26T02:38:12.265Z",
       "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mrjdznjz2k2l",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "Eric Higgs",
+      "text": "Here is a SharedIT link for our new review article, “Ecological novelty induced by climate change” published Wednesday in Nature Climate Change. rdcu.be/fu8ch",
+      "created_at": "2026-07-25T14:47:19.190Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mri4cifkgk2d",
       "external_title": null,
       "external_description": null,
       "external_uri": null,

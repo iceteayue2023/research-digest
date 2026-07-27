@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "generated_at": "2026-07-27T09:35:28.788301+00:00",
-  "count": 2,
+  "generated_at": "2026-07-27T14:22:13.242084+00:00",
+  "count": 5,
   "articles": [
     {
       "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70982?af=R",
@@ -82,6 +82,243 @@
             "year": "2025",
             "journal": "Advanced Science",
             "doi": "10.1002/advs.202500607"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02698-7",
+      "title": "Tree species richness relates to long-term forest photosynthesis increase",
+      "link": "https://www.nature.com/articles/s41558-026-02698-7",
+      "summary": "Nature Climate Change, Published online: 27 July 2026; doi:10.1038/s41558-026-02698-7The authors integrate tree species richness with satellite-derived photosynthesis proxies to show that richness correlates with greater current levels of photosynthesis and greater increases over time. Projected biodiversity loss by 2050 could lead to cumulative forest photosynthesis loss of 4.4–35.7 PgC.",
+      "journal": "Nature Climate Change",
+      "published": "2026-07-27T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02698-7",
+      "affiliation": null,
+      "title_zh": "树种丰富度与长期森林光合作用增强相关",
+      "relevance_score": 8,
+      "key_conclusion": "该研究整合树种丰富度与卫星衍生的光合作用代理指标，表明树种丰富度与更高的当前光合作用水平以及更大幅度的随时间增长正相关。预测到2050年的生物多样性丧失，可能导致森林光合作用的累积损失达到4.4–35.7 PgC。",
+      "relevance_note": "直接关联生物多样性-生态系统功能关系（BEF）及碳循环，支持您对BEF和森林碳动态的研究兴趣，与您的相邻领域（1）和（4）高度吻合。",
+      "related_papers": [
+        {
+          "title": "Scale and species richness: towards a general, hierarchical theory of species diversity",
+          "link": "https://doi.org/10.1046/j.1365-2699.2001.00563.x",
+          "venue": "Journal of Biogeography",
+          "year": 2001
+        },
+        {
+          "title": "Interactive effects of drought and pathogens in forest trees",
+          "link": "https://doi.org/10.1051/forest:2006040",
+          "venue": "Annals of Forest Science",
+          "year": 2006
+        },
+        {
+          "title": "Forest biodiversity, ecosystem functioning and the provision of ecosystem services",
+          "link": "https://doi.org/10.1007/s10531-017-1453-2",
+          "venue": "Biodiversity and Conservation",
+          "year": 2017
+        },
+        {
+          "title": "The impacts of increasing drought on forest dynamics, structure, and biodiversity in the United States",
+          "link": "https://doi.org/10.1111/gcb.13160",
+          "venue": "Global Change Biology",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02698-7/MediaObjects/41558_2026_2698_Fig1_HTML.png",
+      "scientific_question": "树种丰富度如何影响森林长期光合作用水平及其增长趋势？生物多样性丧失可能对森林碳汇功能造成多大程度的损失？",
+      "contributions_limitations": "主要贡献在于首次将树种丰富度与基于卫星的光合作用代理指标进行整合，揭示了丰富度对光合作用水平和长期增长的正面效应，并量化了未来生物多样性丧失将导致的巨大碳损失。局限性在于基于现有信息推测，研究可能主要依赖相关性分析，难以完全分离树种丰富度与其他环境因子的因果效应；另外光合作用代理指标可能存在卫星观测的尺度或不确定性限制。",
+      "follow_up_research": "后续研究可以探索树种丰富度影响光合作用的具体机制，例如是否通过增加林冠结构复杂性、增强资源互补利用或促进功能多样性来实现；也可以将这一分析方法推广到草地或稀树草原等大型食草动物重野化系统，评估动物活动如何通过影响植物多样性与地上生物量来间接调控光合作用和碳输入。",
+      "next_step_perspective": "这篇文章为您的研究提供了使用遥感大尺度数据评估生物多样性-碳循环关系的方法论启发。您可以将类似思路应用于重野化场景——比较不同放牧强度或大型食草动物恢复区域中，植物多样性对生态系统光合生产力和土壤碳输入的影响；同时，其揭示的生物多样性丧失导致的碳汇损失，也提示重野化措施在保护或恢复生物多样性方面的潜在碳效益。",
+      "why_this_journal": "推测：Nature Climate Change 注重具有全球影响和明确气候变化关联的研究。该文章将生物多样性丧失与森林碳汇功能直接挂钩，并提供了量化预测，兼具生态学前沿性和应对气候变化的政策意义，因此能发表在高影响力期刊。",
+      "author_profile": {
+        "name": "Ruochen Cao",
+        "institution": "Nanjing University",
+        "intro": "Ruochen Cao目前主要任职于南京大学。从其历史论文标题来看，研究方向包括树种丰富度与光合作用关系、森林边缘效应对亚马逊干旱的影响、以及全球尺度蒸腾与蒸散比的时空变化。这些研究聚焦于生态系统碳-水循环和遥感大数据分析，与您关注的碳循环和大尺度生态过程紧密相关。",
+        "other_works": [
+          {
+            "title": "Tree species richness relates to long-term forest photosynthesis increase",
+            "year": "2026",
+            "journal": "Nature Climate Change",
+            "doi": "10.1038/s41558-026-02698-7"
+          },
+          {
+            "title": "Forest edge effects amplify impacts of 2023-2024 Amazon drought on forest productivity",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-5962"
+          },
+          {
+            "title": "Spatiotemporal variations in the ratio of transpiration to evapotranspiration and its controlling factors across terrestrial biomes",
+            "year": "2022",
+            "journal": "Agricultural and Forest Meteorology",
+            "doi": "10.1016/j.agrformet.2022.108984"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1007/s10533-026-01359-3",
+      "title": "An efficient approach to accelerate carbon–nitrogen spin-up in the DayCent model",
+      "link": "https://link.springer.com/article/10.1007/s10533-026-01359-3",
+      "summary": "Most terrestrial ecosystem models require carbon (C) and nitrogen (N) pools to reach equilibrium before predicting ecosystem feedbacks related to changes in land management or climate. This equilibrium is typically achieved through a spin-up simulation, which involves repeatedly running the model with a specific set of environmental conditions. The required model simulation period for these runs often exceeds the turnover time of the slowest pool (103–104 years), making the process time-consuming, particularly for regional and global applications. We propose the Passive Pool Acceleration Spin-Up (PPASU) method to accelerate this process in the DayCent-UV model. PPASU allows the fast-turnover pools to reach equilibrium using the standard spin-up procedure, then estimates the steady-state values of the passive (i.e. slowest turnover) pool using a mass balance approach. PPASU was implemented at two herbaceous and two forested sites, producing C and N pool estimates below 6% error compared to long-term standard spin-up results, while achieving more than 86% computational efficiency.",
+      "journal": "Biogeochemistry",
+      "published": "2026-07-27T00:00:00+00:00",
+      "doi": "10.1007/s10533-026-01359-3",
+      "affiliation": null,
+      "title_zh": "加速DayCent模型中碳-氮平衡态模拟的高效方法",
+      "relevance_score": 8,
+      "key_conclusion": "提出被动库加速平衡态模拟（PPASU）方法，通过质量平衡法估算最慢周转被动库的稳态值，显著加速DayCent-UV模型的碳氮平衡态模拟。在四个站点验证显示，碳氮库估计误差低于6%，计算效率提升超过86%。",
+      "relevance_note": "直接关联生态系统模型改进（相邻领域5），有助于改进碳循环和养分循环模拟，对您研究重野化对碳循环影响的模型工具优化有重要参考价值。",
+      "related_papers": [
+        {
+          "title": "The Millennial model: in search of measurable pools and transformations for modeling soil carbon in the new century",
+          "link": "https://doi.org/10.1007/s10533-017-0409-7",
+          "venue": "Biogeochemistry",
+          "year": 2017
+        },
+        {
+          "title": "Modeling Soil Processes: Review, Key Challenges, and New Perspectives",
+          "link": "https://doi.org/10.2136/vzj2015.09.0131",
+          "venue": "Vadose Zone Journal",
+          "year": 2016
+        },
+        {
+          "title": "Evaluation and improvement of a global land model against soil carbon data using a Bayesian Markov chain Monte Carlo method",
+          "link": "https://doi.org/10.1002/2013jg002535",
+          "venue": "Journal of Geophysical Research Biogeosciences",
+          "year": 2014
+        },
+        {
+          "title": "Aligning theoretical and empirical representations of soil carbon-to-nitrogen stoichiometry with process-based terrestrial biogeochemistry models",
+          "link": "https://doi.org/10.1016/j.soilbio.2023.109272",
+          "venue": "Soil Biology and Biochemistry",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://media.springernature.com/full/springer-static/cover-hires/journal/10533",
+      "scientific_question": "如何高效加速土壤碳氮循环模型（DayCent）的长期平衡态模拟（spin-up）？该方法能否兼顾准确性和计算效率？",
+      "contributions_limitations": "主要贡献在于提出了被动库加速平衡态模拟（PPASU）方法，利用质量平衡法估算最慢周转库的稳态值，大大缩短了模型spin-up的计算时间，并在多个站点验证了高精度。局限性在于基于现有信息推测，该方法可能仅适用于DayCent模型及其特定结构，推广到其他生态系统模型（如DGVM）可能需要调整；且验证站点有限（四个），其在不同气候和土壤条件下的稳健性尚需更多检验。",
+      "follow_up_research": "后续研究可以将PPASU方法扩展到其他主流生态系统模型（如CENTURY、DNDC或DGVM），并评估其在全球尺度和不同生态系统类型（如热带稀树草原、温带草原）中的适用性。此外，可进一步探索将此类加速方法融入耦合了动态植被和动物扰动模块的模型中，以支撑重野化场景下长期碳循环变化的模拟。",
+      "next_step_perspective": "这篇文章为您提供了模型方法上的直接启发：在进行大型食草动物重野化对土壤有机碳影响的长期模拟时，高效的模型spin-up技术至关重要。PPASU的思路可以借鉴来加速含有慢周转土壤碳库的本地或区域模型，使您能更快地比较放牧强度梯度下碳平衡态的变化。此外，该研究强调土壤被动库的重要性，与您关注的POM/MAOM路径也有关联。",
+      "why_this_journal": "推测：Biogeochemistry 关注元素循环和生物地球化学过程的建模与实验研究。该文章聚焦于改进碳氮模型效率这一技术性问题，方法实用且验证严谨，符合该期刊对方法学创新和模型改进的关注。",
+      "author_profile": {
+        "name": "Johny Arteaga",
+        "institution": "Colorado State University",
+        "intro": "Johny Arteaga目前主要任职于科罗拉多州立大学。其历史论文标题显示研究方向集中于生态系统模型（特别是DayCent、草地ANPP模型）、遥感与地形影响、以及土壤碳储量。这些工作与您关注的草地碳循环和模型模拟高度相关，他开发的PPASU方法对您评估放牧强度对土壤碳长期动态影响有直接的模型工具价值。",
+        "other_works": [
+          {
+            "title": "An efficient approach to accelerate carbon–nitrogen spin-up in the DayCent model",
+            "year": "2026",
+            "journal": "Biogeochemistry",
+            "doi": "10.1007/s10533-026-01359-3"
+          },
+          {
+            "title": "Vegetation and Soil Drivers of Depth-Resolved Soil Carbon Stocks in U.S. Drylands ",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-21424"
+          },
+          {
+            "title": "Detecting and modeling topography‐induced differences in plant productivity across a grassland ecosystem gradient",
+            "year": "2026",
+            "journal": "Ecosphere",
+            "doi": "10.1002/ecs2.70537"
+          },
+          {
+            "title": "Effective Short‐Term Forecasting Strategies to Improve LULC Projections in Threatened Ecosystems",
+            "year": "2025",
+            "journal": "Journal of Geophysical Research: Biogeosciences",
+            "doi": "10.1029/2025JG009485"
+          },
+          {
+            "title": "Topographic Effects on Grassland ANPP in the U.S. Great Plains: Insights from Remote Sensing and Ecosystem Modeling",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.22541/au.174648264.49383960/v1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02692-z",
+      "title": "Canopy-mediated climate feedbacks in the boreal continuous permafrost zone",
+      "link": "https://www.nature.com/articles/s41558-026-02692-z",
+      "summary": "Nature Climate Change, Published online: 27 July 2026; doi:10.1038/s41558-026-02692-zSoil carbon stocks are greater than biomass carbon in boreal forests. This study shows that tree canopies thermally protect more carbon in permafrost from thaw than is stored in biomass, highlighting the need to consider carbon impacts of forest disturbance and conservation on an ecosystem scale.",
+      "journal": "Nature Climate Change",
+      "published": "2026-07-27T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02692-z",
+      "affiliation": null,
+      "title_zh": "北方连续永久冻土带的冠层介导气候反馈",
+      "relevance_score": 6,
+      "key_conclusion": "北方森林土壤碳储量大于生物量碳。本研究显示，树冠对冻土的热保护作用导致保存的碳量超过生物量中的碳储量，强调需从生态系统尺度考虑森林干扰和保护的碳影响。",
+      "relevance_note": "涉及陆地生态系统碳循环和气候反馈，与您关注的森林生态系统中碳源/汇变化相关（相邻领域1），但未直接涉及食草动物或重野化。",
+      "related_papers": [
+        {
+          "title": "Forest microclimates and climate change: Importance, drivers and future research agenda",
+          "link": "https://doi.org/10.1111/gcb.15569",
+          "venue": "Global Change Biology",
+          "year": 2021
+        },
+        {
+          "title": "Hydrological feedbacks in northern peatlands",
+          "link": "https://doi.org/10.1002/eco.1493",
+          "venue": "Ecohydrology",
+          "year": 2014
+        },
+        {
+          "title": "Shrub expansion in tundra ecosystems: dynamics, impacts and research priorities",
+          "link": "https://doi.org/10.1088/1748-9326/6/4/045509",
+          "venue": "Environmental Research Letters",
+          "year": 2011
+        },
+        {
+          "title": "Integrated Regional Changes in Arctic Climate Feedbacks: Implications for the Global Climate System",
+          "link": "https://doi.org/10.1146/annurev.energy.31.020105.100253",
+          "venue": "Annual Review of Environment and Resources",
+          "year": 2006
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02692-z/MediaObjects/41558_2026_2692_Fig1_HTML.png",
+      "scientific_question": "在北方连续永久冻土区，树冠如何通过改变地表微气候来调节冻土热状况并影响土壤碳库？森林覆盖对冻土碳的保护作用与生物量碳储量相比孰大？",
+      "contributions_limitations": "主要贡献在于发现树冠对冻土的热保护作用可以保存的碳量超过森林自身生物量中的碳储量，强调了从生态系统尺度评估森林干扰与保护对碳循环影响的重要性。局限性在于基于现有信息推测，此结论可能局限于特定的北方森林和连续永久冻土环境，其机制（如树冠遮荫、积雪截留等）是否适用于其他高纬度或高山生态系统尚需验证；此外，未详细量化不同森林组成与结构下的热保护效应差异。",
+      "follow_up_research": "后续研究可以探究大型食草动物（如驯鹿、麝牛）在北方森林中的采食和活动如何影响林冠结构，进而改变冻土热状态和土壤碳稳定性；也可以将这种'热保护'框架扩展到生态系统的其他元素，如分析和预测重野化引入大型动物后，灌木与乔木覆盖变化对土壤碳储量的级联效应。",
+      "next_step_perspective": "这篇文章为您的研究提供了重要的生态系统功能视角。您可以将'冠层介导的气候反馈'概念类比到大型食草动物重野化情境：动物通过改变植被结构（如抑制木本植物、促进草本植物）间接影响地表微气候和土壤温度，从而调节土壤有机碳的分解速率。这提示在重野化研究中不应忽视植被-微气候-土壤碳之间的物理反馈，这可能会放大或抵消动物直接带来的碳投入效应。",
+      "why_this_journal": "推测：Nature Climate Change 青睐揭示出人意料的气候-生态系统反馈机制的研究。本文指出树冠对冻土的保护作用超过其自身生物量，颠覆了传统上'森林碳汇'以地上生物量为主的认知，具有重要的气候反馈和政策含义，因此适合该期刊。",
+      "author_profile": {
+        "name": "S. M. Stuenzi",
+        "institution": "Humboldt-Universität zu Berlin",
+        "intro": "S. M. Stuenzi目前主要任职于柏林洪堡大学。其历史论文标题显示研究方向涵盖北方森林与永冻土反馈、全球气候临界点、北极地表反照率遥感、以及火后景观变化。这些研究聚焦于高纬度生态系统对气候变化的敏感性，与您关注的大型食草动物重野化在寒区生态系统的潜在影响（如冻土碳稳定）有间接但重要的关联。",
+        "other_works": [
+          {
+            "title": "Canopy-mediated climate feedbacks in the boreal continuous permafrost zone",
+            "year": "2026",
+            "journal": "Nature Climate Change",
+            "doi": "10.1038/s41558-026-02692-z"
+          },
+          {
+            "title": "The implications of overshooting 1.5 °C on Earth system tipping elements—a review",
+            "year": "2026",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ae3cad"
+          },
+          {
+            "title": "Assessing midsummer snow-free land surface albedo variability across multiple Arctic sites using the Harmonized Landsat and Sentinel-2 product",
+            "year": "2025",
+            "journal": "Science of Remote Sensing",
+            "doi": "10.1016/j.srs.2025.100283"
+          },
+          {
+            "title": "Assessing fire-induced permafrost ground deformation and environmental drivers using interferometric synthetic aperture radar and machine learning",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.22541/essoar.174835525.51043527/v1"
+          },
+          {
+            "title": "Boreal Forest Cover Delays Thermokarst Onset in Central Siberia's Yedoma Deposits",
+            "year": "2025",
+            "journal": "Journal of Geophysical Research: Earth Surface",
+            "doi": "10.1029/2024JF007873"
           }
         ]
       }
