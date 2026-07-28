@@ -1,6 +1,582 @@
 {
   "date": "2026-07-28",
-  "generated_at": "2026-07-28T02:48:50.901532+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-07-28T08:19:35.421057+00:00",
+  "count": 7,
+  "articles": [
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70325?af=R",
+      "title": "Ecological scale mediates nonlinear relationships of animal nutrient excretion with dissolved organic matter",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70325?af=R",
+      "summary": "Journal of Animal Ecology, EarlyView.",
+      "journal": "Journal of Animal Ecology",
+      "published": "2026-07-27T04:30:31-07:00",
+      "doi": "10.1111/1365-2656.70325",
+      "affiliation": "Environmental and Life Sciences Graduate Program Trent University  Peterborough Ontario Canada; Department of Biology Trent University  Peterborough Ontario Canada",
+      "title_zh": "生态尺度介导了动物养分排泄与溶解有机物的非线性关系",
+      "relevance_score": 8,
+      "key_conclusion": "动物排泄的养分（氮、磷）对水体溶解有机物的影响随生态尺度（从个体到群落）呈非线性变化，表明动物介导的生物地球化学循环具有尺度依赖性。",
+      "relevance_note": "文章直接探讨动物介导的生物地球化学循环（zoogeochemistry），研究养分排泄对碳循环（溶解有机物）的影响，与你的核心方向（动物反馈效应）高度相关，尽管研究环境为水生而非陆地。",
+      "related_papers": [
+        {
+          "title": "Ecological risk assessment of atrazine in North American surface waters",
+          "link": "https://doi.org/10.1002/etc.5620150105",
+          "venue": "Environmental Toxicology and Chemistry",
+          "year": 1996
+        },
+        {
+          "title": "<b>The role of micro‐organisms in the ecological connectivity of running waters</b>",
+          "link": "https://doi.org/10.1046/j.1365-2427.1998.00372.x",
+          "venue": "Freshwater Biology",
+          "year": 1998
+        },
+        {
+          "title": "Factors regulating the coastal nutrient filter in the Baltic Sea",
+          "link": "https://doi.org/10.1007/s13280-019-01282-y",
+          "venue": "AMBIO",
+          "year": 2019
+        },
+        {
+          "title": "Competition–dispersal tradeoff ecologically differentiates recently speciated marine bacterioplankton populations",
+          "link": "https://doi.org/10.1073/pnas.1318943111",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2014
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "动物营养排泄（氮、磷）对水体溶解有机物（DOM）的影响如何随生态尺度（从个体到群落）发生变化？",
+      "contributions_limitations": "主要贡献在于揭示了动物介导的生物地球化学循环（zoogeochemistry）具有强烈的尺度依赖性，非线性关系挑战了简单线性外推的传统观点。可能的局限性在于研究聚焦于水生生态系统，其尺度依赖模式在陆地大型食草动物重野化场景下的普遍性尚需验证，且摘要信息有限，未能展示具体机制。",
+      "follow_up_research": "后续研究可探索在陆地生态系统中，大型食草动物（如野牛、马）的排泄物对土壤有机碳组分（POM/MAOM）及养分循环的影响是否也存在类似的尺度依赖性非线性关系。此外，可以将个体-种群-群落的尺度框架应用于重野化放牧梯度研究，以更精准地预测动物再引入对土壤碳库的净效应。",
+      "next_step_perspective": "该研究为评估大型食草动物重野化对碳循环的影响提供了重要的方法论启发：不能仅通过个体水平的排泄率推算生态系统效应，必须考虑尺度依赖性。用户可以在重野化项目中设计嵌套实验（个体/斑块/景观尺度），以捕捉动物养分循环的非线性反馈对土壤有机碳形成的动态影响。",
+      "why_this_journal": "推测：Journal of Animal Ecology 关注动物与环境的多尺度交互，本文从动物养分排泄这一微观过程出发，揭示了其宏观生态影响和尺度依赖性规律，在机制创新和跨尺度整合方面具有新颖性，符合期刊定位。",
+      "author_profile": {
+        "name": "Sandra Klemet‐N'Guessan",
+        "institution": "University of Waterloo",
+        "intro": "Sandra Klemet‐N'Guessan 目前就职于加拿大滑铁卢大学（University of Waterloo）。从其历史论文标题看，其主要研究方向为水生生态系统中鱼类介导的养分循环与溶解有机物动态，关注气候变暖与城市化对水体碳循环的扰动，以及科学知识动员。这些研究与用户关注的动物介导的生物地球化学循环高度相关，但系统（水生 vs 陆地）和研究对象（鱼 vs 大型食草动物）不同，方法视角有借鉴价值。",
+        "other_works": [
+          {
+            "title": "Ecological scale mediates nonlinear relationships of animal nutrient excretion with dissolved organic matter",
+            "year": "2026",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70325"
+          },
+          {
+            "title": "Differential effects of freshwater browning across fish species: consequences for individual‐ to community‐level fish traits in north temperate lakes",
+            "year": "2026",
+            "journal": "Biological Reviews",
+            "doi": "10.1111/brv.70074"
+          },
+          {
+            "title": "Opportunities and challenges in knowledge mobilization for early-career aquatic scientists in Canada",
+            "year": "2026",
+            "journal": "FACETS",
+            "doi": "10.1139/facets-2025-0401"
+          },
+          {
+            "title": "Fish supply distinct nutrients and dissolved organic matter composition relative to ambient concentrations in northern lakes",
+            "year": "2025",
+            "journal": "Limnology and Oceanography",
+            "doi": "10.1002/lno.70163"
+          },
+          {
+            "title": "Climate Change and Urbanization Decouple Dissolved Organic Carbon Quantity and Composition in Streams",
+            "year": "2025",
+            "journal": "Global Biogeochemical Cycles",
+            "doi": "10.1029/2025GB008534"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71021?af=R",
+      "title": "Water Limits Radial Tree Growth More Than Light in an Everwet Subtropical Forest",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71021?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-27T05:04:21-07:00",
+      "doi": "10.1111/gcb.71021",
+      "affiliation": "Department of Ecology, Evolution and Environmental Biology Columbia University  New York New York USA; Q‐ForestLab, Department of Environment, Faculty of Bioscience Engineering Ghent University  Ghent Belgium; Belgian Climate Centre  Uccle Belgium",
+      "title_zh": "水比光更限制常湿亚热带森林中的树木径向生长",
+      "relevance_score": 7,
+      "key_conclusion": "在常湿亚热带森林中，水分有效性是限制树木径向生长的主要因素，其影响超过光照。这一发现挑战了该区域限制因子主要是光的传统认知。",
+      "relevance_note": "文章关注森林碳循环中的树木生长限制因子，与你的研究范围（森林退化/恢复中的碳损失与碳获取）间接相关，但未涉及大型动物或rewilding。",
+      "related_papers": [
+        {
+          "title": "Drivers and mechanisms of tree mortality in moist tropical forests",
+          "link": "https://doi.org/10.1111/nph.15027",
+          "venue": "New Phytologist",
+          "year": 2018
+        },
+        {
+          "title": "Dataset Accompanying the Study by Boeschoten et al. 'Water limits radial tree growth more than light in an everwet subtropical forest'",
+          "link": "https://doi.org/10.5281/zenodo.19187656",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Dataset Accompanying the Study by Boeschoten et al. 'Water limits radial tree growth more than light in an everwet subtropical forest'",
+          "link": "https://doi.org/10.5281/zenodo.19187657",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Drought and the interannual variability of stem growth in an aseasonal, everwet forest",
+          "link": "https://doi.org/10.1111/btp.12624",
+          "venue": "Biotropica",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在常湿亚热带森林中，水分与光照哪个因素对树木径向生长的限制作用更强？",
+      "contributions_limitations": "主要贡献是挑战了'光照是亚热带森林主要限制因子'的传统认知，强调了水分有效性的关键作用。局限性在于研究地点为常湿森林，其结论向水分季节性更强的生态系统（如稀树草原、地中海灌丛）外推时需谨慎，且未直接涉及动物摄食或土壤碳动态。",
+      "follow_up_research": "后续研究可深入探索水分限制如何通过影响树木非结构性碳水化合物（NSC）储存与利用，进而影响其遭受大型草食动物采食后的恢复能力。此外，可将该结论与重野化结合，探究大型草食动物的啃食行为是否通过改变土壤水分和植被蒸腾，间接加剧或缓解树木的水分胁迫。",
+      "next_step_perspective": "该研究为理解植被-土壤反馈提供了关键变量——水分有效性。在重野化研究中，大型食草动物的活动（如践踏、粪便输入、啃食）会改变土壤水文和植被结构，从而通过影响水分有效性间接调控树木生长和土壤有机碳动态。用户在设计野化区实验或模型时，需将水分作为核心中介变量纳入考量。",
+      "why_this_journal": "推测：Global Change Biology 聚焦于全球变化对生物系统的影响，本文直接挑战了热带/亚热带森林生长限制因子的传统假设，具有重要的理论修正意义，且使用了稳健的树木年代学方法，符合该期刊对原创性和机制性研究的高要求。",
+      "author_profile": {
+        "name": "Laura E. Boeschoten",
+        "institution": "Ghent University",
+        "intro": "Laura E. Boeschoten 目前隶属于比利时根特大学（Ghent University）。从其历史论文标题看，其主要研究兴趣包括树木生长对环境（干旱、飓风）的响应、碳同化与生长的脱耦关系、热带森林恢复与非法木材溯源。这些研究与用户关注的陆地生态系统碳循环（尤其是树木生长与碳分配）直接相关，其气候事件（如干旱、飓风）下树木生长响应的研究可为重野化恢复过程中植被响应的预测提供重要参考。",
+        "other_works": [
+          {
+            "title": "Water Limits Radial Tree Growth More Than Light in an Everwet Subtropical Forest",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71021"
+          },
+          {
+            "title": "Decoupled carbon assimilation and growth responses to aridity in temperate deciduous oaks",
+            "year": "2026",
+            "journal": "Science Advances",
+            "doi": "10.1126/sciadv.ady7139"
+          },
+          {
+            "title": "Tree growth after a major hurricane reflects predisturbance vigor rather than canopy damage",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2532451123"
+          },
+          {
+            "title": "Tree growth after a major hurricane reflects pre-disturbance vigorrather than canopy damage",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-1615"
+          },
+          {
+            "title": "All Reforestation Methods Can Support Tropical Tree Diversity Recovery, but Drivers and Species Composition Vary",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70721"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-6829-2026",
+      "title": "copan:LPJmL: a new hybrid modelling framework for dynamic land use and agricultural management",
+      "link": "https://doi.org/10.5194/gmd-19-6829-2026",
+      "summary": "copan:LPJmL: a new hybrid modelling framework for dynamic land use and agricultural management\n                    Jannes Breier, Luana Schwarz, Hannah Prawitz, Werner von Bloh, Christoph Müller, Stephen Björn Wirth, Max Bechthold, Dieter Gerten, and Jonathan F. Donges\n                        Geosci. Model Dev., 19, 6829–6855, https://doi.org/10.5194/gmd-19-6829-2026, 2026\n                        We present a new modelling framework that combines simulations of environmental change and human decision-making in an integrated approach. It allows researchers to explore how farming decisions affect land, water, and climate, and how these environmental changes influence future decisions. By connecting people and nature, it helps investigate food security, climate adaptation, and sustainability challenges, and supports the development of more realistic scenarios of future environmental change.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-07-28T09:06:19+02:00",
+      "doi": "10.5194/gmd-19-6829-2026",
+      "affiliation": null,
+      "title_zh": "copan:LPJmL：一种新的土地利用和农业管理动态混合建模框架",
+      "relevance_score": 7,
+      "key_conclusion": "该研究提出了一个整合环境变化与人类决策的混合建模框架，能够模拟农业决策对土地、水和气候的影响，以及这些环境变化对未来决策的反向作用，用于探索粮食安全、气候变化适应和可持续发展。",
+      "relevance_note": "该框架涉及动态植被模块(DGVM)与人类活动的耦合，属于你关注的地球系统模式开发。虽未直接涉及rewilding，但可用于理解生态恢复中的碳循环动态。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"copan:LPJmL: A new hybrid modelling framework for dynamic land use and agricultural management\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-4475-supplement",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "copan:LPJmL: A new hybrid DGVM-based modeling framework for dynamic land use and agricultural management",
+          "link": "https://doi.org/10.5194/egusphere-egu25-19244",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "From Farm to Planet: The InSEEDS World-Earth Model for Simulating Transitions to Regenerative Agriculture",
+          "link": "https://doi.org/10.5194/egusphere-2025-4079",
+          "venue": null,
+          "year": 2025
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/6829/2026/gmd-19-6829-2026-avatar-web.png",
+      "scientific_question": "如何构建一个能够耦合环境变化（土地、水、气候）与人类农业决策的混合建模框架，以探索未来粮食安全与可持续发展情景？",
+      "contributions_limitations": "主要贡献是推出了一个名为'copan:LPJmL'的新框架，将动态全球植被模型（DGVM）与土地利用/管理决策模型整合，提供了更现实的未来环境变化情景模拟工具。局限性在于模型复杂性和参数化需求高，可能限制其在数据稀缺地区的应用，且摘要未提及模型对生物多样性或大型动物反馈的模拟能力。",
+      "follow_up_research": "后续可将该框架扩展或耦合，纳入大型食草动物重野化作为土地利用管理策略，模拟其在不同气候情景下对植被结构、土壤碳储量和农业用地边界的反馈效应。也可以利用该框架评估'基于自然的解决方案'（如野化）在粮食安全与固碳协同增效中的潜力与权衡。",
+      "next_step_perspective": "该框架直接回应了用户对DGVM模型开发与验证的兴趣。用户可考虑利用或借鉴LPJmL的架构，将大型食草动物的放牧、啃食和养分排泄过程参数化，注入到动态植被模型中，从而模拟重野化对生态系统碳循环的长期影响。这对于评估野化作为气候减缓方案的有效性至关重要。",
+      "why_this_journal": "推测：Geoscientific Model Development 专注于地球系统模型的新方法开发与评价。本文提出的混合建模框架具有显著的方法学创新性，整合了环境与人类系统，是当前地球系统建模的前沿方向，因此适合发表在该期刊。",
+      "author_profile": {
+        "name": "Jonathan F. Donges",
+        "institution": null,
+        "intro": "Jonathan F. Donges 工作机构未提供，但其历史论文涉及地球系统弹性、突变探测、人类世转型等多个跨学科领域。他的研究方向强调整合社会-生态系统建模与地球系统科学，其开发的'copan:LPJmL'框架与用户关注的DGVM改进及自然解决方案的模拟评估高度相关，可为用户提供建模方法上的重要参考。",
+        "other_works": [
+          {
+            "title": "copan:LPJmL: a new hybrid modelling framework for dynamic land use and agricultural management",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-6829-2026"
+          },
+          {
+            "title": "Aggregating signals of Earth system dynamics across space, time, models, and variables",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-3389"
+          },
+          {
+            "title": "Quantifying resilience in non-autonomous and stochastic Earth system dynamics with application to glacial-interglacial cycles",
+            "year": "2026",
+            "journal": "Earth System Dynamics",
+            "doi": "10.5194/esd-17-673-2026"
+          },
+          {
+            "title": "We Are in the Anthropocene—Now What?",
+            "year": "2026",
+            "journal": "Earth's Future",
+            "doi": "10.1029/2025EF007730"
+          },
+          {
+            "title": "Detecting Abrupt Shifts and Coherent Spatial Domains in Earth System Data with TOAD ",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-18199"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5163-2026",
+      "title": "CO2 and H2O isotope exchange and flux partitioning in Amazonia",
+      "link": "https://doi.org/10.5194/bg-23-5163-2026",
+      "summary": "CO2 and H2O isotope exchange and flux partitioning in Amazonia\n                    Robbert P. J. Moonen, Getachew A. Adnew, Jordi Vilà-Guerau de Arellano, David J. Bonell Fontas, and Thomas Röckmann\n                        Biogeosciences, 23, 5163–5184, https://doi.org/10.5194/bg-23-5163-2026, 2026\n                        We used high-frequency H₂O and CO₂ isotope measurements taken in the Amazon Tall Tower Observatory (ATTO) to separate water vapour and carbon dioxide fluxes into their component processes. During midday, ~95 % of evapotranspiration came from plant transpiration. Isotopes also revealed the balance between photosynthesis and respiration, showing strong sensitivity to leaf CO₂ ratios. These results improve understanding of Amazon ecosystem function.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-28T08:15:52+02:00",
+      "doi": "10.5194/bg-23-5163-2026",
+      "affiliation": null,
+      "title_zh": "亚马逊地区的CO₂和H₂O同位素交换及通量拆分",
+      "relevance_score": 7,
+      "key_conclusion": "利用高频同位素测量拆分亚马逊生态系统的水汽和CO₂通量，发现白天约95%的蒸散发来自植物蒸腾，并揭示了光合与呼吸作用的平衡对叶片CO₂浓度高度敏感。",
+      "relevance_note": "文章深化了对热带森林碳循环核心过程（光合-呼吸平衡）的理解，与你关注的陆地生态系统碳循环高度相关，且涉及热带雨林。研究地点不在欧洲，但方法和技术对DGVM验证有价值。",
+      "related_papers": [
+        {
+          "title": "Dataset of: CO2 and H2O isotope exchange and flux partitioning in Amazonia. Described in: Moonen et al. 2026 (Biogeosciences)",
+          "link": "https://doi.org/10.6084/m9.figshare.30762821",
+          "venue": "Figshare",
+          "year": 2025
+        },
+        {
+          "title": "Dataset of: CO2 and H2O isotope exchange and flux partitioning in Amazonia. Described in: Moonen et al. 2026 (Biogeosciences)",
+          "link": "https://doi.org/10.6084/m9.figshare.30762821.v1",
+          "venue": "Figshare",
+          "year": 2025
+        },
+        {
+          "title": "Dataset of: CO2 and H2O isotope exchange and flux partitioning in Amazonia. Described in: Moonen et al. 2026 (Biogeosciences)",
+          "link": "https://doi.org/10.6084/m9.figshare.30762821.v2",
+          "venue": "Figshare",
+          "year": 2025
+        },
+        {
+          "title": "Bidirectional exchange of biogenic volatiles with vegetation: emission sources, reactions, breakdown and deposition",
+          "link": "https://doi.org/10.1111/pce.12322",
+          "venue": "Plant Cell & Environment",
+          "year": 2014
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5163/2026/bg-23-5163-2026-avatar-web.png",
+      "scientific_question": "如何利用高频CO₂和H₂O稳定同位素测量来拆分亚马逊热带雨林的水汽与碳通量，并量化蒸腾与光合/呼吸作用的相对贡献？",
+      "contributions_limitations": "主要贡献是通过同位素技术精确量化了亚马逊生态系统白天约95%的蒸散发来自植物蒸腾，并揭示了光合与呼吸作用平衡对叶片CO₂浓度的高度敏感性，深化了对热带雨林水碳耦合机制的理解。局限性在于研究仅限于亚马逊站点，结论向其他生态系统（如温带稀树草原）推广需验证，且未涉及动物活动的影响。",
+      "follow_up_research": "后续研究可将类似同位素通量拆分技术应用于大型食草动物重野化区域，量化动物活动（如践踏导致土壤压实、粪便促进呼吸）如何改变土壤呼吸与植物蒸腾的比例，以及这些变化如何影响生态系统净碳交换（NEE）。这对于厘清动物介导的碳循环反馈至关重要。",
+      "next_step_perspective": "该研究展示了同位素技术在精确解析生态系统碳水和过程（特别是光合与呼吸拆分）中的强大能力。用户在研究大型食草动物重野化对碳循环的影响时，可借鉴此方法，区分动物活动对植物（碳同化）和土壤（异养呼吸）的差异化影响，从而更准确地量化净碳汇/源变化，避免仅依靠总量通量测量的模糊性。",
+      "why_this_journal": "推测：Biogeosciences 专注于生物圈与地圈之间过程的定量研究。本文利用高精度同位素测量手段，解决了热带雨林通量拆分这一长期核心难题，数据详实、方法先进，在生物地球化学循环机制上具有重要推进，完全符合期刊定位。",
+      "author_profile": {
+        "name": "Thomas Röckmann",
+        "institution": "Universiteit Utrecht",
+        "intro": "Thomas Röckmann 就职于荷兰乌特勒支大学（Universiteit Utrecht）。从其论文标题看，其长期致力于利用稳定同位素（C、H、O、N）示踪大气中甲烷、CO₂、N₂O等温室气体的源汇过程，尤其关注从冰芯到热带雨林的多环境介质。虽然其主要工作不涉及大型动物，但其在陆地-大气通量同位素示踪方面的深厚积累，为用户研究重野化地块的碳通量来源拆分提供了核心方法工具。",
+        "other_works": [
+          {
+            "title": "CO2 and H2O isotope exchange and flux partitioning in Amazonia",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5163-2026"
+          },
+          {
+            "title": "Anthropogenic perturbations to atmospheric methane reflected in Greenland firn air clumped isotope measurements",
+            "year": "2026",
+            "journal": "Science Advances",
+            "doi": "10.1126/sciadv.aeb2203"
+          },
+          {
+            "title": "Forests and clouds as a coupled system: moving beyond boundary conditions",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/ems2026-74"
+          },
+          {
+            "title": "Global methane emission estimates from a dual-isotope inversion: new constraints from δD-CH4",
+            "year": "2026",
+            "journal": "Atmospheric chemistry and physics",
+            "doi": "10.5194/egusphere-2025-5571"
+          },
+          {
+            "title": "In situ production of hybrid N2O in dust-rich Antarctic ice",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-3939-2026"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-6857-2026",
+      "title": "MErSiM v1.0: resolving biases in global silicate weathering model with a data-driven surface erosion module",
+      "link": "https://doi.org/10.5194/gmd-19-6857-2026",
+      "summary": "MErSiM v1.0: resolving biases in global silicate weathering model with a data-driven surface erosion module\n                    Jiaxi Zhao, Yonggang Liu, and Yongyun Hu\n                        Geosci. Model Dev., 19, 6857–6878, https://doi.org/10.5194/gmd-19-6857-2026, 2026\n                        By using artificial intelligence and geological measurements, we built a machine learning model that accurately shows how landscapes erode. With this module included we developed a new silicate weatherig model, named MErSiM v1.0, which corrected a major overestimation of weathering flux in models simulating Earth’s long-term carbon cycle. This revealed that Earth's natural ability to remove atmospheric carbon dioxide is profoundly weaker under intense warming than previously understood.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-07-28T09:06:19+02:00",
+      "doi": "10.5194/gmd-19-6857-2026",
+      "affiliation": null,
+      "title_zh": "MErSiM v1.0：利用数据驱动的表面侵蚀模块解决全球硅酸盐风化模型中的偏差",
+      "relevance_score": 6,
+      "key_conclusion": "通过机器学习构建的景观侵蚀模型，修正了全球硅酸盐风化模型对风化通量的高估，揭示了地球自然固碳能力在变暖下远低于先前预期。",
+      "relevance_note": "文章直接涉及地球长期碳循环的模型改进，与你的DGVM和碳循环研究主题相关。但研究聚焦于地质时间尺度的风化过程，不涉及大型动物或近期生态恢复。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"MErSiM v1.0: Resolving Biases in Global Silicate Weathering Model with A Data-Driven Surface Erosion Module\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-5624-supplement",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "MErSiM v1.0: Machine learning derived Erosion and Silicate weathering Model; code and data of Zhao et al. (2025) GMD",
+          "link": "https://doi.org/10.5281/zenodo.17597104",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        },
+        {
+          "title": "MErSiM v1.0: Machine learning derived Erosion and Silicate weathering Model; code and data of Zhao et al. (2026) GMD",
+          "link": "https://doi.org/10.5281/zenodo.18015309",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        },
+        {
+          "title": "MErSiM v1.0: Machine learning derived Erosion and Silicate weathering Model; code and data of Zhao et al. (2026) GMD",
+          "link": "https://doi.org/10.5281/zenodo.17597103",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/6857/2026/gmd-19-6857-2026-avatar-web.png",
+      "scientific_question": "如何利用数据驱动的方法（机器学习）改进全球硅酸盐风化模型，以更准确地评估地球长期碳循环中自然固碳能力的强度及其对气候变暖的响应？",
+      "contributions_limitations": "主要贡献在于开发了MErSiM v1.0模型，通过集成机器学习模块显著修正了传统模型对硅酸盐风化通量的高估，揭示了在强烈变暖下地球自然碳去除能力被高估。局限性可能包括模型对地质测量数据的依赖性以及机器学习模块的可解释性和泛化能力；此外，该模型主要关注长期地质时间尺度，对生态系统尺度的短期影响可能有限。",
+      "follow_up_research": "可以探索该数据驱动侵蚀模块在生态模型（如DGVM）中的集成，以模拟大型食草动物活动对土壤侵蚀和风化过程的影响。未来研究可以评估不同重野化情景下，动物介导的土壤扰动如何改变局部硅酸盐风化速率，进而影响土壤有机碳的稳定性。",
+      "next_step_perspective": "该研究提供了一个将机器学习与过程模型结合的范例，可用于模拟动物重野化对土壤碳循环的间接影响。用户借鉴其方法，可尝试构建模型预测大型食草动物放牧强度如何通过改变土壤物理结构（侵蚀、混合）来调控颗粒态有机质（POM）和矿物结合态有机质（MAOM）的周转。",
+      "why_this_journal": "推测该研究之所以发表在《Geoscientific Model Development》，是因为其核心贡献是开发了一个新的地球系统模型组件（MErSiM v1.0），具有明确的模型创新和评估，符合该期刊对模型开发与验证的定位。",
+      "author_profile": {
+        "name": "Yongyun Hu",
+        "institution": "Peking University",
+        "intro": "Yongyun Hu目前在北京大学工作，从历史论文标题看，他的研究方向涵盖古气候模拟、植被-气候反馈、以及大气动力学（如极涡、NAO）。这些研究虽未直接涉及重野化，但与用户关注的陆地生态系统碳循环和植被反馈的长期视角高度相关，尤其是其关于植被生物物理强迫的工作可能为理解植被-土壤反馈提供宏观背景。",
+        "other_works": [
+          {
+            "title": "Stratospheric polar vortex shapes Arctic surface climate via a radiative pathway",
+            "year": "2026",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-026-72698-w"
+          },
+          {
+            "title": "North Atlantic Oscillation (NAO) in the Paleoclimate Modelling Intercomparison Project (PMIP)",
+            "year": "2026",
+            "journal": "Climate of the Past",
+            "doi": "10.5194/cp-22-689-2026"
+          },
+          {
+            "title": "Terrestrial plant extinction during the Permian–Triassic ecosystem crisis",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-11955"
+          },
+          {
+            "title": "The Biophysical Forcing of Terrestrial Vegetation: A Persistent Climate Modulator with State-Dependent Efficacy Through the Phanerozoic",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-17530"
+          },
+          {
+            "title": "Eastern Pacific El Niño activated by the Atlantic Ocean",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-2419"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70418?af=R",
+      "title": "Zinc addition and mowing alter the timing and duration of reproductive phenology in dominant plants of a meadow steppe",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70418?af=R",
+      "summary": "Functional Ecology, EarlyView.",
+      "journal": "Functional Ecology",
+      "published": "2026-07-27T00:59:43-07:00",
+      "doi": "10.1111/1365-2435.70418",
+      "affiliation": "College of Life Sciences Hebei University  Baoding China; Engineering Research Center of Ecological Safety and Conservation in Beijing‐Tianjin‐Hebei (Xiong'an New Area) of MOE Hebei University  Baoding China",
+      "title_zh": "锌添加和刈割改变了草甸草原优势植物繁殖物候的时间与持续时间",
+      "relevance_score": 5,
+      "key_conclusion": "锌添加（模拟养分输入）和刈割（模拟干扰）改变了草甸草原优势植物的开花和结果物候，影响了繁殖时间窗口。",
+      "relevance_note": "涉及养分添加（类似动物排泄物效应）和刈割（类似放牧干扰）对植物物候的影响，与你的放牧强度及动物-植物反馈主题有间接联系，但研究在中国而非欧洲。",
+      "related_papers": [
+        {
+          "title": "Data from: Zinc addition and mowing alter the timing and duration of reproductive phenology in dominant plants of a meadow steppe",
+          "link": "https://doi.org/10.5061/dryad.0p2ngf2hb",
+          "venue": "DRYAD",
+          "year": 2026
+        },
+        {
+          "title": "Effects of Fire in the Northern Great Plains",
+          "link": "",
+          "venue": "Open PRAIRIE (South Dakota State University)",
+          "year": 1989
+        },
+        {
+          "title": "Journal of Range Management, Volume 53, Number 6 (November 2000)",
+          "link": "https://doi.org/10.2458/azu_jrm_v53i6_board",
+          "venue": "Journal of Range Management",
+          "year": 2000
+        },
+        {
+          "title": "Innovations and new terminology in biotremology",
+          "link": "",
+          "venue": "CINECA IRIS Institutional Research Information System (Fondazione Edmund Mach)",
+          "year": 2025
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "锌添加（模拟养分输入）和刈割（模拟干扰）如何改变草甸草原优势植物的繁殖物候（开花和结果时间及持续时间）？",
+      "contributions_limitations": "基于现有信息推测，主要贡献在于揭示了微量养分（锌）和人为干扰（刈割）对植物繁殖时间窗口的交互影响，这为理解养分循环与干扰对植物生活史策略的作用提供了新证据。局限性可能是研究仅关注物候变化，未深入测量碳分配动态（如非结构性碳水化合物NSC），且物候变化对生态系统功能（如初级生产力、种子库）的级联效应未充分评估。",
+      "follow_up_research": "后续研究可以探索刈割（模拟食草动物采食）与锌输入对植物NSC储存策略的协同或拮抗效应，这直接关联到用户感兴趣的植物碳分配。另外，可以研究物候变化如何影响土壤微生物群落结构和功能，从而形成植物-土壤反馈，这对于理解重野化后植被恢复过程至关重要。",
+      "next_step_perspective": "该研究的方法（养分添加+刈割处理）可为用户设计实验提供参考，模拟大型食草动物放牧与动物排泄（养分输入）对植物物候和碳分配的复合效应。同时，它提示用户在评估重野化对碳循环的影响时，需要关注植物繁殖物候变化可能改变凋落物输入的时间和质量，进而影响土壤有机碳形成。",
+      "why_this_journal": "推测该文章发表在《Functional Ecology》是因为它探讨了环境变化（养分和干扰）对植物功能性状（物候）的影响，符合该期刊关注生物体功能性状与环境互作的定位。",
+      "author_profile": {
+        "name": "Heyong Liu",
+        "institution": "Hebei University",
+        "intro": "Heyong Liu目前工作在河北大学，从其历史论文标题看，他的研究方向集中于草地生态系统，特别是养分添加（氮、磷、钼、锌）和刈割对植物养分利用、群落动态、干旱恢复力及根系性状的影响。这些研究与用户关注的大型食草动物重野化通过放牧和排泄物影响植被-土壤反馈高度相关。",
+        "other_works": [
+          {
+            "title": "Applied phosphorus is maintained in labile and moderately occluded fractions in a typical meadow steppe with the addition of multiple nutrients",
+            "year": "2023",
+            "journal": "Journal of Environmental Management",
+            "doi": "10.1016/j.jenvman.2023.118807"
+          },
+          {
+            "title": "Plant Molybdenum Uptake as Mediated by Synergism with Phosphorus but Antagonism with Sulfur in a Nitrogen-Fertilized and Mown Meadow",
+            "year": "2023",
+            "journal": "Journal of Soil Science and Plant Nutrition",
+            "doi": "10.1007/s42729-023-01412-2"
+          },
+          {
+            "title": "Nitrogen addition and mowing alter drought resistance and recovery of grassland communities",
+            "year": "2023",
+            "journal": "Science China Life Sciences",
+            "doi": "10.1007/s11427-022-2217-9"
+          },
+          {
+            "title": "Resprouting ability differs among plant functional groups along a soil acidification gradient in a meadow: A rhizosphere perspective",
+            "year": "2023",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.14051"
+          },
+          {
+            "title": "Divergent responses of leaf mineral nutrient concentrations among plant families and functional groups to nitrogen addition and irrigation in a semi-arid grassland",
+            "year": "2023",
+            "journal": "Plant and Soil",
+            "doi": "10.1007/s11104-023-05904-z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009706?af=R",
+      "title": "Under‐Ice Phytoplankton Bloom and Associated Particulate Organic Matter Composition Dynamics in Prydz Bay, Antarctica",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009706?af=R",
+      "summary": "Journal of Geophysical Research: Biogeosciences, Volume 131, Issue 7, July 2026.",
+      "journal": "JGR Biogeosciences",
+      "published": "2026-07-27T02:20:41-07:00",
+      "doi": "10.1029/2026JG009706",
+      "affiliation": "National Centre for Polar and Ocean Research Ministry of Earth Sciences  Vasco‐Da‐Gama Goa India; Amity University  Noida Uttar Pradesh India; CSIR‐National Institute of Oceanography (NIO)  Dona Pula Goa India",
+      "title_zh": "南极普里兹湾冰下浮游植物水华及相关的颗粒有机物组成动态",
+      "relevance_score": 4,
+      "key_conclusion": "研究了南极冰下浮游植物水华期间颗粒有机物的组成变化，揭示了海洋碳循环的关键过程。",
+      "relevance_note": "文章涉及碳循环和有机物动态，但与你的核心主题（大型食草动物、陆地生态系统）无直接关联，且不涉及欧洲研究地点。",
+      "related_papers": [
+        {
+          "title": "Organic carbon partitioning during spring phytoplankton blooms in the Ross Sea polynya and the Sargasso Sea",
+          "link": "https://doi.org/10.4319/lo.1998.43.3.0375",
+          "venue": "Limnology and Oceanography",
+          "year": 1998
+        },
+        {
+          "title": "Large flux of iron from the Amery Ice Shelf marine ice to Prydz Bay, East Antarctica",
+          "link": "https://doi.org/10.1002/2016jc011687",
+          "venue": "Journal of Geophysical Research Oceans",
+          "year": 2016
+        },
+        {
+          "title": "South Georgia, Antarctica: a productive, cold water, pelagic ecosystem",
+          "link": "https://doi.org/10.3354/meps216279",
+          "venue": "Marine Ecology Progress Series",
+          "year": 2001
+        },
+        {
+          "title": "Ice sheets matter for the global carbon cycle",
+          "link": "https://doi.org/10.1038/s41467-019-11394-4",
+          "venue": "Nature Communications",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "南极普里兹湾冰下浮游植物水华期间，颗粒有机物（POM）的组成动态如何变化，这对海洋碳循环有何意义？",
+      "contributions_limitations": "基于现有信息推测，主要贡献是揭示了冰下浮游植物水华这一重要但观测不足的海洋碳过程，并分析了POM的组成和命运。局限性是该研究局限于南极特定海域，结论的普适性有限；且可能未考虑大型动物（如磷虾、鲸类）对POM循环的直接或间接影响。",
+      "follow_up_research": "虽然该研究在海洋环境，但其POM组成动态分析方法（如生物标志物指纹图谱）可借鉴用于陆地生态系统。后续研究可应用类似技术追踪大型食草动物重野化对土壤中不同有机质组分（如POM vs MAOM）起源和周转的影响。",
+      "next_step_perspective": "本研究展示了极端环境（冰下）下的碳循环过程，这可以启发用户思考重野化在寒冷或季节性极端气候下的独特机制。此外，颗粒有机物动力学的研究框架可类比到土壤有机碳的颗粒态与矿物态分馏，提示用户关注动物活动如何改变POM的输入质量和分解速率。",
+      "why_this_journal": "推测发表在《JGR Biogeosciences》是因为该研究聚焦于极地关键区的生物地球化学过程（POM动态），符合该期刊关注陆地与海洋生物圈与大气相互作用的定位。",
+      "author_profile": {
+        "name": "Archana Singh",
+        "institution": "National Center for Polar and Ocean Research",
+        "intro": "Archana Singh在印度国家极地与海洋研究中心工作，其研究方向主要集中于北极和南极的宏藻及有机碳生物地球化学，包括多糖、色素和生物标志物表征。虽然其研究焦点在海洋极地生态，但其所用的有机质溯源和化学表征方法对学生于陆地土壤有机碳动态研究具有方法论上的潜在启发。",
+        "other_works": [
+          {
+            "title": "Extraction, structural characterization, and bioactivity of laminarin and fucoidan from brown macroalgae Chorda filum",
+            "year": "2025",
+            "journal": "Carbohydrate Research",
+            "doi": "10.1016/j.carres.2025.109551"
+          },
+          {
+            "title": "Tracing Macroalgal‐Induced Changes in Carbon Dynamics of High‐Arctic Fjords Using Biomarker Fingerprinting",
+            "year": "2025",
+            "journal": "Journal of Geophysical Research: Oceans",
+            "doi": "10.1029/2024JC021900"
+          },
+          {
+            "title": "Chemical characteristics and bioactivity potential of polysaccharide extracts and purified fractions from Arctic brown macroalgae",
+            "year": "2025",
+            "journal": "Carbohydrate Polymers",
+            "doi": "10.1016/j.carbpol.2025.123222"
+          },
+          {
+            "title": "Carbohydrate and pigment composition of macroalgae in a kelp-dominated Arctic fjord",
+            "year": "2024",
+            "journal": "Regional Studies in Marine Science",
+            "doi": "10.1016/j.rsma.2024.103644"
+          },
+          {
+            "title": "Tracing marine and terrestrial biochemical signatures of particulate organic matter in an Arctic fjord (Kongsfjorden)",
+            "year": "2024",
+            "journal": "Marine Chemistry",
+            "doi": "10.1016/j.marchem.2024.104468"
+          }
+        ]
+      }
+    }
+  ]
 }
