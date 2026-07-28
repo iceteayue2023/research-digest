@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-28T08:19:35.422569+00:00",
-  "count": 12,
+  "generated_at": "2026-07-28T13:53:26.806127+00:00",
+  "count": 13,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Using five years of daily lake plankton monitoring data and empirical dynamic modelling, this study shows that grazing, competition and facilitation reshape the temperature and nutrient conditions required for toxic cyanobacterial blooms 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-07-28T08:40:07.790Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mroz6nyoic2u",
+      "external_title": "Biotic interactions shape the realized niche of toxic cyanobacteria - Nature Ecology & Evolution",
+      "external_description": "Using five years of daily lake plankton monitoring data and empirical dynamic modelling, this study shows that grazing, competition and facilitation reshape the temperature and nutrient conditions req...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03131-0",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiez5rv33se3gmkokshbyou2m6dzc43l2bzzvzlemus4tvw375ws7e"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -41,6 +52,17 @@
       "text": "Mixed plastic waste to hydrogen. Researchers developed a low-temperature process that converts mixed plastics into high-purity hydrogen with minimal carbon emissions—no extensive sorting needed.\n\nIn Science X / Phys.org: https://ow.ly/iXe550ZtwoO \nIn PNAS: https://ow.ly/3B2M50Ztwkn ",
       "created_at": "2026-07-27T21:00:21.300593954Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3mrns3faf722z",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Portfolio",
+      "text": "Shifting atmospheric circulation patterns over Europe since the 1980s have been the major cause of increasingly severe droughts on the continent, according to a study in Nature Geoscience. go.nature.com/4x1kDPo 🌎🧪",
+      "created_at": "2026-07-27T16:18:01.407Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrnccjgsma2f",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
@@ -122,17 +144,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "The El Niño climate pattern that is strengthening in the Pacific Ocean is on track to be the largest one in at least 150 years\n\ngo.nature.com/4wYyh5F",
-      "created_at": "2026-07-25T13:35:29.808Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mrhyc2p6bu2d",
-      "external_title": "This El Niño is set to be the largest on record by a ‘mind-blowing margin’",
-      "external_description": "Forecasters predict that the monster climate pattern will combine with global warming to push global temperatures in 2027 to new heights.",
-      "external_uri": "https://go.nature.com/4wYyh5F",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov3fvqd3hhjxogeclhln6xh3nkbvfof3bbm4nzveruuc54uo54"
     }
   ]
 }
