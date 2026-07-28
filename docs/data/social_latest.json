@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-07-27T14:22:13.243417+00:00",
-  "count": 10,
+  "generated_at": "2026-07-28T02:48:50.901863+00:00",
+  "count": 12,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "High temperatures and low precipitation in the American West last winter led to record-low snowpack. A study finds that such a snow drought is 4.4 times more likely in the current climate than it would have been in the pre-industrial climate. In PNAS: https://ow.ly/LKKh50ZtquX",
+      "created_at": "2026-07-28T01:00:15.803899630Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mro7ieng3f23",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Human-elephant conflict is projected to rise across Southern Africa as human populations grow, cropland expands, and climate-driven aridity increases. New hotspot maps could help guide land-use planning and mitigation efforts. In PNAS Nexus: https://ow.ly/rjNt50ZtxAk",
+      "created_at": "2026-07-27T22:00:24.861594441Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mrnvgrqd5b2n",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Researchers in #ScienceAdvances have created an engineered living material based on a filamentous fungus.\n\nThe material can regenerate its surface, self-clean, and integrate engineered microbial “partners” that can color the material or provide it with UV protection. https://scim.ag/4bY0PUG ",
+      "created_at": "2026-07-27T21:05:01.663597106Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mrnsdpxbv72s",
+      "external_title": "A programmable fungal platform for engineered living textiles",
+      "external_description": "A programmable fungal platform enables engineered living textiles with tunable functions and biodegradability.",
+      "external_uri": "https://scim.ag/4bY0PUG",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreicapzb3ihiw2vu3a63uwlyk3ytvovvfy4tjrfniqqgl3ithnys2z4"
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Mixed plastic waste to hydrogen. Researchers developed a low-temperature process that converts mixed plastics into high-purity hydrogen with minimal carbon emissions—no extensive sorting needed.\n\nIn Science X / Phys.org: https://ow.ly/iXe550ZtwoO \nIn PNAS: https://ow.ly/3B2M50Ztwkn ",
+      "created_at": "2026-07-27T21:00:21.300593954Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mrns3faf722z",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Obituary: Alan M. Wilson (1964–2026) rdcu.be/fwdSM\n\nVisionary comparative biomechanist and physiologist who pioneered experimental methods for laboratory and field research into large-mammal locomotor performance and ecology.",
+      "created_at": "2026-07-27T14:24:17.517Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrn3x5nlj224",
+      "external_title": "Alan M. Wilson (1964–2026)",
+      "external_description": "Nature Ecology & Evolution - Visionary comparative biomechanist and physiologist who pioneered experimental methods for laboratory and field research into large-mammal locomotor performance and...",
+      "external_uri": "https://rdcu.be/fwdSM",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreielueti5cfogmhd633l4lggrscn42p6xbryu5nbujoiu5ew5kzhky"
+    },
     {
       "handle": "natclimate.nature.com",
       "author_name": "Nature Climate Change",
@@ -78,39 +133,6 @@
       "external_description": "Forecasters predict that the monster climate pattern will combine with global warming to push global temperatures in 2027 to new heights.",
       "external_uri": "https://go.nature.com/4wYyh5F",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov3fvqd3hhjxogeclhln6xh3nkbvfof3bbm4nzveruuc54uo54"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Portfolio",
-      "text": "Fern savannahs spread rapidly following the collapse of the forest ecosystem during the end-Triassic mass extinction, setting the conditions for widespread wildfires, according to an analysis reported in Nature Geoscience. go.nature.com/4wmgIg5 🌎🧪",
-      "created_at": "2026-07-24T19:03:01.607Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrg24smmf52u",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Opinion: Environmental challenges demand more than science—they require ethical decision-making. 🌍 Explore why comprehensive #ethics training is essential for tackling #ClimateChange, #biodiversity, and long-term #sustainability.  In PNAS Front Matter: https://ow.ly/n8HK50ZsnK9 ",
-      "created_at": "2026-07-24T17:01:00.226278920Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mrftcmob7r2k",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Geoscience",
-      "text": "⚒️ Article: Future tropical cyclone rainfall constrained by increased atmospheric dryness\n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-24T15:30:08.086Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrfoa4t6ys2e",
-      "external_title": "Future tropical cyclone rainfall constrained by increased atmospheric dryness - Nature Geoscience",
-      "external_description": "Climate model ensembles suggest tropical cyclones will bring more rain as the world warms, but increases may be smaller than expected. Atmospheric dryness reduces how much rain storms produce, offsett...",
-      "external_uri": "https://www.nature.com/articles/s41561-026-02047-5?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreihlqnlrfjmnufjo4gjwc43tdfdtshwok3424ieve3fwfof2b4vlmu"
     }
   ]
 }
