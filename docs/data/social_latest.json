@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-29T08:25:21.994502+00:00",
-  "count": 15,
+  "generated_at": "2026-07-29T13:58:48.906071+00:00",
+  "count": 16,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Mosquito-borne diseases are breaking records as climate change and other human influences allow the insects to expand their range\n\ngo.nature.com/4x6xhMK",
+      "created_at": "2026-07-29T12:59:01.501Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mrry4jm3y32k",
+      "external_title": "How mosquitoes are conquering the world — in four charts",
+      "external_description": "Mosquito-borne diseases are breaking records as climate change and other human influences allow the insects to expand their range.",
+      "external_uri": "https://go.nature.com/4x6xhMK",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreibtzgctftr5krtttdm6nl4xngnecnfaixsla2ed6hosaer6dr3l5m"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "“We can almost look through the eyes of [Europe's earliest Homo sapiens] and see how they viewed the environment around them”\n\ngo.nature.com/3ThKtQC",
+      "created_at": "2026-07-29T12:46:30.900Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mrrxg5rgcl2k",
+      "external_title": "40,000-year-old bird carvings provide clues to how ice age humans flourished",
+      "external_description": "Newly discovered figurines point to skills that might have helped shape early humans’ expansion across Europe.",
+      "external_uri": "https://go.nature.com/3ThKtQC",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigh5pam7aqzamzcnxnus47bs2f27lsm6p5tz7hvo5w4xjwq2v2pke"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -133,17 +155,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Nature research paper: The planktonic microbiome of the Great Barrier Reef\n\ngo.nature.com/4fMmgKR",
-      "created_at": "2026-07-27T10:36:01.904Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mrmp6ypqmt2c",
-      "external_title": "The planktonic microbiome of the Great Barrier Reef - Nature",
-      "external_description": "The Great Barrier Reef Microbial Genomes Database compiles prokaryotic, viral and eukaryotic genomes from seawater collected from the Great Barrier Reef, providing a rich resource for the study of marine microbial communities and ecosystem research and management.",
-      "external_uri": "https://go.nature.com/4fMmgKR",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiggrodveuefppo4py465y5emjy45sudwijltalt2w554a2qspsk3m"
     },
     {
       "handle": "natclimate.nature.com",

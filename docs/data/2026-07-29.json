@@ -1,8 +1,85 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T08:25:21.993451+00:00",
-  "count": 4,
+  "generated_at": "2026-07-29T13:58:48.905201+00:00",
+  "count": 5,
   "articles": [
+    {
+      "id": "https://doi.org/10.5194/gmd-19-6941-2026",
+      "title": "The TIPMIP Earth system model experiment protocol: phase 1",
+      "link": "https://doi.org/10.5194/gmd-19-6941-2026",
+      "summary": "The TIPMIP Earth system model experiment protocol: phase 1\n                    Colin Jones, Isaline Bossert, Donovan P. Dennis, Hazel A. Jeffery, Chris D. Jones, Torben Koenigk, Sina Loriani, Benjamin Sanderson, Roland Séférian, Klaus Wyser, Shuting Yang, Manabu Abe, Sebastian Bathiany, Pascale Braconnot, Victor Brovkin, Friedrich A. Burger, Patrica Cadule, Frederic S. Castruccio, Gokhan Danabasoglu, Andrea Dittus, Jonathan F. Donges, Friederike Fröb, Thomas L. Frölicher, Goran Georgievski, Chuncheng Guo, Aixue Hu, Peter Lawrence, Paul Lerner, José Licón-Saláiz, Bette Otto-Bliesner, Anastasia Romanou, Elena Shevliakova, Yona Silvy, Didier Swingedouw, Jerry Tjiputra, Jeremy Walton, Andy Wiltshire, Ricarda Winkelmann, Richard Wood, Tokuta Yokohata, and Tilo Ziehn\n                        Geosci. Model Dev., 19, 6941–6966, https://doi.org/10.5194/gmd-19-6941-2026, 2026\n                        We introduce a new Earth system model experiment protocol to help researchers understand how Earth might respond to positive, zero, and negative carbon emissions. This protocol enables different models to be compared following similar warming and cooling rates. Researchers use the models to explore how the Earth reacts to different climate futures, including the risk of tipping points being exceeded and whether changes can be reversed. The results will support improved long-term climate policy.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-07-29T13:21:47+02:00",
+      "doi": "10.5194/gmd-19-6941-2026",
+      "affiliation": null,
+      "title_zh": "TIPMIP地球系统模型实验方案：第一阶段",
+      "relevance_score": 7,
+      "key_conclusion": "该论文提出了一个新的地球系统模型实验方案，旨在帮助研究人员理解地球在正、零、负碳排放下的响应。该方案支持不同模型在相似的升温和降温速率下进行比较，以探索地球对气候未来的反应，包括临界点被超越的风险以及变化的可逆性。",
+      "relevance_note": "本文与您第(5)个相邻领域（地球系统模式中动态植被模块的开发与验证、生态系统模型改进）高度相关。TIPMIP方案侧重于模拟碳循环（正、零、负排放）和气候反馈，其结果有助于改进生态系统模型对碳汇/碳源变化的预测，对您理解陆地生态系统碳循环的模拟至关重要。",
+      "related_papers": [
+        {
+          "title": "The Tipping Points Modelling Intercomparison Project (TIPMIP): Assessing tipping point risks in the Earth system",
+          "link": "https://doi.org/10.5194/egusphere-2025-1899",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "flat10MIP: an emissions-driven experiment to diagnose the climate response to positive, zero and negative CO <sub>2</sub> emissions",
+          "link": "https://doi.org/10.5194/gmd-18-5699-2025",
+          "venue": "Geoscientific model development",
+          "year": 2025
+        },
+        {
+          "title": "CMIP7 data request: Earth system priorities and opportunities",
+          "link": "https://doi.org/10.5194/gmd-19-2849-2026",
+          "venue": "Geoscientific model development",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/6941/2026/gmd-19-6941-2026-avatar-web.png",
+      "scientific_question": "地球系统在正、零和负碳排放路径下，其关键气候要素（如温度）如何响应？是否存在不可逆的临界点？",
+      "contributions_limitations": "基于摘要信息推测，该研究的主要贡献是提出了一个标准化的地球系统模型实验协议（TIPMIP phase 1），使得不同模型能在统一的升降温速率下进行比较，从而系统评估气候临界点的可逆性。可能的局限性是，该协议主要关注全球尺度的气候响应，可能对区域细节（如生态系统级别的碳循环反馈）表征不足，且模型间的结构差异可能引入不确定性。",
+      "follow_up_research": "使用该协议运行包含动态植被模块（DGVM）的地球系统模型，可以探索大型食草动物重野化等基于自然的解决方案在不同碳排放情景下对全球或区域碳循环的长期影响。进一步可设计嵌套实验，在模型中显式加入动物介导的营养循环过程，以评估其对气候临界点可逆性的作用。",
+      "next_step_perspective": "该协议为研究气候变化的可逆性提供了标准化框架，用户可直接借鉴其“对称升温-降温”实验设计思路，来模拟重野化后生态系统碳汇能力在气候变暖后能否恢复。此外，该研究强调的临界点概念，可用于提示用户关注重野化项目在气候变化背景下可能面临的生态系统转型风险（如森林到稀树草原的转变）。",
+      "why_this_journal": "推测：Geoscientific Model Development 是地球系统模型开发与评估的顶级期刊，该论文提出了一个系统级的多模型比较实验协议，具有重要的方法论意义和跨学科影响力，适合发表在此。",
+      "author_profile": {
+        "name": "Colin Jones",
+        "institution": "University of Leeds",
+        "intro": "Colin Jones 目前任职于英国利兹大学（University of Leeds），从其历史论文标题看，主要研究方向包括气候模式开发、气候情景设置、南方大洋风场归因以及地球系统临界点早期预警。这些研究涉及气候系统的建模与预测，与用户关注的生态系统模型改进（DGVM）和气候-碳循环反馈有较高关联性。",
+        "other_works": [
+          {
+            "title": "The TIPMIP Earth system model experiment protocol: phase 1",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-6941-2026"
+          },
+          {
+            "title": "Attribution of changes in winds over the Southern Ocean from 1950 to 2100",
+            "year": "2026",
+            "journal": "Earth System Dynamics",
+            "doi": "10.5194/esd-17-631-2026"
+          },
+          {
+            "title": "Scenario set-up and the new CMIP6-based climate-related forcings provided within the third round of the Inter-Sectoral Model Intercomparison Project (ISIMIP3b, group I and II)",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-4095-2026"
+          },
+          {
+            "title": "UKCM2-LL: a new low-resolution GC5 configuration with constrained climate sensitivity – methodology and development",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1676"
+          },
+          {
+            "title": "An overview of the PROMOTE project: Progressing Earth System Modelling for Tipping Point Early Warning Systems",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-14794"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.nature.com/articles/d41586-026-02333-7",
       "title": "Wildfires rampaged across Europe in the dying days of the Triassic",
