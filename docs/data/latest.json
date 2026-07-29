@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "generated_at": "2026-07-29T02:55:48.420614+00:00",
-  "count": 1,
+  "generated_at": "2026-07-29T08:25:21.993451+00:00",
+  "count": 4,
   "articles": [
     {
       "id": "https://www.nature.com/articles/d41586-026-02333-7",
@@ -24,6 +24,255 @@
       "next_step_perspective": "这篇文章从古生态视角展示了极端扰动（野火）对生态系统功能的颠覆性影响，可能启发您思考大型食草动物重野化在野火易发区域中的缓冲或放大效应。特别是，食草动物能否通过改变燃料负荷（如啃食蕨类）来减轻野火风险，进而影响土壤碳稳定性——这是您研究可切入的具体角度。",
       "why_this_journal": "推测：该文章能发表在Nature正刊，因其揭示了三叠纪末期大灭绝中一个被忽视的关键驱动因素（野火），具有古生态学和进化生物学的高维新颖性；同时，将野火与动植物灭绝联系起来，跨学科意义显著，符合Nature追求重大科学突破的定位。",
       "author_profile": null
+    },
+    {
+      "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71026?af=R",
+      "title": "Microbial Functional Gene Abundance‐Integrated Modeling of Global Methane Sinks in Upland Soils Under Future Climate Change",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71026?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-28T01:48:58-07:00",
+      "doi": "10.1111/gcb.71026",
+      "affiliation": "Zhejiang Tiantong Forest Ecosystem National Observation and Research Station, Zhejiang Zhoushan Island Ecosystem Observation and Research Station, Institute of Eco‐Chongming, School of Ecological and Environmental Sciences East China Normal University  Shanghai China; Department of Microbial Ecology Netherlands Institute of Ecology (NIOOKNAW)  Wageningen the Netherlands; Department of Ecology, Radboud Institute of Environmental and Biological Sciences (RIBES) Radboud University  Nijmegen the Netherlands",
+      "title_zh": "未来气候变化下全球旱地土壤甲烷汇的微生物功能基因丰度集成建模",
+      "relevance_score": 6,
+      "key_conclusion": "该研究通过集成微生物功能基因丰度数据，改进了全球旱地土壤甲烷吸收模型，预测了未来气候变化情景下甲烷汇的动态变化。",
+      "relevance_note": "文章聚焦陆地生态系统碳循环（甲烷汇）及微生物功能对气候变化的响应，与用户研究方向中的(1)碳循环和(2)土壤微生物群落结构高度相关。",
+      "related_papers": [
+        {
+          "title": "Soil microbiomes and climate change",
+          "link": "https://doi.org/10.1038/s41579-019-0265-7",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2019
+        },
+        {
+          "title": "Microbial contributions to climate change through carbon cycle feedbacks",
+          "link": "https://doi.org/10.1038/ismej.2008.58",
+          "venue": "The ISME Journal",
+          "year": 2008
+        },
+        {
+          "title": "Methane Feedbacks to the Global Climate System in a Warmer World",
+          "link": "https://doi.org/10.1002/2017rg000559",
+          "venue": "Reviews of Geophysics",
+          "year": 2018
+        },
+        {
+          "title": "Tundra soil carbon is vulnerable to rapid microbial decomposition under climate warming",
+          "link": "https://doi.org/10.1038/nclimate2940",
+          "venue": "Nature Climate Change",
+          "year": 2016
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "该研究试图回答的核心问题是：如何通过整合微生物功能基因丰度数据来改进全球旱地土壤甲烷汇的模型预测，并评估未来气候变化情景下甲烷汇的动态变化？",
+      "contributions_limitations": "主要贡献在于将微观的微生物功能基因丰度信息与宏观的全球模型相结合，提供了一种机制性更强的甲烷汇预测方法，超越了传统的经验模型。局限性可能在于全球土壤微生物功能基因数据的空间覆盖度不均，以及对其他调控因子（如土壤质地、植被类型）的考虑不足，模型预测仍存在不确定性。",
+      "follow_up_research": "后续研究可以探索如何将类似的微生物功能基因整合方法拓展到其他温室气体（如氧化亚氮）的模型模拟中。此外，可以进一步结合不同土地利用方式（如放牧、弃耕）下的微生物群落数据，细化对特定生态系统甲烷通量的预测。",
+      "next_step_perspective": "这项研究为我的研究提供了方法学启发：即可以通过集成底栖微生物的功能基因丰度数据来改进大型食草动物重野化对土壤温室气体（如甲烷）通量影响的模型。例如，在重野化区域，大型动物践踏和排泄物可能改变土壤甲烷氧化菌的丰度和活性，该文的方法可用来量化这种影响。",
+      "why_this_journal": "基于信息推测：该研究具有跨尺度的创新性，连接了微观的微生物功能基因与宏观的全球气候变化模型，这种机理与模式结合的研究范式符合Global Change Biology关注全球变化驱动的生物地球化学循环前沿的定位。",
+      "author_profile": {
+        "name": "Xiaoqi Zhou",
+        "institution": "East China Normal University",
+        "intro": "肖启周，目前任职于华东师范大学。从其历史论文标题来看，他的主要研究方向集中在土壤微生物生态与全球变化，特别关注甲烷循环、微生物多样性及其功能，以及植被变化对温室气体通量的影响。这些研究与用户关注的食草动物重野化对碳循环和微生物群落功能的影响高度相关。",
+        "other_works": [
+          {
+            "title": "Microbial Functional Gene Abundance‐Integrated Modeling of Global Methane Sinks in Upland Soils Under Future Climate Change",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71026"
+          },
+          {
+            "title": "Top-down trophic control shapes the influence of soil microbial diversity on function in grasslands",
+            "year": "2026",
+            "journal": "Journal of Soils and Sediments",
+            "doi": "10.1007/s11368-026-04369-8"
+          },
+          {
+            "title": "Upland Methane Sinks Under Climate Change: Global Patterns, Drivers and Trends",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70747"
+          },
+          {
+            "title": "Linking vegetation changes to Arctic methane efflux",
+            "year": "2025",
+            "journal": "Trends in Plant Science",
+            "doi": "10.1016/j.tplants.2025.06.005"
+          },
+          {
+            "title": "Reducing plant-derived ethylene enhances crop growth and soil functions under drought stress in subtropical agroecosystems",
+            "year": "2025",
+            "journal": "Plant and Soil",
+            "doi": "10.1007/s11104-025-07481-9"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71011?af=R",
+      "title": "Topography Dependence of Terrestrial Litter‐Derived Soil Respiration",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71011?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 7, July 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-07-28T01:46:49-07:00",
+      "doi": "10.1111/gcb.71011",
+      "affiliation": "Key Laboratory for Humid Subtropical Eco‐Geographical Processes of the Ministry of Education, School of Geographical Sciences Fujian Normal University  Fuzhou China; National Field Observation and Research Station (Fujian Sanming) for Forest Ecosystem  Sanming China; Shanghang Mountain Forest Carbon Sink Observation and Research Station  Shanghang China",
+      "title_zh": "陆地凋落物来源土壤呼吸的地形依赖性",
+      "relevance_score": 6,
+      "key_conclusion": "研究发现地形显著影响凋落物分解驱动的土壤呼吸速率，揭示了微地形在陆地碳输出中的调控作用。",
+      "relevance_note": "文章直接涉及土壤呼吸（碳循环关键过程）及凋落物分解，与用户关注的(1)陆地生态系统碳循环及(2)土壤有机质形成机制高度相关。",
+      "related_papers": [
+        {
+          "title": "A global database of soil respiration data",
+          "link": "https://doi.org/10.5194/bg-7-1915-2010",
+          "venue": "Biogeosciences",
+          "year": 2010
+        },
+        {
+          "title": "The Ecology of Soil Carbon: Pools, Vulnerabilities, and Biotic and Abiotic Controls",
+          "link": "https://doi.org/10.1146/annurev-ecolsys-112414-054234",
+          "venue": "Annual Review of Ecology Evolution and Systematics",
+          "year": 2017
+        },
+        {
+          "title": "Effects of climate extremes on the terrestrial carbon cycle: concepts, processes and potential future impacts",
+          "link": "https://doi.org/10.1111/gcb.12916",
+          "venue": "Global Change Biology",
+          "year": 2015
+        },
+        {
+          "title": "Meta-analysis shows positive effects of plant diversity on microbial biomass and respiration",
+          "link": "https://doi.org/10.1038/s41467-019-09258-y",
+          "venue": "Nature Communications",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "该研究试图回答的核心问题是：地形（微地形）如何调控由凋落物分解驱动的土壤呼吸速率，以及这种地形依赖性对陆地生态系统碳输出的影响。",
+      "contributions_limitations": "主要贡献在于强调了微地形作为一个被忽视的调节因子，在陆地碳循环中的重要作用，为改进碳收支模型的空间异质性提供了新视角。局限性是基于摘要的信息不足以判断具体的实验设计和数据范围，可能仅在特定区域或条件下得出此结论，其普适性需要更多验证。",
+      "follow_up_research": "后续研究可以探究大型食草动物重野化如何通过改变微地形（如践踏形成的坑、排泄物堆积）来进一步影响凋落物分解驱动的土壤呼吸。此外，可以将地形因子整合到生态系统模型中，以提高对景观尺度碳循环动态的模拟精度。",
+      "next_step_perspective": "该研究直接关联我的研究方向：大型食草动物在重野化过程中会显著改变栖息地的微地形（如啃食、践踏、粪便堆积），进而可能改变凋落物的分解速率和土壤呼吸。它提示我在分析重野化对碳循环的影响时，必须考虑地形异质性这一中介变量。",
+      "why_this_journal": "基于信息推测：该研究揭示了地形这一通常被认为是静态因子对动态碳通量过程的调控作用，挑战了传统认知，这种新颖性符合Global Change Biology对生态系统功能变化的关注。",
+      "author_profile": {
+        "name": "Xiangyin Ni",
+        "institution": "Fujian Normal University",
+        "intro": "倪祥银，目前任职于福建师范大学。从其历史论文标题来看，他的主要研究方向聚焦于亚热带森林生态系统的凋落物分解、土壤有机质形成以及土壤动物（蚂蚁）与植物之间的相互作用。这些研究为理解植被-土壤-动物反馈提供了基础，与用户关注的动物介导的生物地球化学循环有很强的关联。",
+        "other_works": [
+          {
+            "title": "Conversion of subtropical natural forests to plantations reduces ant taxonomic and functional diversity",
+            "year": "2026",
+            "journal": "Journal of Mountain Science",
+            "doi": "10.1007/s11629-025-0351-4"
+          },
+          {
+            "title": "Tree-mediated soil and litter properties drive soil fauna community composition by reshaping predators and saprophages",
+            "year": "2026",
+            "journal": "Journal Of Plant Ecology",
+            "doi": "10.1093/jpe/rtag036"
+          },
+          {
+            "title": "Warming reduces soil priming effects in a subtropical forest regardless of soil depth and carbon input amount",
+            "year": "2025",
+            "journal": "Plant and Soil",
+            "doi": "10.1007/s11104-025-07849-x"
+          },
+          {
+            "title": "Labile carbon release from plant litter and its effect on soil organic matter formation in a subtropical forest",
+            "year": "2025",
+            "journal": "Plant and Soil",
+            "doi": "10.1007/s11104-024-06978-z"
+          },
+          {
+            "title": "Chinese fir litter decomposition and its response to global change: a meta-analysis across China’s forests",
+            "year": "2025",
+            "journal": "Journal of Plant Ecology",
+            "doi": "10.1093/jpe/rtaf024"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2612961123?af=R",
+      "title": "The 2026 western US snow drought was about four times more likely due to climate change",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612961123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 30, July 2026. In the spring of 2026, anomalously low snow conditions in the western United States threatened winter recreation and water supplies. Here, we investigate: to what extent was this snow drought attributable to the climate change that has occurred since the ...",
+      "journal": "PNAS",
+      "published": "2026-07-20T07:00:00+00:00",
+      "doi": "10.1073/pnas.2612961123",
+      "affiliation": "Hydrologic Science and Egineering Program, Colorado School of Mines; Department of Earth Sciences, Montana State University; Department of Atmospheric Science, University of Wyoming",
+      "title_zh": "气候变化使2026年美国西部雪旱发生的可能性增加了约四倍",
+      "relevance_score": 4,
+      "key_conclusion": "研究发现，人为气候变化使2026年美国西部异常低雪条件的发生概率增加了约4倍，对冬季旅游和水资源供应构成威胁。",
+      "relevance_note": "文章研究极端气候事件（雪旱）对水资源的扰动，与用户关注的极端气候对碳循环影响主题相关，但未直接涉及土壤碳或生态系统恢复。",
+      "related_papers": [
+        {
+          "title": "The 2003 European summer heatwaves and drought –synoptic diagnosis and impacts",
+          "link": "https://doi.org/10.1256/wea.73.04",
+          "venue": "Weather",
+          "year": 2004
+        },
+        {
+          "title": "Adaptation to Future Water Shortages in the United States Caused by Population Growth and Climate Change",
+          "link": "https://doi.org/10.1029/2018ef001091",
+          "venue": "Earth s Future",
+          "year": 2019
+        },
+        {
+          "title": "Why the 2022 Po River drought is the worst in the past two centuries",
+          "link": "https://doi.org/10.1126/sciadv.adg8304",
+          "venue": "Science Advances",
+          "year": 2023
+        },
+        {
+          "title": "Energy efficiency to reduce residential electricity and natural gas use under climate change",
+          "link": "https://doi.org/10.1038/ncomms14916",
+          "venue": "Nature Communications",
+          "year": 2017
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "该研究试图回答的核心科学问题是：2026年美国西部发生的极端雪干旱事件在多大程度上可归因于人为气候变化，以及这种气候变化对雪水资源供应的影响。",
+      "contributions_limitations": "主要贡献是为极端气候事件的归因提供了定量证据，并揭示了气候变化对雪水资源短缺的放大效应，这对于水资源管理和气候变化适应有直接政策意义。局限性是这个研究结论具有地域特异性（美国西部），不能直接推广到其他区域，且事件归因分析本身依赖于气候模型的模拟精度。",
+      "follow_up_research": "基于该研究，可以进一步探索类似的极端事件归因是否适用于欧洲高海拔地区的雪干旱，或联系到重野化对高寒草甸积雪的影响。还可以研究这种雪干旱的生态后效，如对土壤微生物活动和碳氮矿化过程的影响。",
+      "next_step_perspective": "虽然此文主题不直接是重野化，但其归因方法可为研究重野化对气候极端事件的响应提供参考。例如，大型食草动物在重野化过程中可能改变局地蒸散发和反照率，该研究的分析方法可用于量化这种生态干预在多大程度上影响当地或区域的水文气候。",
+      "why_this_journal": "基于信息推测：该文发表在PNAS上，是因为它处理了一个与公共政策和水资源安全高度相关的紧迫问题（极端雪干旱），并采用了严谨的气候归因方法，具有跨学科的意义和广泛的社会影响力。",
+      "author_profile": {
+        "name": "Adrienne M. Marshall",
+        "institution": "Colorado School of Mines",
+        "intro": "Adrienne M. Marshall，目前任职于科罗拉多矿业学院。从其历史论文题目看，她的研究方向主要集中在水文气候学、雪水文、气候变化对水资源的影响以及利用遥感（如激光雷达）和机器学习进行雪深估测。这些研究与用户关注的碳循环无直接关系，但她的归因分析方法论具有参考价值。",
+        "other_works": [
+          {
+            "title": "Evaluating frequency of low reservoir storage in the western U.S. over the 21st century",
+            "year": "2026",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ae84ed"
+          },
+          {
+            "title": "The 2026 western US snow drought was about four times more likely due to climate change",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2612961123"
+          },
+          {
+            "title": "Airborne lidar and machine learning reveal decreased snow depth in burned forests",
+            "year": "2026",
+            "journal": "The Cryosphere",
+            "doi": "10.5194/tc-20-3467-2026"
+          },
+          {
+            "title": "Boreal Futures: Projecting Permafrost Dynamics, Wildfire, and Vegetation Shifts in Interior Alaska",
+            "year": "2026",
+            "journal": "Journal of Geophysical Research: Biogeosciences",
+            "doi": "10.1029/2026JG009772"
+          },
+          {
+            "title": "Narrowing streamflow distribution can alter water allocation timing and quantity",
+            "year": "2026",
+            "journal": "Nature Water",
+            "doi": "10.1038/s44221-026-00639-4"
+          }
+        ]
+      }
     }
   ]
 }
