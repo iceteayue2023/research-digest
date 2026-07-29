@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-07-28T13:53:26.806127+00:00",
-  "count": 13,
+  "generated_at": "2026-07-29T02:55:48.421028+00:00",
+  "count": 15,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Tropical forests can recover rapidly after disturbance, but certain old-growth specialist trees will be missing. A study in Costa Rica shows that low abundance and low seed production hold back these trees, suggesting targeted plantings could help. In PNAS: https://ow.ly/Shla50ZtWMN",
+      "created_at": "2026-07-29T01:00:15.590460793Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mrqpxbwmx22z",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Increasing nutrient diversity is expected to promote microbial diversity. This study shows that more complex environments can enhance resource uptake, intensify competition and lead to microbial biodiversity loss, challenging a central ecological assumption 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-07-28T15:57:55.986Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrprnjcfnc2u",
+      "external_title": "Increased nutrient diversity can induce loss of microbial diversity through enhanced resource uptake - Nature Ecology & Evolution",
+      "external_description": "Increasing nutrient diversity is expected to promote microbial diversity. This study shows that more complex environments can enhance resource uptake, intensify competition and lead to microbial biodi...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03111-4",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreibu5tobwpjq2rk7xiyjkflgqesa7lxgn7f5b5u6xrmy2erpjlnnhy"
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Geoscience",
+      "text": "Highlighted by @nature.com:\n\nwww.nature.com/articles/d41...",
+      "created_at": "2026-07-28T15:54:06.463Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrprgofx2s2c",
+      "external_title": "Wildfires rampaged across Europe in the dying days of the Triassic",
+      "external_description": "Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.",
+      "external_uri": "https://www.nature.com/articles/d41586-026-02333-7",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreib5w5dnjemrm76tcqgq2mt4dwfclzkedfkhtefrfvwpjcbcvh6cny"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Fern-covered landscapes dried out and fuelled gigantic wildfires some 200 million years ago during the mass-extinction event that ended the Triassic period of geological history\n\ngo.nature.com/45r5jzz",
+      "created_at": "2026-07-28T15:41:38.620Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mrpqqfavm52k",
+      "external_title": "Wildfires rampaged across Europe in the dying days of the Triassic",
+      "external_description": "Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.",
+      "external_uri": "https://go.nature.com/45r5jzz",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreic6ul7bowywebjruk6jv3jtthuzr35yxha7iidgbrqxvhrjl426du"
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -122,28 +166,6 @@
       "external_description": "The authors combine comparative genomics across arthropods with comparative transcriptomics, population genetics analysis and functional experiments in Haemaphysalis longicornis ticks to elucidate the...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03137-8",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreificjvmgmndion6gozypaojlvc2otacuh22m7kzfd6ounvd5fq4u4"
-    },
-    {
-      "handle": "natplants.nature.com",
-      "author_name": "Nature Plants",
-      "text": "New Article: \"Non-native and invasive tree species are abundant in neotropical secondary forest but decline over time\" rdcu.be/fvZt6\n\nDecline of non-native trees suggests that native forest recovery can limit their abundance. #PlantScience",
-      "created_at": "2026-07-26T02:38:12.265Z",
-      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mrjdznjz2k2l",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "Eric Higgs",
-      "text": "Here is a SharedIT link for our new review article, “Ecological novelty induced by climate change” published Wednesday in Nature Climate Change. rdcu.be/fu8ch",
-      "created_at": "2026-07-25T14:47:19.190Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mri4cifkgk2d",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
