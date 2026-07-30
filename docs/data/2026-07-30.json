@@ -1,7 +1,7 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T02:41:24.731611+00:00",
-  "count": 3,
+  "generated_at": "2026-07-30T08:10:37.535413+00:00",
+  "count": 4,
   "articles": [
     {
       "id": "https://www.nature.com/articles/s41586-026-10795-y",
@@ -190,6 +190,89 @@
       "next_step_perspective": "这篇文章对您的研究极具启发：它揭示了人类活动（类似于大型食草动物的生态系统工程效应）可以对土壤和植被产生长达千年的遗留影响。您可以思考，大型食草动物的重野化活动（如践踏、粪尿输入）是否会像古人类一样，在土壤中留下长久的'生态记忆'，从而'缓冲或放大'气候变化对土壤碳循环的影响。",
       "why_this_journal": "（推测）该新闻文章发表于Nature正刊，是因为它挑战了关于亚马逊地区古文明的长期共识，重新定义了人类在热带生态系统中扮演的角色，其结论对考古学、生态学和气候科学都有颠覆性意义，且基于前沿遥感技术的研究方法本身具有很高新闻价值。",
       "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5185-2026",
+      "title": "Tracking centennial changes in algal community composition and biomass using subfossil pigments in a high mountain lake (Sierra Nevada, Spain)",
+      "link": "https://doi.org/10.5194/bg-23-5185-2026",
+      "summary": "Tracking centennial changes in algal community composition and biomass using subfossil pigments in a high mountain lake (Sierra Nevada, Spain)\n                    Joana Llodrà-Llabrés, Carmen Pérez-Martínez, Teresa Vegas-Vilarrúbia, John P. Smol, Carsten Meyer-Jacob, Javier Sigro, and Teresa Buchaca\n                        Biogeosciences, 23, 5185–5204, https://doi.org/10.5194/bg-23-5185-2026, 2026\n                        This study examined changes in algae in a high mountain lake in Spain over the past 430 years by analyzing subfossil pigments. We found that algal biomass and composition shifted significantly, especially since the 1970s, mainly due to rising temperatures and phosphorus-rich dust from the Sahara. These findings reveal how climate change and atmospheric pollution impact even remote lakes, highlighting risks for similar ecosystems under future environmental changes.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-30T07:59:33+02:00",
+      "doi": "10.5194/bg-23-5185-2026",
+      "affiliation": null,
+      "title_zh": "利用亚化石色素追踪西班牙内华达山脉高山湖泊中藻类群落组成和生物量的百年变化",
+      "relevance_score": 5,
+      "key_conclusion": "对西班牙高山湖泊过去430年亚化石色素的分析显示，自1970年代以来藻类生物量和组成发生显著变化，主要归因于气温升高和来自撒哈拉的富磷尘埃；这揭示了气候变化和大气污染对偏远湖泊的影响。",
+      "relevance_note": "文章研究地点在欧洲（西班牙），分析了气候变化和大气沉降对高山湖泊藻类群落的长期影响，属于生态系统功能恢复和极端气候事件对生态系统扰动的范畴，与用户关注的欧洲生态系统和碳循环相关。",
+      "related_papers": [
+        {
+          "title": "Dating-results-core-SSBG-21",
+          "link": "https://doi.org/10.5281/zenodo.20817376",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Dating-results-core-SSBG-21",
+          "link": "https://doi.org/10.5281/zenodo.20817377",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "RDA Pigments",
+          "link": "https://doi.org/10.5281/zenodo.20817142",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "RDA Pigments",
+          "link": "https://doi.org/10.5281/zenodo.20817141",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5185/2026/bg-23-5185-2026-avatar-web.png",
+      "scientific_question": "高山湖泊中的藻类群落组成和生物量在过去几个世纪中如何响应气候变暖和大气沉降的变化？",
+      "contributions_limitations": "主要贡献是利用亚化石色素重建了西班牙高山湖泊430年来的藻类群落动态，揭示了自1970年代以来气温升高和撒哈拉富磷尘埃是驱动藻类变化的关键因子。局限性可能在于色素分析对特定藻类类群的识别精度有限，且研究地点单一，难以推广到其他高山湖泊系统。",
+      "follow_up_research": "可进一步探究藻类群落变化如何影响湖泊碳循环和有机质埋藏效率；或者将这类长期色素记录与高山生态系统中的动物（如食草动物）对养分输入的反馈效应相结合，分析动物介导的生物地球化学循环在类似环境中的作用。",
+      "next_step_perspective": "这篇文章提供了利用亚化石色素重建长期生态系统变化的分析方法，可启发用户在重野化研究中采用类似的古生态学手段（如土壤有机质组分或微生物标志物）来追溯食草动物活动对土壤碳动态的历史影响。此外，研究中强调了气候与养分输入的共同作用，提示用户在设计实验时需考虑多重驱动因子的交互效应。",
+      "why_this_journal": "该文章发表于Biogeosciences，可能因其将古生态学方法与现代环境问题（气候变暖、大气污染）结合，展示了长期生物地球化学循环对全球变化的响应，符合期刊关注生物圈与地球系统相互作用的定位。",
+      "author_profile": {
+        "name": "Teresa Buchaca",
+        "institution": "Centre d'Estudis Avançats de Blanes",
+        "intro": "Teresa Buchaca目前任职于Centre d'Estudis Avançats de Blanes（西班牙），主要从事高山湖泊生态修复与古湖泊学研究，其历史工作聚焦于非本地鱼类移除与湖泊恢复、沉积DNA分析及浮游植物群落结构。这些研究与用户方向的关联在于：她擅长的长期生态重建和人为干扰响应方法可应用于评估重野化过程中土壤有机碳库的恢复轨迹。",
+        "other_works": [
+          {
+            "title": "Tracking centennial changes in algal community composition and biomass using subfossil pigments in a high mountain lake (Sierra Nevada, Spain)",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5185-2026"
+          },
+          {
+            "title": "LIFE RESQUE ALPYR: Ecological Restoration of High Mountain Lakes in the Pyrenees by Fish Removal",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.3390/proceedings2026146119"
+          },
+          {
+            "title": "Intensive angling of non-native brook trout in high-mountain lakes: insights for eradication actions and awareness-building",
+            "year": "2026",
+            "journal": "Hydrobiologia",
+            "doi": "10.1007/s10750-026-06252-6"
+          },
+          {
+            "title": "Five centuries of lake deoxygenation and microbial shifts revealed by sedimentary DNA",
+            "year": "2026",
+            "journal": "Anthropocene",
+            "doi": "10.1016/j.ancene.2025.100504"
+          },
+          {
+            "title": "The Restoration of Aquatic Ecosystems in the Alps and Pyrenees: A Case Study from the LIFE RESQUE ALPYR Project",
+            "year": "2026",
+            "journal": "eco.mont (Journal on Protected Mountain Areas Research",
+            "doi": "10.1553/eco.mont-18-2s44"
+          }
+        ]
+      }
     }
   ]
 }
