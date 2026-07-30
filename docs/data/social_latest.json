@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-07-30T08:10:37.536476+00:00",
-  "count": 16,
+  "generated_at": "2026-07-30T13:48:08.706631+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "A reconstruction of the evolutionary history of passerine body plans over the past ~50 Myr shows rare bursts of phenotypic innovation near the origin of major taxonomic groups that are temporally aligned with periods of increased climatic instability 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-07-30T09:25:12.249Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mru4n43qpc2t",
+      "external_title": "Rates of passerine body plan evolution in time and space - Nature Ecology & Evolution",
+      "external_description": "A reconstruction of the evolutionary history of passerine body plans over the past ~50 Myr shows rare bursts of phenotypic innovation near the origin of major taxonomic groups that are temporally alig...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03110-5",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigk4t7wzmqxdlqmnijami5uzvdl5sic5qtyvnlu3mknpn6gcv7bda"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -56,17 +67,6 @@
       "external_description": "Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.",
       "external_uri": "https://www.nature.com/articles/d41586-026-02333-7",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreib5w5dnjemrm76tcqgq2mt4dwfclzkedfkhtefrfvwpjcbcvh6cny"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Fern-covered landscapes dried out and fuelled gigantic wildfires some 200 million years ago during the mass-extinction event that ended the Triassic period of geological history\n\ngo.nature.com/45r5jzz",
-      "created_at": "2026-07-28T15:41:38.620Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mrpqqfavm52k",
-      "external_title": "Wildfires rampaged across Europe in the dying days of the Triassic",
-      "external_description": "Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.",
-      "external_uri": "https://go.nature.com/45r5jzz",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreic6ul7bowywebjruk6jv3jtthuzr35yxha7iidgbrqxvhrjl426du"
     },
     {
       "handle": "natecoevo.nature.com",
@@ -155,28 +155,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "Earth Observation Lab",
-      "text": "The related paper, \"Canopy-mediated climate feedbacks in the boreal continuous permafrost zone\", by @smstuenzi.bsky.social, @grosseguido.bsky.social et al. is out now in Nature Climate Change! \n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-27T09:24:22.212Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mrml6xwqic2q",
-      "external_title": "Canopy-mediated climate feedbacks in the boreal continuous permafrost zone - Nature Climate Change",
-      "external_description": "Soil carbon stocks are greater than biomass carbon in boreal forests. This study shows that tree canopies thermally protect more carbon in permafrost from thaw than is stored in biomass, highlighting ...",
-      "external_uri": "https://www.nature.com/articles/s41558-026-02692-z",
-      "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Genomic and evolutionary basis of parthenogenesis in a disease-vector tick species 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-07-27T08:43:45.724Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrmiwaern222",
-      "external_title": "Genomic and evolutionary basis of parthenogenesis in a disease-vector tick species - Nature Ecology & Evolution",
-      "external_description": "The authors combine comparative genomics across arthropods with comparative transcriptomics, population genetics analysis and functional experiments in Haemaphysalis longicornis ticks to elucidate the...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03137-8",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreificjvmgmndion6gozypaojlvc2otacuh22m7kzfd6ounvd5fq4u4"
     }
   ]
 }

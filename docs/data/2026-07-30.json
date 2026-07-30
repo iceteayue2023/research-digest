@@ -1,7 +1,7 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T08:10:37.535413+00:00",
-  "count": 4,
+  "generated_at": "2026-07-30T13:48:08.704926+00:00",
+  "count": 8,
   "articles": [
     {
       "id": "https://www.nature.com/articles/s41586-026-10795-y",
@@ -145,6 +145,89 @@
       }
     },
     {
+      "id": "https://doi.org/10.5194/bg-23-5205-2026",
+      "title": "Ideas and perspectives: Using meta-omics to unravel biogeochemical changes from cell to planetary scales",
+      "link": "https://doi.org/10.5194/bg-23-5205-2026",
+      "summary": "Ideas and perspectives: Using meta-omics to unravel biogeochemical changes from cell to planetary scales\n                    Elsa Abs, Christoph Keuschnig, Pierre Amato, Chris Bowler, Eric Capo, Alexander B. Chase, Luciana Chavez Rodriguez, Abraham N. Dabengwa, Thomas Dussarrat, Thomas Guzman, Linnea K. Hernandez, Jenni Hultman, Kirsten Küsel, Zhen Li, Anna Mankowski, William J. Riley, Scott R. Saleska, and Lisa Wingate\n                        Biogeosciences, 23, 5205–5237, https://doi.org/10.5194/bg-23-5205-2026, 2026\n                        Meta-omics technologies offer new tools to understand how microbial and plant functional diversity shape biogeochemical cycles across ecosystems. This perspective explores how integrating omics data with ecological and modeling approaches can improve our understanding of greenhouse gas fluxes and nutrient dynamics, from soils to clouds, and from the past to the future. We highlight challenges and opportunities for scaling omics insights from local processes to Earth system models.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-30T11:54:59+02:00",
+      "doi": "10.5194/bg-23-5205-2026",
+      "affiliation": null,
+      "title_zh": "观点与视角：利用宏组学揭示从细胞到行星尺度的生物地球化学变化",
+      "relevance_score": 8,
+      "key_conclusion": "宏组学技术提供新工具，理解微生物和植物功能多样性如何塑造跨生态系统的生物地球化学循环。整合组学数据与生态和建模方法，可改进对温室气体通量和养分动态的理解，并有望将局部过程扩展到地球系统模型。",
+      "relevance_note": "直接涉及生物地球化学循环和生态系统建模（DGVM/地球系统模型），与用户关注的土壤有机质形成、碳循环和模型改进高度相关。虽然没有直接讨论重野化，但主题关联性强。",
+      "related_papers": [
+        {
+          "title": "Microbiome definition re-visited: old concepts and new challenges",
+          "link": "https://doi.org/10.1186/s40168-020-00875-0",
+          "venue": "Microbiome",
+          "year": 2020
+        },
+        {
+          "title": "The Role of Soil Microorganisms in Plant Mineral Nutrition—Current Knowledge and Future Directions",
+          "link": "https://doi.org/10.3389/fpls.2017.01617",
+          "venue": "Frontiers in Plant Science",
+          "year": 2017
+        },
+        {
+          "title": "Emerging Priorities for Microbiome Research",
+          "link": "https://doi.org/10.3389/fmicb.2020.00136",
+          "venue": "Frontiers in Microbiology",
+          "year": 2020
+        },
+        {
+          "title": "A Beginner’s Guide on Integrating *Omics Approaches to Study Marine Microbial Communities: Details and Discussions From Sample Collection to Bioinformatics Analysis",
+          "link": "https://doi.org/10.3389/fmars.2021.692538",
+          "venue": "Frontiers in Marine Science",
+          "year": 2021
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5205/2026/bg-23-5205-2026-avatar-web.png",
+      "scientific_question": "宏组学技术如何帮助我们理解微生物和植物功能多样性在从细胞到全球尺度上对生物地球化学循环（如温室气体通量和养分动态）的调控作用？",
+      "contributions_limitations": "主要贡献在于提出了一个前瞻性框架，整合宏组学数据、生态学和过程模型，以桥接微观生物过程与地球系统模型。该文为跨尺度整合提供了新思路，但局限性在于作为一篇观点文章，缺乏具体的实验验证或模型案例来证明其框架的可行性。",
+      "follow_up_research": "未来的研究可以聚焦于：(1) 将宏组学数据，特别是土壤微生物功能基因信息，参数化到现有的土壤碳动态模型中（如CENTURY、DEMENT），以评估微生物群落对土壤有机碳形成与稳定（特别是MAOM与POM路径）的影响；(2) 在重野化实验站点中应用宏组学技术，追踪大型食草动物引入后土壤微生物群落结构与功能的动态变化。",
+      "next_step_perspective": "这篇文章为用户提供了重要的方法论视角：它指出单纯关注微生物多样性不足以理解碳循环，必须把微生物功能（如通过宏组学揭示的代谢潜力）与过程模型结合起来。这可以启发用户考虑，在我的重野化研究中，结合宏基因组学/转录组学来揭示大型动物如何通过改变微生物功能基因丰度（如与有机质分解相关的酶基因）来影响土壤碳库。",
+      "why_this_journal": "推测：Biogeosciences期刊专注于地球系统与生命过程的相互作用。本文提出了一种将前沿组学技术（meta-omics）与经典生物地球化学模型整合的创新性观点，具有前瞻性和跨学科意义，符合该期刊对方法创新和理论突破的偏好。",
+      "author_profile": {
+        "name": "Elsa Abs",
+        "institution": null,
+        "intro": "Elsa Abs博士（推测机构为法国国家科学研究中心或类似欧洲机构，从其历史论文看）。她的研究方向集中在利用模型（如基于个体的生态进化模型）和宏基因组数据理解土壤微生物群落如何响应气候变化并反过来影响土壤碳循环。这与用户的课题高度相关，能为用户提供将微生物功能纳入生态系统碳循环模型的思路。",
+        "other_works": [
+          {
+            "title": "Ideas and perspectives: Using meta-omics to unravel biogeochemical changes from cell to planetary scales",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5205-2026"
+          },
+          {
+            "title": "Eco-evolutionary optimization in soil organic matter models",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-3995"
+          },
+          {
+            "title": "Evolutionary adaptation of soil microbial communities to climate change",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-3488"
+          },
+          {
+            "title": "Fitting microbial community adaptation of respiration and growth to warming using a genomics-informed agent-based model",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-3520"
+          },
+          {
+            "title": "Mapping global functional diversity of soil microbes using metagenomics data",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-3509"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.nature.com/articles/d41586-026-02321-x",
       "title": "Amazonian earthwork survey indicates ancient population was much larger than thought",
       "link": "https://www.nature.com/articles/d41586-026-02321-x",
@@ -189,6 +272,53 @@
       "follow_up_research": "后续可针对这些古土方工程遗址进行详细的土壤剖面研究，以揭示古人类活动（如火烧、土壤施肥）如何改变了土壤有机碳库的组成（如黑碳含量）及稳定性，并与周边未受扰动的区域进行对比；研究这种长期的人类干扰是否促进了特定树种（如经济树种）的分布，从而影响当代森林的碳汇功能。",
       "next_step_perspective": "这篇文章对您的研究极具启发：它揭示了人类活动（类似于大型食草动物的生态系统工程效应）可以对土壤和植被产生长达千年的遗留影响。您可以思考，大型食草动物的重野化活动（如践踏、粪尿输入）是否会像古人类一样，在土壤中留下长久的'生态记忆'，从而'缓冲或放大'气候变化对土壤碳循环的影响。",
       "why_this_journal": "（推测）该新闻文章发表于Nature正刊，是因为它挑战了关于亚马逊地区古文明的长期共识，重新定义了人类在热带生态系统中扮演的角色，其结论对考古学、生态学和气候科学都有颠覆性意义，且基于前沿遥感技术的研究方法本身具有很高新闻价值。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02040-y",
+      "title": "Threefold increase in atmospheric–riverine compound heatwaves under climate change",
+      "link": "https://www.nature.com/articles/s41561-026-02040-y",
+      "summary": "Nature Geoscience, Published online: 30 July 2026; doi:10.1038/s41561-026-02040-yCo-occurring atmospheric and river heatwaves have tripled since the 1980s across the USA and Europe, and are projected to become the norm by 2100, according to model simulations.",
+      "journal": "Nature Geoscience",
+      "published": "2026-07-30T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02040-y",
+      "affiliation": null,
+      "title_zh": "气候变化下大气-河流复合热浪增加三倍",
+      "relevance_score": 7,
+      "key_conclusion": "自1980年代以来，美国和欧洲同时发生大气和河流热浪的事件增加了三倍，模型预测到2100年这种复合事件将成为常态。",
+      "relevance_note": "涉及极端气候事件对碳循环的扰动，属于用户关注的相邻领域(1)。研究地点在欧洲，符合用户对欧洲研究的兴趣。但未直接涉及重野化或土壤碳。",
+      "related_papers": [
+        {
+          "title": "Evaluating climate change impacts on water safety : A case study of the Danube in Budapest",
+          "link": "https://doi.org/10.19040/ecocycles.v10i2.385",
+          "venue": "Ecocycles",
+          "year": 2024
+        },
+        {
+          "title": "Soil Carbon Stocks Vary Across Geomorphic Settings in Australian Temperate Tidal Marsh Ecosystems",
+          "link": "https://doi.org/10.1007/s10021-020-00520-9",
+          "venue": "Ecosystems",
+          "year": 2020
+        },
+        {
+          "title": "Surface ocean-lower atmospheric processes in the Indian Ocean: Current understanding, knowledge gaps, and future directions",
+          "link": "https://doi.org/10.1525/elementa.2023.00041",
+          "venue": "Elementa Science of the Anthropocene",
+          "year": 2024
+        },
+        {
+          "title": "Climate, Crops, and Communities: Modeling the Environmental Stressors Driving Food Supply Chain Insecurity",
+          "link": "https://doi.org/10.3390/earth6040121",
+          "venue": "Earth",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02040-y/MediaObjects/41561_2026_2040_Fig1_HTML.png",
+      "scientific_question": "气候变化背景下，大气热浪与河流热浪的复合事件（同时发生）的频率和强度如何变化？",
+      "contributions_limitations": "贡献在于首次量化了大气-河流复合热浪事件在历史上增三倍的趋势，并预测其在未来将成为常态。局限性在于基于模型模拟的结果，不确定性可能来自模型本身对极端事件模拟的精度以及对未来排放情景的依赖。",
+      "follow_up_research": "后续可研究：(1) 这种复合热浪事件对陆地生态系统，特别是森林和草地生态系统碳汇/碳源功能的具体影响（例如，同时的热和水分胁迫是否会导致更高的植物死亡率或土壤呼吸激增）；(2) 研究不同生态系统类型（如用户关注的欧洲荒野地）对这种复合事件的脆弱性差异。",
+      "next_step_perspective": "虽然不直接谈论重野化，但该研究揭示了气候变化中复合极端事件（热浪+河流热浪）的加剧趋势。这为用户提出了一个新问题：在重野化生态系统中，大型食草动物对植被和土壤的调控作用，是否会增强或减弱生态系统对这种复合极端事件的抵抗力？这可以作为用户未来研究的一个重要假设。",
+      "why_this_journal": "推测：Nature Geoscience发表地球科学领域具有高影响力的研究。本文聚焦于气候变化下水文-大气系统的复合极端事件，揭示了其加速趋势和未来风险，具有重要的现实预警意义和跨圈层研究的视角，符合该期刊的标准。",
       "author_profile": null
     },
     {
@@ -273,6 +403,100 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02400-z",
+      "title": "Daily briefing: Ice-age art hints at how humans flourished",
+      "link": "https://www.nature.com/articles/d41586-026-02400-z",
+      "summary": "Nature, Published online: 29 July 2026; doi:10.1038/d41586-026-02400-zTiny bird figurines hint at the sophistication of Europe’s earliest Homo sapiens. Plus, open peer-review reports are less likely to be retracted and a mission to fly over dangerous ‘fire clouds’.",
+      "journal": "Nature",
+      "published": "2026-07-29T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-02400-z",
+      "affiliation": null,
+      "title_zh": "每日简报：冰河时代艺术揭示人类如何繁荣",
+      "relevance_score": 5,
+      "key_conclusion": "小型鸟类雕像揭示了欧洲早期智人的成熟技艺。此外，开放同行评审的报告更少被撤回，以及一项飞越危险‘火云’的任务被提及。",
+      "relevance_note": "这篇文章主要涉及人类考古学和科学传播，与用户关注的生态系统碳循环、大型食草动物重野化等主题无关。尽管发表在Nature上，但主题不涉及生态学、生物多样性或大型动物，因此相关性一般。",
+      "related_papers": [
+        {
+          "title": "Earthquake research in China",
+          "link": "https://doi.org/10.1029/eo056i011p00838",
+          "venue": "Eos",
+          "year": 1975
+        },
+        {
+          "title": "Europe (in Theory)",
+          "link": "",
+          "venue": "BiblioBoard Library Catalog (Open Research Library)",
+          "year": 2007
+        },
+        {
+          "title": "Reading our lips: the history of lipstick regulation in Western seats of power.",
+          "link": "",
+          "venue": "PubMed",
+          "year": 2007
+        },
+        {
+          "title": "Earthquake research in China",
+          "link": "https://doi.org/10.1029/eo056i011p00838",
+          "venue": "CaltechAUTHORS (California Institute of Technology)",
+          "year": 1975
+        }
+      ],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02400-z/d41586-026-02400-z_53042928.png",
+      "scientific_question": "这篇文章是新闻简报，不回答单一的科学问题。核心内容是报道多项研究进展，包括冰河时代鸟类雕像揭示的早期智人认知能力、开放同行评审机制及一项科学任务。",
+      "contributions_limitations": "作为新闻简报，其贡献在于快速传递领域内的最新发现与进展，让读者了解前沿动态。局限性在于内容极为简略，缺乏深度分析和讨论，无法作为学术引用依据。",
+      "follow_up_research": "简报中提到的内容不直接指向具体后续研究。若从简报中报道的'冰河时代艺术'角度，后续可能研究早期人类对动物（如鸟类）的行为观察及其与生态环境的关联。",
+      "next_step_perspective": "这篇简报与用户的核心研究方向没有直接关联，信息量不足以提供具体的研究视角或方法启发。它不可作为科学文章来源。",
+      "why_this_journal": "推测：Nature的新闻板块旨在向科学界和公众快速传播重要的科学新闻和观点。这篇简报因其囊括了多个有趣且重要的科学故事（考古、学术出版、气象）而符合该栏目的定位。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02694-x",
+      "title": "Local stories in climate change communication",
+      "link": "https://www.nature.com/articles/s41558-026-02694-x",
+      "summary": "Nature Climate Change, Published online: 30 July 2026; doi:10.1038/s41558-026-02694-xClimate change communication differs across regions, shaped by unique political, economic, social and environmental conditions. These influence how climate messages are framed, received and acted upon by the local public. To explore this diversity, Nature Climate Change spoke to globally distributed scholars for their perspectives on the communication patterns, challenges and priorities in their regions.",
+      "journal": "Nature Climate Change",
+      "published": "2026-07-30T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02694-x",
+      "affiliation": null,
+      "title_zh": "气候变化传播中的本地故事",
+      "relevance_score": 4,
+      "key_conclusion": "气候变化传播因地区而异，受独特政治、经济、社会和环境条件影响，这些条件影响本地公众对气候信息的框架、接收和行动。文章采访了全球学者以探讨区域传播模式、挑战和优先事项。",
+      "relevance_note": "主题是气候变化传播的社会科学层面，不涉及碳循环、生态系统功能或大型动物。与用户核心研究方向无直接关联。",
+      "related_papers": [
+        {
+          "title": "Climate change and the permafrost carbon feedback",
+          "link": "https://doi.org/10.1038/nature14338",
+          "venue": "Nature",
+          "year": 2015
+        },
+        {
+          "title": "Climate variability and vulnerability to climate change: a review",
+          "link": "https://doi.org/10.1111/gcb.12581",
+          "venue": "Global Change Biology",
+          "year": 2014
+        },
+        {
+          "title": "Using stories, narratives, and storytelling in energy and climate change research",
+          "link": "https://doi.org/10.1016/j.erss.2017.06.034",
+          "venue": "Energy Research & Social Science",
+          "year": 2017
+        },
+        {
+          "title": "The 2022 report of the Lancet Countdown on health and climate change: health at the mercy of fossil fuels",
+          "link": "https://doi.org/10.1016/s0140-6736(22)01540-9",
+          "venue": "The Lancet",
+          "year": 2022
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02694-x/MediaObjects/41558_2026_2694_Figa_HTML.png",
+      "scientific_question": "不同地区在政治、经济、社会和环境因素影响下，气候变化传播的模式、挑战和优先事项有何多样性？",
+      "contributions_limitations": "主要贡献在于以访谈形式呈现了全球学者对于气候变化传播地域差异的第一手见解，揭示了本地化传播的重要性。局限性在于这是非系统的观点性文章，缺乏定量数据支撑或大规模调查验证。",
+      "follow_up_research": "基于此文，未来可以系统研究：(1) 如何根据不同的区域背景（如欧洲农业社区、非洲草原区域）设计针对性的气候变化减缓策略（如基于自然的解决方案NbS）的沟通方案；(2) 探究不同文化背景下，公众对重野化作为气候减缓手段的接受度与传播效果差异。",
+      "next_step_perspective": "这篇文章对用户的研究有间接启示：既然气候变化传播是地方性的，那么“重野化”作为一项基于自然的解决方案，其科学价值的有效传播也必须考虑当地的社会经济和政治背景。这提醒用户在撰写论文或开展交流时，要结合其研究地点（如欧洲）的具体语境来阐述重野化的碳汇效益与生态风险。",
+      "why_this_journal": "推测：Nature Climate Change不仅发表原创研究，也关注气候变化的跨学科影响和人类维度。这篇观点文章探讨了气候变化传播中的人文和社会因素，符合该期刊对气候与社会互动议题的关注。",
+      "author_profile": null
     }
   ]
 }
