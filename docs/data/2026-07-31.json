@@ -1,8 +1,49 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T08:38:09.958885+00:00",
-  "count": 6,
+  "generated_at": "2026-07-31T13:53:04.226072+00:00",
+  "count": 10,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03151-w",
+      "title": "Widespread carbon accumulation in mature forests remains underestimated by satellite observations",
+      "link": "https://www.nature.com/articles/s41559-026-03151-w",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 31 July 2026; doi:10.1038/s41559-026-03151-wThe authors combine satellites, repeat airborne lidar, dynamic global vegetation models and field plot monitoring across the conterminous USA to show widespread continued carbon accumulation in mature forests that remains systematically underestimated by satellite-based analyses.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-07-31T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03151-w",
+      "affiliation": null,
+      "title_zh": "成熟森林中广泛的碳积累被卫星观测系统性低估",
+      "relevance_score": 9,
+      "key_conclusion": "通过结合卫星、重复机载激光雷达、动态全球植被模型和野外样地监测，研究发现美国本土成熟森林中普遍存在持续的碳积累，而基于卫星的分析系统性低估了这一碳汇功能。",
+      "relevance_note": "文章直接涉及陆地生态系统碳循环、森林碳汇及动态植被模型（DGVM）的验证，与用户核心研究方向及第(1)、(5)点高度相关，且研究方法具有重要参考价值。",
+      "related_papers": [
+        {
+          "title": "The human footprint in the carbon cycle of temperate and boreal forests",
+          "link": "https://doi.org/10.1038/nature05847",
+          "venue": "Nature",
+          "year": 2007
+        },
+        {
+          "title": "Estimates of global terrestrial isoprene emissions using MEGAN (Model of Emissions of Gases and Aerosols from Nature)",
+          "link": "https://doi.org/10.5194/acp-6-3181-2006",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2006
+        },
+        {
+          "title": "Modelling the role of agriculture for the 20th century global terrestrial carbon balance",
+          "link": "https://doi.org/10.1111/j.1365-2486.2006.01305.x",
+          "venue": "Global Change Biology",
+          "year": 2006
+        },
+        {
+          "title": "A first assessment of the impact of the extreme 2018 summer drought on Central European forests",
+          "link": "https://doi.org/10.1016/j.baae.2020.04.003",
+          "venue": "Basic and Applied Ecology",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03151-w/MediaObjects/41559_2026_3151_Fig1_HTML.png"
+    },
     {
       "id": "10.1007/s00442-026-05933-2",
       "title": "Vegetation greenness and heat load drive the movements of a water-dependent, selective grazer",
@@ -122,6 +163,88 @@
       "author_profile": null
     },
     {
+      "id": "https://www.nature.com/articles/s41559-026-03139-6",
+      "title": "Predicted decline in common bird and butterfly species even under conservation policy scenarios in Europe",
+      "link": "https://www.nature.com/articles/s41559-026-03139-6",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 31 July 2026; doi:10.1038/s41559-026-03139-6Projections for 265 common bird and 144 common butterfly species across Europe under multiple sustainability scenarios, including those of existing conservation objectives, find no scenario in which the average decline in abundance stops or reverses.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-07-31T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03139-6",
+      "affiliation": null,
+      "title_zh": "即使在保护政策情景下，欧洲常见鸟类和蝴蝶物种预计仍将下降",
+      "relevance_score": 7,
+      "key_conclusion": "研究预测了欧洲265种常见鸟类和144种常见蝴蝶在多种可持续性情景下的丰度变化，发现没有任何一种情景（包括现有保护目标情景）能够阻止或逆转平均丰度的下降趋势。",
+      "relevance_note": "该研究关注欧洲生物多样性保护与生态系统功能恢复，与用户对欧洲研究地点及BEF关系的兴趣高度契合，尽管不直接涉及rewilding，但能提供保育政策效果的重要背景。",
+      "related_papers": [
+        {
+          "title": "Insect Declines in the Anthropocene",
+          "link": "https://doi.org/10.1146/annurev-ento-011019-025151",
+          "venue": "Annual Review of Entomology",
+          "year": 2019
+        },
+        {
+          "title": "Conservation of Farmland Birds Faces Different Challenges in Western and Central-Eastern Europe",
+          "link": "https://doi.org/10.3161/000164511x589857",
+          "venue": "Acta Ornithologica",
+          "year": 2011
+        },
+        {
+          "title": "Action needed for the EU Common Agricultural Policy to address sustainability challenges",
+          "link": "https://doi.org/10.1002/pan3.10080",
+          "venue": "People and Nature",
+          "year": 2020
+        },
+        {
+          "title": "Pollinator Diversity: Distribution, Ecological Function, and Conservation",
+          "link": "https://doi.org/10.1146/annurev-ecolsys-110316-022919",
+          "venue": "Annual Review of Ecology Evolution and Systematics",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03139-6/MediaObjects/41559_2026_3139_Fig1_HTML.png"
+    },
+    {
+      "id": "https://www.nature.com/articles/s41579-026-01350-7",
+      "title": "Impacts of pollution on the soil microbiome",
+      "link": "https://www.nature.com/articles/s41579-026-01350-7",
+      "summary": "Nature Reviews Microbiology, Published online: 31 July 2026; doi:10.1038/s41579-026-01350-7In this Review, Zhu and colleagues overview the major types of soil pollution in the Anthropocene and their effects on soil microbiome composition, function and dynamics, while also exploring microbiome-based strategies to manage and mitigate soil pollution and safeguard environmental, plant, animal and human health.",
+      "journal": "Nature Reviews Microbiology",
+      "published": "2026-07-31T00:00:00+00:00",
+      "doi": "10.1038/s41579-026-01350-7",
+      "affiliation": null,
+      "title_zh": "污染对土壤微生物组的影响",
+      "relevance_score": 7,
+      "key_conclusion": "综述了人类世主要土壤污染类型及其对土壤微生物组组成、功能和动态的影响，并探讨了基于微生物组的策略来管理和缓解土壤污染，以保障环境、植物、动物和人类健康。",
+      "relevance_note": "文章与用户对土壤微生物群落结构影响生态系统功能的兴趣直接相关，尤其涉及微生物-土壤反馈机制，但未涉及rewilding或动物介导过程，评分适中。",
+      "related_papers": [
+        {
+          "title": "Soil microbiomes and climate change",
+          "link": "https://doi.org/10.1038/s41579-019-0265-7",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2019
+        },
+        {
+          "title": "Microplastic pollution alters forest soil microbiome",
+          "link": "https://doi.org/10.1016/j.jhazmat.2020.124606",
+          "venue": "Journal of Hazardous Materials",
+          "year": 2020
+        },
+        {
+          "title": "Microbiome definition re-visited: old concepts and new challenges",
+          "link": "https://doi.org/10.1186/s40168-020-00875-0",
+          "venue": "Microbiome",
+          "year": 2020
+        },
+        {
+          "title": "Climate-smart soils",
+          "link": "https://doi.org/10.1038/nature17174",
+          "venue": "Nature",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41579-026-01350-7/MediaObjects/41579_2026_1350_Fig1_HTML.png"
+    },
+    {
       "id": "https://doi.org/10.5194/bg-23-5239-2026",
       "title": "Bacterial community composition changes independently of soil edaphic parameters following localized permafrost disturbance",
       "link": "https://doi.org/10.5194/bg-23-5239-2026",
@@ -203,6 +326,47 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02060-8",
+      "title": "Limited remineralization of Arctic permafrost-derived organic carbon in nearshore marine sediments",
+      "link": "https://www.nature.com/articles/s41561-026-02060-8",
+      "summary": "Nature Geoscience, Published online: 31 July 2026; doi:10.1038/s41561-026-02060-8Only 10% of organic carbon from thawing Pleistocene permafrost in the Arctic that is buried in marine sediments ends up re-entering the active carbon cycle, according to a carbon isotope analysis of sediments from off Qikiqtaruk (Herschel Island) in Canada.",
+      "journal": "Nature Geoscience",
+      "published": "2026-07-31T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02060-8",
+      "affiliation": null,
+      "title_zh": "北极近岸海洋沉积物中冻土来源有机碳的再矿化作用有限",
+      "relevance_score": 6,
+      "key_conclusion": "碳同位素分析显示，北极融化的更新世冻土有机碳在埋藏于海洋沉积物后，仅有10%重新进入活跃碳循环，说明大部分冻土碳在被埋藏后可能长期封存。",
+      "relevance_note": "研究涉及北极碳循环和有机碳埋藏机制，与用户对土壤有机碳及碳循环的兴趣相关，但重点在海洋沉积物而非陆地生态系统，相关性中等。",
+      "related_papers": [
+        {
+          "title": "Reviews and syntheses: Effects of permafrost thaw on Arctic aquatic ecosystems",
+          "link": "https://doi.org/10.5194/bg-12-7129-2015",
+          "venue": "Biogeosciences",
+          "year": 2015
+        },
+        {
+          "title": "The Arctic Coastal Dynamics Database: A New Classification Scheme and Statistics on Arctic Permafrost Coastlines",
+          "link": "https://doi.org/10.1007/s12237-010-9362-6",
+          "venue": "Estuaries and Coasts",
+          "year": 2011
+        },
+        {
+          "title": "Freshwater and its role in the Arctic Marine System: Sources, disposition, storage, export, and physical and biogeochemical consequences in the Arctic and global oceans",
+          "link": "https://doi.org/10.1002/2015jg003140",
+          "venue": "Journal of Geophysical Research Biogeosciences",
+          "year": 2015
+        },
+        {
+          "title": "Organic matter remineralization in marine sediments: A Pan‐Arctic synthesis",
+          "link": "https://doi.org/10.1002/2016gb005378",
+          "venue": "Global Biogeochemical Cycles",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02060-8/MediaObjects/41561_2026_2060_Fig1_HTML.png"
     },
     {
       "id": "10.1007/s00442-026-05941-2",

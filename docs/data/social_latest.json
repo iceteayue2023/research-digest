@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-07-31T08:38:09.960622+00:00",
+  "generated_at": "2026-07-31T13:53:04.227955+00:00",
   "count": 17,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Satellite-based analyses systematically underestimate carbon accumulation in mature forests. This study illustrates the importance of independent lines of evidence and suggests that terrestrial carbon budgets need to account for forest structure.\n\nwww.nature.com/articles/s41...",
+      "created_at": "2026-07-31T13:01:41.572Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrwz7555hs2q",
+      "external_title": "Widespread carbon accumulation in mature forests remains underestimated by satellite observations - Nature Ecology & Evolution",
+      "external_description": "The authors combine satellites, repeat airborne lidar, dynamic global vegetation models and field plot monitoring across the conterminous USA to show widespread continued carbon accumulation in mature...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03151-w",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic2nt6vgl4tm7rs5sakkwz5hfhotpmfpnzoo2nedlweiixpjgsiwe"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Are current species conservation policies enough? New study indicates that common bird and common butterfly species across Europe are set to keep declining in the coming decades.\n\nwww.nature.com/articles/s41...",
+      "created_at": "2026-07-31T12:06:14.580Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrww3ybgt22q",
+      "external_title": "Predicted decline in common bird and butterfly species even under conservation policy scenarios in Europe - Nature Ecology & Evolution",
+      "external_description": "Projections for 265 common bird and 144 common butterfly species across Europe under multiple sustainability scenarios, including those of existing conservation objectives, find no scenario in which t...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03139-6",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreib6hgduc7j4265ifmk3lmjr73ktk2yjv3v4he3atk7zrdgbmff3bm"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Thanks to 400 year-old Chilean mummies, we know how smallpox reached the Americas\n\ngo.nature.com/4fLQZ9R",
+      "created_at": "2026-07-31T08:56:09.731Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mrwli3serf2d",
+      "external_title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+      "external_description": "Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
+      "external_uri": "https://go.nature.com/4fLQZ9R",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidheegcmtrmk6ndtbrmtf5pmmjrqiy5y6dxhihs3vgupkfvhc774u"
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -124,28 +157,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigk4t7wzmqxdlqmnijami5uzvdl5sic5qtyvnlu3mknpn6gcv7bda"
     },
     {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Mosquito-borne diseases are breaking records as climate change and other human influences allow the insects to expand their range\n\ngo.nature.com/4x6xhMK",
-      "created_at": "2026-07-29T12:59:01.501Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mrry4jm3y32k",
-      "external_title": "How mosquitoes are conquering the world — in four charts",
-      "external_description": "Mosquito-borne diseases are breaking records as climate change and other human influences allow the insects to expand their range.",
-      "external_uri": "https://go.nature.com/4x6xhMK",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreibtzgctftr5krtttdm6nl4xngnecnfaixsla2ed6hosaer6dr3l5m"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "“We can almost look through the eyes of [Europe's earliest Homo sapiens] and see how they viewed the environment around them”\n\ngo.nature.com/3ThKtQC",
-      "created_at": "2026-07-29T12:46:30.900Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mrrxg5rgcl2k",
-      "external_title": "40,000-year-old bird carvings provide clues to how ice age humans flourished",
-      "external_description": "Newly discovered figurines point to skills that might have helped shape early humans’ expansion across Europe.",
-      "external_uri": "https://go.nature.com/3ThKtQC",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigh5pam7aqzamzcnxnus47bs2f27lsm6p5tz7hvo5w4xjwq2v2pke"
-    },
-    {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
       "text": "Tropical forests can recover rapidly after disturbance, but certain old-growth specialist trees will be missing. A study in Costa Rica shows that low abundance and low seed production hold back these trees, suggesting targeted plantings could help. In PNAS: https://ow.ly/Shla50ZtWMN",
@@ -177,17 +188,6 @@
       "external_description": "Infernos ravaged continental expanses of ferns during mass extinction of land and sea animals.",
       "external_uri": "https://www.nature.com/articles/d41586-026-02333-7",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreib5w5dnjemrm76tcqgq2mt4dwfclzkedfkhtefrfvwpjcbcvh6cny"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Using five years of daily lake plankton monitoring data and empirical dynamic modelling, this study shows that grazing, competition and facilitation reshape the temperature and nutrient conditions required for toxic cyanobacterial blooms 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-07-28T08:40:07.790Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mroz6nyoic2u",
-      "external_title": "Biotic interactions shape the realized niche of toxic cyanobacteria - Nature Ecology & Evolution",
-      "external_description": "Using five years of daily lake plankton monitoring data and empirical dynamic modelling, this study shows that grazing, competition and facilitation reshape the temperature and nutrient conditions req...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03131-0",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiez5rv33se3gmkokshbyou2m6dzc43l2bzzvzlemus4tvw375ws7e"
     }
   ]
 }
