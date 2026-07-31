@@ -1,7 +1,95 @@
 {
-  "generated_at": "2026-07-30T13:48:08.706631+00:00",
-  "count": 14,
+  "generated_at": "2026-07-31T03:23:17.227782+00:00",
+  "count": 15,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "The Antarctic Peninsula is accumulating mercury at a rate of around 93 micrograms per square meter per year, double the average rate. Climate warming and rising atmospheric mercury deposition are to blame. In PNAS: https://ow.ly/YO3T50ZuLbT",
+      "created_at": "2026-07-30T23:00:18.597728302Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mrvk6nfdd32y",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Research on the fossil record of mammals in Mexico suggests that the geographic region acted as a biodiversity “holding pen” for 10 million years.\n\nLearn more this week in Science: https://scim.ag/4xhNmQ9",
+      "created_at": "2026-07-30T18:13:03.203855884Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mrv24xv6as2b",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Portfolio",
+      "text": "Deploying ocean iron fertilization — a strategy for carbon dioxide capture — in higher latitudes rather than near the equator could reduce environmental impacts while still achieving removal of carbon dioxide from the atmosphere, according to a study in Nature. go.nature.com/4hJtalk 🌎🌊🧪",
+      "created_at": "2026-07-30T16:27:01.348Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mruu7eqqle2w",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The powerful fires scorching France and Spain are breaking records - and there are still months to go in the fire season\n\ngo.nature.com/4w1efXp",
+      "created_at": "2026-07-30T15:12:54.707Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mruq2ubx3d2d",
+      "external_title": "Fires in Europe are breaking records: here’s what the future holds",
+      "external_description": "Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
+      "external_uri": "https://go.nature.com/4w1efXp",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicqref7s4qknruvtqsehuba3ujdtxi2vac7bhnhpvmnbcudigddse"
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature",
+      "text": "The powerful fires scorching France and Spain are breaking records - and there are still months to go in the fire season\n\ngo.nature.com/4w1efXp",
+      "created_at": "2026-07-30T15:12:54.707Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mruq2ubx3d2d",
+      "external_title": "Fires in Europe are breaking records: here’s what the future holds",
+      "external_description": "Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
+      "external_uri": "https://go.nature.com/4w1efXp",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicqref7s4qknruvtqsehuba3ujdtxi2vac7bhnhpvmnbcudigddse"
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Geoscience",
+      "text": "⚒️ Article: Threefold increase in atmospheric-riverine compound heatwaves under climate change\n \nwww.nature.com/articles/s41...",
+      "created_at": "2026-07-30T15:00:12.161Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrupe4ugxs24",
+      "external_title": "Threefold increase in atmospheric–riverine compound heatwaves under climate change - Nature Geoscience",
+      "external_description": "Co-occurring atmospheric and river heatwaves have tripled since the 1980s across the USA and Europe, and are projected to become the norm by 2100, according to model simulations.",
+      "external_uri": "https://www.nature.com/articles/s41561-026-02040-y?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreidlutpzrrphix4nclcbdb5dlorvorj6n34sjdkks4scbjipgi5z4m"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "This study shows that disease-risk alleles are generally associated with reduced longevity and increased fertility, while alleles that increase both fertility and disease risk have been favoured by natural selection 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-07-30T14:53:39.899Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mruoygrhok2t",
+      "external_title": "Genetic trade-offs in fertility and longevity explain the maintenance of disease-associated alleles in humans - Nature Ecology & Evolution",
+      "external_description": "Despite their detrimental health effects, disease loci persist in human populations. This study shows that disease-risk alleles are generally associated with reduced longevity and increased fertility,...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03140-z",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreie26fpz47oek2bqhrh452xuzcsurjnouakbdwu7titt44qwjysj7m"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "⏰ Submit by 19 August\n\n",
+      "created_at": "2026-07-30T14:31:22.454947105Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mrunqllzh52p",
+      "external_title": "Ecological Solutions and Evidence Call for Proposals Perspectives and Research to Advance the Scientific Foundations of Ecovoltaic Solar Energy Development",
+      "external_description": "<em>Ecological Solutions and Evidence</em> is an open access journal covering all areas of applied ecology that communicate key findings related to practical environmental management.",
+      "external_uri": "https://f.mtr.cool/qtxeuxsksv",
+      "external_thumb": null
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -78,83 +166,6 @@
       "external_description": "Using five years of daily lake plankton monitoring data and empirical dynamic modelling, this study shows that grazing, competition and facilitation reshape the temperature and nutrient conditions req...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03131-0",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiez5rv33se3gmkokshbyou2m6dzc43l2bzzvzlemus4tvw375ws7e"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "High temperatures and low precipitation in the American West last winter led to record-low snowpack. A study finds that such a snow drought is 4.4 times more likely in the current climate than it would have been in the pre-industrial climate. In PNAS: https://ow.ly/LKKh50ZtquX",
-      "created_at": "2026-07-28T01:00:15.803899630Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mro7ieng3f23",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Human-elephant conflict is projected to rise across Southern Africa as human populations grow, cropland expands, and climate-driven aridity increases. New hotspot maps could help guide land-use planning and mitigation efforts. In PNAS Nexus: https://ow.ly/rjNt50ZtxAk",
-      "created_at": "2026-07-27T22:00:24.861594441Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mrnvgrqd5b2n",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Researchers in #ScienceAdvances have created an engineered living material based on a filamentous fungus.\n\nThe material can regenerate its surface, self-clean, and integrate engineered microbial “partners” that can color the material or provide it with UV protection. https://scim.ag/4bY0PUG ",
-      "created_at": "2026-07-27T21:05:01.663597106Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mrnsdpxbv72s",
-      "external_title": "A programmable fungal platform for engineered living textiles",
-      "external_description": "A programmable fungal platform enables engineered living textiles with tunable functions and biodegradability.",
-      "external_uri": "https://scim.ag/4bY0PUG",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreicapzb3ihiw2vu3a63uwlyk3ytvovvfy4tjrfniqqgl3ithnys2z4"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Mixed plastic waste to hydrogen. Researchers developed a low-temperature process that converts mixed plastics into high-purity hydrogen with minimal carbon emissions—no extensive sorting needed.\n\nIn Science X / Phys.org: https://ow.ly/iXe550ZtwoO \nIn PNAS: https://ow.ly/3B2M50Ztwkn ",
-      "created_at": "2026-07-27T21:00:21.300593954Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mrns3faf722z",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Portfolio",
-      "text": "Shifting atmospheric circulation patterns over Europe since the 1980s have been the major cause of increasingly severe droughts on the continent, according to a study in Nature Geoscience. go.nature.com/4x1kDPo 🌎🧪",
-      "created_at": "2026-07-27T16:18:01.407Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrnccjgsma2f",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Obituary: Alan M. Wilson (1964–2026) rdcu.be/fwdSM\n\nVisionary comparative biomechanist and physiologist who pioneered experimental methods for laboratory and field research into large-mammal locomotor performance and ecology.",
-      "created_at": "2026-07-27T14:24:17.517Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrn3x5nlj224",
-      "external_title": "Alan M. Wilson (1964–2026)",
-      "external_description": "Nature Ecology & Evolution - Visionary comparative biomechanist and physiologist who pioneered experimental methods for laboratory and field research into large-mammal locomotor performance and...",
-      "external_uri": "https://rdcu.be/fwdSM",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreielueti5cfogmhd633l4lggrscn42p6xbryu5nbujoiu5ew5kzhky"
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "Nature Climate Change",
-      "text": "Another of our anniversary News & Views is now online - @katharinevincent.bsky.social looks back at Berrang-Ford et al systematic review of evidence on human adaptation to climate change rdcu.be/fwdAZ",
-      "created_at": "2026-07-27T13:59:58.785Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mrn2loiphs2b",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
