@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
-  "generated_at": "2026-07-31T03:23:17.226769+00:00",
-  "count": 3,
+  "generated_at": "2026-07-31T08:38:09.958885+00:00",
+  "count": 6,
   "articles": [
     {
       "id": "10.1007/s00442-026-05933-2",
@@ -122,6 +122,89 @@
       "author_profile": null
     },
     {
+      "id": "https://doi.org/10.5194/bg-23-5239-2026",
+      "title": "Bacterial community composition changes independently of soil edaphic parameters following localized permafrost disturbance",
+      "link": "https://doi.org/10.5194/bg-23-5239-2026",
+      "summary": "Bacterial community composition changes independently of soil edaphic parameters following localized permafrost disturbance\n                    Patrick Neuberger, Alireza Saidi-Mehrabad, Duane Froese, and Brian Lanoil\n                        Biogeosciences, 23, 5239–5253, https://doi.org/10.5194/bg-23-5239-2026, 2026\n                        Permafrost is at increased risk of thaw due to climate change and anthropogenic disturbances. As permafrost thaws, the microbiomes within these systems may become more active and change in composition, releasing greenhouse gases such as CO2 and CH4. In this study, we determined that permafrost thaw caused by road construction caused permafrost microbiomes to become more similar to surface soils, which has implications for greenhouse gas modelling.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-31T08:10:39+02:00",
+      "doi": "10.5194/bg-23-5239-2026",
+      "affiliation": null,
+      "title_zh": "局部冻土扰动后细菌群落组成的变化独立于土壤理化参数",
+      "relevance_score": 6,
+      "key_conclusion": "道路建设导致的冻土解冻使冻土微生物群落向表层土壤类型转变，且这种变化与土壤理化参数无关，对温室气体排放模拟有重要意义。",
+      "relevance_note": "文章探讨冻土扰动后微生物群落变化及其对碳循环（CO2和CH4释放）的影响，与用户关注的土壤微生物群落结构与生态系统功能、碳循环主题相关，但未涉及大型食草动物或重野化。",
+      "related_papers": [
+        {
+          "title": "Role of Soil Microbiota Enzymes in Soil Health and Activity Changes Depending on Climate Change and the Type of Soil Ecosystem",
+          "link": "https://doi.org/10.3390/biology13020085",
+          "venue": "Biology",
+          "year": 2024
+        },
+        {
+          "title": "The metabolic and genetic diversity of soil bacterial communities depends on the soil management system and C/N dynamics: The case of sustainable and conventional olive groves",
+          "link": "https://doi.org/10.1016/j.apsoil.2018.12.022",
+          "venue": "Applied Soil Ecology",
+          "year": 2019
+        },
+        {
+          "title": "Vascular plant and cryptogam abundance as well as soil chemical properties shape microbial communities in the successional gradient of glacier foreland soils",
+          "link": "https://doi.org/10.1016/j.scitotenv.2022.160550",
+          "venue": "The Science of The Total Environment",
+          "year": 2022
+        },
+        {
+          "title": "Review of botanical characterization, growth preferences, climatic adaptation and human health effects of <i>Ericaceae</i> and <i>Empetraceae</i> wild dwarf shrub berries in boreal, alpine and arctic areas",
+          "link": "https://doi.org/10.3233/jbr-190390",
+          "venue": "Journal of Berry Research",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5239/2026/bg-23-5239-2026-avatar-web.png",
+      "scientific_question": "道路建设等局部扰动导致的冻土解冻如何影响冻土微生物群落组成，以及这种变化是否与土壤理化参数变化相关？",
+      "contributions_limitations": "贡献：揭示了局部冻土扰动导致地下微生物群落向表层土壤类型转变，且独立于土壤理化参数，对改进温室气体排放模型具有重要意义。局限性：基于现有信息推测，研究仅针对单一地点和特定扰动类型，可能限制结果向其他冻土系统或更大尺度扰动的推广性。",
+      "follow_up_research": "可探索冻土解冻后微生物群落功能基因（如甲烷代谢相关基因）的表达变化，以直接关联微生物组成变化与温室气体排放速率；也可开展跨不同冻土类型和解冻场景的比较研究，检验群落转变模式的普适性。",
+      "next_step_perspective": "该研究提示我，在大型食草动物重野化引起土壤扰动时，土壤微生物群落变化可能独立于常规理化指标，评估碳循环响应时需结合微生物功能指标而非仅测土壤参数；其温室气体建模的视角也可借鉴到放牧影响下的碳通量估算中。",
+      "why_this_journal": "推测：该研究将冻土微生物群落动态与气候变化和人为扰动联系，提供对温室气体排放模拟的新见解，方法包括详细的微生物分子分析，符合Biogeosciences聚焦生物地球化学过程和反馈的期刊定位。",
+      "author_profile": {
+        "name": "Brian Lanoil",
+        "institution": "University of Alberta",
+        "intro": "Brian Lanoil来自阿尔伯塔大学，其研究广泛涉及微生物生态学和地球化学，包括冻土微生物群落对扰动的响应、石油采出液中的微生物多样性及土壤微生物对改良剂的响应等，与用户关注土壤微生物介导的碳循环反馈高度相关。",
+        "other_works": [
+          {
+            "title": "Bacterial community composition changes independently of soil edaphic parameters following localized permafrost disturbance",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5239-2026"
+          },
+          {
+            "title": "Geochemistry shapes microbial diversity and selected functional traits in flowback and produced waters from hydraulically fractured formations",
+            "year": "2026",
+            "journal": "FEMS Microbiology Ecology",
+            "doi": "10.1093/femsec/fiag070"
+          },
+          {
+            "title": "Insights into fungal communities in some benchmark agricultural soils of Alberta, Canada",
+            "year": "2026",
+            "journal": "Microbiology",
+            "doi": "10.1099/mic.0.001704"
+          },
+          {
+            "title": "Propagating effects of permafrost thaw slumps on microbial communities throughout Arctic stream networks",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-8257"
+          },
+          {
+            "title": "Soil Type Determines Microbial Community Responsiveness to Soil Amendments",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.2139/ssrn.6696226"
+          }
+        ]
+      }
+    },
+    {
       "id": "10.1007/s00442-026-05941-2",
       "title": "Lack of behavioral response of a native crayfish to the invasive predatory swamp eel",
       "link": "https://link.springer.com/article/10.1007/s00442-026-05941-2",
@@ -200,6 +283,172 @@
             "year": "2023",
             "journal": "Behavioral Ecology and Sociobiology",
             "doi": "10.1007/s00265-023-03417-4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5281-2026",
+      "title": "A high-resolution perspective on climate drivers of lake stratification and phototrophic community dynamics in Late Glacial Central Europe",
+      "link": "https://doi.org/10.5194/bg-23-5281-2026",
+      "summary": "A high-resolution perspective on climate drivers of lake stratification and phototrophic community dynamics in Late Glacial Central Europe\n                    Petra Zahajská, María Luján García, Stella Birlo, Andrea Lami, Martina Stebich, Stan J. Schouten, Noé R. M. M. Schmidhauser, Bernd Zolitschka, Hendrik Vogel, and Martin Grosjean\n                        Biogeosciences, 23, 5281–5312, https://doi.org/10.5194/bg-23-5281-2026, 2026\n                        We analyzed sediments from Holzmaar using hyperspectral imaging and geochemistry to track ecosystem responses to rapid warming. We found that while rising temperatures enabled stratification, forest expansion was the decisive trigger for deep-water anoxia by shielding the lake from wind. Holzmaar’s iron-rich geology prevented internal nutrient recycling, allowing immediate recovery once the climate cooled. This proves catchment traits and lithology can override direct climate impacts.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-31T08:10:39+02:00",
+      "doi": "10.5194/bg-23-5281-2026",
+      "affiliation": null,
+      "title_zh": "晚冰期中欧湖泊分层和光养群落动态气候驱动因素的高分辨率视角",
+      "relevance_score": 5,
+      "key_conclusion": "通过分析Holzmaar沉积物发现，虽然升温促进了湖泊分层，但森林扩张通过遮蔽风驱动了深水缺氧；铁丰富的地质阻止了内源营养循环，使气候变冷后生态系统能迅速恢复，表明流域特征和岩性可超越气候直接影响。",
+      "relevance_note": "文章涉及生态系统对气候变化的响应、植被（森林）扩张对湖泊过程的调控，与用户关注的植被-土壤反馈和生态系统恢复有一定关联，且研究地点在欧洲（德国），但主题为湖泊而非陆地碳循环或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Paleolimnological records of regime shifts in lakes in response to climate change and anthropogenic activities",
+          "link": "https://doi.org/10.1007/s10933-016-9884-4",
+          "venue": "Journal of Paleolimnology",
+          "year": 2016
+        },
+        {
+          "title": "Holocene phototrophic community and anoxia dynamics in meromictic Lake Jaczno (NE Poland) using high-resolution hyperspectral imaging and HPLC data",
+          "link": "https://doi.org/10.5194/bg-18-1839-2021",
+          "venue": "Biogeosciences",
+          "year": 2021
+        },
+        {
+          "title": "Regional versus local drivers of water quality in the Windermere catchment, Lake District, United Kingdom: The dominant influence of wastewater pollution over the past 200 years",
+          "link": "https://doi.org/10.1111/gcb.14299",
+          "venue": "Global Change Biology",
+          "year": 2018
+        },
+        {
+          "title": "8,000 years of climate, vegetation, fire and land-use dynamics in the thermo-mediterranean vegetation belt of northern Sardinia (Italy)",
+          "link": "https://doi.org/10.1007/s00334-021-00832-3",
+          "venue": "Vegetation History and Archaeobotany",
+          "year": 2021
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5281/2026/bg-23-5281-2026-avatar-web.png",
+      "scientific_question": "在末次冰消期快速增温背景下，气候、流域特征（如森林扩张和地质）如何共同驱动湖泊分层和光合微生物群落动态？",
+      "contributions_limitations": "贡献：通过高分辨率沉积物分析揭示森林扩张是深水缺氧的决定性触发因素，且铁丰富地质抑制养分循环促使快速恢复，强调流域特征可超越气候直接影响。局限性：基于现有信息推测，结果源于单一湖泊案例，可能受地方性地质条件限制，跨区域外推需谨慎。",
+      "follow_up_research": "可开展多湖泊对比研究，探索不同地质背景下森林扩张与气候对湖泊分层和缺氧的相对贡献；此外，可利用现代观测和模型模拟，检验这些重建结果在当前生态系统对气候变暖响应中的适用性。",
+      "next_step_perspective": "此研究为我提供了跨界面（植被-湖泊-土壤）反馈如何调节气候影响的案例，提示在重野化研究中，植被（如大型动物影响的森林或草地结构）可能通过物理效应（遮风）而非化学途径改变生态系统碳循环，需关注这类非直接机制。",
+      "why_this_journal": "推测：该论文整合高分辨率气候重建和湖泊生态系统响应，揭示流域特征对气候影响的调节作用，具有方法创新性和跨学科意义，契合Biogeosciences对地球系统过程多界面耦合的重视。",
+      "author_profile": {
+        "name": "Petra Zahajská",
+        "institution": "Universitat Bern",
+        "intro": "Petra Zahajská任职于伯尔尼大学，其研究聚焦高分辨率湖相沉积物成像和古气候重建，涉及末次冰消期季风演化及高山植被动态，与用户关注植被-环境反馈的时间尺度视角相关，可提供方法论借鉴。",
+        "other_works": [
+          {
+            "title": "A high-resolution perspective on climate drivers of lake stratification and phototrophic community dynamics in Late Glacial Central Europe",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5281-2026"
+          },
+          {
+            "title": "Contrasting drivers of South Asian summer and winter monsoon evolution during the last deglaciation",
+            "year": "2026",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-026-02023-z"
+          },
+          {
+            "title": "A high-resolution perspective on climate drivers of lake stratification and phototrophic community dynamics in Late Glacial Central Europe",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1390"
+          },
+          {
+            "title": "Pixel2Paleo - High-resolution imaging of lake sediments",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-20502"
+          },
+          {
+            "title": "6,000 years of vegetation and fire history at the timberline ecotone site Drakolimni Smolikas in the Pindos Mountains, northwestern Greece",
+            "year": "2025",
+            "journal": "Arctic, Antarctic, and Alpine Research",
+            "doi": "10.1080/15230430.2025.2545038"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5255-2026",
+      "title": "Biogeochemical controls on carbonate dynamics driven by methane and freshwater inputs in shallow sediments of a brackish continental shelf sea",
+      "link": "https://doi.org/10.5194/bg-23-5255-2026",
+      "summary": "Biogeochemical controls on carbonate dynamics driven by methane and freshwater inputs in shallow sediments of a brackish continental shelf sea\n                    Katarzyna Łukawska-Matuszewska, Grzegorz Rzepa, Aleksandra Brodecka-Goluch, Andrzej Borkowski, Beata Gebus-Czupyt, Artur Błachowski, Maciej Manecki, Jarosław Kania, Maciej Dwornik, and Magdalena Radzikowska\n                        Biogeosciences, 23, 5255–5279, https://doi.org/10.5194/bg-23-5255-2026, 2026\n                        Sedimentary processes play a crucial role in regulating the marine carbon cycle. This includes the critical roles of methanogenesis and anaerobic methane oxidation, especially when combined with freshening of pore water, which enhances the generation of dissolved inorganic carbon and promotes carbonate precipitation in sediments; additionally, methane-bearing sediments are a more significant source of dissolved inorganic carbon to overlying water than those lacking significant methanogenesis.",
+      "journal": "Biogeosciences",
+      "published": "2026-07-31T08:10:39+02:00",
+      "doi": "10.5194/bg-23-5255-2026",
+      "affiliation": null,
+      "title_zh": "浅海陆架沉积物中甲烷和淡水输入驱动的碳酸盐动态的生物地球化学控制",
+      "relevance_score": 4,
+      "key_conclusion": "沉积物中的产甲烷作用和厌氧甲烷氧化，结合孔隙水淡化，促进了溶解无机碳的生成和碳酸盐沉淀；含甲烷沉积物是上覆水体溶解无机碳的重要来源。",
+      "relevance_note": "该研究聚焦海洋沉积物碳循环中的甲烷与碳酸盐动态，属于陆地生态系统碳循环的邻近领域（尽管是海洋环境），但未直接涉及放牧、植被-土壤反馈或动物介导过程，相关性一般。",
+      "related_papers": [
+        {
+          "title": "Anaerobic Oxidation of Methane: Progress with an Unknown Process",
+          "link": "https://doi.org/10.1146/annurev.micro.61.080706.093130",
+          "venue": "Annual Review of Microbiology",
+          "year": 2009
+        },
+        {
+          "title": "Methane Feedbacks to the Global Climate System in a Warmer World",
+          "link": "https://doi.org/10.1002/2017rg000559",
+          "venue": "Reviews of Geophysics",
+          "year": 2018
+        },
+        {
+          "title": "Coupled Dynamics of Iron and Phosphorus in Sediments of an Oligotrophic Coastal Basin and the Impact of Anaerobic Oxidation of Methane",
+          "link": "https://doi.org/10.1371/journal.pone.0062386",
+          "venue": "PLoS ONE",
+          "year": 2013
+        },
+        {
+          "title": "Anaerobic oxidation of methane alters sediment records of sulfur, iron andphosphorus in the Black Sea",
+          "link": "https://doi.org/10.5194/bg-13-5333-2016",
+          "venue": "Biogeosciences",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5255/2026/bg-23-5255-2026-avatar-web.png",
+      "scientific_question": "在半咸水陆架海的浅层沉积物中，甲烷生成、厌氧甲烷氧化及淡水输入如何协同控制碳酸盐动态和溶解无机碳的释放？",
+      "contributions_limitations": "贡献：阐明了孔隙水淡化增强甲烷相关过程、促进碳酸盐沉淀的机制，并证明含甲烷沉积物是上覆水体溶解无机碳的重要源，强化了对海洋碳循环中沉积物过程的理解。局限性：基于现有信息推测，研究聚焦特定海域的浅层沉积物，结果可能不直接适用于深水或开阔海洋系统。",
+      "follow_up_research": "未来可量化不同甲烷通量梯度下溶解无机碳释放对水体碳收支的贡献，并探究淡水输入频率变化（如气候驱动的径流改变）如何影响沉积物碳循环反馈，结合同位素示踪追踪碳来源。",
+      "next_step_perspective": "此研究突出了甲烷循环和孔隙水化学对碳动态的调控，提示我在评估重野化对湿地或水生生态系统碳循环影响时，需考虑动物扰动可能导致的孔隙水变化和甲烷释放，并关注碳的无机形式而非仅有机碳。",
+      "why_this_journal": "推测：该研究通过多指标生物地球化学分析揭示沉积物碳循环的复杂控制因素，涉及全球碳收支关键过程，具有学科交叉性和应用价值，符合Biogeosciences对海洋-沉积物界面过程的研究重点。",
+      "author_profile": {
+        "name": "Katarzyna Łukawska-Matuszewska",
+        "institution": "University of Gdańsk",
+        "intro": "Katarzyna Łukawska-Matuszewska来自格但斯克大学，其研究集中于波罗的海沉积物生物地球化学，尤其是甲烷渗漏系统、古菌群落和碳酸盐地球化学，与用户关注动物介导的生物地球化学循环有一定交叉，可提供海洋环境碳循环视角。",
+        "other_works": [
+          {
+            "title": "Biogeochemical controls on carbonate dynamics driven by methane and freshwater inputs in shallow sediments of a brackish continental shelf sea",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5255-2026"
+          },
+          {
+            "title": "Archaeal community composition in Holocene methane pockmarks of the Gdańsk Basin (Baltic Sea, Poland): insights from tetraether lipids and 16S rRNA analysis",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-4485-2026"
+          },
+          {
+            "title": "Biogeochemical controls on carbonate dynamics driven by methane and freshwater inputs in shallow sediments of a brackish continental shelf sea",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1238"
+          },
+          {
+            "title": "Supplementary material to \"Biogeochemical controls on carbonate dynamics driven by methane and freshwater inputs in shallow sediments of a brackish continental shelf sea\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1238-supplement"
+          },
+          {
+            "title": "Holocene methane pockmarks in the Baltic Sea, Part I: Archaeal community composition based on tetraether lipids and 16S rRNA analysis",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-519"
           }
         ]
       }
