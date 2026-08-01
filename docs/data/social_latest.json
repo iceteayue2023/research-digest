@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-01T08:07:11.494897+00:00",
-  "count": 18,
+  "generated_at": "2026-08-01T13:07:21.886798+00:00",
+  "count": 19,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Climate benefit and ecological cost trade-offs for ocean iron fertilization\n\ngo.nature.com/4wvwaql",
+      "created_at": "2026-08-01T10:46:16.974Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mrzc3wkrch2i",
+      "external_title": "Climate benefit and ecological cost trade-offs for ocean iron fertilization - Nature",
+      "external_description": "A process-rich global biogeochemical model is used to determine the trade-offs between carbon dioxide removal efficiency and ecosystem impacts in ten ocean ocean biomes following ocean iron fertilization.",
+      "external_uri": "https://go.nature.com/4wvwaql",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreibpbj274uatrkims7kdxqjdvyrafnedzmpqreo5uppas7mx6amqau"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
