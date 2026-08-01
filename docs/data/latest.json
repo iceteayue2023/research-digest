@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
-  "generated_at": "2026-08-01T03:21:01.414978+00:00",
-  "count": 1,
+  "generated_at": "2026-08-01T08:07:11.494310+00:00",
+  "count": 2,
   "articles": [
     {
       "id": "10.1007/s10533-026-01360-w",
@@ -58,6 +58,89 @@
             "year": "2019",
             "journal": "Remote Sensing",
             "doi": "10.3390/rs11050510"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1007/s00442-026-05945-y",
+      "title": "Variation in resistance and survival of the European bitterling fish across a gradient of <i>Sinanodonta woodiana</i> expansion",
+      "link": "https://link.springer.com/article/10.1007/s00442-026-05945-y",
+      "summary": "Biological invasions impose new selective pressures on native species, prompting rapid evolutionary responses. We examined how the parasitic larvae (glochidia) of the invasive East Asian mussel Sinanodonta woodiana affect European bitterling fish (Rhodeus amarus) populations with different histories of exposure to the parasite (none, 15 years, or 40 + years). Glochidia parasitise fish fins and gills, and bitterling are especially vulnerable to parasitism due to their spawning association with mussels. In a common garden experiment, we found the lowest glochidia load in bitterling from populations with the longest association with S. woodiana, indicating evolved resistance. While infection reduced swimming capacity proportionally to parasite load, this effect was not affected by exposure history. However, post-infection mortality was highest in naïve and lowest in long-associated populations. No negative long-term effects on survival, growth, condition, or reproduction were observed, suggesting fitness costs are concentrated shortly after infection. These results show that novel host–parasite interactions during invasions can drive rapid adaptive change, emphasising the need to consider evolutionary dynamics in invasion management.",
+      "journal": "Oecologia",
+      "published": "2026-08-01T00:00:00+00:00",
+      "doi": "10.1007/s00442-026-05945-y",
+      "affiliation": null,
+      "title_zh": "欧洲苦鱼在入侵河蚌扩张梯度上的抗性和生存差异",
+      "relevance_score": 4,
+      "key_conclusion": "与入侵性东亚河蚌Sinanodonta woodiana长期接触的欧洲苦鱼种群表现出更强的寄生虫抗性（较低的寄生负荷）和较低的感染后死亡率，表明生物入侵可驱动宿主快速适应性进化，且适应性代价主要集中在感染初期。",
+      "relevance_note": "该文章涉及入侵物种导致的宿主-寄生虫关系演变，属于生物间互作网络范畴，与用户对捕食者-猎物关系及人类活动重塑生物互作的兴趣有部分关联，但缺乏与生态系统碳循环或大型动物直接联系，故给予中等分数。",
+      "related_papers": [
+        {
+          "title": "Rapid evolution in response to biological invasion: variation in resistance and survival of the European bitterling fish across a gradient of <i>Sinanodonta woodiana</i> expansion",
+          "link": "https://doi.org/10.1101/2025.09.02.673702",
+          "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+          "year": 2025
+        },
+        {
+          "title": "Review of the globally invasive freshwater mussels in the genus Sinanodonta Modell, 1945",
+          "link": "https://doi.org/10.1007/s10750-023-05457-3",
+          "venue": "Hydrobiologia",
+          "year": 2024
+        },
+        {
+          "title": "Distribution of parasitic larvae of non-native Sinanodonta woodiana on fish hosts across an invasion gradient",
+          "link": "https://doi.org/10.3897/neobiota.103.160537",
+          "venue": "NeoBiota",
+          "year": 2025
+        },
+        {
+          "title": "<b>Rapid evolution in response to</b><b> </b><b>biological</b> <b>invasion:</b><b> </b><b>variation</b><b> </b><b>in resistance and survival of the European bitterling fish across a gradient of</b><b> </b><b><i>Sinanodonta woodiana</i></b><b> </b><b>expansion</b>",
+          "link": "https://doi.org/10.6084/m9.figshare.29617205.v2",
+          "venue": "Figshare",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs00442-026-05945-y/MediaObjects/442_2026_5945_Fig1_HTML.png",
+      "scientific_question": "这篇文章试图回答的核心科学问题是：入侵性东亚河蚌Sinanodonta woodiana的寄生压力如何驱动欧洲苦鱼（Rhodeus amarus）不同暴露历史种群的快速适应性进化，具体表现为抗性（寄生负荷）和生存能力（感染后死亡率）的差异？",
+      "contributions_limitations": "主要贡献在于通过共同园实验（common garden experiment），揭示了生物入侵中新型宿主-寄生虫互作可驱动宿主在40多年内快速进化出抗性（降低寄生虫负荷）和耐受性（降低感染后死亡率），且适应性代价主要集中在感染初期，无长期负面效应。基于现有信息推测的局限性包括：实验可能未完全模拟自然条件下的环境异质性（如温度、食物可用性对感染动态的影响），且未深入探究抗性进化的生理或免疫机制。",
+      "follow_up_research": "基于此研究，后续可探索抗性进化的分子机制（如免疫基因表达差异）及遗传基础，并结合基因组学方法定位与抗性相关的基因位点；此外，可开展野外长期监测，评估这种快速进化对苦鱼种群动态和生态位的影响，以及是否会影响入侵河蚌的扩散和生态影响。",
+      "next_step_perspective": "这篇文章为你的研究提供方法学启发，如共同园实验可应用于大型食草动物重野化研究，用于区分遗传适应与表型可塑性对土壤碳循环相关性状的影响；其关于入侵驱动的快速进化视角，可类比于重野化动物对本土生态系统（如植物-土壤反馈）的快速适应性影响，提示在评估碳循环恢复时需考虑物种的进化时间尺度。",
+      "why_this_journal": "推测本文发表于Oecologia是因为该期刊聚焦于生态学领域，特别是物种互作、进化生态学和入侵生物学，本文结合了入侵寄生虫、宿主抗性和快速进化，主题契合且方法严谨（共同园实验），符合期刊对生态过程和机制研究的要求。",
+      "author_profile": {
+        "name": "Abhishek Nair Anil",
+        "institution": "Czech Academy of Sciences, Institute of Vertebrate Biology",
+        "intro": "Abhishek Nair Anil目前任职于捷克科学院脊椎动物生物学研究所（Czech Academy of Sciences, Institute of Vertebrate Biology），其主要研究方向包括寄生虫-宿主互作的进化生态学（如苦鱼与寄生河蚌的共进化）、生物入侵的生态与进化影响，以及光感知机制。这些研究与你关注的生物间互作网络（如微生物-动物互作）和人类活动驱动的性状变化有交叉，可为其提供宿主-寄生虫互作视角的参考。",
+        "other_works": [
+          {
+            "title": "Variation in resistance and survival of the European bitterling fish across a gradient of Sinanodonta woodiana expansion",
+            "year": "2026",
+            "journal": "Oecologia",
+            "doi": "10.1007/s00442-026-05945-y"
+          },
+          {
+            "title": "Rapid evolution in response to biological invasion: variation in resistance and survival of the European bitterling fish across a gradient of Sinanodonta woodiana expansion",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.09.02.673702"
+          },
+          {
+            "title": "Temporal integration and active sensing of light in planarians",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.03.27.645397"
+          },
+          {
+            "title": "Reciprocal Transplant Experiments Demonstrate a Dynamic Coevolutionary Relationship Between Parasitic Mussel Larvae and Bitterling Fishes (09 Sept, 10.1111/fwb.14324, 2024)",
+            "year": "2025",
+            "journal": "Freshwater Biology",
+            "doi": "10.1111/FWB.14371"
+          },
+          {
+            "title": "Global estimates on the number of people blind or visually impaired by cataract: a meta-analysis from 2000 to 2020 (vol 38, pg 2156, 2024)",
+            "year": "2024",
+            "journal": "Eye",
+            "doi": "10.1038/S41433-024-03161-7"
           }
         ]
       }
