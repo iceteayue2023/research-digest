@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-01T13:07:21.886798+00:00",
-  "count": 19,
+  "generated_at": "2026-08-02T03:21:05.290139+00:00",
+  "count": 21,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "One of the most-viewed PNAS articles in the last week is “Integrated thermal and phytoremediation of agricultural soils impacted by PFAS.” Explore the article here: https://ow.ly/bT8j50Zv2O9\n\nFor more trending articles, visit https://ow.ly/sP1g50Zv2O7.",
+      "created_at": "2026-08-01T23:00:15.595247284Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3ms2l4fk7fw2g",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Wolves have made a spectacular comeback in Europe. But attacks on livestock and humans have caused a heated debate about the limits of coexistence.\n\nLearn more: https://scim.ag/4a9BfLS",
+      "created_at": "2026-08-01T18:00:04.723580705Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3ms22dmfc6y2z",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
