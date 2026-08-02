@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-02T08:08:14.780316+00:00",
-  "count": 21,
+  "generated_at": "2026-08-02T13:09:22.249704+00:00",
+  "count": 20,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "“We can almost look through the eyes of [Europe's earliest Homo sapiens] and see how they viewed the environment around them”\n\ngo.nature.com/4xdqTmX",
+      "created_at": "2026-08-02T09:17:01.029Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3ms3nla2j6d2h",
+      "external_title": "40,000-year-old bird carvings provide clues to how ice age humans flourished",
+      "external_description": "Nature - Newly discovered figurines point to skills that might have helped shape early humans’ expansion across Europe.",
+      "external_uri": "https://go.nature.com/4xdqTmX",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigh5pam7aqzamzcnxnus47bs2f27lsm6p5tz7hvo5w4xjwq2v2pke"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -210,28 +221,6 @@
       "external_description": "<em>Ecological Solutions and Evidence</em> is an open access journal covering all areas of applied ecology that communicate key findings related to practical environmental management.",
       "external_uri": "https://f.mtr.cool/qtxeuxsksv",
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "A reconstruction of the evolutionary history of passerine body plans over the past ~50 Myr shows rare bursts of phenotypic innovation near the origin of major taxonomic groups that are temporally aligned with periods of increased climatic instability 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-07-30T09:25:12.249Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mru4n43qpc2t",
-      "external_title": "Rates of passerine body plan evolution in time and space - Nature Ecology & Evolution",
-      "external_description": "A reconstruction of the evolutionary history of passerine body plans over the past ~50 Myr shows rare bursts of phenotypic innovation near the origin of major taxonomic groups that are temporally alig...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03110-5",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigk4t7wzmqxdlqmnijami5uzvdl5sic5qtyvnlu3mknpn6gcv7bda"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "A reconstruction of the evolutionary history of passerine body plans over the past ~50 Myr shows rare bursts of phenotypic innovation near the origin of major taxonomic groups that are temporally aligned with periods of increased climatic instability 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-07-30T09:25:12.249Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mru4n43qpc2t",
-      "external_title": "Rates of passerine body plan evolution in time and space - Nature Ecology & Evolution",
-      "external_description": "A reconstruction of the evolutionary history of passerine body plans over the past ~50 Myr shows rare bursts of phenotypic innovation near the origin of major taxonomic groups that are temporally alig...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03110-5",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigk4t7wzmqxdlqmnijami5uzvdl5sic5qtyvnlu3mknpn6gcv7bda"
     }
   ]
 }
