@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T03:22:37.874789+00:00",
-  "count": 13,
+  "generated_at": "2026-08-03T09:27:09.183692+00:00",
+  "count": 11,
   "posts": [
     {
       "handle": "nature.com",
@@ -122,28 +122,6 @@
       "external_description": "Projections for 265 common bird and 144 common butterfly species across Europe under multiple sustainability scenarios, including those of existing conservation objectives, find no scenario in which t...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03139-6",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreib6hgduc7j4265ifmk3lmjr73ktk2yjv3v4he3atk7zrdgbmff3bm"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Thanks to 400 year-old Chilean mummies, we know how smallpox reached the Americas\n\ngo.nature.com/4fLQZ9R",
-      "created_at": "2026-07-31T08:56:09.731Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mrwli3serf2d",
-      "external_title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
-      "external_description": "Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
-      "external_uri": "https://go.nature.com/4fLQZ9R",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidheegcmtrmk6ndtbrmtf5pmmjrqiy5y6dxhihs3vgupkfvhc774u"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "This analysis shows that a widely used satellite-based ecosystem resilience indicator is a real signal linked to plant physiological responses to water deficit, provided that the estimation is based on appropriate methodological choice 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-07-31T07:50:58.504Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrwhtjpve22k",
-      "external_title": "Physiological fidelity of a satellite-derived forest resilience indicator in the Amazon - Nature Ecology & Evolution",
-      "external_description": "This analysis shows that a widely used satellite-based ecosystem resilience indicator is a real signal linked to plant physiological responses to water deficit, provided that the estimation is based o...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03116-z",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreib2moteslyzsiz43s55rksepfnybafps4nnzs24o4n3wsqn6t5xbm"
     }
   ]
 }

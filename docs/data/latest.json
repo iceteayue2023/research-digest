@@ -1,6 +1,54 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T03:22:37.874489+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-03T09:27:09.183154+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-5359-2026",
+      "title": "Bioreactivity of dissolved organic matter in ponds of the ice-wedge polygonal tundra",
+      "link": "https://doi.org/10.5194/bg-23-5359-2026",
+      "summary": "Bioreactivity of dissolved organic matter in ponds of the ice-wedge polygonal tundra\n                    Thomas Pacoureau, Milla Rautio, and Isabelle Laurion\n                        Biogeosciences, 23, 5359–5376, https://doi.org/10.5194/bg-23-5359-2026, 2026\n                        In the Arctic, thawing permafrost creates many ponds that release greenhouse gases. We collected water from 15 ponds in the Canadian Arctic and conducted a 188–day experiment to see how bacteria use carbon in summer. They consumed about one-third of the available carbon in 100 days, and adding nutrients made no difference. Since they prefer fresh matter from plants and algae, longer growing seasons could boost gas emissions from recently fixed carbon as the Arctic landscape continues to change.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-03T11:04:55+02:00",
+      "doi": "10.5194/bg-23-5359-2026",
+      "affiliation": null,
+      "title_zh": "冰楔多边形冻原池塘中溶解性有机物的生物反应活性",
+      "relevance_score": 6,
+      "key_conclusion": "通过对加拿大北极15个池塘水样的188天培养实验，发现细菌在100天内消耗了约三分之一的溶解性有机碳，且添加养分无显著影响。细菌偏好来自植物和藻类的新鲜有机物，因此更长的生长季节可能增加来自新固定碳的气体排放。",
+      "relevance_note": "该文章涉及冻原生态系统中溶解性有机碳的微生物分解过程及其对温室气体排放的影响，与土壤有机质形成与稳定机制、生态系统碳循环相关，且研究地点位于北极（非欧洲），可给予中等偏上相关性分数。",
+      "related_papers": [
+        {
+          "title": "Weak mineralization despite strong processing of dissolved organic matter in Eastern Arctic tundra ponds",
+          "link": "https://doi.org/10.1002/lno.11634",
+          "venue": "Limnology and Oceanography",
+          "year": 2020
+        },
+        {
+          "title": "The dominant role of sunlight in degrading winter dissolved organic matter from a thermokarst lake in a subarctic peatland",
+          "link": "https://doi.org/10.5194/bg-19-3959-2022",
+          "venue": "Biogeosciences",
+          "year": 2022
+        },
+        {
+          "title": "Bioreactivity of dissolved organic carbon in ponds of the ice-wedge polygonal tundra",
+          "link": "https://doi.org/10.5194/egusphere-2025-5257",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "Release of dissolved organic carbon from coastal erosion into the southern Canadian Beaufort Sea",
+          "link": "",
+          "venue": "Helmholtz-Zentrum für Polar-und Meeresforschung (Alfred-Wegener-Institut)",
+          "year": 2013
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5359/2026/bg-23-5359-2026-avatar-web.png",
+      "scientific_question": "北极冰楔多边形冻土区池塘中溶解性有机质（DOM）的生物反应性如何？细菌在夏季对溶解性有机碳（DOC）的利用效率是否受养分限制？",
+      "contributions_limitations": "该研究通过188天培养实验揭示了北极池塘细菌对DOC的消耗速率（约100天消耗三分之一）及其对新增殖植物/藻类有机质的偏好，表明养分添加无显著影响。这为理解冻土融化后池塘温室气体排放提供了关键参数。局限性可能在于实验为室内培养，未能完全模拟原位环境的光照、温度波动及微生物群落演替；且仅关注了夏季场景。基于现有信息推测，建议查看原文确认是否涵盖季节性变化及DOM组分分析。",
+      "follow_up_research": "可进一步研究不同冻土融化阶段（如冰楔发育不同期）池塘DOM化学组成（如POM/MAOM比例、芳香度）对细菌群落结构及代谢途径的影响；结合原位监测与模型模拟，量化细菌消耗的DOC比例对区域碳排放预算的贡献；探索植物群落变化（如灌木扩张）对输入DOC质量及细菌反应性的反馈效应。",
+      "next_step_perspective": "该研究为大型食草动物重野化影响土壤碳循环提供了方法借鉴，尤其是关于有机质“新鲜度”而非养分可用性控制微生物分解速率的结论，提示在重野化生态系统中，动物通过改变植物群落组成（例如偏好取食新鲜植物）可能间接调节土壤DOC的分解速率。同时，实验设计（长周期培养+养分添加）可应用于评估重野化对土壤有机碳稳定性的影响。",
+      "why_this_journal": "推测发表于Biogeosciences是因为该研究系统探讨了北极冻土区碳循环关键过程（DOM生物反应性），具有明确的地球生物化学意义，且提供了严谨的长期实验数据，符合期刊对过程机制与定量评估的偏好。",
+      "author_profile": null
+    }
+  ]
 }
