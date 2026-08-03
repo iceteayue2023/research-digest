@@ -1,8 +1,91 @@
 {
   "date": "2026-08-03",
-  "generated_at": "2026-08-03T09:27:09.183154+00:00",
-  "count": 1,
+  "generated_at": "2026-08-03T14:27:54.274952+00:00",
+  "count": 2,
   "articles": [
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7111-2026",
+      "title": "Reduced Complexity Model Intercomparison Project phase 3: experimental protocol for coordinated constraining  and evaluation of reduced-complexity models",
+      "link": "https://doi.org/10.5194/gmd-19-7111-2026",
+      "summary": "Reduced Complexity Model Intercomparison Project phase 3: experimental protocol for coordinated constraining  and evaluation of reduced-complexity models\n                    Alejandro Romero-Prieto, Marit Sandstad, Benjamin M. Sanderson, Zebedee R. J. Nicholls, Norman J. Steinert, Thomas Gasser, Camilla Mathison, Jarmo Kikstra, Thomas J. Aubry, Katsumasa Tanaka, Konstantin Weber, and Chris Smith\n                        Geosci. Model Dev., 19, 7111–7133, https://doi.org/10.5194/gmd-19-7111-2026, 2026\n                        Reduced-complexity models are an important tool in climate science, helping us understand and estimate future climate change. We present the experimental protocol for the next phase of the reduced-complexity model intercomparison project, which aims to compare results from many such models to better understand their behaviour. This knowledge will guide how these models are developed and used in the future, including in the upcoming Intergovernmental Panel on Climate Change (IPCC) assessment report (AR7).",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-03T11:59:59+02:00",
+      "doi": "10.5194/gmd-19-7111-2026",
+      "affiliation": null,
+      "title_zh": "降复杂度模型比较计划第三阶段：协调约束与评估降复杂度模型的实验方案",
+      "relevance_score": 7,
+      "key_conclusion": "降复杂度模型是气候科学中估算未来气候变化的重要工具。本文提出了降复杂度模型比较计划下一阶段的实验方案，旨在通过比较多个模型的行为来更好地理解其特性，为模型开发和未来使用（包括IPCC第七次评估报告）提供指导。",
+      "relevance_note": "该文章涉及地球系统模型的发展与评估，虽然具体对象是降复杂度模型，但属于用户感兴趣的生态系统模型改进领域，且对理解碳循环模拟有参考价值，故给予较高分。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"Reduced Complexity Model Intercomparison Project Phase 3: Experimental protocol for coordinated constraining and evaluation of Reduced-Complexity Models\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-5775-supplement",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "High Resolution Model Intercomparison Project (HighResMIP v1.0) for CMIP6",
+          "link": "https://doi.org/10.5194/gmd-9-4185-2016",
+          "venue": "Geoscientific model development",
+          "year": 2016
+        },
+        {
+          "title": "Climate model projections from the Scenario Model Intercomparison Project (ScenarioMIP) of CMIP6",
+          "link": "https://doi.org/10.5194/esd-12-253-2021",
+          "venue": "Earth System Dynamics",
+          "year": 2021
+        },
+        {
+          "title": "Reduced Complexity Model Intercomparison Project Phase 1: introduction and evaluation of global-mean temperature response",
+          "link": "https://doi.org/10.5194/gmd-13-5175-2020",
+          "venue": "Geoscientific model development",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7111/2026/gmd-19-7111-2026-avatar-web.png",
+      "scientific_question": "如何设计一个标准化的实验协议，以协调和约束多种降复杂度模型（RCMs）的比较，从而更好地理解其行为差异并指导其开发与应用？",
+      "contributions_limitations": "主要贡献在于提出了RCMIP第三阶段的实验协议，旨在系统比较多种降复杂度气候模型，为IPCC第七次评估报告提供模型约束与评估框架。基于现有信息推测，该协议可能涵盖历史模拟、排放情景、气候响应等标准化实验；局限性可能是未聚焦于特定生态系统过程（如碳循环对生态恢复的响应），且RCMs本身对生物地球化学过程的简化可能限制其对生态系统细节的刻画。",
+      "follow_up_research": "后续研究可探索如何将RCMIP的约束方法应用于地球系统模型中动态植被模块（DGVM）的参数校准，以改进碳-气候反馈的模拟；也可基于RCMs的标准化比较框架，评估不同模型对大型食草动物重野化引起的碳循环变化的敏感度。",
+      "next_step_perspective": "这篇文章提供了模型比较与约束的严谨实验设计思路，可启发你在评估重野化对土壤有机碳影响的模型模拟时，建立标准化、可比对的模拟协议；同时提示关注模型简化对生态系统碳循环关键过程（如POM/MAOM动态）的潜在偏差。",
+      "why_this_journal": "推测：Geoscientific Model Development专注于模型开发、评估与协议标准化的方法论文章，本文提供了多模型比较的标准化实验协议，具有方法学价值和跨模型可比性意义，符合该期刊定位。",
+      "author_profile": {
+        "name": "Alejandro Romero-Prieto",
+        "institution": "University of Leeds",
+        "intro": "Alejandro Romero-Prieto来自利兹大学，其历史研究涉及降复杂度模型、零排放承诺、碳缓冲及气候模拟回顾，核心方向为利用简化模型理解气候变化中的碳循环与温度响应。这些研究与你的关注点（生态系统碳循环、DGVM改进）有方法论上的关联，尤其在模型评估与碳过程简化方面。",
+        "other_works": [
+          {
+            "title": "Reduced Complexity Model Intercomparison Project phase 3: experimental protocol for coordinated constraining and evaluation of reduced-complexity models",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-7111-2026"
+          },
+          {
+            "title": "Overshoot and (ir)reversibility to 2300 in two CO2-emissions driven Earth System models",
+            "year": "2026",
+            "journal": "Earth System Dynamics",
+            "doi": "10.5194/esd-17-893-2026"
+          },
+          {
+            "title": "Decomposition of the Zero Emissions Commitment into thermal warming pipeline and carbon buffering components",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1875"
+          },
+          {
+            "title": "Supplementary material to \"Decomposition of the Zero Emissions Commitment into thermal warming pipeline and carbon buffering components\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1875-supplement"
+          },
+          {
+            "title": "Reduced Complexity Model Intercomparison Project Phase 3: protocol and preliminary results",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-2310"
+          }
+        ]
+      }
+    },
     {
       "id": "https://doi.org/10.5194/bg-23-5359-2026",
       "title": "Bioreactivity of dissolved organic matter in ponds of the ice-wedge polygonal tundra",

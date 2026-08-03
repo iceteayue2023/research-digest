@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T09:27:09.183692+00:00",
-  "count": 11,
+  "generated_at": "2026-08-03T14:27:54.275713+00:00",
+  "count": 9,
   "posts": [
     {
       "handle": "nature.com",
@@ -100,28 +100,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Satellite-based analyses systematically underestimate carbon accumulation in mature forests. This study illustrates the importance of independent lines of evidence and suggests that terrestrial carbon budgets need to account for forest structure.\n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-31T13:01:41.572Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrwz7555hs2q",
-      "external_title": "Widespread carbon accumulation in mature forests remains underestimated by satellite observations - Nature Ecology & Evolution",
-      "external_description": "The authors combine satellites, repeat airborne lidar, dynamic global vegetation models and field plot monitoring across the conterminous USA to show widespread continued carbon accumulation in mature...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03151-w",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic2nt6vgl4tm7rs5sakkwz5hfhotpmfpnzoo2nedlweiixpjgsiwe"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Are current species conservation policies enough? New study indicates that common bird and common butterfly species across Europe are set to keep declining in the coming decades.\n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-31T12:06:14.580Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mrww3ybgt22q",
-      "external_title": "Predicted decline in common bird and butterfly species even under conservation policy scenarios in Europe - Nature Ecology & Evolution",
-      "external_description": "Projections for 265 common bird and 144 common butterfly species across Europe under multiple sustainability scenarios, including those of existing conservation objectives, find no scenario in which t...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03139-6",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreib6hgduc7j4265ifmk3lmjr73ktk2yjv3v4he3atk7zrdgbmff3bm"
     }
   ]
 }
