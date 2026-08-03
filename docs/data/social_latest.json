@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-02T13:09:22.249704+00:00",
-  "count": 20,
+  "generated_at": "2026-08-03T03:22:37.874789+00:00",
+  "count": 13,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Thanks to 400 year-old Chilean mummies, we know how smallpox reached the Americas\n\ngo.nature.com/4bHfYdh",
+      "created_at": "2026-08-02T16:58:01.453Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3ms4hdlagn225",
+      "external_title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+      "external_description": "Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
+      "external_uri": "https://go.nature.com/4bHfYdh",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidheegcmtrmk6ndtbrmtf5pmmjrqiy5y6dxhihs3vgupkfvhc774u"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The powerful fires scorching France and Spain are breaking records - and there are still months to go in the fire season\n\ngo.nature.com/4xaW2Yn",
+      "created_at": "2026-08-02T14:08:01.356Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3ms45tljb5s25",
+      "external_title": "Fires in Europe are breaking records: here’s what the future holds",
+      "external_description": "Nature - Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
+      "external_uri": "https://go.nature.com/4xaW2Yn",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicqref7s4qknruvtqsehuba3ujdtxi2vac7bhnhpvmnbcudigddse"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -122,105 +144,6 @@
       "external_description": "This analysis shows that a widely used satellite-based ecosystem resilience indicator is a real signal linked to plant physiological responses to water deficit, provided that the estimation is based o...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03116-z",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreib2moteslyzsiz43s55rksepfnybafps4nnzs24o4n3wsqn6t5xbm"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "The Antarctic Peninsula is accumulating mercury at a rate of around 93 micrograms per square meter per year, double the average rate. Climate warming and rising atmospheric mercury deposition are to blame. In PNAS: https://ow.ly/YO3T50ZuLbT",
-      "created_at": "2026-07-30T23:00:18.597728302Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mrvk6nfdd32y",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Lane Atmore",
-      "text": "New paper out today @science.org ! \n🐟🧬🧪🦑 #aDNA #genomics #fisheries\n\nwww.science.org/doi/10.1126/...\n\nBastiaan Star and I discuss applications of marine archaeogenomics for fisheries conservation & restoration in light of recent advances in the field",
-      "created_at": "2026-07-30T21:37:33.881Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mrvfko3vq224",
-      "external_title": "Beyond the scales: Marine archaeogenomics for the conservation and restoration of fisheries",
-      "external_description": "Protection and restoration of marine environments are essential for food security and climate change mitigation. Yet historical and archaeological research have shown that conservation and management ...",
-      "external_uri": "https://www.science.org/doi/10.1126/science.aeg0333",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:edrpzzizde7deizigluhw6mf/bafkreiergxunhivslpy7avie7ohqmcmdkwz4s45ychswhdp3fdfg4v5gti"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Research on the fossil record of mammals in Mexico suggests that the geographic region acted as a biodiversity “holding pen” for 10 million years.\n\nLearn more this week in Science: https://scim.ag/4xhNmQ9",
-      "created_at": "2026-07-30T18:13:03.203855884Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mrv24xv6as2b",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Portfolio",
-      "text": "Deploying ocean iron fertilization — a strategy for carbon dioxide capture — in higher latitudes rather than near the equator could reduce environmental impacts while still achieving removal of carbon dioxide from the atmosphere, according to a study in Nature. go.nature.com/4hJtalk 🌎🌊🧪",
-      "created_at": "2026-07-30T16:27:01.348Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mruu7eqqle2w",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "The powerful fires scorching France and Spain are breaking records - and there are still months to go in the fire season\n\ngo.nature.com/4w1efXp",
-      "created_at": "2026-07-30T15:12:54.707Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mruq2ubx3d2d",
-      "external_title": "Fires in Europe are breaking records: here’s what the future holds",
-      "external_description": "Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
-      "external_uri": "https://go.nature.com/4w1efXp",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicqref7s4qknruvtqsehuba3ujdtxi2vac7bhnhpvmnbcudigddse"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature",
-      "text": "The powerful fires scorching France and Spain are breaking records - and there are still months to go in the fire season\n\ngo.nature.com/4w1efXp",
-      "created_at": "2026-07-30T15:12:54.707Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mruq2ubx3d2d",
-      "external_title": "Fires in Europe are breaking records: here’s what the future holds",
-      "external_description": "Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
-      "external_uri": "https://go.nature.com/4w1efXp",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicqref7s4qknruvtqsehuba3ujdtxi2vac7bhnhpvmnbcudigddse"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Geoscience",
-      "text": "⚒️ Article: Threefold increase in atmospheric-riverine compound heatwaves under climate change\n \nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-30T15:00:12.161Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrupe4ugxs24",
-      "external_title": "Threefold increase in atmospheric–riverine compound heatwaves under climate change - Nature Geoscience",
-      "external_description": "Co-occurring atmospheric and river heatwaves have tripled since the 1980s across the USA and Europe, and are projected to become the norm by 2100, according to model simulations.",
-      "external_uri": "https://www.nature.com/articles/s41561-026-02040-y?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreidlutpzrrphix4nclcbdb5dlorvorj6n34sjdkks4scbjipgi5z4m"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "This study shows that disease-risk alleles are generally associated with reduced longevity and increased fertility, while alleles that increase both fertility and disease risk have been favoured by natural selection 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-07-30T14:53:39.899Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mruoygrhok2t",
-      "external_title": "Genetic trade-offs in fertility and longevity explain the maintenance of disease-associated alleles in humans - Nature Ecology & Evolution",
-      "external_description": "Despite their detrimental health effects, disease loci persist in human populations. This study shows that disease-risk alleles are generally associated with reduced longevity and increased fertility,...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03140-z",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreie26fpz47oek2bqhrh452xuzcsurjnouakbdwu7titt44qwjysj7m"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "⏰ Submit by 19 August\n\n",
-      "created_at": "2026-07-30T14:31:22.454947105Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mrunqllzh52p",
-      "external_title": "Ecological Solutions and Evidence Call for Proposals Perspectives and Research to Advance the Scientific Foundations of Ecovoltaic Solar Energy Development",
-      "external_description": "<em>Ecological Solutions and Evidence</em> is an open access journal covering all areas of applied ecology that communicate key findings related to practical environmental management.",
-      "external_uri": "https://f.mtr.cool/qtxeuxsksv",
-      "external_thumb": null
     }
   ]
 }
