@@ -1,6 +1,34 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T02:51:51.597039+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-04T08:24:29.152499+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-5377-2026",
+      "title": "Selective accumulation of dissolved organic matter in the sea surface microlayer: integrated multi-spectral CDOM and FDOM characterization and a novel FDOM/CDOM index at a Mediterranean coastal site",
+      "link": "https://doi.org/10.5194/bg-23-5377-2026",
+      "summary": "Selective accumulation of dissolved organic matter in the sea surface microlayer: integrated multi-spectral CDOM and FDOM characterization and a novel FDOM/CDOM index at a Mediterranean coastal site\n                    Elli Pitta, Eleni Tzempelikou, and Christina Zeri\n                        Biogeosciences, 23, 5377–5397, https://doi.org/10.5194/bg-23-5377-2026, 2026\n                        Chromophoric dissolved organic matter dynamics (CDOM) in the sea surface microlayer (SML) and underlying water were examined at a coastal site. The SML was enriched in dissolved organic carbon (DOC), CDOM and fluorescent dissolved organic matter (FDOM). Optical indices and FDOM/CDOM index showed wavelength-dependent enrichment and decoupling of CDOM-FDOM, suggesting that photodegradation, biological processes and atmospheric inputs shape DOC pool beyond simple upward flux from underlying waters.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-04T07:50:25+02:00",
+      "doi": "10.5194/bg-23-5377-2026",
+      "affiliation": null,
+      "title_zh": "海洋表层微层中溶解有机物的选择性积累：地中海沿岸站点多光谱CDOM和FDOM表征及新型FDOM/CDOM指数",
+      "relevance_score": 4,
+      "key_conclusion": "在地中海沿岸站点，海洋表层微层（SML）富集了溶解有机碳（DOC）、有色溶解有机物（CDOM）和荧光溶解有机物（FDOM）。光学指数和FDOM/CDOM指数显示波长依赖性富集和CDOM-FDOM解耦，表明光降解、生物过程和大气输入塑造了DOC库，而不仅仅是下层水体的向上通量。",
+      "relevance_note": "文章涉及海洋溶解有机碳循环和有机质动态，与用户关注的陆地碳循环和土壤有机质形成机制有一定间接关联，但研究系统为海洋而非陆地，且不涉及动物或rewilding，相关性一般。研究地点在地中海沿岸（欧洲），可适当加分，但整体主题距离核心方向较远。",
+      "related_papers": [],
+      "image_url": "https://bg.copernicus.org/articles/23/5377/2026/bg-23-5377-2026-avatar-web.png",
+      "scientific_question": "这篇文章试图回答地中海沿岸海洋表层微层（SML）中溶解有机物（DOM）的选择性积累机制是什么，即CDOM和FDOM在SML中的富集特征及其与水下DOC库的关系如何受不同生物地球化学过程调控。",
+      "contributions_limitations": "主要贡献在于通过多光谱CDOM和FDOM表征及新提出的FDOM/CDOM指数，揭示了SML中有机质的波长依赖性富集和CDOM-FDOM解耦现象，表明光降解、生物过程和大气输入共同塑造DOC库。局限性可能在于研究仅基于单一地中海沿岸站点，SML的复杂动态和季节变化可能未被充分覆盖，且基于现有信息，对具体量化贡献的推断有限。",
+      "follow_up_research": "后续研究可扩展至不同季节和海洋环境（如开阔大洋、极地）以验证FDOM/CDOM指数的普适性；也可结合分子级表征（如FT-ICR-MS）深入解析SML中有机质的来源与转化路径，并探究大气沉积对SML有机质组成的定量贡献。",
+      "next_step_perspective": "这篇文章为研究提供了方法学借鉴，即利用光学指数（如FDOM/CDOM）区分不同来源和过程的有机质组分，这一思路可类比应用于陆地生态系统，如区分重野化区域土壤有机碳库中不同来源（植物凋落物、动物粪便）的贡献，或追踪动物介导的碳输入在土壤中的迁移与稳定过程。",
+      "why_this_journal": "推测：该文章发表在Biogeosciences，因其聚焦于生物地球化学循环中有机质的来源、转化与分配机制，结合了创新的光谱表征方法和综合性分析，符合期刊对跨介质过程研究的定位。",
+      "author_profile": {
+        "name": "Elli Pitta",
+        "institution": "Hellenic Centre for Marine Research",
+        "intro": "Elli Pitta任职于希腊海洋研究中心（Hellenic Centre for Marine Research），根据其所在机构及本文内容，其研究方向可能为海洋生物地球化学，重点关注溶解有机物循环及其环境驱动因素。该研究与用户方向（碳循环、有机质形成与稳定）有一定关联，但其海洋视角可为理解水生-陆地界面碳交换或同位素方法应用提供启发。",
+        "other_works": []
+      }
+    }
+  ]
 }
