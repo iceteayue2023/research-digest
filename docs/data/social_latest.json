@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T14:27:54.275713+00:00",
-  "count": 9,
+  "generated_at": "2026-08-04T02:51:51.597265+00:00",
+  "count": 6,
   "posts": [
     {
       "handle": "nature.com",
@@ -67,39 +67,6 @@
       "external_description": "A process-rich global biogeochemical model is used to determine the trade-offs between carbon dioxide removal efficiency and ecosystem impacts in ten ocean ocean biomes following ocean iron fertilization.",
       "external_uri": "https://go.nature.com/4wvwaql",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreibpbj274uatrkims7kdxqjdvyrafnedzmpqreo5uppas7mx6amqau"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Climate change emerges as a major threat in an in-depth analysis of the threat exposure of the biodiversity of the world’s islands. Vulnerable islands include those in the Seychelles, Bangladesh, China, French Polynesia, and Micronesia. In PNAS: https://ow.ly/L4y650Zv3vE",
-      "created_at": "2026-08-01T01:00:16.821926244Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mrybe3rjwr27",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Nature research paper: Photocatalytic water splitting by 2D polymer with out-of-plane carrier flow\n\ngo.nature.com/3S3fGXi",
-      "created_at": "2026-07-31T17:45:01.090Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mrxizrdfkp2u",
-      "external_title": "Photocatalytic water splitting by 2D polymer with out-of-plane carrier flow - Nature",
-      "external_description": "A strategy using polymeric carbon nitride crystals induces out-of-plane carrier migration by means of internal electric fields applied on facet-selective nanofilms placed on polymer photocatalysts, increasing the apparent quantum efficiency for overall water splitting.",
-      "external_uri": "https://go.nature.com/3S3fGXi",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreihxk4di2xv5g6hjyaaid5uwdxvild37l36kldgl5bavdhil6yedka"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Geoscience",
-      "text": "⚒️ Article: Only about ten percent of organic carbon from thawing Pleistocene permafrost in the Arctic that is buried in marine sediments ends up re-entering the active carbon cycle\n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-07-31T16:00:04.777Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mrxd64j5z22h",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
