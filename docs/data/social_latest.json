@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-04T08:24:29.152985+00:00",
-  "count": 7,
+  "generated_at": "2026-08-04T13:58:58.006868+00:00",
+  "count": 9,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Diseases don’t stop at borders. Pandemics, climate change and conflicts demand a collective approach, says Tedros Adhanom Ghebreyesus\n\ngo.nature.com/4hMuDHB",
+      "created_at": "2026-08-04T13:48:01.413Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msb5no7xo22h",
+      "external_title": "Why the need for the WHO has never been greater",
+      "external_description": "Diseases don’t stop at borders. Pandemics, climate change and conflicts demand a collective approach.",
+      "external_uri": "https://go.nature.com/4hMuDHB",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicyniq2evjw7xmpkkoswwkogot42mzg5rgdx4xfokxtwthjafihr4"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Newly found earthworks suggest that about 3 million people might have lived in just about 3% of the Amazon rainforest’s entire area. https://scim.ag/45BE4Cx",
+      "created_at": "2026-08-04T13:23:01.520169295Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3msb4axnntg24",
+      "external_title": "Odd shapes hidden in dense Amazon rainforest reveal sprawling ancient civilization",
+      "external_description": "Newly found earthworks suggest about 3 million people might have lived in just about 3% of the forest’s entire area",
+      "external_uri": "https://scim.ag/45BE4Cx",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreicayrhbtbt6jutqufmonigxczw3z5yng6ao6d6oreklmmen2izjcm"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Sustaining Europe's strong position in the life-sciences sector will require investment and education in bioengineering\n\ngo.nature.com/4hMuCU3",
+      "created_at": "2026-08-04T12:47:56.210Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msb2ca2hqt26",
+      "external_title": "Europe can become a bioengineering powerhouse with these three changes",
+      "external_description": "Sustaining the region’s strong position in the life-sciences sector will require investment and education in bioengineering.",
+      "external_uri": "https://go.nature.com/4hMuCU3",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreif2lih2lsypvdqenq47sohouipujrcssksueczgi5uecbohazwf2i"
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -67,17 +100,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Nature research paper: Climate benefit and ecological cost trade-offs for ocean iron fertilization\n\ngo.nature.com/4wvwaql",
-      "created_at": "2026-08-01T10:46:16.974Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mrzc3wkrch2i",
-      "external_title": "Climate benefit and ecological cost trade-offs for ocean iron fertilization - Nature",
-      "external_description": "A process-rich global biogeochemical model is used to determine the trade-offs between carbon dioxide removal efficiency and ecosystem impacts in ten ocean ocean biomes following ocean iron fertilization.",
-      "external_uri": "https://go.nature.com/4wvwaql",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreibpbj274uatrkims7kdxqjdvyrafnedzmpqreo5uppas7mx6amqau"
     }
   ]
 }

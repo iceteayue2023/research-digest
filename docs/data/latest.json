@@ -1,8 +1,221 @@
 {
   "date": "2026-08-04",
-  "generated_at": "2026-08-04T08:24:29.152499+00:00",
-  "count": 1,
+  "generated_at": "2026-08-04T13:58:58.005740+00:00",
+  "count": 4,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41893-026-01917-5",
+      "title": "Subnational mechanisms undermine transnational anti-deforestation policies",
+      "link": "https://www.nature.com/articles/s41893-026-01917-5",
+      "summary": "Nature Sustainability, Published online: 04 August 2026; doi:10.1038/s41893-026-01917-5Dry forests, such as the Argentine Chaco, are protected by a mix of local and foreign policies. However, strategies to relax local forest zoning laws circumvent dry forest protection, increasing pressure on foreign policies to move towards zero gross deforestation.",
+      "journal": "Nature Sustainability",
+      "published": "2026-08-04T00:00:00+00:00",
+      "doi": "10.1038/s41893-026-01917-5",
+      "affiliation": null,
+      "title_zh": "地方机制削弱了跨国反毁林政策",
+      "relevance_score": 7,
+      "key_conclusion": "研究发现，在阿根廷查科等干旱森林地区，地方和外国政策共同保护森林，但旨在放宽地方森林分区法的策略破坏了保护效果，迫使外国政策需向零净毁林目标推进。",
+      "relevance_note": "涉及森林退化与恢复过程中的碳损失与保护政策，与用户关注的陆地生态系统碳循环及生态恢复主题相关，且研究地点在欧洲以外（阿根廷），但因关注森林碳汇功能，给予较高分数。",
+      "related_papers": [
+        {
+          "title": "Transnational Climate Litigation: The Contribution of the Global South",
+          "link": "https://doi.org/10.1017/ajil.2019.48",
+          "venue": "American Journal of International Law",
+          "year": 2019
+        },
+        {
+          "title": "Analysing REDD+: Challenges and choices",
+          "link": "https://doi.org/10.17528/cifor/003805",
+          "venue": "Center for International Forestry Research (CIFOR) eBooks",
+          "year": 2012
+        },
+        {
+          "title": "Reconciling global aspirations and local realities: Challenges facing the Sustainable Development Goals for water and sanitation",
+          "link": "https://doi.org/10.1016/j.worlddev.2019.02.009",
+          "venue": "World Development",
+          "year": 2019
+        },
+        {
+          "title": "Forest certification: a policy perspective",
+          "link": "https://doi.org/10.17528/cifor/000825",
+          "venue": "Center for International Forestry Research (CIFOR) eBooks",
+          "year": 2000
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-026-01917-5/MediaObjects/41893_2026_1917_Fig1_HTML.png",
+      "scientific_question": "地方层面的策略性放松森林分区法的机制如何破坏跨国反毁林政策的有效性，以及这种地方-跨国政策互动如何影响干旱森林的保护？",
+      "contributions_limitations": "主要贡献在于揭示了地方与跨国政策之间的博弈机制，表明地方层面的策略性规避行为（如放松分区法）会显著削弱跨国反毁林政策的效果，为理解政策多层级的相互作用提供了实证。可能的局限性包括研究聚焦于阿根廷查科地区的特定情境，结论的普适性有待其他干旱森林地区的验证；摘要未提供具体数据支撑，具体量化机制需查原文。",
+      "follow_up_research": "后续研究可探索不同治理结构下地方-跨国政策互动的比较分析，以识别哪些制度设计能更有效抑制地方规避行为；也可研究如何将零净毁林目标与地方社会经济激励相结合，以提高政策执行力；还可考察类似机制在其他生态系统（如草原、湿地）重野化过程中的适用性。",
+      "next_step_perspective": "此文提供了政策层级互动如何影响生态系统保护的分析框架，可启发用户思考重野化项目中地方政策与跨国激励机制之间的张力是否也会影响土壤碳汇恢复效果，例如地方放牧政策放松可能抵消重野化带来的碳积累效益。",
+      "why_this_journal": "推测该文能发表在Nature Sustainability是因为其揭示了可持续发展的跨尺度治理难题，涉及环境政策、社会经济学和生态保护的交叉，具有重要的政策启示意义和跨学科创新性。",
+      "author_profile": {
+        "name": "Matías E. Mastrangelo",
+        "institution": null,
+        "intro": "Matías E. Mastrangelo来自阿根廷，从历史论文看，其研究集中于阿根廷查科地区森林砍伐、生态系统服务、生物多样性保护及地方社区对环境变化的感知，主要关注土地系统科学与可持续发展政策。这些研究与用户的rewilding和碳循环方向在景观尺度的生态系统功能恢复上有潜在关联，尤其是放牧和土地利用变化对碳储量的影响。",
+        "other_works": [
+          {
+            "title": "Subnational mechanisms undermine transnational anti-deforestation policies",
+            "year": "2026",
+            "journal": "Nature Sustainability",
+            "doi": "10.1038/s41893-026-01917-5"
+          },
+          {
+            "title": "Local Criollo people's perceptions of changes in wild food consumption in a deforestation frontier in the Argentine Dry Chaco",
+            "year": "2026",
+            "journal": "Ambio",
+            "doi": "10.1007/s13280-025-02327-1"
+          },
+          {
+            "title": "Future socioeconomic pathways shape the fate of regulating ecosystem services in the Gran Chaco under climate change",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.2139/ssrn.7175102"
+          },
+          {
+            "title": "Gobernanza ambiental en la conservación de la biodiversidad y el desarrollo socio-económico en la Reserva de Biosfera “Parque Atlántico Mar Chiquito”, 2012-2022",
+            "year": "2025",
+            "journal": "Revista Española de Desarrollo y Cooperación",
+            "doi": "10.5209/redc.99505"
+          },
+          {
+            "title": "Towards impactful scientists’ activism",
+            "year": "2025",
+            "journal": "Science",
+            "doi": "10.1126/science.ads8911"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41579-026-01356-1",
+      "title": "More resources, less microbial diversity",
+      "link": "https://www.nature.com/articles/s41579-026-01356-1",
+      "summary": "Nature Reviews Microbiology, Published online: 04 August 2026; doi:10.1038/s41579-026-01356-1In a recent study, Shalev and colleagues demonstrate that enhanced resource diversity in microbial communities can reduce microbial biodiversity, challenging current ecological theories.",
+      "journal": "Nature Reviews Microbiology",
+      "published": "2026-08-04T00:00:00+00:00",
+      "doi": "10.1038/s41579-026-01356-1",
+      "affiliation": null,
+      "title_zh": "更多资源，更少微生物多样性",
+      "relevance_score": 7,
+      "key_conclusion": "Shalev等人的研究表明，微生物群落中资源多样性的增加可能降低微生物多样性，挑战了当前的生态学理论。",
+      "relevance_note": "该研究探讨微生物多样性与资源关系，与用户关注的土壤微生物群落结构及生态系统功能联系密切，且挑战传统理论，对理解土壤有机质形成机制有参考价值。",
+      "related_papers": [
+        {
+          "title": "Structure, function and diversity of the healthy human microbiome",
+          "link": "https://doi.org/10.1038/nature11234",
+          "venue": "Nature",
+          "year": 2012
+        },
+        {
+          "title": "A communal catalogue reveals Earth’s multiscale microbial diversity",
+          "link": "https://doi.org/10.1038/nature24621",
+          "venue": "Nature",
+          "year": 2017
+        },
+        {
+          "title": "Bioactive Microbial Metabolites",
+          "link": "https://doi.org/10.1038/ja.2005.1",
+          "venue": "The Journal of Antibiotics",
+          "year": 2005
+        },
+        {
+          "title": "Plant diversity increases soil microbial activity and soil carbon storage",
+          "link": "https://doi.org/10.1038/ncomms7707",
+          "venue": "Nature Communications",
+          "year": 2015
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "增加资源多样性是否以及如何降低微生物群落的多样性？这一现象是否挑战了传统的生态学理论（如资源多样性促进物种多样性）？",
+      "contributions_limitations": "主要贡献在于通过最新研究实证挑战了资源多样性增加必然提升微生物多样性的传统观点，为微生物生态学理论提供了重要修正视角。局限性在于内容为对Shalev等人研究的评论，缺乏原始实验细节，且机制解释可能有限；具体实验条件和适用边界需查阅原文。",
+      "follow_up_research": "后续研究可探索资源多样性降低微生物多样性的潜在机制（如竞争排斥增强或快速生长物种主导），并考察在土壤生态系统中，放牧或重野化引入的动物粪便等资源变化是否也会类似地影响微生物群落结构与功能。",
+      "next_step_perspective": "此观点文章提示用户在研究大型食草动物对土壤碳的影响时，需注意资源输入（如粪便、植物残体）增加不一定促进微生物多样性，反而可能改变群落组成，进而影响POM与MAOM的形成路径，这为解释重野化后土壤碳变化提供了新思路。",
+      "why_this_journal": "推测该文能发表在Nature Reviews Microbiology是因为其以权威评论形式聚焦于挑战主流生态学理论的突破性发现，对微生物学和生态学领域的理论发展具有广泛影响，符合期刊关注高影响力的综述和观点文章的定位。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5399-2026",
+      "title": "Air–sea CO2 exchange in the Southern Adriatic Sea: assessing its role as a moderate carbon sink over the last decade (2015–2024)",
+      "link": "https://doi.org/10.5194/bg-23-5399-2026",
+      "summary": "Air–sea CO2 exchange in the Southern Adriatic Sea: assessing its role as a moderate carbon sink over the last decade (2015–2024)\n                    Carlotta Dentico, Gianpiero Cossarini, Giuseppe Civitarese, Michele Giani, Angelo Rubino, and Vanessa Cardin\n                        Biogeosciences, 23, 5399–5418, https://doi.org/10.5194/bg-23-5399-2026, 2026\n                        The concentration of carbon dioxide in the atmosphere is rising due to human activities. The ocean has absorbed almost 30 % of the total emissions and stored in deeper waters. We studied the southern Adriatic, an area where dense water forms and sinks, helping move carbon from the surface to depth. Using a recently validated long-term dataset, we found that over the past decade this region acted as a net sink of carbon dioxide, highlighting its role in storing carbon in the Mediterranean Sea.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-04T11:31:03+02:00",
+      "doi": "10.5194/bg-23-5399-2026",
+      "affiliation": null,
+      "title_zh": "南亚得里亚海的海气CO2交换：评估其过去十年（2015–2024）作为中等碳汇的作用",
+      "relevance_score": 6,
+      "key_conclusion": "通过长期数据集分析，研究发现南亚得里亚海在过去十年中是一个净二氧化碳汇，在将碳从表层输送到深层中发挥作用，突显了其在地中海碳储存中的重要性。",
+      "relevance_note": "文章涉及海洋碳循环和碳汇动态，与用户关注的碳循环主题相关，但聚焦海洋而非陆地生态系统，且研究地点在欧洲（亚得里亚海），符合欧洲研究偏好，给予中等偏上分数。",
+      "related_papers": [
+        {
+          "title": "Oceanographic Research in Thermaikos Gulf: A Review over Five Decades",
+          "link": "https://doi.org/10.20944/preprints202403.1776.v1",
+          "venue": "Preprints.org",
+          "year": 2024
+        },
+        {
+          "title": "Marine benthic foraminifera diversity in extreme environments: A case study from the Edisto Bay (Ross Sea, Antarctica)",
+          "link": "https://doi.org/10.1016/j.marmicro.2026.102553",
+          "venue": "Marine Micropaleontology",
+          "year": 2026
+        },
+        {
+          "title": "Air–sea CO <sub>2</sub> exchange in the Southern Adriatic Sea: assessing its role as a moderate carbon sink over the last decade",
+          "link": "https://doi.org/10.5194/egusphere-2026-1360",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Implementation and assessment of a model including mixotrophs and the carbonate cycle (Eco3M_MIX-CarbOx v1.0) in a highly dynamic Mediterranean coastal environment (Bay of Marseille, France) – Part 2: Towards a better representation of total alkalinity when modeling the carbonate system and air–sea CO <sub>2</sub> fluxes",
+          "link": "https://doi.org/10.5194/gmd-17-5851-2024",
+          "venue": "Geoscientific model development",
+          "year": 2024
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5399/2026/bg-23-5399-2026-avatar-web.png",
+      "scientific_question": "过去十年（2015-2024）南亚得里亚海的海-气CO2交换是否表现出净碳汇功能，以及深层水形成过程如何影响碳从表层向深层的输送？",
+      "contributions_limitations": "主要贡献在于利用新验证的长期数据集量化了南亚得里亚海作为中等碳汇的角色，强调了深层水形成在碳垂直输送中的关键作用，填补了地中海碳循环区域性研究的空白。可能的局限性是研究仅基于单一区域的数据，需考虑年际变率和更长时间尺度；摘要未涵盖具体CO2通量数值，定量结论需查原文。",
+      "follow_up_research": "后续可研究气候变暖对深层水形成频率和强度的影响及其对碳汇功能的长期反馈；也可将类似方法应用于其他深层水形成区域（如北极或南大洋）以比较碳输送效率；还可探讨海洋碳汇与陆地（如重野化生态系统）碳汇之间的协同或抵消关系。",
+      "next_step_perspective": "此文提供了水体碳运输和长期通量监测的方法论，可启发用户在设计重野化碳循环研究时采用类似的长时序数据整合策略，并关注生态系统介导的碳横向迁移（如动物移动携带碳）如何影响局部碳收支。",
+      "why_this_journal": "推测该文能发表在Biogeosciences是因为其采用了严谨的长期观测数据和地球化学分析手段，深入探讨了区域碳循环的关键过程，符合期刊关注生物地球化学过程机制研究的宗旨；研究区域的地中海特性也增加了其全球碳循环比较研究的价值。",
+      "author_profile": {
+        "name": "Vanessa Cardin",
+        "institution": "Istituto Nazionale di Oceanografia e Geofisica Sperimentale",
+        "intro": "Vanessa Cardin来自意大利国家海洋学与实验地球物理研究所，从历史论文看，其研究方向集中于海洋碳循环、水团动力学及地中海深层水形成过程，尤其关注盐度驱动和深层水输出机制。这些研究与用户的碳循环方向相关，但其海洋系统与陆地重野化的交叉较弱，可能主要在生态系统碳通量观测方法上提供借鉴。",
+        "other_works": [
+          {
+            "title": "Air–sea CO2 exchange in the Southern Adriatic Sea: assessing its role as a moderate carbon sink over the last decade (2015–2024)",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5399-2026"
+          },
+          {
+            "title": "Salinity-driven dynamics in the central Mediterranean in the era of ocean warming",
+            "year": "2026",
+            "journal": "Environmental Research Communications",
+            "doi": "10.1088/2515-7620/ae558a"
+          },
+          {
+            "title": "Air–sea CO2 exchange in the Southern Adriatic Sea: assessing its role as a moderate carbon sink over the last decade",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1360"
+          },
+          {
+            "title": "Supplementary material to \"Air–sea CO2 exchange in the Southern Adriatic Sea: assessing its role as a moderate carbon sink over the last decade\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1360-supplement"
+          },
+          {
+            "title": "Surface pCO2 and hydrography in the dense water formation area of the southern Adriatic",
+            "year": "2026",
+            "journal": "Earth System Science Data",
+            "doi": "10.5194/essd-18-2119-2026"
+          }
+        ]
+      }
+    },
     {
       "id": "https://doi.org/10.5194/bg-23-5377-2026",
       "title": "Selective accumulation of dissolved organic matter in the sea surface microlayer: integrated multi-spectral CDOM and FDOM characterization and a novel FDOM/CDOM index at a Mediterranean coastal site",
