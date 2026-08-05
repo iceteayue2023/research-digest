@@ -1,8 +1,171 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-05T08:22:09.359364+00:00",
-  "count": 1,
+  "generated_at": "2026-08-05T13:57:41.718897+00:00",
+  "count": 8,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02032-y",
+      "title": "Accelerating biomass loss from forest disturbances across Europe",
+      "link": "https://www.nature.com/articles/s41561-026-02032-y",
+      "summary": "Nature Geoscience, Published online: 05 August 2026; doi:10.1038/s41561-026-02032-ySatellite observations reveal accelerating aboveground biomass loss across Europe’s forests since 2018, increasingly driven by natural disturbances. These trends weaken the forest carbon sink and challenge climate mitigation efforts through forest policy.",
+      "journal": "Nature Geoscience",
+      "published": "2026-08-05T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02032-y",
+      "affiliation": null,
+      "title_zh": "欧洲森林干扰导致的生物量损失加速",
+      "relevance_score": 9,
+      "key_conclusion": "卫星观测显示，自2018年以来，欧洲森林的地上生物量损失加速，且越来越多地由自然干扰驱动。这些趋势削弱了森林碳汇功能，并对通过森林政策减缓气候变化的努力构成挑战。",
+      "relevance_note": "该文直接涉及陆地生态系统碳循环中的碳汇变化与森林干扰，属于用户关注领域(1)；且研究地点在欧洲，符合用户对欧洲研究地的特别偏好，应适当提高相关性分数。",
+      "related_papers": [
+        {
+          "title": "Productivity overshadows temperature in determining soil and ecosystem respiration across European forests",
+          "link": "https://doi.org/10.1046/j.1365-2486.2001.00412.x",
+          "venue": "Global Change Biology",
+          "year": 2001
+        },
+        {
+          "title": "More than 75 percent decline over 27 years in total flying insect biomass in protected areas",
+          "link": "https://doi.org/10.1371/journal.pone.0185809",
+          "venue": "PLoS ONE",
+          "year": 2017
+        },
+        {
+          "title": "Pervasive shifts in forest dynamics in a changing world",
+          "link": "https://doi.org/10.1126/science.aaz9463",
+          "venue": "Science",
+          "year": 2020
+        },
+        {
+          "title": "Arthropod decline in grasslands and forests is associated with landscape-level drivers",
+          "link": "https://doi.org/10.1038/s41586-019-1684-3",
+          "venue": "Nature",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02032-y/MediaObjects/41561_2026_2032_Fig1_HTML.png",
+      "scientific_question": "自2018年以来，欧洲森林地上生物量损失的变化趋势及其驱动因素是什么？这些变化如何影响森林碳汇功能？",
+      "contributions_limitations": "该研究利用卫星观测揭示了欧洲森林地上生物量损失自2018年以来加速，并识别出自然干扰（如风暴、病虫害等）日益成为主要驱动因素，而不仅仅是采伐活动，这对理解欧洲森林碳汇减弱机制有重要贡献。基于现有信息推测，研究的局限性可能包括遥感数据对低密度或幼龄林生物量损失的低估，以及未能完全区分不同干扰类型的交互作用；确切局限需查看原文。",
+      "follow_up_research": "后续研究可探讨自然干扰增强是否与气候变化（如极端干旱频率增加）存在因果关联，并量化干扰后森林恢复速率对长期碳汇动态的影响。此外，可将这些干扰驱动的生物量损失模式纳入生态系统模型，预测未来不同气候情景下欧洲森林碳汇的演变路径。",
+      "next_step_perspective": "该研究为你的核心研究方向提供了欧洲尺度上森林碳汇动态的宏观背景，尤其适合作为rewilding干扰效应（如自然干扰恢复过程）的对照基线。其遥感分析框架可启发你利用类似卫星产品（如NPP、生物量产品）评估大型食草动物重野化区域与未干扰区域的碳动态差异，并关注自然干扰与动物扰动在碳循环中的交互作用。",
+      "why_this_journal": "推测：该研究发表在Nature Geoscience是因为其结合高分辨率卫星遥感数据与大规模时空分析，揭示了自然干扰对欧洲森林碳汇的实质性削弱，这一发现对全球碳循环科学和气候政策制定具有重要的跨学科意义和时效性。",
+      "author_profile": {
+        "name": "Katja Kowalski",
+        "institution": "Technical University of Munich",
+        "intro": "Katja Kowalski在慕尼黑工业大学（Technical University of Munich）工作，从其系列作品看，主要研究方向是利用Landsat和Sentinel-2等遥感时间序列分析草地和森林生态系统对干旱等气候胁迫的响应动态。该研究与你的方向关联在于，其开发的大尺度植被监测方法和干旱响应解读工具，可直接用于评估重野化区域植被恢复与碳循环对极端气候的敏感性。",
+        "other_works": [
+          {
+            "title": "Accelerating biomass loss from forest disturbances across Europe",
+            "year": "2026",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-026-02032-y"
+          },
+          {
+            "title": "Characterizing near-surface temperature dynamics in mountain ecosystems using Landsat",
+            "year": "2026",
+            "journal": "Agricultural and Forest Meteorology",
+            "doi": "10.1016/j.agrformet.2026.111258"
+          },
+          {
+            "title": "Large‐scale remote sensing analysis reveals an increasing coupling of grassland vitality to atmospheric water demand",
+            "year": "2024",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.17315"
+          },
+          {
+            "title": "Characterizing drought response patterns of Central European grasslands based on four decades of Landsat and Sentinel-2 data",
+            "year": "2023",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu23-13278"
+          },
+          {
+            "title": "A generalized framework for drought monitoring across Central European grassland gradients with Sentinel-2 time series",
+            "year": "2023",
+            "journal": "Remote Sensing of Environment",
+            "doi": "10.1016/j.rse.2022.113449"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02037-7",
+      "title": "Monitoring Europe’s forests in a changing climate",
+      "link": "https://www.nature.com/articles/s41561-026-02037-7",
+      "summary": "Nature Geoscience, Published online: 05 August 2026; doi:10.1038/s41561-026-02037-7The European Union’s climate goals rely on forests as carbon sinks. Remote sensing data reveal accelerating biomass loss and distinguish the contributions of harvesting and natural disturbances, helping to better inform forest policy and climate actions.",
+      "journal": "Nature Geoscience",
+      "published": "2026-08-05T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02037-7",
+      "affiliation": null,
+      "title_zh": "监测气候变化中的欧洲森林",
+      "relevance_score": 8,
+      "key_conclusion": "欧盟气候目标依赖森林作为碳汇，遥感数据显示生物量损失加速，并能区分采伐和自然干扰的贡献，有助于更好地指导森林政策和气候行动。",
+      "relevance_note": "文章直接涉及欧洲森林碳汇变化和气候变化响应，与用户关注的陆地碳循环（尤其是欧洲地点）高度相关，且涉及生态系统功能恢复，应给高分。",
+      "related_papers": [],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02037-7/MediaObjects/41561_2026_2037_Fig1_HTML.png",
+      "scientific_question": "",
+      "contributions_limitations": "",
+      "follow_up_research": "",
+      "next_step_perspective": "",
+      "why_this_journal": "",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2510678123?af=R",
+      "title": "Source limitation drives slow compositional recovery in tropical secondary forests",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2510678123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. SignificanceAlthough tropical forests can recover many characteristics of mature, undisturbed forests within decades, plant species composition remains incomplete. We examined this lag in tree species composition recovery in tropical secondary forests ...",
+      "journal": "PNAS",
+      "published": "2026-07-20T07:00:00+00:00",
+      "doi": "10.1073/pnas.2510678123",
+      "affiliation": "Department of Biology, Stanford University; Refauna; EARTH University",
+      "title_zh": "源限制导致热带次生林组成恢复缓慢",
+      "relevance_score": 7,
+      "key_conclusion": "热带次生林在数十年内可恢复成熟森林的许多特征，但树种组成的恢复仍不完整，这种滞后主要由种子/繁殖体源限制驱动，而非其他环境因素。",
+      "relevance_note": "文章涉及热带森林恢复过程中的碳汇与生物多样性恢复，与用户关注的陆地生态系统碳循环及森林恢复主题高度相关，且研究地点（热带区域）虽非欧洲，但相关性强。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "热带次生林树种组成恢复缓慢的机制是什么？种子/繁殖体源限制在多大程度上驱动了这一恢复滞后？",
+      "contributions_limitations": "该研究通过实证数据表明，热带次生林树种组成恢复不完全的主要驱动力是源限制（即种子或繁殖体的可用性不足），而非其他环境因素，这为退化森林恢复提供了关键机制性认识。基于现有信息推测，其局限性可能在于研究范围或特定物种种类的代表性有限，且源限制在不同景观背景下的相对重要性可能被简化，具体需查看原文验证。",
+      "follow_up_research": "后续研究可结合种子扩散网络（如动物散播种子的距离与频率）量化源限制的空间尺度，并探索在源限制严重的热带次生林中实施定向播种或动物重引入（如食果动物）以加速组成恢复的可行性。此外，可模拟不同源限制缓解策略对森林碳储量和物种多样性的长期协同效应。",
+      "next_step_perspective": "该研究为你的重野化研究提供了直接启示：大型食草动物作为种子扩散者，其存在与否可能通过缓解源限制而影响植被组成恢复。这建议你在评估重野化对土壤有机碳的影响时，需同时追踪植被群落组成的演替路径，因为组成变化可能比单纯生物量恢复更持久地影响碳输入质量和土壤碳稳定。",
+      "why_this_journal": "推测：该研究发表在PNAS是因为它通过严格的对比分析揭示了热带森林恢复中的核心机制瓶颈（源限制），这在全球森林恢复和碳固存背景下具有广泛的生态学意义和政策相关性，且数据支持的关键结论具有较强说服力。",
+      "author_profile": {
+        "name": "Luísa Genes",
+        "institution": "Stanford University",
+        "intro": "Luísa Genes在斯坦福大学（Stanford University）工作，从其作品集看，主要研究热带森林生态与保护，尤其关注动物介导的种子扩散、大型动物（如低地貘）的食性及其在生态系统恢复中的作用。该研究与你的方向高度关联，因为其工作直接探讨了动物（食果动物和大型食草动物）如何通过种子扩散影响植被恢复，这与重野化对碳循环的间接影响机制密切相关。",
+        "other_works": [
+          {
+            "title": "Source limitation drives slow compositional recovery in tropical secondary forests.",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+            "doi": "10.1073/pnas.2510678123"
+          },
+          {
+            "title": "First Record of Yellow-Footed Tortoise (Chelonoidis denticulatus) Feces Attracting Dung Beetles",
+            "year": "2026",
+            "journal": "BIOTROPICA",
+            "doi": "10.1111/btp.70216"
+          },
+          {
+            "title": "Unveiling the Dietary Selection of Lowland Tapirs (Tapirus terrestris) in a Tropical Rainforest.",
+            "year": "2026",
+            "journal": "Ecology and evolution",
+            "doi": "10.1002/ece3.73161"
+          },
+          {
+            "title": "Successful frugivory interactions recovery 53 years after the reintroduction of the ariel toucan <i>Ramphastos ariel</i> in the Atlantic forest",
+            "year": "2026",
+            "journal": "OIKOS",
+            "doi": "10.1002/oik.11881"
+          },
+          {
+            "title": "Brazil on fire: Igniting awareness of the 2024 wildfire crisis.",
+            "year": "2025",
+            "journal": "Journal of environmental management",
+            "doi": "10.1016/j.jenvman.2025.126190"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.nature.com/articles/d41586-026-02350-6",
       "title": "Tiny patch of Amazon probably holds 40,000 insect species — many new to science",
@@ -49,6 +212,238 @@
       "next_step_perspective": "这篇文章为在超高生物多样性区域开展系统性野外编目提供了方法论参考，其垂直分层采样策略可能适用于研究大型动物重野化对土壤-植被-节肢动物互作网络的影响。同时，确认的昆虫多样性规模可作为评估重野化或退化恢复区域生态系统功能完整性的潜在基线。",
       "why_this_journal": "推测因该研究揭示了世界最大雨林中惊人的昆虫多样性新估计，具有全球尺度的生物多样性科学意义，且大规模编目项目管理本身具有示范价值，符合Nature发表具有广泛科学影响力与新闻价值成果的定位。",
       "author_profile": null
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2530120123?af=R",
+      "title": "Dominant functional group explains global bird diversity responses to farmland abandonment",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530120123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. SignificanceIdentical conservation strategies often lead to differing context-dependent outcomes, posing a major hurdle for biodiversity conservation. This variability is evident in farmland abandonment and intensification, emerging drivers of terrestrial ...",
+      "journal": "PNAS",
+      "published": "2026-07-27T07:00:00+00:00",
+      "doi": "10.1073/pnas.2530120123",
+      "affiliation": "Biodiversity Division, National Institute for Environmental Studies; Graduate School of Agriculture, Hokkaido University; Shikoku Research Center, Forestry and Forest Products Research Institute",
+      "title_zh": "优势功能群解释了全球鸟类多样性对农田弃耕的响应",
+      "relevance_score": 6,
+      "key_conclusion": "农田弃耕和集约化是全球陆地生物多样性的新兴驱动因素，但保护成效具有情境依赖性；研究发现优势功能群（如食性、体型等）是解释鸟类多样性响应差异的关键因素。",
+      "relevance_note": "文章涉及土地利用变化（弃耕）对生物多样性的影响，与用户关注的生态系统功能恢复和生物多样性-生态系统功能关系相关，但未直接涉及碳循环或大型食草动物。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "农田弃耕和集约化如何影响全球鸟类多样性？为什么保护策略的成效在不同情境下存在巨大差异？",
+      "contributions_limitations": "该研究提出并验证了优势功能群（如食性、体型等）作为解释鸟类多样性响应差异的关键因子，为理解农田弃耕生态效应的情境依赖性提供了功能性视角，有助于预测不同管理策略下的生物多样性后果。基于现有信息推测，其局限性可能包括全球尺度分析中功能群划分的简化，以及对弃耕后演替阶段或气候差异的精细控制不足；具体限制需原文详查。",
+      "follow_up_research": "后续可扩展至其他类群（如植物、昆虫）以验证功能群框架的普遍性，并探索农田弃耕后的土地管理（如放牧、刈割）如何通过改变优势功能群丰度来调节鸟类多样性恢复。此外，可将该框架用于预测rewilding中土地退耕后动物群落的响应，尤其在欧洲废弃农田转变为半自然草甸的过程中。",
+      "next_step_perspective": "该研究为你的rewilding研究提供了重要的预测工具：在评估大型食草动物重野化对生态系统功能的影响时，需关注优势功能群的转变如何级联影响食物网和生态系统过程。其方法可用于分析弃耕后是否引入大型食草动物对鸟类或其他类群多样性的差异化影响，从而指导以生物多样性和碳固存为目标的rewilding实践。",
+      "why_this_journal": "推测：该研究发表在PNAS是因为其通过全球尺度的综合分析提出了一个机制性框架（优势功能群）来统一理解农业变化对生物多样性的矛盾结果，这种从观察到机制的理论整合具有广泛的生态学意义和显著的保护应用价值。",
+      "author_profile": {
+        "name": "Munehiro Kitazawa",
+        "institution": "National Institute for Environmental Studies",
+        "intro": "Munehiro Kitazawa在日本国立环境研究所（National Institute for Environmental Studies）工作，从其作品集看，主要研究鸟类迁徙生态、栖息地利用及人类土地利用变化对鸟类的长期影响。该研究与你的关联在于，其关注的土地弃耕和栖息地变化驱动机制可被延伸至欧洲rewilding场景中，用于预测大型动物恢复后动物群落的重组。",
+        "other_works": [
+          {
+            "title": "The impacts of seventy years of changes in stopover habitats on the critically endangered spoon-billed sandpiper Calidris pygmaea in Japan",
+            "year": "2026",
+            "journal": "Estuarine, Coastal and Shelf Science",
+            "doi": "10.1016/j.ecss.2026.110005"
+          },
+          {
+            "title": "Dominant functional group explains global bird diversity responses to farmland abandonment",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2530120123"
+          },
+          {
+            "title": "Can coastal plantation forests substitute for natural coastal forests as bird and plant habitat? A test across coastal zonation",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.64898/2026.04.16.718952"
+          },
+          {
+            "title": "The impacts of seventy years of changes in stopover habitats on the critically endangered Spoon-billed Sandpiper Calidris pygmaea",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.64898/2026.01.27.701643"
+          },
+          {
+            "title": "Loop vs. same route migrations of two songbird species between Japan and Southeast Asia",
+            "year": "2026",
+            "journal": "Journal of Ornithology",
+            "doi": "10.1007/s10336-025-02297-x"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2601044123?af=R",
+      "title": "Rapid microbial production of long-lived dissolved organic carbon in the global ocean",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601044123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. SignificanceThe ocean holds a vast reservoir of millennia-old organic carbon in the form of chemically complex dissolved organic matter (DOM), critical to Earth’s climate. Enabled by an advanced analytical tool, this study moves beyond conventional ...",
+      "journal": "PNAS",
+      "published": "2026-07-27T07:00:00+00:00",
+      "doi": "10.1073/pnas.2601044123",
+      "affiliation": "Department of Ocean Science and Center for Ocean Research in Hong Kong and Macau, The Hong Kong University of Science and Technology; Department of Environmental Analytical Chemistry, Research Group BioGeoOmics, Helmholtz Centre for Environmental Research; Ecosystems and Global Change Group, School of the Environment, Trent University",
+      "title_zh": "全球海洋中微生物快速产生长寿命溶解有机碳",
+      "relevance_score": 5,
+      "key_conclusion": "通过先进分析工具，研究发现海洋微生物能快速产生化学性质复杂的长寿命溶解有机碳，这挑战了传统对海洋有机碳库形成的认识，对理解全球碳循环具有重要意义。",
+      "relevance_note": "文章涉及海洋碳循环和有机碳形成机制，与用户关注的陆地土壤有机碳形成稳定机制虽有类似概念，但研究系统（海洋vs陆地）不同，相关性中等。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "这项研究旨在解答海洋中化学性质复杂、可存续数千年的长寿命溶解有机碳（DOM）库是如何形成的，特别是微生物过程在其中扮演何种角色。",
+      "contributions_limitations": "主要贡献是利用先进分析工具揭示了微生物能快速产生长寿命溶解有机碳，挑战了传统认为这类碳库需长期缓慢积累的观点，对全球碳循环模型具有重要修正意义。局限性在于摘要信息不足，未提供具体实验数据或机制细节，难以评估其结论在多大程度上可外推到不同海洋区域，建议查看原文获取具体定量结果和微生物类群信息。",
+      "follow_up_research": "基于此研究，可探讨陆地生态系统中微生物是否同样能快速产生长寿命有机碳，特别是大型食草动物粪便或尸体分解过程中的微生物碳转化是否形成类似稳定碳库。还可研究不同微生物群落结构（如放牧影响下的）如何影响长寿命有机碳的生成速率与化学特性。",
+      "next_step_perspective": "这篇文章的'微生物快速产生长寿命碳'视角可启发用户思考重野化过程中动物引入如何改变土壤微生物群落，进而可能加速或延缓稳定有机碳（如MAOM）的形成。其先进分析工具的应用思路对用户设计土壤有机碳组分分析实验有方法论借鉴价值。",
+      "why_this_journal": "该研究挑战了海洋碳循环的传统认知，涉及全球气候变化这一重大议题，且使用了先进分析工具，具有较高的创新性和跨学科意义，符合PNAS发表高影响力基础科学研究的定位。此为推测。",
+      "author_profile": {
+        "name": "Ruanhong Cai",
+        "institution": null,
+        "intro": "Ruanhong Cai的主要研究方向集中在海洋溶解有机碳的生物地球化学循环，特别是微生物驱动的惰性有机分子（如羧基富含脂环分子）的产生与降解机制。其多篇论文围绕'化学暗物质'、生物难降解性等概念展开，与用户关注的土壤有机质稳定机制在化学和微生物过程层面有共通性，但应用场景从海洋转向陆地土壤可能需要方法调适。",
+        "other_works": [
+          {
+            "title": "Rapid microbial production of long-lived dissolved organic carbon in the global ocean",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2601044123"
+          },
+          {
+            "title": "Constraining Bio-recalcitrance of Carboxyl-Rich Alicyclic Molecules in the Ocean",
+            "year": "2025",
+            "journal": "Science Advances",
+            "doi": "10.1126/sciadv.adw1148"
+          },
+          {
+            "title": "Deciphering Microbially Driven Labile and Refractory Molecular Candidates in Dissolved Organic Matter",
+            "year": "2025",
+            "journal": "Journal of Geophysical Research: Biogeosciences",
+            "doi": "10.1029/2024JG008484"
+          },
+          {
+            "title": "The Hunt for Chemical Dark Matter across a River-to-Ocean Continuum",
+            "year": "2024",
+            "journal": "Environmental Science & Technology",
+            "doi": "10.1021/acs.est.4c00648"
+          },
+          {
+            "title": "Direct Production of Bio-Recalcitrant Carboxyl-Rich Alicyclic Molecules Evidenced in a Bacterium-Induced Steroid Degradation Experiment",
+            "year": "2023",
+            "journal": "Microbiology Spectrum",
+            "doi": "10.1128/spectrum.04693-22"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03117-y",
+      "title": "Extensive climate-induced range shifts in butterflies across the globe",
+      "link": "https://www.nature.com/articles/s41559-026-03117-y",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 05 August 2026; doi:10.1038/s41559-026-03117-yInsects are increasingly pressured by climate change. Here the authors compile global evidence of range shifts in butterflies and call for more co-ordinated efforts in documenting such trends across countries.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-05T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03117-y",
+      "affiliation": null,
+      "title_zh": "全球蝴蝶广泛的气候驱动范围转移",
+      "relevance_score": 5,
+      "key_conclusion": "通过整合全球证据，研究发现蝴蝶因气候变化发生广泛的范围转移，并呼吁各国协调努力记录这些趋势。",
+      "relevance_note": "文章涉及气候变化对物种分布的影响，与用户关注的极端气候事件对生态系统扰动相关，但主题为昆虫而非大型食草动物或碳循环，相关性中等。",
+      "related_papers": [],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03117-y/MediaObjects/41559_2026_3117_Fig1_HTML.png",
+      "scientific_question": "这篇文章试图回答全球范围内蝴蝶物种如何响应气候变化而发生分布范围转移，以及当前对这些转移趋势的监测记录是否存在系统性不足。",
+      "contributions_limitations": "主要贡献是首次系统整合全球证据，量化了蝴蝶范围转移的广泛性，并揭示了数据记录的国别差异和协作缺口。局限性在于摘要未提供具体的转移速率或方向数据，且依赖不同来源的观测记录可能存在方法学偏差，另外蝴蝶作为飞行昆虫其范围转移机制可能与大型食草动物差异较大。建议查看原文获取具体统计结果。",
+      "follow_up_research": "可将类似的范围转移分析方法应用于大型食草动物重野化研究中，追踪引入种群在气候变化下的分布动态。还可探索蝴蝶等传粉昆虫的范围转移如何影响植物-动物互作网络，进而反馈到生态系统碳循环过程。另外，开发标准化跨国监测框架的思路也可迁移到重野化效应的长期评估中。",
+      "next_step_perspective": "这篇文章虽不直接涉及rewilding，但其'全球尺度的物种响应监测'框架对用户评估重野化效应有启示：重野化项目的空间尺度往往较大，类似的协调监测方法可用于追踪大型食草动物对植被和土壤碳的影响。作者在利用公民科学和社交媒体数据追踪物种分布方面有丰富经验，可为用户在野外数据不足时提供替代数据源的思路。",
+      "why_this_journal": "这是一项全球尺度的综合研究，主题紧扣气候变化和生物多样性丧失两大热点，且具有强烈的政策呼吁意义，符合Nature Ecology & Evolution关注生态学重大趋势和政策关联性的定位。此为推测。",
+      "author_profile": {
+        "name": "Shawan Chowdhury",
+        "institution": "Monash University",
+        "intro": "Shawan Chowdhury目前就职于莫纳什大学，其主要研究方向是利用公民科学、博物馆记录和社交媒体等非传统数据源追踪物种分布变化，特别关注昆虫（尤其是蝴蝶）对气候变化的响应以及入侵物种行为。其方法学专长（iEcology）与用户关注的生物互作网络和气候扰动影响有交集，特别是在如何利用多源数据弥补传统监测空白方面。",
+        "other_works": [
+          {
+            "title": "Extensive climate-induced range shifts in butterflies across the globe",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03117-y"
+          },
+          {
+            "title": "Bias and complementarity in species occurrence data from citizen science, museum, and social media collections",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.32942/X2NH46"
+          },
+          {
+            "title": "Harnessing social media data to track species range shifts",
+            "year": "2026",
+            "journal": "Conservation Biology",
+            "doi": "10.1111/cobi.70234"
+          },
+          {
+            "title": "Harnessing iEcology data to uncover invasive species behaviour",
+            "year": "2026",
+            "journal": "Methods in Ecology and Evolution",
+            "doi": "10.1111/2041-210x.70266"
+          },
+          {
+            "title": "Social media records can reduce tropical biodiversity data gaps and inform conservation",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/wbf2026-281"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2533455123?af=R",
+      "title": "Heat tolerance decreases and cold tolerance increases with elevation for a species-rich insect family on a tropical volcano",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533455123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 31, August 2026. SignificanceEmpirical evaluations of thermal tolerance for tropical species are sparse, and this reduces our capacity to anticipate the impact of the climate crisis on the undescribed morass of wild biodiversity. While theory predicts that heat tolerances ...",
+      "journal": "PNAS",
+      "published": "2026-07-27T07:00:00+00:00",
+      "doi": "10.1073/pnas.2533455123",
+      "affiliation": "Department of Integrative Biology, University of Guelph; Department of Biology, University of Pennsylvania",
+      "title_zh": "热带火山上一个物种丰富的昆虫科的耐热性随海拔升高而降低、耐寒性增强",
+      "relevance_score": 4,
+      "key_conclusion": "对热带昆虫的耐热性和耐寒性随海拔梯度的变化进行实证评估，发现耐热性随海拔升高而降低，耐寒性则增强，这影响对气候危机下生物多样性影响的预测。",
+      "relevance_note": "文章涉及气候变化对物种耐受性的影响，与用户关注的极端气候对生态系统扰动相关，但主题更偏昆虫生理生态，缺乏与大型食草动物或碳循环的直接联系。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "该研究旨在实证检验热带昆虫的热耐受性（耐热与耐寒）如何沿海拔梯度变化，以填补热带物种热耐受性经验评估的空白，改进气候危机下生物多样性影响预测。",
+      "contributions_limitations": "主要贡献是提供了热带地区物种丰富昆虫家族热耐受性沿海拔梯度的系统性实证数据，挑战了理论模型关于热耐受性均匀分布的假设。局限性在于研究限于单一热带火山和单一昆虫家族，外推到其他类群或地区可能受限；摘要信息不足以判断样本量和实验设计细节。建议查看原文了解具体耐受性量化方法和统计分析。",
+      "follow_up_research": "可将热耐受性海拔梯度的发现扩展到大型食草动物，探究重野化引入的物种在不同海拔或纬度上的气候适应性，特别是气候变化下其分布边界是否受限。此外，昆虫热耐受性变化如何影响植食性昆虫与植物的互作强度，进而反馈到植被碳分配和土壤碳输入，是值得探索的交叉方向。",
+      "next_step_perspective": "这篇文章为理解气候变化下物种的生理响应提供了海拔梯度这一'天然实验'框架，用户可借鉴此设计思路来研究重野化区域中不同海拔土壤碳循环对动物活动响应差异。其'热耐受性不一致性'的发现也提示用户在碳循环建模时需考虑物种生理响应的空间异质性。",
+      "why_this_journal": "该研究填补了热带昆虫热耐受性实证数据的空白，具有重要的生物多样性保护意义，且海拔梯度设计和进化假说检验的方法学严谨性符合PNAS的高标准。此为推测。",
+      "author_profile": {
+        "name": "Alexandre M. M. C. Loureiro",
+        "institution": "Nova Scotia Federation of Agriculture",
+        "intro": "Alexandre M. M. C. Loureiro目前就职于新斯科舍农业联合会，其研究背景涵盖鞘翅目昆虫的物种多样性、海拔梯度分布、热耐受性以及农业生态系统中的步甲行为。其研究关注小尺度节肢动物对环境变化的快速响应，这与用户关注的土壤动物介导的生物地球化学循环有潜在关联，尽管其工作更偏昆虫生态而非碳循环。",
+        "other_works": [
+          {
+            "title": "Heat tolerance decreases and cold tolerance increases with elevation for a species-rich insect family on a tropical volcano",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2533455123"
+          },
+          {
+            "title": "No evidence of a common pattern of taxon or phylogenetic diversity across elevation for beetle (Coleoptera) families",
+            "year": "2025",
+            "journal": "Ecological Entomology",
+            "doi": "10.1111/een.13447"
+          },
+          {
+            "title": "Communities of Small Terrestrial Arthropods Change Rapidly Along a Costa Rican Elevation Gradient",
+            "year": "2023",
+            "journal": "Neotropical Gradients and Their Analysis",
+            "doi": "10.1007/978-3-031-22848-3_10"
+          },
+          {
+            "title": "Sand and shine: an inexpensive method to measure terrestrial arthropod movement in the laboratory",
+            "year": "2020",
+            "journal": "The Canadian Entomologist",
+            "doi": "10.4039/tce.2020.48"
+          },
+          {
+            "title": "Short-Term Dispersal and Long-Term Spatial and Temporal Patterns of Carabidae (Coleoptera) in Lowbush Blueberry Fields",
+            "year": "2020",
+            "journal": "Environmental Entomology",
+            "doi": "10.1093/ee/nvaa047"
+          }
+        ]
+      }
     }
   ]
 }

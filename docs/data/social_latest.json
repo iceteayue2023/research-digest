@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-05T08:22:09.359835+00:00",
+  "generated_at": "2026-08-05T13:57:41.720455+00:00",
   "count": 10,
   "posts": [
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "The Centre for Climate Change and Social Transformations (CAST)",
+      "text": "From celebrities to neighbours, the people around us can nudge us towards better climate choices. A new study, led by CAST's Dr Sam Hampton, with Prof Lorraine Whitmarsh MBE (University of Bath) & Dr Briony Latter (Cardiff University), shows how 📣\n\nRead the blog post summary of the key findings 👇",
+      "created_at": "2026-08-05T09:06:55.183Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3msd6fyyq7l25",
+      "external_title": "Who people trust matters: new CAST study maps a path to climate action - CAST",
+      "external_description": "From celebrities to neighbours, the people around us can nudge us towards better climate choices. A new study led by CAST researchers at the University of Bath shows how.",
+      "external_uri": "https://cast.ac.uk/blog/who-people-trust-matters-new-cast-study-maps-a-path-to-climate-action/",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tkhkkdrzujyl7a7jjtfqtkcy/bafkreifmgygn2h5vo32k6gzw4yqdjdbz3cuammlifh4fhzvd3rayf6r4yq"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New Species Spotlight 👇\n\nCrested rat (Lophiomys imhausi) rdcu.be/fxZwF\n\nIgnacio Lazagabaster’s finding of the bones of this poisonous mammal in a desert cave suggested a far greener history of the Judean Desert.",
+      "created_at": "2026-08-05T08:36:52.010Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3msd4q6xy2k2k",
+      "external_title": "Crested rat (Lophiomys imhausi)",
+      "external_description": "Nature Ecology & Evolution - Ignacio Lazagabaster’s finding of the bones of this poisonous mammal in a desert cave suggested a far greener history of the Judean Desert.",
+      "external_uri": "https://rdcu.be/fxZwF",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreidszmcn46uj4msuos4ehiv3teta63ttncjvuk7ozuxmfadvjzyewy"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -89,28 +111,6 @@
       "external_description": "Saturation mutagenesis of the FCY1 promoter in budding yeast shows that adaptation to 5-fluorocytosine is not accessible through single cis-regulatory mutations, despite large mutational effects on pr...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03142-x",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiexagzu2ca26vgxmzir7ag5cystfeaitiw3whrkmqos4otunlxrgi"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Thanks to 400 year-old Chilean mummies, we know how smallpox reached the Americas\n\ngo.nature.com/4bHfYdh",
-      "created_at": "2026-08-02T16:58:01.453Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3ms4hdlagn225",
-      "external_title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
-      "external_description": "Viral sequences from Chilean mummies confirm the disease was introduced from Europe.",
-      "external_uri": "https://go.nature.com/4bHfYdh",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidheegcmtrmk6ndtbrmtf5pmmjrqiy5y6dxhihs3vgupkfvhc774u"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "The powerful fires scorching France and Spain are breaking records - and there are still months to go in the fire season\n\ngo.nature.com/4xaW2Yn",
-      "created_at": "2026-08-02T14:08:01.356Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3ms45tljb5s25",
-      "external_title": "Fires in Europe are breaking records: here’s what the future holds",
-      "external_description": "Nature - Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
-      "external_uri": "https://go.nature.com/4xaW2Yn",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicqref7s4qknruvtqsehuba3ujdtxi2vac7bhnhpvmnbcudigddse"
     }
   ]
 }
