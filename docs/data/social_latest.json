@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-04T13:58:58.006868+00:00",
+  "generated_at": "2026-08-05T02:49:06.673953+00:00",
   "count": 9,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Hundreds of scientists are collaborating on a quest to count every species of insect in one expanse of the Amazon\n\ngo.nature.com/4pRzMjG",
+      "created_at": "2026-08-04T16:28:14.411Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msbgm5vbum2b",
+      "external_title": "Tiny patch of Amazon likely holds 40,000 insect species — many new to science",
+      "external_description": "Megaproject involving hundreds of sites is cataloguing rainforest insects from the ground to the canopy.",
+      "external_uri": "https://go.nature.com/4pRzMjG",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigglsgwmbbivrdbjysbrmgnmnuaqzkkve5j472j4dwgzoj4h2vjum"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Jennifer Ackerman's What an Owl Knows \"is a fascinating read on how scientists are beginning to better understand the lives and ecology of these secretive and rarely visible birds.\" \n\nRead the #ScienceBooks Review on #OwlAwarenessDay: https://scim.ag/3RLJV52",
+      "created_at": "2026-08-04T16:28:01.577310151Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3msbglriil72w",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "Nature Climate Change",
+      "text": "Nature Climate Change August issue is now online\n\nContent includes\n🛜editorial introducing Focus on climate communication\n🪁wind turbines & whales\n🥵expanding global heat stress\n🌲tree canopy protection of permafrost carbon\n🏭residual emissions & health impacts\n\n& much more www.nature.com/nclimate/vol...",
+      "created_at": "2026-08-04T15:49:50.445Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3msbehii7gs2x",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -67,39 +100,6 @@
       "external_description": "Nature - Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest.",
       "external_uri": "https://go.nature.com/4xaW2Yn",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicqref7s4qknruvtqsehuba3ujdtxi2vac7bhnhpvmnbcudigddse"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "“We can almost look through the eyes of [Europe's earliest Homo sapiens] and see how they viewed the environment around them”\n\ngo.nature.com/4xdqTmX",
-      "created_at": "2026-08-02T09:17:01.029Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3ms3nla2j6d2h",
-      "external_title": "40,000-year-old bird carvings provide clues to how ice age humans flourished",
-      "external_description": "Nature - Newly discovered figurines point to skills that might have helped shape early humans’ expansion across Europe.",
-      "external_uri": "https://go.nature.com/4xdqTmX",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigh5pam7aqzamzcnxnus47bs2f27lsm6p5tz7hvo5w4xjwq2v2pke"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "One of the most-viewed PNAS articles in the last week is “Integrated thermal and phytoremediation of agricultural soils impacted by PFAS.” Explore the article here: https://ow.ly/bT8j50Zv2O9\n\nFor more trending articles, visit https://ow.ly/sP1g50Zv2O7.",
-      "created_at": "2026-08-01T23:00:15.595247284Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3ms2l4fk7fw2g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Wolves have made a spectacular comeback in Europe. But attacks on livestock and humans have caused a heated debate about the limits of coexistence.\n\nLearn more: https://scim.ag/4a9BfLS",
-      "created_at": "2026-08-01T18:00:04.723580705Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3ms22dmfc6y2z",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
