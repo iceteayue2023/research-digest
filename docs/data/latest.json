@@ -1,6 +1,161 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T02:51:53.492193+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-06T08:19:18.265148+00:00",
+  "count": 2,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7239-2026",
+      "title": "A process-based modeling of soil organic matter physical properties for land surface models – Part 2: Global land surface simulations and mineral soil compactness adjustment",
+      "link": "https://doi.org/10.5194/gmd-19-7239-2026",
+      "summary": "A process-based modeling of soil organic matter physical properties for land surface models – Part 2: Global land surface simulations and mineral soil compactness adjustment\n                    Bertrand Decharme, Diane Tzanos, Lucas Hardouin, Aaron Boone, Marie Minvielle, Patrick Le Moigne, and Rémi Gaillard\n                        Geosci. Model Dev., 19, 7239–7277, https://doi.org/10.5194/gmd-19-7239-2026, 2026\n                        We developed a new method to represent how organic matter in soils, together with a mineral soil compactness adjustment, influences the movement of water and heat in land models. We implemented this approach in a global model and performed long-term simulations driven by weather data and global soil maps. Compared with an older empirical method, it produces more consistent soil moisture, runoff, evaporation, and ground temperature and shows closer agreement with observations.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-06T08:41:07+02:00",
+      "doi": "10.5194/gmd-19-7239-2026",
+      "affiliation": null,
+      "title_zh": "基于过程的土壤有机质物理性质建模用于陆地表面模型——第二部分：全球陆地表面模拟与矿质土壤紧实度调整",
+      "relevance_score": 9,
+      "key_conclusion": "该研究开发了一种新方法，用于在陆地模型中表征土壤有机质及矿质土壤紧实度对水热运动的影响，并在全球模型中进行了长期模拟。与旧的经验方法相比，新方法在土壤湿度、径流、蒸发和地温方面产生更一致的结果，与观测更接近。",
+      "relevance_note": "该文直接涉及土壤有机质在陆地表面模型中的过程建模，与用户关注的土壤有机碳循环及生态系统模型改进高度相关。研究地点虽为全球尺度，但模型改进方法对理解rewilding背景下土壤碳动态具有重要参考价值。",
+      "related_papers": [
+        {
+          "title": "The Community Land Model Version 5: Description of New Features, Benchmarking, and Impact of Forcing Uncertainty",
+          "link": "https://doi.org/10.1029/2018ms001583",
+          "venue": "Journal of Advances in Modeling Earth Systems",
+          "year": 2019
+        },
+        {
+          "title": "Soil compaction impact and modelling. A review",
+          "link": "https://doi.org/10.1007/s13593-011-0071-8",
+          "venue": "Agronomy for Sustainable Development",
+          "year": 2012
+        },
+        {
+          "title": "Parameterization improvements and functional and structural advances in Version 4 of the Community Land Model",
+          "link": "https://doi.org/10.1029/2011ms00045",
+          "venue": "Journal of Advances in Modeling Earth Systems",
+          "year": 2011
+        },
+        {
+          "title": "Sensitivity of a model projection of near‐surface permafrost degradation to soil column depth and representation of soil organic matter",
+          "link": "https://doi.org/10.1029/2007jf000883",
+          "venue": "Journal of Geophysical Research Atmospheres",
+          "year": 2008
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7239/2026/gmd-19-7239-2026-avatar-web.png",
+      "scientific_question": "如何在地球系统模型（陆地表面模型）中更真实地表征土壤有机质的物理性质及其对土壤水热运动的影响，以提高模拟的准确性？",
+      "contributions_limitations": "主要贡献是提出了一种基于过程的、将土壤有机质物理性质（连同矿质土壤紧实度调整）纳入全球陆地表面模型的新方法，并进行了长期模拟验证，结果表明在土壤湿度、径流、蒸发和地温等方面优于旧的经验方法。局限性可能包括：全球土壤地图的精度限制、模型对有机质分解与物理性质动态耦合的简化，以及长期模拟验证主要依赖气象驱动数据，具体不确定性需查看原文。基于现有信息推测。",
+      "follow_up_research": "进一步研究可包括：评估该方法在不同生态系统（特别是寒带泥炭地与热带森林）土壤碳-水-热耦合过程中的表现；将该有机质物理性质模块与土壤碳循环模型耦合，探讨有机质积累与分解对水热平衡的反馈；以及在高分辨率区域模拟中验证其对极端气候事件下土壤水分动态的预测能力。",
+      "next_step_perspective": "这篇文章为用户提供了将土壤有机质物理属性（而非仅碳质量）动态纳入生态模型的范例，这对于研究大型食草动物重野化对土壤碳库和水分平衡的影响具有方法学启示——重野化可能通过改变土壤有机质积累和紧实度来影响土壤水热动力。用户可借鉴其建模思路，评估动物扰动对土壤物理性质与碳循环的耦合反馈。",
+      "why_this_journal": "推测该文发表于Geoscientific Model Development是因为其核心贡献在于开发并验证了一种新的建模方法，而非提出新的观测数据，该期刊专门刊发此类模型算法与评估研究，注重方法的严谨性和对比分析。",
+      "author_profile": {
+        "name": "Bertrand Decharme",
+        "institution": "CNRS Délégation Midi-Pyrénées",
+        "intro": "Bertrand Decharme来自法国国家科学研究中心（CNRS）Midi-Pyrénées代表处，其研究方向广泛涉及陆地表面模型（如ISBA和CNRM-CM6）的开发与评估、雪过程模拟、泥炭地生态水文以及地球系统模式中陆面过程参数化。其研究与用户的关联在于：模型开发工作为理解生态系统（包括泥炭地和农田）的水碳耦合过程提供了工具，用户可利用类似框架量化重野化对碳-水循环的影响。",
+        "other_works": [
+          {
+            "title": "Insights into the North Hemisphere daily snowpack at high resolution from the new Crocus–ERA5 product",
+            "year": "2025",
+            "journal": "Earth System Science Data",
+            "doi": "10.5194/essd-17-7227-2025"
+          },
+          {
+            "title": "A process-based modeling of soil organic matter physical properties for land surface models – Part 1: Soil mixture theory",
+            "year": "2025",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-18-9349-2025"
+          },
+          {
+            "title": "Sphagnum and Herbaceous Net Ecosystem Exchanges in a Pyrenean Peatland: A Long-Term Study Using the ISBA Model",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5248"
+          },
+          {
+            "title": "Process‐Level Evaluation of the Land‐Atmosphere Interactions Within CNRM‐CM6‐1 Single‐Column Model Configuration",
+            "year": "2025",
+            "journal": "Journal of Advances in Modeling Earth Systems",
+            "doi": "10.1029/2025MS005090"
+          },
+          {
+            "title": "Implementation of an intermediate-complexity snow-physics scheme (ISBA-Explicit Snow) into a sea ice model (SI3): 1D thermodynamic coupling and validation",
+            "year": "2025",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-18-6885-2025"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7217-2026",
+      "title": "Resolving effects of leaf pigmentation changes and plant residue on the energy balance of winter wheat cultivation in the ORCHIDEE-CROP model",
+      "link": "https://doi.org/10.5194/gmd-19-7217-2026",
+      "summary": "Resolving effects of leaf pigmentation changes and plant residue on the energy balance of winter wheat cultivation in the ORCHIDEE-CROP model\n                    Ke Yu, Yang Su, Ronny Lauerwald, Philippe Ciais, Yi Xi, Haoran Xu, Xianglin Zhang, Nicolas Viovy, Amie Pickering, Marie Collard, and Daniel S. Goll\n                        Geosci. Model Dev., 19, 7217–7237, https://doi.org/10.5194/gmd-19-7217-2026, 2026\n                        Coupling crop and land surface models helps quantify the climate effects of agriculture, but lacks crop-specific management processes. We enhanced a land surface model with time-varying albedo from foliar yellowing and residue cover, improving the simulation of energy and water fluxes. Results show cooler surfaces and slightly wetter soils during residue cover, highlighting how managements improve climate mitigation and adaptation, advancing the development of climate-smart agriculture.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-06T08:41:07+02:00",
+      "doi": "10.5194/gmd-19-7217-2026",
+      "affiliation": null,
+      "title_zh": "解析ORCHIDEE-CROP模型中叶片色素变化和植物残体对冬小麦种植能量平衡的影响",
+      "relevance_score": 7,
+      "key_conclusion": "该研究增强了陆地表面模型，通过考虑叶片变黄和残体覆盖引起的时间变化反照率，改善了能量和水通量的模拟。结果表明，残体覆盖期间地表温度更低、土壤略微更湿，强调了管理措施在气候减缓和适应中的作用，推动了气候智能农业的发展。",
+      "relevance_note": "该文涉及生态系统模型（ORCHIDEE-CROP）的改进，属于地球系统模型中动态植被模块的开发范畴，与用户对模型改进的兴趣直接相关。虽然不直接讨论rewilding，但在模型开发方面有较高相关性。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"Resolving effects of leaf pigmentation changes and plant residue on the energy balance of winter wheat cultivation in the ORCHIDEE-CROP model\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-1861-supplement",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "Comment on egusphere-2025-1861",
+          "link": "https://doi.org/10.5194/egusphere-2025-1861-rc1",
+          "venue": null,
+          "year": 2025
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7217/2026/gmd-19-7217-2026-avatar-web.png",
+      "scientific_question": "如何通过改进陆地表面模型中的叶面颜色变化和植物残体覆盖过程，来更准确地模拟农田生态系统（以冬小麦为例）的能量平衡和气候效应？",
+      "contributions_limitations": "主要贡献是在ORCHIDEE-CROP模型中引入了叶片变黄和残体覆盖引起的时变反照率，从而改善了对能量和水通量的模拟，揭示了残体覆盖的降温增湿效应，对开发气候智慧农业有直接意义。局限性可能包括：模型验证可能主要针对冬小麦单一作物，其他作物的适用性未验证；且残体覆盖的分解动态和空间异质性处理可能简化。基于现有信息推测。",
+      "follow_up_research": "后续研究可拓展至多种作物和不同农业管理措施（如免耕、覆盖作物等）的全球或欧洲尺度的气候反馈评估；进一步耦合残体分解与土壤碳动力学，探讨残体覆盖对土壤有机碳积累和氮循环的长期影响；以及结合遥感数据同化，动态更新模型中的叶色和反照率参数。",
+      "next_step_perspective": "这篇文章为用户展示了管理实践（如残体留田）如何通过改变地表反照率与能量平衡来影响局地气候，这与重野化中大型食草动物的扰动能改变地表覆盖和土壤暴露程度具有类比性——动物活动和植被结构变化可通过地表物理过程反馈到气候。用户可从中获得关于地表过程建模和气候反馈机制分析的视角。",
+      "why_this_journal": "推测发表于此是因为该研究属于典型的模型开发与改进工作，详细描述了参数化方案的方程推导和站点/区域验证，符合Geoscientific Model Development期刊对模型算法、评估和不确定性分析的高标准要求。",
+      "author_profile": {
+        "name": "Ke Yu",
+        "institution": "Beijing Normal University",
+        "intro": "Ke Yu在北京师范大学工作，从作品列表看其研究方向集中于陆面过程模型（ORCHIDEE）的应用与开发，特别是欧洲农田反照率动态、残体管理的气候响应及生态系统碳水通量模拟。其研究与用户的关联在于：模型对地表生物物理过程的精细刻画方法有助于用户在研究重野化生态系统中植被-土壤-大气交互作用时选择合适的模拟框架。",
+        "other_works": [
+          {
+            "title": "Resolving effects of leaf pigmentation changes and plant residue on the energy balance of winter wheat cultivation in the ORCHIDEE-CROP model",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-7217-2026"
+          },
+          {
+            "title": "Biophysical climate responses to albedo management for wheat residue retention, cover crops, and pale wheat across European croplands",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-9895"
+          },
+          {
+            "title": "Spatiotemporal dynamics and drivers of bare soil albedo in European croplands",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-219"
+          },
+          {
+            "title": "Supplementary material to \"Spatiotemporal dynamics and drivers of bare soil albedo in European croplands\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-219-supplement"
+          },
+          {
+            "title": "Resolving effects of leaf pigmentation changes and plant residue on the energy balance of winter wheat cultivation in the ORCHIDEE-CROP model",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-1861"
+          }
+        ]
+      }
+    }
+  ]
 }
