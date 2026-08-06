@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
-  "generated_at": "2026-08-06T08:19:18.265148+00:00",
-  "count": 2,
+  "generated_at": "2026-08-06T13:54:22.584731+00:00",
+  "count": 7,
   "articles": [
     {
       "id": "https://doi.org/10.5194/gmd-19-7239-2026",
@@ -87,6 +87,71 @@
       }
     },
     {
+      "id": "https://www.nature.com/articles/s41893-026-01914-8",
+      "title": "A global atlas of soil microbial genetic resources exposes protection shortfalls",
+      "link": "https://www.nature.com/articles/s41893-026-01914-8",
+      "summary": "Nature Sustainability, Published online: 06 August 2026; doi:10.1038/s41893-026-01914-8Soil microbiomes harbour diverse genetic resources that underpin their capacity to provide crucial ecosystem services (for example, nutrient cycling). Here the authors map global hotspots of soil microbial genetic resources from 1,609 soil metagenomes to inform actionable targets for their protection.",
+      "journal": "Nature Sustainability",
+      "published": "2026-08-06T00:00:00+00:00",
+      "doi": "10.1038/s41893-026-01914-8",
+      "affiliation": null,
+      "title_zh": "全球土壤微生物遗传资源图谱揭示保护不足",
+      "relevance_score": 8,
+      "key_conclusion": "该研究利用1609个土壤宏基因组数据，绘制了全球土壤微生物遗传资源热点图，揭示了这些资源在保护上的不足，并指出它们在养分循环等生态系统服务中的关键作用。",
+      "relevance_note": "文章直接涉及土壤微生物群落结构与功能（如养分循环），与您关注的土壤有机质形成机制和微生物对生态系统功能的影响高度相关，但未明确涉及重野化或动物反馈，故给高分。",
+      "related_papers": [
+        {
+          "title": "Soil Health and Its Improvement Through Novel Agronomic and Innovative Approaches",
+          "link": "https://doi.org/10.3389/fagro.2021.680456",
+          "venue": "Frontiers in Agronomy",
+          "year": 2021
+        },
+        {
+          "title": "Markers for Global Climate Change and Its Impact on Social, Biological and Ecological Systems: A Review",
+          "link": "https://doi.org/10.4236/ajcc.2020.93012",
+          "venue": "American Journal of Climate Change",
+          "year": 2020
+        },
+        {
+          "title": "The State and Future of Antarctic Environments in a Global Context",
+          "link": "https://doi.org/10.1146/annurev-environ-101718-033236",
+          "venue": "Annual Review of Environment and Resources",
+          "year": 2019
+        },
+        {
+          "title": "Recent advances in the improvement of genetic resistance against disease in vegetable crops",
+          "link": "https://doi.org/10.1093/plphys/kiae302",
+          "venue": "PLANT PHYSIOLOGY",
+          "year": 2024
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-026-01914-8/MediaObjects/41893_2026_1914_Fig1_HTML.png",
+      "scientific_question": "全球土壤微生物遗传资源在空间上的分布热点在哪里，以及这些关键资源目前的保护状况如何？",
+      "contributions_limitations": "基于现有信息推测：该研究通过整合1609个土壤宏基因组样本，首次绘制了全球尺度的土壤微生物遗传资源热点图谱，并识别出保护缺口，为土壤生物多样性保护提供了可操作的空间目标。可能的局限性在于宏基因组样本地理分布不均衡（如对欧洲、非洲等区域的覆盖不足），且遗传资源热点与生态系统服务功能的直接关联仍需进一步验证。建议查看原文以确认具体方法细节和局限。",
+      "follow_up_research": "后续可研究土壤微生物遗传资源热点与大型食草动物重野化区域的空间重叠度，探讨动物介导的养分循环如何塑造微生物遗传资源格局；此外，可将保护优先级分析与生态系统模型耦合，评估微生物遗传资源损失对碳循环功能的影响。",
+      "next_step_perspective": "该研究提供了宏基因组大数据制图的范式，可启发将类似方法应用于欧洲重野化地点的土壤宏基因组长期监测，以评估重野化梯度下微生物遗传资源的变化；同时为将土壤微生物功能纳入碳循环模型提供了空间显式的数据整合思路。",
+      "why_this_journal": "推测：该研究首次以全球视角揭示土壤微生物遗传资源的保护不足，兼具数据规模、新颖性和跨学科意义（微生物学、保护生物学与宏观生态学），符合Nature Sustainability关注资源可持续利用与保护政策的期刊定位。",
+      "author_profile": {
+        "name": "Kunkun Fan",
+        "institution": null,
+        "intro": "Kunkun Fan目前的研究方向从历史论文标题看集中于土壤生物多样性与生态系统多功能性（如城市绿地上壤）、土壤微生物遗传资源的全球图谱，其工作强调土壤微生物群落对生态系统功能的支撑作用。这与用户关注土壤微生物群落结构对生态系统功能影响的方向高度契合，尤其是动物介导的生物地球化学循环研究中微生物功能的视角。",
+        "other_works": [
+          {
+            "title": "Metadata for a global atlas of soil microbial genetic resources",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.6084/m9.figshare.29125661"
+          },
+          {
+            "title": "Soil biodiversity supports the delivery of multiple ecosystem functions in urban greenspaces",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.6084/m9.figshare.21175492"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://doi.org/10.5194/gmd-19-7217-2026",
       "title": "Resolving effects of leaf pigmentation changes and plant residue on the energy balance of winter wheat cultivation in the ORCHIDEE-CROP model",
       "link": "https://doi.org/10.5194/gmd-19-7217-2026",
@@ -156,6 +221,266 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03166-3",
+      "title": "Author Correction: Evolutionary history drives organ-specific variability in plant non-structural carbohydrates",
+      "link": "https://www.nature.com/articles/s41559-026-03166-3",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 06 August 2026; doi:10.1038/s41559-026-03166-3Author Correction: Evolutionary history drives organ-specific variability in plant non-structural carbohydrates",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-06T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03166-3",
+      "affiliation": null,
+      "title_zh": "作者更正：进化历史驱动植物非结构性碳水化合物的器官特异性变异",
+      "relevance_score": 7,
+      "key_conclusion": "这是一篇作者更正说明，原研究聚焦于进化历史如何影响植物非结构性碳水化合物（NSC）在不同器官中的特异性变异，但此处未提供具体结论。",
+      "relevance_note": "文章主题涉及植物碳分配策略（NSC储存与利用），与您的研究方向（3）直接相关，但因其为更正通知且缺乏实质内容，故给中等偏上分数。",
+      "related_papers": [
+        {
+          "title": "The Phyllosphere: Microbial Jungle at the Plant–Climate Interface",
+          "link": "https://doi.org/10.1146/annurev-ecolsys-121415-032238",
+          "venue": "Annual Review of Ecology Evolution and Systematics",
+          "year": 2016
+        },
+        {
+          "title": "Multiple facets of biodiversity drive the diversity–stability relationship",
+          "link": "https://doi.org/10.1038/s41559-018-0647-7",
+          "venue": "Nature Ecology & Evolution",
+          "year": 2018
+        },
+        {
+          "title": "Significance of galactinol and raffinose family oligosaccharide synthesis in plants",
+          "link": "https://doi.org/10.3389/fpls.2015.00656",
+          "venue": "Frontiers in Plant Science",
+          "year": 2015
+        },
+        {
+          "title": "Modelling water fluxes in plants: from tissues to biosphere",
+          "link": "https://doi.org/10.1111/nph.15681",
+          "venue": "New Phytologist",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "这是一篇作者更正说明，原研究的核心问题是进化历史如何驱动植物非结构性碳水化合物（NSC）在不同器官中的特异性变异。",
+      "contributions_limitations": "本文为作者更正，无实质学术内容。原研究的贡献（基于现有信息推测）在于揭示NSC在植物器官间分配的进化制约因素，可能对理解植物碳分配策略的环境适应性有重要意义。局限性因更正说明的信息不足以评估，建议查看原文。",
+      "follow_up_research": "基于原研究主题，后续可探究大型食草动物采食如何通过改变植物NSC的储存与再分配影响碳在地下与地上库的分配，进而影响土壤有机碳形成；也可将NSC变异纳入动态植被模型（DGVM）以提高碳循环模拟的精度。",
+      "next_step_perspective": "尽管是更正说明，但原研究主题对用户有直接启发：植物NSC的器官特异性变异是碳分配策略的核心，重野化生态系统中动物采食压力可能重塑这种分配，从而影响土壤碳输入的质量与数量。这提示在研究动物-土壤碳反馈时，需关注植物内部碳代谢的物种特异性差异。",
+      "why_this_journal": "推测：该更正原属研究发表于Nature Ecology & Evolution，因其将进化史与植物生理生态性状（NSC）相结合，揭示了地上-地下碳分配的大尺度格局，具有宏观演化视角和跨尺度整合的新颖性。",
+      "author_profile": {
+        "name": "Wei-Ying Xu",
+        "institution": null,
+        "intro": "Wei-Ying Xu的研究方向主要围绕植物叶片元素组学、水分利用策略、NSC变异与反射光谱指征，重点关注叶片性状协调性及其与生态系统功能的关系。其工作涉及森林生态系统中植物碳、磷、水性状的耦合，可为用户理解重野化中植物碳分配策略（如NSC）与土壤碳输入的关系提供性状学方法参考。",
+        "other_works": [
+          {
+            "title": "Author Correction: Evolutionary history drives organ-specific variability in plant non-structural carbohydrates",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03166-3"
+          },
+          {
+            "title": "Evolutionary history drives organ-specific variability in plant non-structural carbohydrates",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03129-8"
+          },
+          {
+            "title": "Partial coordination of leaf water relations with the leaf economics spectrum across diverse forest types",
+            "year": "2026",
+            "journal": "Plant Physiology",
+            "doi": "10.1093/plphys/kiag342"
+          },
+          {
+            "title": "Data and code availability for \"Evolutionary history drives organ-specific variability in plant non-structural carbohydrates\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5281/ZENODO.16899571"
+          },
+          {
+            "title": "Leaf Elementomes Reveal Close Links With Leaf Water‐Use Strategies Across Diverse Forest Ecosystems: Insights From Trait Coordination and Reflectance Spectroscopy",
+            "year": "2026",
+            "journal": "Plant, Cell & Environment",
+            "doi": "10.1111/pce.70323"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02726-6",
+      "title": "Hydraulic traits govern opposing range shifts of montane trees under warming",
+      "link": "https://www.nature.com/articles/s41558-026-02726-6",
+      "summary": "Nature Climate Change, Published online: 06 August 2026; doi:10.1038/s41558-026-02726-6The authors integrate dendrochronological records with range shifts to show that shifts in montane tree species are tightly linked to tree hydraulic properties. While climate-sensitive species track warming to higher elevations, stress-resistant species expand downslope.",
+      "journal": "Nature Climate Change",
+      "published": "2026-08-06T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02726-6",
+      "affiliation": null,
+      "title_zh": "水力性状决定变暖下山地树木的相反范围迁移",
+      "relevance_score": 6,
+      "key_conclusion": "该研究结合树木年轮记录与范围迁移数据，发现山地树种的范围迁移与树木水力特性紧密相关。气候敏感物种随变暖向高海拔迁移，而抗逆物种则向低海拔扩张。",
+      "relevance_note": "文章探讨气候变化下树木分布动态，与您关注的极端气候事件对碳循环扰动和植被-土壤反馈有一定关联，属于陆地生态系统对气候变化的响应，但未直接涉及重野化或土壤有机碳，故给中等分数。",
+      "related_papers": [
+        {
+          "title": "Mechanisms of plant survival and mortality during drought: why do some plants survive while others succumb to drought?",
+          "link": "https://doi.org/10.1111/j.1469-8137.2008.02436.x",
+          "venue": "New Phytologist",
+          "year": 2008
+        },
+        {
+          "title": "Why Are Species’ Traits Weak Predictors of Range Shifts?",
+          "link": "https://doi.org/10.1146/annurev-ecolsys-012021-092849",
+          "venue": "Annual Review of Ecology Evolution and Systematics",
+          "year": 2021
+        },
+        {
+          "title": "zhxianliang/Hydraulic-Trait-Governs-Opposing-Range-Shifts-of-Montane-Trees-Under-Warming: Hydraulic Traits Governs Opposing Range Shifts of Montane Trees Under Warming",
+          "link": "https://doi.org/10.5281/zenodo.20723571",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "zhxianliang/Hydraulic-Trait-Governs-Opposing-Range-Shifts-of-Montane-Trees-Under-Warming: Hydraulic Traits Governs Opposing Range Shifts of Montane Trees Under Warming",
+          "link": "https://doi.org/10.5281/zenodo.20723572",
+          "venue": "Open MIND",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02726-6/MediaObjects/41558_2026_2726_Fig1_HTML.png",
+      "scientific_question": "气候变暖背景下，树木的水力性状如何决定山地树种范围迁移的方向？",
+      "contributions_limitations": "该研究整合年轮记录和范围迁移数据，揭示树木水力特性是驱动范围迁移方向的关键因素：气候敏感物种向高海拔迁移，而抗逆物种向低海拔扩张。主要贡献在于将植物生理性状与宏观分布动态定量耦合，提供了机制性解释。可能局限在于研究聚焦于树种水平，未考虑土壤微生物互作或动物介导效应，且范围迁移的观测时间尺度有限。",
+      "follow_up_research": "后续可在重野化背景下，研究大型食草动物对树木水力性状的影响（如通过土壤压实或养分循环改变水分获取）如何间接调节树种迁移潜力；也可将水力性状模块引入动态植被模型（DGVM），预测欧洲森林在放牧与气候双重压力下的组成变化。",
+      "next_step_perspective": "该研究提供了一种将生理性状（水力）与景观尺度动态联系的分析框架，用户可借鉴此思路，考察大型食草动物介导的土壤碳变化是否通过影响植物水分-碳耦合过程，进而改变生态系统碳循环的响应格局。其研究地点虽未明确，但方法可迁移至欧洲山地系统。",
+      "why_this_journal": "推测：该研究将树木水力生理机制与气候驱动的范围变迁相联系，解决了气候变化生态学中一个关键不确定性，具有机制新颖性和政策相关性，契合Nature Climate Change对气候变化影响机制研究的定位。",
+      "author_profile": {
+        "name": "Xianliang Zhang",
+        "institution": "Agricultural University of Hebei",
+        "intro": "Xianliang Zhang来自河北农业大学，从其历史论文标题看，主要研究方向为树木径向生长对干旱的敏感性、恢复力及其与竞争、坡向等因子的关系，关注中国温带森林的树木水分利用与生长策略。其工作与用户方向的相关性在于提供了树木碳-水耦合生理视角，可用于评估重野化后水分胁迫对碳吸收的影响。",
+        "other_works": [
+          {
+            "title": "Species-specific influences of competition and tree size on drought sensitivity and resistance for three planted conifers in northern China",
+            "year": "2025",
+            "journal": "Forest Ecosystems",
+            "doi": "10.1016/j.fecs.2025.100295"
+          },
+          {
+            "title": "Slope mediates drought sensitivity but does not affect drought recovery for young trees along elevation gradients in temperate planted larch forests",
+            "year": "2025",
+            "journal": "Forest Ecosystems",
+            "doi": "10.1016/j.fecs.2025.100371"
+          },
+          {
+            "title": "Optimizing variables selection of random forest to predict radial growth of Larix gmelinii var. principis-rupprechtii in temperate regions",
+            "year": "2024",
+            "journal": "Forest Ecology and Management",
+            "doi": "10.1016/j.foreco.2024.122159"
+          },
+          {
+            "title": "Different drought recovery strategy between Larix spp. and Quercus mongolica in temperate forests",
+            "year": "2024",
+            "journal": "Science of The Total Environment",
+            "doi": "10.1016/j.scitotenv.2024.173521"
+          },
+          {
+            "title": "Higher latewood to earlywood ratio increases resistance of radial growth to severe droughts in larch",
+            "year": "2024",
+            "journal": "Science of The Total Environment",
+            "doi": "10.1016/j.scitotenv.2023.169165"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026002905",
+      "title": "Machine learning for modeling forest dynamics using National Forest Inventory and climate data",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026002905?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Ecological Modelling, Volume 521Author(s): Dea Rieder, Maximiliano Costa, Christian Temperli, Francesco Giardina, Giacomo Vaccario",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "利用国家森林清查和气候数据通过机器学习模拟森林动态",
+      "relevance_score": 5,
+      "key_conclusion": "该研究使用机器学习方法，结合国家森林清查和气候数据，模拟森林动态，旨在提升对森林生态系统变化的预测能力。",
+      "relevance_note": "文章涉及生态系统建模和森林动态，与您关注的DGVM开发和验证有间接关联，但未直接涉及重野化、土壤碳循环或动物反馈，故给中等分数。",
+      "related_papers": [
+        {
+          "title": "Positive biodiversity-productivity relationship predominant in global forests",
+          "link": "https://doi.org/10.1126/science.aaf8957",
+          "venue": "Science",
+          "year": 2016
+        },
+        {
+          "title": "Tackling Climate Change with Machine Learning",
+          "link": "https://doi.org/10.1145/3485128",
+          "venue": "OPUS 4 (Zuse Institute Berlin)",
+          "year": 2022
+        },
+        {
+          "title": "Object-oriented mapping of landslides using Random Forests",
+          "link": "https://doi.org/10.1016/j.rse.2011.05.013",
+          "venue": "Remote Sensing of Environment",
+          "year": 2011
+        },
+        {
+          "title": "Forest aboveground biomass estimation using Landsat 8 and Sentinel-1A data with machine learning algorithms",
+          "link": "https://doi.org/10.1038/s41598-020-67024-3",
+          "venue": "Scientific Reports",
+          "year": 2020
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何利用机器学习方法结合国家森林清查数据与气候数据，更准确地模拟森林动态？",
+      "contributions_limitations": "基于现有信息推测：该研究将机器学习应用于森林动态建模，整合国家森林清查与气候数据，可能显著提升对森林生长、更新和死亡过程的预测精度，弥补传统机理模型的参数化困难。局限性可能在于机器学习模型的可解释性差，且对气候极端事件的预测外推能力有限，建议查看原文确认具体模型类型和验证方式。",
+      "follow_up_research": "后续可将动物采食、土壤碳数据作为协变量纳入机器学习模型，模拟重野化对森林动态和碳汇功能的非线性影响；也可将机器学习方法用于校准或替代DGVM中的植被动态模块，提高碳循环预估的准确性。",
+      "next_step_perspective": "这项研究为用户提供了一种数据驱动的建模思路，可用于分析欧洲重野化地点的长期森林清查数据，识别放牧强度与气候交互作用下森林碳动态的非线性响应模式，弥补机理模型对动物效应表征不足的空白。",
+      "why_this_journal": "推测：该研究是方法论驱动的应用研究，将前沿机器学习技术应用于生态建模，具有较高的技术实用性和数据整合价值，符合Ecological Modelling期刊对模型发展和验证的偏好。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5419-2026",
+      "title": "Diatom community assemblages and microbial degradation resistance modulate local heterogeneity in diatom contribution to carbon export in the western North Pacific Subtropical Gyre",
+      "link": "https://doi.org/10.5194/bg-23-5419-2026",
+      "summary": "Diatom community assemblages and microbial degradation resistance modulate local heterogeneity in diatom contribution to carbon export in the western North Pacific Subtropical Gyre\n                    Feng Li, Hongzhen Jiang, Linwei Liu, Zhouyi Jiang, Lu Huang, Kehui Feng, Zuozhu Wen, Xin Liu, Changping Chen, Kuanbo Zhou, and Junrong Liang\n                        Biogeosciences, 23, 5419–5435, https://doi.org/10.5194/bg-23-5419-2026, 2026\n                        In nutrient‑poor open ocean, scarce diatoms still remove CO₂. In the western North Pacific Subtropical Gyre (NPSG), we found different diatoms live at different depths. Where a warm current (Kuroshio) flows, large diatoms carry more carbon to deep water; elsewhere their contribution is lower. Microbes lack genes to digest protective polymers made by diatoms, which may help carbon sink efficiently. To predict ocean climate role, we must know not only which algae are present but also how well their organic matter resists decay.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-06T15:34:02+02:00",
+      "doi": "10.5194/bg-23-5419-2026",
+      "affiliation": null,
+      "title_zh": "硅藻群落组成和微生物降解抗性调节西太平洋副热带环流中硅藻对碳输出的局部异质性",
+      "relevance_score": 4,
+      "key_conclusion": "在寡营养的开放大洋中，硅藻虽稀少但仍能移除CO2。研究发现不同硅藻分布在不同水深，暖流区域的大型硅藻携带更多碳到深层，而微生物缺乏消化硅藻保护性聚合物的基因，可能促进碳高效沉降。",
+      "relevance_note": "文章涉及海洋碳循环（碳输出）和微生物分解机制，与您关注的陆地碳循环和土壤有机质稳定机制有部分类比联系，但主要聚焦海洋系统，与您的核心研究方向相关性有限。",
+      "related_papers": [
+        {
+          "title": "Metagenomic analysis of size-fractionated picoplankton in a marine oxygen minimum zone",
+          "link": "https://doi.org/10.1038/ismej.2013.144",
+          "venue": "The ISME Journal",
+          "year": 2013
+        },
+        {
+          "title": "A trait based perspective on the biogeography of common and abundant marine bacterioplankton clades",
+          "link": "https://doi.org/10.1016/j.margen.2014.03.002",
+          "venue": "Marine Genomics",
+          "year": 2014
+        },
+        {
+          "title": "An updated synthesis of the observed and projected impacts of climate change on the chemical, physical and biological processes in the oceans",
+          "link": "https://doi.org/10.3389/fmars.2015.00036",
+          "venue": "Frontiers in Marine Science",
+          "year": 2015
+        },
+        {
+          "title": "Biogeochemical cycling of copper in the Northeast Pacific Ocean : role of marine heterotrophic bacteria",
+          "link": "https://doi.org/10.14288/1.0355246",
+          "venue": "cIRcle (University of British Columbia)",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5419/2026/bg-23-5419-2026-avatar-web.png",
+      "scientific_question": "在寡营养的北太平洋副热带环流西部，硅藻群落的组成和微生物降解抗性如何调节硅藻对碳输出贡献的局部异质性？",
+      "contributions_limitations": "主要贡献在于揭示了硅藻种类组成和微生物降解抗性（而非仅硅藻生物量）共同调控碳输出效率，为理解海洋生物泵效率提供了新视角。局限性可能在于研究仅限于特定海域和时间尺度，外推到全球或长期碳循环需谨慎。基于现有信息推测。",
+      "follow_up_research": "后续可探究不同硅藻类群产生的保护性聚合物的化学结构及其在不同温度、压力下的降解动力学，并结合地球系统模型模拟这些机制对全球碳输出的影响。",
+      "next_step_perspective": "该研究强调'功能性状'而非'丰度'对生态系统功能的关键作用，类比于您关心的食草动物介导的碳循环——不同食草动物体型和食性对土壤碳的影响可能非线性，启发您关注动物功能性状而非仅生物量。其微生物降解抗性的概念也可借鉴到土壤中，研究大型动物粪便或尸体有机质在土壤中的抗分解特性。",
+      "why_this_journal": "Biogeosciences 专注于生物地球化学循环的交叉研究，该文章结合了浮游生物生态学、微生物学与碳循环，契合期刊主题，方法上可能涉及现场观测与分子生物学手段。推测其价值在于对海洋碳汇机制的精细解析。",
+      "author_profile": null
     }
   ]
 }
