@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-05T13:57:41.720455+00:00",
-  "count": 10,
+  "generated_at": "2026-08-06T02:51:53.492763+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "A new analysis in Science of DNA from Chilean mummies has revealed the earliest known strain of ancient smallpox from the Americas. \n\nThe findings offer the clearest genetic evidence yet that European colonization brought this disease to the New World. \n\nLearn more: https://scim.ag/4w3Sl5U",
+      "created_at": "2026-08-05T19:34:01.687360156Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3msebhc2slw2l",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Geoscience",
+      "text": "News & Views on this paper by Mirco Migliavacca & Alessandro Cescatti (@scienceinnovation.ec.europa.eu):\n\nwww.nature.com/articles/s41...",
+      "created_at": "2026-08-05T15:00:14.136Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3msds5tv4ak2a",
+      "external_title": "Monitoring Europe’s forests in a changing climate - Nature Geoscience",
+      "external_description": "The European Union’s climate goals rely on forests as carbon sinks. Remote sensing data reveal accelerating biomass loss and distinguish the contributions of harvesting and natural disturbances, helpi...",
+      "external_uri": "https://www.nature.com/articles/s41561-026-02037-7?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreiescgiuanbbpmboyo2voyyqwu7gl2dbvvs6ekpl4yyr7mzls7ddyq"
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Geoscience",
+      "text": "⚒️ Analysis: Accelerating biomass loss from forest disturbances across Europe\n\n@katjakowalski.bsky.social @eoem-tum.bsky.social \n\nwww.nature.com/articles/s41...",
+      "created_at": "2026-08-05T15:00:14.135Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3msds5pj6pc2a",
+      "external_title": "Accelerating biomass loss from forest disturbances across Europe - Nature Geoscience",
+      "external_description": "Satellite observations reveal accelerating aboveground biomass loss across Europe’s forests since 2018, increasingly driven by natural disturbances. These trends weaken the forest carbon sink and chal...",
+      "external_uri": "https://www.nature.com/articles/s41561-026-02032-y?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreihe5n2ypmfiyv7at5lrzy27h4xnvfdf6lr2slwrhhqvat6d5yu6lq"
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "ESA Earth Observation",
+      "text": "Europe's forests are losing more biomass than previously thought.\n\nA study published in @natgeosci.nature.com and supported by ESA's Climate Change Initiative found that biomass losses per hectare have increased by 46% since 2018, with drought and insect outbreaks driving increasingly severe losses.",
+      "created_at": "2026-08-05T11:57:07.818Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3msdhwc5ejs2s",
+      "external_title": "Europe’s forests losing more biomass since 2018",
+      "external_description": "Europe’s forests are losing more biomass than previously thought, with disturbances such as drought and pests causing increasingly large losses from some of the oldest forests in Europe. This situatio...",
+      "external_uri": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xzdv4n22xzfdpeppb22cqfqa/bafkreidsflkx4v2wqn7jgwrgfhelq2nmwotpdiskglakgbeqckqdeyi2di"
+    },
     {
       "handle": "natclimate.nature.com",
       "author_name": "The Centre for Climate Change and Social Transformations (CAST)",
