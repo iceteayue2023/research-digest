@@ -1,6 +1,84 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T02:59:20.479836+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-07T07:02:05.277781+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7325-2026",
+      "title": "Regional CO2 and CH4 inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision  observations over the Korean Peninsula",
+      "link": "https://doi.org/10.5194/gmd-19-7325-2026",
+      "summary": "Regional CO2 and CH4 inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision  observations over the Korean Peninsula\n                    Doyoon Kwon, Bonhoon Koo, Jooyeop Lee, Jeongwon Kim, Jaehyung Ahn, Jinkyu Hong, Eri Saikawa, Alexander Avramov, Changsub Shim, Je-Woo Hong, Daegeun Shin, Shanlan Li, Sumin Kim, and Sangwon Joo\n                        Geosci. Model Dev., 19, 7325–7347, https://doi.org/10.5194/gmd-19-7325-2026, 2026\n                        Carbon dioxide and methane drive climate change, but measuring each region's emissions is hard over complex terrain. We combined a detailed computer modeling system with continuous measurements over the Korean Peninsula to estimate both gases. The estimates matched air measurements and agreed with the national carbon dioxide inventory, while suggesting methane from farming and waste may be larger than currently reported. The approach is transferable for national and regional emission monitoring.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-07T06:36:05+02:00",
+      "doi": "10.5194/gmd-19-7325-2026",
+      "affiliation": null,
+      "title_zh": "利用WRF-Chem (v4.4)/DART (v9.8.0)和韩国半岛连续高精度观测数据的区域CO2和CH4反演系统",
+      "relevance_score": 5,
+      "key_conclusion": "该研究结合区域大气化学传输模型和连续观测数据，开发了针对韩国半岛的CO2和CH4反演系统，其估算结果与大气测量和国家碳排放清单相符，并指出农业和废弃物来源的甲烷排放可能被低估。",
+      "relevance_note": "文章涉及温室气体（CO2和CH4）的监测与清单估算，属于陆地生态系统碳循环相关的大气监测方法研究。尽管不直接讨论rewilding，但该方法学可应用于评估生态系统碳平衡，且研究地点在亚洲而非欧洲，因此给予中等相关性分数。",
+      "related_papers": [
+        {
+          "title": "WRF-Chem/DART inversion dataset for CO2 and CH4 emissions in Korea",
+          "link": "https://doi.org/10.5281/zenodo.21369878",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Regional CO <sub>2</sub> and CH <sub>4</sub> inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision observations over the Korean Peninsula",
+          "link": "https://doi.org/10.5194/egusphere-2025-4938",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "Supplementary material to \"Regional CO <sub>2</sub> and CH <sub>4</sub> inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision observations over the Korean Peninsula\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-4938-supplement",
+          "venue": null,
+          "year": 2025
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7325/2026/gmd-19-7325-2026-avatar-web.png",
+      "scientific_question": "该研究试图回答的核心科学问题是如何在复杂地形区域（韩国半岛）精确估算和区分CO2与CH4的区域尺度排放量，尤其是验证自下而上的国家清单并识别可能被低估的排放源（如农业和废弃物来源的甲烷）。",
+      "contributions_limitations": "主要贡献是开发并验证了一个结合WRF-Chem大气化学传输模型与DART数据同化系统、集成连续高精度观测数据的区域反演框架，成功实现了CO2和CH4的同时估算，结果与国家清单部分吻合。局限性可能包括：反演结果的准确性高度依赖于观测网络的空间覆盖和先验清单质量；基于现有摘要推测，对农业和废弃物甲烷排放的'低估'结论可能受限于该区域排放清单的不确定性和模型对复杂地形下大气传输过程的表征能力，具体不确定性量化需查看原文。",
+      "follow_up_research": "后续研究可探索将该反演系统应用于其他复杂地形区域（如欧洲山区或东亚其他地区），以测试其普适性和对比不同区域排放格局差异。另一个方向是将该系统扩展至更高时空分辨率，结合卫星数据（如TROPOMI或GOSAT）以解析城市或局地尺度的排放热点，并进一步耦合生态系统模型以分离自然与人为源汇。",
+      "next_step_perspective": "对于您重野化与碳循环的研究，此文章提供了一个重要的方法论视角：利用大气反演（top-down）来验证和控制基于过程的生态系统模型或清单估算（bottom-up）中土壤碳变化的时空动态，特别是在野化项目区域。您可借鉴其数据同化框架，尝试将野化后生态系统的碳通量观测数据同化到区域或全球模型中，以更精确评估重野化的碳汇效应。此外，该研究对'被低估'排放源的识别提示您在评估野化生态系统的CH4（如大型食草动物排放）和CO2通量时，需警惕清单外源项的遗漏。",
+      "why_this_journal": "推测：该文章发表在Geoscientific Model Development，因为其核心贡献在于开发、集成并验证了一个新的区域反演建模系统（方法学创新），并提供了可复现的模型配置和后处理框架，符合该期刊'模型开发与评估'的定位。其科学意义兼顾了温室气体清单验证（政策相关）和复杂区域大气传输模拟的方法提升，具有跨学科应用价值。",
+      "author_profile": {
+        "name": "Doyoon Kwon",
+        "institution": "Yonsei University",
+        "intro": "作者Doyoon Kwon来自韩国延世大学（Yonsei University），从其历史论文题目看，其研究集中在大气温室气体（CO2/CH4）的高分辨率区域反演建模、数据同化系统开发，以及利用自下而上与自上而下方法估算韩国及城市尺度的碳排放，并服务于碳中和政策制定。其研究方向与您关注的地球系统建模和碳循环相关，但其研究重点是大气传输与排放源核算，与您的动物-土壤碳循环主题交集有限，不过其方法学可为您关联野化碳效益评估和土地利用变化排放监测提供参考。",
+        "other_works": [
+          {
+            "title": "Regional CO2 and CH4 inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision observations over the Korean Peninsula",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-7325-2026"
+          },
+          {
+            "title": "Datasets for top-down estimates of sectoral CO2 and CH4 emissions, terrestrial and ocean carbon exchanges, and atmospheric concentrations over the Korean Peninsula",
+            "year": "2026",
+            "journal": "Data in Brief",
+            "doi": "10.1016/j.dib.2026.112868"
+          },
+          {
+            "title": "Regional CO2 and CH4 inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision observations over the Korean Peninsula",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-4938"
+          },
+          {
+            "title": "Supplementary material to \"Regional CO2 and CH4 inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision observations over the Korean Peninsula\"",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-4938-supplement"
+          },
+          {
+            "title": "Towards unraveling urban scale emissions of greenhouse gases in Korea: Regional inverse CO2 and CH4 modeling framework",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/icuc12-659"
+          }
+        ]
+      }
+    }
+  ]
 }
