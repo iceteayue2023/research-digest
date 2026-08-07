@@ -1,8 +1,91 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T07:02:05.277781+00:00",
-  "count": 1,
+  "generated_at": "2026-08-07T12:52:18.160788+00:00",
+  "count": 2,
   "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-5461-2026",
+      "title": "Improved model predictions of carbon and water fluxes by including drought legacy effects",
+      "link": "https://doi.org/10.5194/bg-23-5461-2026",
+      "summary": "Improved model predictions of carbon and water fluxes by including drought legacy effects\n                    Yitong Yao, Yujie Wang, Yi Yin, Jeffrey D. Wood, and Christian Frankenberg\n                        Biogeosciences, 23, 5461–5475, https://doi.org/10.5194/bg-23-5461-2026, 2026\n                        Droughts can leave lasting \"scars\" that slow down recovery long after the rain returns. In this study, we found that models assuming plants recover immediately after drought performed poorly, while those allowing only partial recovery matched real observations much better. Accounting for these delayed recovery processes will make land surface models more accurate in predicting carbon and water cycles under future droughts.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-07T12:44:08+02:00",
+      "doi": "10.5194/bg-23-5461-2026",
+      "affiliation": null,
+      "title_zh": "纳入干旱遗留效应改进碳和水通量的模型预测",
+      "relevance_score": 8,
+      "key_conclusion": "研究发现，假设植物在干旱后立即恢复的模型表现较差，而允许部分恢复的模型与实际观测更吻合。考虑干旱后延迟恢复过程（即遗留效应）能使陆地表面模型更准确地预测未来干旱下的碳和水循环。",
+      "relevance_note": "该文章直接涉及极端气候事件（干旱）对陆地生态系统碳循环的扰动及模型改进，与用户方向中的(1)陆地生态系统碳循环和(5)生态系统模型改进高度相关，有助于理解碳汇碳源变化，但未涉及重野化或动物反馈。",
+      "related_papers": [
+        {
+          "title": "Direct and seasonal legacy effects of the 2018 heat wave and drought on European ecosystem productivity",
+          "link": "https://doi.org/10.1126/sciadv.aba2724",
+          "venue": "Science Advances",
+          "year": 2020
+        },
+        {
+          "title": "Global patterns of land-atmosphere fluxes of carbon dioxide, latent heat, and sensible heat derived from eddy covariance, satellite, and meteorological observations",
+          "link": "https://doi.org/10.1029/2010jg001566",
+          "venue": "Journal of Geophysical Research Atmospheres",
+          "year": 2011
+        },
+        {
+          "title": "Soil carbon 4 per mille",
+          "link": "https://doi.org/10.1016/j.geoderma.2017.01.002",
+          "venue": "Geoderma",
+          "year": 2017
+        },
+        {
+          "title": "Effects of climate extremes on the terrestrial carbon cycle: concepts, processes and potential future impacts",
+          "link": "https://doi.org/10.1111/gcb.12916",
+          "venue": "Global Change Biology",
+          "year": 2015
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5461/2026/bg-23-5461-2026-avatar-web.png",
+      "scientific_question": "该研究试图回答陆地表面模型（LSM）中如何表征干旱遗留效应（drought legacy effects），以改进对碳和水通量的预测准确性问题。具体而言，探讨植物在干旱后恢复速率的不同假设（立即恢复 vs. 部分恢复）对模型模拟效果的影响。",
+      "contributions_limitations": "主要贡献在于通过对比不同恢复假设的模型模拟与观测数据，定量证明了纳入干旱遗留效应（特别是部分恢复机制）能显著提升陆地表面模型对碳和水通量的预测能力，为改进生态系统模型提供了明确的方向。基于现有信息推测，其局限性可能在于遗留效应的机制表征较为简化（如未充分区分不同植被类型或干旱强度的非线性响应），且验证可能依赖于特定的通量站点数据，模型的普适性和机理深度有待进一步检验。这些局限性是基于摘要信息的推测，建议查看原文获取详细方法。",
+      "follow_up_research": "后续研究可进一步探索干旱遗留效应的生理机制（如非结构性碳水化合物NSC消耗与恢复、水力损伤修复等）并将其参数化到模型中以替代经验性恢复函数。此外，可研究遗留效应对土壤有机碳分解和稳定性的影响，以及将此类改进的模型应用于评估极端气候事件对欧洲等特定区域碳汇稳定性的长期影响。",
+      "next_step_perspective": "这篇文章为用户提供了直接的模型方法启发：在研究大型食草动物重野化对碳循环的影响时，可在生态系统模型或机理框架中引入'动物干扰遗留效应'（如践踏、排泄导致的土壤压实或养分脉冲后的恢复延迟），类似于干旱遗留效应的处理方式。这提示用户，重野化效应的评估不能仅看瞬时影响，需考虑其对植被-土壤系统恢复轨迹的长期改变，从而更准确地预测碳汇动态。同时，该文对模型-观测融合的方法可为用户整合野外实测数据与过程模型提供参考。",
+      "why_this_journal": "推测该文发表于Biogeosciences，因其聚焦于生物地球科学过程（碳和水通量）与模型开发的结合，符合期刊关注地球系统过程机理与定量模拟的定位。研究的核心是改进对碳循环关键驱动因子（干旱）的表征，具有明确的生物地球科学价值和模型应用前景，且方法严谨（模型-观测比较）符合期刊发表标准。",
+      "author_profile": {
+        "name": "Christian Frankenberg",
+        "institution": "California Institute of Technology",
+        "intro": "Christian Frankenberg现就职于加州理工学院（California Institute of Technology），从其历史研究看，其主要方向包括陆地生态系统碳循环与通量建模、遥感观测（如甲烷、异戊二烯）与大气示踪、植物-环境相互作用及模型-数据融合。其研究多结合卫星、飞机和地面观测来推断生态系统过程，与用户关注的生态系统碳循环和模型开发（DGVM）方向高度相关，尤其是其利用多源数据约束模型的方法可借鉴于重野化效应的量化评估。",
+        "other_works": [
+          {
+            "title": "Improved model predictions of carbon and water fluxes by including drought legacy effects",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5461-2026"
+          },
+          {
+            "title": "Airborne Observations Reveal Underestimated Riverine Methane Emissions Across the Amazon",
+            "year": "2026",
+            "journal": "Geophysical Research Letters",
+            "doi": "10.1029/2026GL122310"
+          },
+          {
+            "title": "A deep learning-driven emission estimator utilizing a mixture of experts for local wind speed situations applied to high-resolution methane imagery",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-2572"
+          },
+          {
+            "title": "Heterogeneous Responses of High‐Latitude Forest Productivity to Interannual Climate Variability",
+            "year": "2026",
+            "journal": "Geophysical Research Letters",
+            "doi": "10.1029/2025GL121078"
+          },
+          {
+            "title": "Inferring drivers of tropical isoprene: competing effects of emissions and chemistry",
+            "year": "2026",
+            "journal": "Atmospheric Chemistry and Physics",
+            "doi": "10.5194/acp-26-4509-2026"
+          }
+        ]
+      }
+    },
     {
       "id": "https://doi.org/10.5194/gmd-19-7325-2026",
       "title": "Regional CO2 and CH4 inversion system using WRF-Chem (v4.4)/DART (v9.8.0) and continuous high-precision  observations over the Korean Peninsula",
