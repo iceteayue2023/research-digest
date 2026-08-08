@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T06:36:52.909354+00:00",
-  "count": 17,
+  "generated_at": "2026-08-08T12:36:35.455321+00:00",
+  "count": 14,
   "posts": [
     {
       "handle": "natgeosci.nature.com",
@@ -155,39 +155,6 @@
       "external_description": "Satellite observations reveal accelerating aboveground biomass loss across Europe’s forests since 2018, increasingly driven by natural disturbances. These trends weaken the forest carbon sink and chal...",
       "external_uri": "https://www.nature.com/articles/s41561-026-02032-y?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreihe5n2ypmfiyv7at5lrzy27h4xnvfdf6lr2slwrhhqvat6d5yu6lq"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "ESA Earth Observation",
-      "text": "Europe's forests are losing more biomass than previously thought.\n\nA study published in @natgeosci.nature.com and supported by ESA's Climate Change Initiative found that biomass losses per hectare have increased by 46% since 2018, with drought and insect outbreaks driving increasingly severe losses.",
-      "created_at": "2026-08-05T11:57:07.818Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3msdhwc5ejs2s",
-      "external_title": "Europe’s forests losing more biomass since 2018",
-      "external_description": "Europe’s forests are losing more biomass than previously thought, with disturbances such as drought and pests causing increasingly large losses from some of the oldest forests in Europe. This situatio...",
-      "external_uri": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Space_for_our_climate/Europe_s_forests_losing_more_biomass_since_2018",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xzdv4n22xzfdpeppb22cqfqa/bafkreidsflkx4v2wqn7jgwrgfhelq2nmwotpdiskglakgbeqckqdeyi2di"
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "The Centre for Climate Change and Social Transformations (CAST)",
-      "text": "From celebrities to neighbours, the people around us can nudge us towards better climate choices. A new study, led by CAST's Dr Sam Hampton, with Prof Lorraine Whitmarsh MBE (University of Bath) & Dr Briony Latter (Cardiff University), shows how 📣\n\nRead the blog post summary of the key findings 👇",
-      "created_at": "2026-08-05T09:06:55.183Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3msd6fyyq7l25",
-      "external_title": "Who people trust matters: new CAST study maps a path to climate action - CAST",
-      "external_description": "From celebrities to neighbours, the people around us can nudge us towards better climate choices. A new study led by CAST researchers at the University of Bath shows how.",
-      "external_uri": "https://cast.ac.uk/blog/who-people-trust-matters-new-cast-study-maps-a-path-to-climate-action/",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tkhkkdrzujyl7a7jjtfqtkcy/bafkreifmgygn2h5vo32k6gzw4yqdjdbz3cuammlifh4fhzvd3rayf6r4yq"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New Species Spotlight 👇\n\nCrested rat (Lophiomys imhausi) rdcu.be/fxZwF\n\nIgnacio Lazagabaster’s finding of the bones of this poisonous mammal in a desert cave suggested a far greener history of the Judean Desert.",
-      "created_at": "2026-08-05T08:36:52.010Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3msd4q6xy2k2k",
-      "external_title": "Crested rat (Lophiomys imhausi)",
-      "external_description": "Nature Ecology & Evolution - Ignacio Lazagabaster’s finding of the bones of this poisonous mammal in a desert cave suggested a far greener history of the Judean Desert.",
-      "external_uri": "https://rdcu.be/fxZwF",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreidszmcn46uj4msuos4ehiv3teta63ttncjvuk7ozuxmfadvjzyewy"
     }
   ]
 }

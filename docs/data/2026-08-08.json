@@ -1,6 +1,54 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T06:36:52.909062+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-08T12:36:35.454856+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026003157",
+      "title": "Relationships among food web size, structural complexity and species uniqueness",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026003157?dgcid=rss_sd_all",
+      "summary": "Publication date: November 2026Source: Ecological Modelling, Volume 521Author(s): Wei-chung Liu, Ferenc Jordán",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "食物网规模、结构复杂性与物种独特性之间的关系",
+      "relevance_score": 6,
+      "key_conclusion": "该研究探讨了食物网的规模、结构复杂度与物种独特性之间的定量关系，可能揭示了大型或复杂食物网中物种生态位独特性变化的模式。由于仅提供摘要元数据，具体结论未详细展开。",
+      "relevance_note": "文章涉及食物网复杂性（主题4），与您关注的食物网结构和生物多样性-生态系统功能关系有一定关联，但未直接涉及大型食草动物或碳循环，故给予中等偏上分数。",
+      "related_papers": [
+        {
+          "title": "glmmTMB Balances Speed and Flexibility Among Packages for Zero-inflated Generalized Linear Mixed Modeling",
+          "link": "https://doi.org/10.32614/rj-2017-066",
+          "venue": "The R Journal",
+          "year": 2017
+        },
+        {
+          "title": "Reactive Oxygen Species, Oxidative Damage, and Antioxidative Defense Mechanism in Plants under Stressful Conditions",
+          "link": "https://doi.org/10.1155/2012/217037",
+          "venue": "Journal of Botany",
+          "year": 2012
+        },
+        {
+          "title": "Parasites Affect Food Web Structure Primarily through Increased Diversity and Complexity",
+          "link": "https://doi.org/10.1371/journal.pbio.1001579",
+          "venue": "PLoS Biology",
+          "year": 2013
+        },
+        {
+          "title": "The functional role of biodiversity in ecosystems: incorporating trophic complexity",
+          "link": "https://doi.org/10.1111/j.1461-0248.2007.01037.x",
+          "venue": "Ecology Letters",
+          "year": 2007
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "食物网的规模（物种数量）和结构复杂度（连接密度等）如何影响物种在网中的生态位独特性（uniqueness）？",
+      "contributions_limitations": "基于现有信息推测，该研究可能通过定量模型揭示食物网规模与复杂度对物种独特性分布的非线性影响，为理解大型食物网中的冗余性与脆弱性提供理论框架。局限性在于摘要信息不足，无法确认其是否包含实证数据验证或仅停留在理论模拟层面，建议查看原文。",
+      "follow_up_research": "可进一步探讨重野化引入大型食草动物后，食物网规模增加对物种独特性及功能冗余性的影响；或结合土壤食物网数据，研究地下-地上食物网耦合中物种独特性的变化如何影响生态系统碳循环。",
+      "next_step_perspective": "该研究为分析重野化后食物网结构变化对生态系统功能（如碳封存）的级联效应提供了定量方法学参考，特别是物种独特性指标可用于识别对维持食物网稳定和养分循环至关重要的关键物种，从而为管理干预提供靶点。",
+      "why_this_journal": "推测：Ecological Modelling 专注于生态学理论建模与定量方法，该研究将食物网规模、复杂性与物种独特性整合为可检验的定量关系，符合期刊对理论创新和方法严谨性的定位。",
+      "author_profile": null
+    }
+  ]
 }
