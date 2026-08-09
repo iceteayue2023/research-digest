@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-09T06:40:32.382263+00:00",
-  "count": 13,
+  "generated_at": "2026-08-09T12:38:58.531579+00:00",
+  "count": 12,
   "posts": [
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Portfolio",
+      "text": "Shifting atmospheric circulation patterns over Europe since the 1980s have been the major cause of increasingly severe droughts on the continent, according to a study in Nature Geoscience. go.nature.com/4x1kDPo 🌎🧪",
+      "created_at": "2026-08-09T01:59:01.241Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3msmiehvagc2q",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "science.org",
       "author_name": "Science Magazine",
@@ -122,28 +133,6 @@
       "external_description": "Humble hydromagnesite is a hydrated carbonate with outsized importance. Yongjie Lin and Ian Power explore its potential for both carbon sequestration and unlocking the secrets of potential past microb...",
       "external_uri": "https://www.nature.com/articles/s41561-026-02052-8?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreigyt7toxxk5efq3o46xzzcwaeniaugzb2wmllohtc4c3vonqlbs44"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Only 4 days left to apply for our Helper programme! \n\n⏰Last date to apply is 10 August ⏰\n\nDon’t miss this chance to support the biggest ecology conference in Europe and get a behind-the-scenes look.\n\nSubmit your application today 👇\nhttps://f.mtr.cool/qiklcgglcy",
-      "created_at": "2026-08-06T10:02:41.302324217Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3msfryldeyu2w",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Shawan Chowdhury",
-      "text": "Our new Nature Eco Evo paper documents range shifts in 1,758 butterfly species across 105 countries, primarily due to climate change.\n\n🦋80% expanded\n🦋27% contracted\n🦋22% shifted elevation\n🦋342 showed multiple shift types.\n\ndoi.org/10.1038/s415...\n@monashbiol.bsky.social @monashscience.bsky.social",
-      "created_at": "2026-08-06T09:49:01.680Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3msfra5jvd22h",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
