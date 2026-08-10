@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T12:38:58.531579+00:00",
-  "count": 12,
+  "generated_at": "2026-08-10T02:17:20.147224+00:00",
+  "count": 6,
   "posts": [
     {
       "handle": "natgeosci.nature.com",
@@ -67,72 +67,6 @@
       "external_description": "Insects are increasingly pressured by climate change. Here the authors compile global evidence of range shifts in butterflies and call for more co-ordinated efforts in documenting such trends across c...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03117-y",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreidpey4pdoylerz7uluvtvjawgyijx76y2hvggxwqgyuzt27tsteka"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "A 500-year history of floods on the Yangtze River in China—reconstructed from sediment, historical records, and climate data—shows that peak flooding occurred during the Little Ice Age and that embankments and enclosures increase flood risk. In PNAS: https://ow.ly/vkZ450Zx3PL",
-      "created_at": "2026-08-07T01:00:15.836909451Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mshe5lntaq2i",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "In this issue: Municipal wastewater reveals community diet, scientists achieve attosecond microscope resolution, and researchers investigate why old-growth trees are missing from tropical secondary forests. In PNAS: https://ow.ly/eCrl50Zx4mg",
-      "created_at": "2026-08-06T21:00:19.369123562Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3msgwqjyogh2n",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Secondary forests, those that grow after a primary forest is cleared, can help keep the Amazon region cool and moist, but forests regenerating within fragmented landscapes may not provide the same level of climate regulation as primary forests. In PNAS: https://ow.ly/eRRV50Zx3Cy",
-      "created_at": "2026-08-06T19:00:33.849584252Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3msgq2feaq62h",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "David Grimm",
-      "text": "The countryside has always been seen as a refuge from the swelter of summer. But a pioneering study suggests that as global warming continues in much of the world, the countryside’s appeal as a climate buffer may dwindle. Important story by @voosen.me for @science.org",
-      "created_at": "2026-08-06T18:59:54.340Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3msgpz6yvp22h",
-      "external_title": "Global warming is coming for the countryside",
-      "external_description": "Pioneering study projects rural heat will edge closer to city swelter",
-      "external_uri": "https://www.science.org/content/article/global-warming-coming-countryside",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hgexsteyfqqrlucbsvdysyak/bafkreiggv4dx4l5fstu3fr6i74hrmimowx4np5wd6rxp4jugvqqp3af2ji"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Carbon nanotubes can be made directly from carbon dioxide. The proposed tandem electrochemical–thermochemical process overcomes previous thermodynamic limitations of using the greenhouse gas as a manufacturing feedstock. In PNAS: https://ow.ly/tsVy50Zx43j",
-      "created_at": "2026-08-06T16:01:38.890396649Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3msgg2hpjbh2x",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Geoscience",
-      "text": "⚒️ #AllMineralsConsidered: Yongjie Lin (Chinese Academy of Geological Sciences) and @ianpower.bsky.social (@trentuniversity.bsky.social) explore the potential of hydromagnesite on both Earth and Mars\n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-08-06T15:30:03.820Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3msgebxqpz227",
-      "external_title": "Hydromagnesite on Earth and Mars - Nature Geoscience",
-      "external_description": "Humble hydromagnesite is a hydrated carbonate with outsized importance. Yongjie Lin and Ian Power explore its potential for both carbon sequestration and unlocking the secrets of potential past microb...",
-      "external_uri": "https://www.nature.com/articles/s41561-026-02052-8?utm_source=bluesky&utm_medium=social&utm_campaign=ngeo",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreigyt7toxxk5efq3o46xzzcwaeniaugzb2wmllohtc4c3vonqlbs44"
     }
   ]
 }
