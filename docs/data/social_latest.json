@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-10T07:14:33.975581+00:00",
-  "count": 6,
+  "generated_at": "2026-08-10T12:56:52.260379+00:00",
+  "count": 5,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that\n\ngo.nature.com/4fPpbCz",
+      "created_at": "2026-08-10T12:10:01.634Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msq2xxluld2a",
+      "external_title": "Why environmental treaties must also address mental health",
+      "external_description": "Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that.",
+      "external_uri": "https://go.nature.com/4fPpbCz",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreieumtbtow3yrmwvm4xjul4tcdkh7jfgsad5d4brawjpqr6jq43tba"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Upcycling of polyvinyl chloride into polyalphaolefin lubricants\ngo.nature.com/4whSO4h",
+      "created_at": "2026-08-10T08:36:01.863Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mspozcngcw2f",
+      "external_title": "Upcycling of polyvinyl chloride into polyalphaolefin lubricants - Nature",
+      "external_description": "A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon circularity.",
+      "external_uri": "https://go.nature.com/4whSO4h",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifv3m72kajilj6hr5mi2qp4hei7xsam2lzm3lk5zkrcfyc7q6tvia"
+    },
     {
       "handle": "natgeosci.nature.com",
       "author_name": "Nature Portfolio",
@@ -34,39 +56,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Extreme heat is killing hundreds of thousands of people every year — and the annual toll is growing\n\ngo.nature.com/4fXyVcG",
-      "created_at": "2026-08-07T10:40:01.277Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3msiekb2jti2h",
-      "external_title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
-      "external_description": "Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe.",
-      "external_uri": "https://go.nature.com/4fXyVcG",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidargnnwbu3or2dmbrz26bftlazstev4phpq6qbebwtguqoytd72i"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Innovate, challenge and advance ecology at BES2026. \n\nHave exciting and vital research that needs a platform? \n\nSubmit your abstract now to share your work with Europe's largest gathering of ecologists 👇\nhttps://f.mtr.cool/dxphyptumn",
-      "created_at": "2026-08-07T10:02:06.626187615Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3msicghpolx2t",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Insects are increasingly pressured by climate change. Here the authors compile global evidence of range shifts in butterflies and call for more co-ordinated efforts in documenting such trends across countries 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-08-07T07:37:40.947Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3msi2e7dn3s2m",
-      "external_title": "Extensive climate-induced range shifts in butterflies across the globe - Nature Ecology & Evolution",
-      "external_description": "Insects are increasingly pressured by climate change. Here the authors compile global evidence of range shifts in butterflies and call for more co-ordinated efforts in documenting such trends across c...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03117-y",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreidpey4pdoylerz7uluvtvjawgyijx76y2hvggxwqgyuzt27tsteka"
     }
   ]
 }

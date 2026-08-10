@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T07:14:33.959967+00:00",
-  "count": 88,
+  "generated_at": "2026-08-10T12:56:52.243868+00:00",
+  "count": 90,
   "articles": [
     {
       "id": "10.1111/gcb.71037",
@@ -2598,6 +2598,77 @@
             "year": "2025",
             "journal": null,
             "doi": "10.1101/2025.08.14.670341"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02056-4",
+      "title": "Moss biocrusts sustain snowpack and soil function in cold deserts",
+      "link": "https://www.nature.com/articles/s41561-026-02056-4",
+      "summary": "Nature Geoscience, Published online: 10 August 2026; doi:10.1038/s41561-026-02056-4Long-term soil biogeochemical measurements in a cold desert in China suggest that moss biocrusts can substantially extend snow cover duration and increase snow depth during snow events, thereby sustaining soil biological activity and ecosystem function under a warming climate.",
+      "journal": "Nature Geoscience",
+      "published": "2026-08-10T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02056-4",
+      "affiliation": null,
+      "title_zh": "苔藓生物结皮维持寒冷沙漠中的积雪和土壤功能",
+      "relevance_score": 7,
+      "key_conclusion": "在中国寒冷沙漠的长期土壤生物地球化学测量表明，苔藓生物结皮可显著延长积雪覆盖时长并增加降雪事件中的积雪深度，从而在气候变暖下维持土壤生物活性和生态系统功能。",
+      "relevance_note": "文章涉及土壤功能维持和气候变暖下的生态系统响应，与用户的土壤有机碳和生态系统功能恢复主题相关，虽未直接讨论重野化，但为土壤-植被反馈提供了见解。",
+      "related_papers": [
+        {
+          "title": "Ecology and responses to climate change of biocrust-forming mosses in drylands",
+          "link": "https://doi.org/10.1093/jxb/erac183",
+          "venue": "Journal of Experimental Botany",
+          "year": 2022
+        },
+        {
+          "title": "Deserts, Semiarid Areas and Desertification",
+          "link": "https://doi.org/10.1017/9781009325844.020",
+          "venue": "Cambridge University Press eBooks",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02056-4/MediaObjects/41561_2026_2056_Fig1_HTML.png",
+      "scientific_question": "苔藓生物结皮如何通过影响积雪动态来维持寒冷沙漠生态系统中土壤的生物活性与整体功能，尤其是在气候变暖的背景下？",
+      "contributions_limitations": "主要贡献在于通过长期土壤生物地球化学实测数据，揭示了苔藓生物结皮通过延长积雪覆盖时长和增加积雪深度来缓冲气候变暖对土壤功能的负面影响，为干旱区生态系统功能维持提供了新机制。局限性可能在于研究地点仅限中国寒冷沙漠，结论向其他生态系统（如欧洲干旱或寒区）的外推需谨慎；且摘要未提供具体数据，机制解析的深度需原文验证。",
+      "follow_up_research": "可探讨苔藓生物结皮在不同气候情景（如极端降水减少或增温幅度加大）下的缓冲能力阈值，以及结皮-积雪互作对土壤有机碳动态（如碳释放与固定）的定量影响。还可研究生物结皮这一功能是否可扩展到其他非生物结皮覆盖的生态系统恢复实践中。",
+      "next_step_perspective": "这篇文章提供了一个重要视角：在重野化研究中，植被覆盖层（如苔藓）对微气候的调节（如积雪）可能间接影响土壤碳循环，提示在评估大型食草动物对土壤有机碳影响时，需考虑植被-微气候-土壤的级联反馈。方法上，长期定位测量和生物地球化学指标结合可用于追踪重野化区域的碳过程。",
+      "why_this_journal": "推测因其揭示了非生物结皮在调控寒区生态系统对气候变暖响应中的关键角色，具有跨尺度（从微观结皮到宏观积雪）的新颖性和长期观测数据的严谨性，符合Nature Geoscience对地球系统过程原创研究的定位。",
+      "author_profile": {
+        "name": "Yousong Cao",
+        "institution": "Southwest University",
+        "intro": "Yousong Cao来自西南大学，从其历史作品看，主要研究生物结皮对土壤呼吸、冻融循环、水土流失及微生物组的影响，集中在干旱半干旱系统的生物地球化学过程。这些研究与用户方向关联在于，生物结皮作为生态系统功能重要组分，其调控机制可为理解重野化中植被-土壤反馈提供补充。",
+        "other_works": [
+          {
+            "title": "Biocrusts regulate winter soil respiration by buffering freeze-thaw dynamics in a cold desert",
+            "year": "2026",
+            "journal": "CATENA",
+            "doi": "10.1016/j.catena.2026.110338"
+          },
+          {
+            "title": "Biocrust functions in mitigating soil water and wind erosion after freezing-thawing",
+            "year": "2026",
+            "journal": "Journal of Hydrology",
+            "doi": "10.1016/j.jhydrol.2026.135979"
+          },
+          {
+            "title": "Moss biocrusts sustain snowpack and soil function in cold deserts",
+            "year": "2026",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-026-02056-4"
+          },
+          {
+            "title": "Biocrusts: Crucial Linkage Among the Earth Sciences and Forgotten Pillar of the Earth System",
+            "year": "2026",
+            "journal": "Annual Review of Earth and Planetary Sciences",
+            "doi": "10.1146/annurev-earth-032524-013449"
+          },
+          {
+            "title": "Biocrusts regulate the phase transition between liquid water and ice within seasonally frozen soils in drylands",
+            "year": "2026",
+            "journal": "Journal of Hydrology",
+            "doi": "10.1016/j.jhydrol.2026.134925"
           }
         ]
       }
@@ -6531,6 +6602,89 @@
             "year": "2024",
             "journal": null,
             "doi": "10.48550/ARXIV.2412.07604"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02070-6",
+      "title": "Planetary energy budget during abrupt glacial climate events set by Atlantic Ocean heat valve",
+      "link": "https://www.nature.com/articles/s41561-026-02070-6",
+      "summary": "Nature Geoscience, Published online: 10 August 2026; doi:10.1038/s41561-026-02070-6Variations in Atlantic Meridional Overturning Circulation strength through abrupt Dansgaard–Oeschger events during Pleistocene glacial periods controlled ocean heat content, and heat uptake by the planet as a whole, according to a synthesis of simulations.",
+      "journal": "Nature Geoscience",
+      "published": "2026-08-10T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02070-6",
+      "affiliation": null,
+      "title_zh": "冰期气候突变事件中的行星能量收支由大西洋海洋热阀控制",
+      "relevance_score": 4,
+      "key_conclusion": "更新世冰期Dansgaard–Oeschger事件期间，大西洋经向翻转环流强度的变化控制了海洋热含量和整个行星的热吸收，这是基于模拟综合的结果。",
+      "relevance_note": "文章聚焦古气候和海洋环流对行星能量收支的影响，与用户研究的生态系统碳循环和重野化主题关联有限，但涉及全球碳循环背景下的气候驱动因素。",
+      "related_papers": [
+        {
+          "title": "Ice melt, sea level rise and superstorms: evidence from paleoclimate data, climate modeling, and modern observations that 2 °C global warming could be dangerous",
+          "link": "https://doi.org/10.5194/acp-16-3761-2016",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2016
+        },
+        {
+          "title": "Pacific Ocean and Cenozoic evolution of climate",
+          "link": "https://doi.org/10.1029/2005rg000190",
+          "venue": "Reviews of Geophysics",
+          "year": 2008
+        },
+        {
+          "title": "Stability of the Atlantic Meridional Overturning Circulation: A Review and Synthesis",
+          "link": "https://doi.org/10.1029/2019jc015083",
+          "venue": "Journal of Geophysical Research Oceans",
+          "year": 2019
+        },
+        {
+          "title": "Chapter 1 Impacts of the Oceans on Climate Change",
+          "link": "https://doi.org/10.1016/s0065-2881(09)56001-4",
+          "venue": "Advances in marine biology",
+          "year": 2009
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02070-6/MediaObjects/41561_2026_2070_Fig1_HTML.png",
+      "scientific_question": "冰期Dansgaard–Oeschger气候事件期间，大西洋经向翻转环流（AMOC）的强度变化如何通过海洋热含量影响整个行星的能量平衡？",
+      "contributions_limitations": "主要贡献在于通过模拟综合，将AMOC变化与全球行星能量收支直接联系起来，揭示了海洋热输运在快速气候变化中的核心角色，加深了对冰期气候突变机制的理解。局限性可能在于依赖模拟数据，缺乏直接观测支撑，且对能量收支的具体分项（如辐射反馈）刻画可能受模型不确定性影响，摘要未提供定量结果。",
+      "follow_up_research": "可进一步研究AMOC变化如何通过行星能量收支反馈影响陆地生态系统（如碳汇强度和植被分布），也可将这种能量调节机制与当前全球变暖下的AMOC衰减情景联系起来，评估其对生态恢复和碳循环的潜在影响。",
+      "next_step_perspective": "这篇古气候研究提供了跨时间尺度的视角，说明海洋环流对全球碳循环和温度梯度的控制，这在重野化研究中可启发思考：大型食草动物如何通过改变地表过程（如反照率和蒸发）影响局部能量平衡，进而影响生态系统碳稳定性。同时，方法上强调综合模拟，可用于构建预测气候变化下重野化效应的模型框架。",
+      "why_this_journal": "推测因其将对古气候突变事件的认知提升到行星能量收支层面，具有系统性和跨尺度综合意义，且结合模型模拟的合成分析具有方法严谨性，与该期刊关注地球系统整体行为的定位契合。",
+      "author_profile": {
+        "name": "Christo Buizert",
+        "institution": "Oregon State University",
+        "intro": "Christo Buizert来自俄勒冈州立大学，从其历史作品看，核心研究领域是极地冰芯年代学、气候变化与全球碳循环，尤其关注冰期-间冰期尺度的大气成分与环流变化。这些研究与用户的关联在于，其揭示的碳循环气候反馈机制可为理解当前生态系统碳动态提供背景，但直接相关性有限。",
+        "other_works": [
+          {
+            "title": "Measurements of 14 C in ancient ice from Taylor Glacier, Antarctica constrain in situ cosmogenic 14 CH 4 and 14 CO production rates",
+            "year": "2016",
+            "journal": "Geochimica et Cosmochimica Acta",
+            "doi": null
+          },
+          {
+            "title": "Consistent evidence of increasing Antarctic accumulation with warming",
+            "year": "2015",
+            "journal": "Nature Climate Change",
+            "doi": null
+          },
+          {
+            "title": "Observing and modeling the influence of layering on bubble trapping in polar firn",
+            "year": "2015",
+            "journal": "Journal of Geophysical Research: Atmospheres",
+            "doi": null
+          },
+          {
+            "title": "Southern Ocean control of glacial AMOC stability and Dansgaard-Oeschger interstadial duration",
+            "year": "2015",
+            "journal": "Paleoceanography",
+            "doi": null
+          },
+          {
+            "title": "The WAIS Divide deep ice core WD2014 chronology--Part 1: Methane synchronization (68--31 ka BP) and the gas age--ice age difference",
+            "year": "2015",
+            "journal": "Climate of the Past",
+            "doi": null
           }
         ]
       }
