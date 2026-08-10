@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T02:17:20.130594+00:00",
-  "count": 87,
+  "generated_at": "2026-08-10T07:14:33.959967+00:00",
+  "count": 88,
   "articles": [
     {
       "id": "10.1111/gcb.71037",
@@ -3654,6 +3654,53 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5497-2026",
+      "title": "Spatially contrasting CO2 dynamics driven by green manure intercropping in subtropical tea plantations",
+      "link": "https://doi.org/10.5194/bg-23-5497-2026",
+      "summary": "Spatially contrasting CO2 dynamics driven by green manure intercropping in subtropical tea plantations\n                    Shuo Liu, Zeping Jin, Ziyi Chen, Haolin Li, Zihan Fan, Shaohui Li, Haiwang Fu, Wei He, Kunpeng Zang, Shuangxi Fang, and Peng Yan\n                        Biogeosciences, 23, 5497–5513, https://doi.org/10.5194/bg-23-5497-2026, 2026\n                        We studied how planting green manure between tea rows affects carbon dioxide release from tea fields. Mixing legume and grass species improved soil health, reduced emissions from tea rows, and stabilized carbon over time. Although inter-row areas released more carbon, overall emissions declined with continued intercropping. This shows that green manure can make tea farming more climate-friendly and sustainable.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-10T09:01:55+02:00",
+      "doi": "10.5194/bg-23-5497-2026",
+      "affiliation": null,
+      "title_zh": "亚热带茶园绿肥间作驱动的CO2动态空间对比",
+      "relevance_score": 6,
+      "key_conclusion": "在茶树行间种植绿肥（豆科与禾本科混合）改善了土壤健康，减少了茶行区域的碳排放，并随时间推移稳定了土壤碳；尽管行间区域释放了更多碳，但总体排放随持续间作而下降，表明绿肥间作可使茶园更气候友好和可持续。",
+      "relevance_note": "文章涉及茶园生态系统中土壤碳动态与碳排放，属于陆地生态系统碳循环范畴，与你的碳循环研究方向相关；但主题集中于农业管理实践而非大型食草动物重野化，因此相关性中等。研究地点在中国亚热带，非欧洲，但因其探讨土壤碳稳定机制，仍有一定参考价值。",
+      "related_papers": [
+        {
+          "title": "Effects of intercropping with legume forage on the rhizosphere microbial community structure of tea plants",
+          "link": "https://doi.org/10.3389/fmicb.2024.1474941",
+          "venue": "Frontiers in Microbiology",
+          "year": 2024
+        },
+        {
+          "title": "Rubber intercropping with arboreal and herbaceous species alleviated the global warming potential through the reduction of soil greenhouse gas emissions",
+          "link": "https://doi.org/10.1038/s41598-025-87293-0",
+          "venue": "Scientific Reports",
+          "year": 2025
+        },
+        {
+          "title": "Optimizing sustainable agriculture: A comprehensive review of agronomic practices and their impacts on soil attributes",
+          "link": "https://doi.org/10.1016/j.jenvman.2024.121487",
+          "venue": "Journal of Environmental Management",
+          "year": 2024
+        },
+        {
+          "title": "Effects of biochar on soil microbial communities: A meta-analysis",
+          "link": "https://doi.org/10.1016/j.scitotenv.2023.166079",
+          "venue": "The Science of The Total Environment",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5497/2026/bg-23-5497-2026-avatar-web.png",
+      "scientific_question": "在亚热带茶园中行间种植绿肥（豆科与禾本科混合）如何影响土壤CO2排放的空间格局及其随时间的动态变化？",
+      "contributions_limitations": "主要贡献在于揭示了绿肥间作对茶园CO2排放具有空间异质性效应：减少茶行排放但增加行间排放，且总体排放随持续间作下降，为茶园碳管理提供了实证依据。局限性可能是研究局限于亚热带茶园特定系统，未涉及土壤有机碳组分（如POM/MAOM）的详细机制解析，且摘要未提供长期观测数据或完整碳收支核算。基于现有信息推测，建议查看原文获取详细方法及数据支撑。",
+      "follow_up_research": "后续研究可深入探究绿肥间作下不同土壤有机碳组分（POM与MAOM）的形成与稳定机制，以及微生物群落结构和功能如何介导碳动态变化。此外，可评估该系统在不同气候情景和长期管理下的碳汇潜力，并构建茶园碳循环模型以预测未来变化。",
+      "next_step_perspective": "这篇文章提供了农业生态系统通过植被管理调控碳动态的案例，与你的研究主题直接相关——它展示了人为引入植物（类似重野化中植被恢复）如何影响土壤碳排放，但缺少动物介导的反馈作用。你可以借鉴其空间分辨的CO2监测方法，拓展到大型食草动物重野化系统中，量化动物活动对碳通量空间异质性的影响。",
+      "why_this_journal": "Biogeosciences 关注生物地球化学循环的多尺度过程，该研究结合农业实践与碳循环动态，具有明确的应用导向和环境意义，符合期刊的地球系统过程与人类活动耦合的研究定位。推测其发表原因在于提供了茶园系统碳排放的原创性实证数据，且具备方法严谨性。",
+      "author_profile": null
     },
     {
       "id": "10.1029/2026EF008515",
