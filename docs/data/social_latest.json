@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-10T12:56:52.260379+00:00",
-  "count": 5,
+  "generated_at": "2026-08-11T02:00:48.746767+00:00",
+  "count": 6,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "The countryside has always been seen as a refuge from the swelter of summer. But now a pioneering study suggests that as global warming continues in much of the world, the countryside's appeal as a climate buffer may dwindle.\n\nLearn more: https://scim.ag/4wna4Fj",
+      "created_at": "2026-08-10T22:30:03.176853541Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3msr5mnlmt42d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them\n\ngo.nature.com/45OgiTY",
+      "created_at": "2026-08-10T16:51:32.318Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msqkpdsck62w",
+      "external_title": "Turning the tide: restoring Mozambican mangroves — in photos",
+      "external_description": "As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them.",
+      "external_uri": "https://go.nature.com/45OgiTY",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicag5aclbpo23hbw4qzo6b23hb7q2rz7ukp4u7pm3swpmadfsaq4q"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -41,17 +63,6 @@
       "text": "The domestic cat may be a far more recent arrival to Europe than previously thought, according to a 2025 Science study. \n\nThe findings offer new insight into one of humanity’s most enigmatic animal companions. https://scim.ag/44kov1S #InternationalCatDay",
       "created_at": "2026-08-08T22:56:01.290627535Z",
       "post_link": "https://bsky.app/profile/science.org/post/3msm65aly772q",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Portfolio",
-      "text": "Only 10% of organic carbon from thawing Pleistocene permafrost in the Arctic that is buried in marine sediments ends up re-entering the active carbon cycle, according to an analysis in Nature Geoscience. go.nature.com/458UfHs 🌎⚒️🌊🧪",
-      "created_at": "2026-08-07T19:03:00.647Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3msjano5qyo25",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
