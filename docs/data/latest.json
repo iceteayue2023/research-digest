@@ -1,8 +1,30 @@
 {
   "date": "2026-08-11",
-  "generated_at": "2026-08-11T06:52:30.588638+00:00",
-  "count": 3,
+  "generated_at": "2026-08-11T12:52:50.722071+00:00",
+  "count": 4,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02449-w",
+      "title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
+      "link": "https://www.nature.com/articles/d41586-026-02449-w",
+      "summary": "Nature, Published online: 11 August 2026; doi:10.1038/d41586-026-02449-wThe Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
+      "journal": "Nature",
+      "published": "2026-08-11T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-02449-w",
+      "affiliation": null,
+      "title_zh": "一次“超级”厄尔尼诺可能改变亚马逊——世界最大雨林注定要毁灭吗？",
+      "relevance_score": 8,
+      "key_conclusion": "文章探讨了亚马逊雨林可能比科学家此前认为的更接近临界点，担心干旱和火灾可能将其推向不可逆转的衰退。",
+      "relevance_note": "该文章涉及热带雨林退化与极端气候事件（厄尔尼诺）对碳循环的扰动，且发表在Nature正刊上，主题涉及生态学和生态系统稳定性，符合用户对极端气候扰动及高水平期刊优先关注的标准。",
+      "related_papers": [],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02449-w/d41586-026-02449-w_53064638.jpg",
+      "scientific_question": "亚马逊雨林是否比此前认为的更接近生态临界点，以及超级厄尔尼诺引发的干旱和火灾是否会将其推向不可逆转的衰退？",
+      "contributions_limitations": "本文作为Nature新闻评论，综合了最新研究证据，指出亚马逊雨林面临的气候临界点风险可能被低估，强调了干旱与火灾的协同放大效应。基于现有信息推测，其局限性在于作为评论文章缺乏一手实验数据，且对'不可逆衰退'的具体机制和量化阈值可能未深入展开。",
+      "follow_up_research": "后续研究可聚焦于量化不同强度的厄尔尼诺事件对亚马逊碳源/碳汇转换的具体阈值，以及大型食草动物（如貘、鹿）在火灾后植被恢复和碳积累中的作用。也可探索土壤有机碳稳定性（如MAOM形成）如何响应干旱和火灾的复合扰动，为临界点预测提供地下生态学指标。",
+      "next_step_perspective": "这篇文章提示我关注气候极端事件（如超级厄尔尼诺）对热带雨林碳循环的扰动，这与用户（1）号关心议题（碳汇碳源变化、极端气候扰动）高度契合。其关于'临界点'的讨论可启发将重野化干预视为一种提高生态系统抵抗力和恢复力的基于自然的解决方案，从而缓冲干旱压力。",
+      "why_this_journal": "推测发表在本期刊是因为亚马逊临界点问题具有全球碳循环和气候反馈的重大意义，且话题紧迫、影响面广，符合Nature新闻栏目对重大科学与社会议题的及时追踪定位。",
+      "author_profile": null
+    },
     {
       "id": "https://www.nature.com/articles/d41586-026-02199-9",
       "title": "Turning the tide: restoring Mozambican mangroves — in photos",
