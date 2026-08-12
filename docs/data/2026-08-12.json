@@ -1,6 +1,137 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T02:13:01.370840+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-12T07:11:36.831230+00:00",
+  "count": 2,
+  "articles": [
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2426400123?af=R",
+      "title": "Landscape context constrains climate regulation recovery in Amazonian secondary forests",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2426400123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 32, August 2026. SignificanceForest regeneration is widely promoted as a strategy to restore ecosystem services in the Amazon, yet whether regenerating forests recover climate-regulating functions comparable to primary forests (PF) remains uncertain. We show that climatic ...",
+      "journal": "PNAS",
+      "published": "2026-08-03T07:00:00+00:00",
+      "doi": "10.1073/pnas.2426400123",
+      "affiliation": "Department of Agricultural Engineering, Federal University of Viçosa; Department of Plant Pathology, Federal University of Viçosa; Tropical Ecosystems and Environmental Sciences, National Institute for Space Research, São José dos Campos",
+      "title_zh": "景观背景制约亚马逊次生林的气候调节功能恢复",
+      "relevance_score": 8,
+      "key_conclusion": "研究发现，亚马逊次生林在再生长过程中，其气候调节功能（如碳汇能力等）的恢复程度受景观背景（如周边森林覆盖度、土地利用历史等）的显著制约，与原始林相比存在差距。",
+      "relevance_note": "该文章直接涉及热带雨林退化与恢复过程中的碳汇变化，属于用户关注的陆地生态系统碳循环主题，且研究地点在巴西亚马逊地区（属于南美洲，非欧洲）。",
+      "related_papers": [
+        {
+          "title": "Landscape moderation of biodiversity patterns and processes ‐ eight hypotheses",
+          "link": "https://doi.org/10.1111/j.1469-185x.2011.00216.x",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2012
+        },
+        {
+          "title": "Mechanisms of plant survival and mortality during drought: why do some plants survive while others succumb to drought?",
+          "link": "https://doi.org/10.1111/j.1469-8137.2008.02436.x",
+          "venue": "New Phytologist",
+          "year": 2008
+        },
+        {
+          "title": "Climate Change Risks to Global Forest Health: Emergence of Unexpected Events of Elevated Tree Mortality Worldwide",
+          "link": "https://doi.org/10.1146/annurev-arplant-102820-012804",
+          "venue": "Annual Review of Plant Biology",
+          "year": 2022
+        },
+        {
+          "title": "Getting the message right on nature‐based solutions to climate change",
+          "link": "https://doi.org/10.1111/gcb.15513",
+          "venue": "Global Change Biology",
+          "year": 2021
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "亚马逊次生林在再生长过程中，其气候调节功能（如碳汇能力）能否恢复到与原始林相当的水平？景观背景（如周边森林覆盖度、土地利用历史）如何制约这一恢复过程？",
+      "contributions_limitations": "主要贡献在于首次系统性地将景观背景变量纳入次生林气候调节功能恢复的评估框架，揭示了即使森林再生，其功能恢复也高度依赖外部景观条件，这对热带森林恢复的碳汇潜力估算具有重要意义。可能的局限性是研究可能受限于样地尺度的观测数据，对景观背景的量化方式可能需要更精细的空间分析来验证因果机制（基于现有信息推测，建议查看原文）。",
+      "follow_up_research": "后续研究可进一步量化不同景观背景下次生林碳汇功能恢复的时间动态，将景观连通性和土地利用历史参数化到生态系统碳循环模型中；也可探索通过景观尺度管理干预（如增加森林连通性）加速次生林功能恢复的可能性。",
+      "next_step_perspective": "这篇文章为你的研究提供了重要视角：大型食草动物重野化对碳循环的影响同样可能受景观背景制约，例如周边栖息地连通性、土地利用历史可能调节动物活动对土壤有机碳积累的净效应。其方法论（将景观变量纳入功能恢复评估）可以启发你在重野化研究中考虑跨尺度相互作用，而非仅仅关注样地内植被-土壤反馈。",
+      "why_this_journal": "推测：PNAS作为综合性顶级期刊，重视具有跨学科意义和政策相关性的研究。该文将森林恢复的碳汇功能置于景观尺度背景下，挑战了'植树即恢复功能'的简化观点，具有重要的生态学理论和全球碳管理实践意义，契合PNAS发表高影响力综合性生态研究的定位。",
+      "author_profile": {
+        "name": "Lais Rosa-Oliveira",
+        "institution": "Conservation International",
+        "intro": "Lais Rosa-Oliveira目前就职于Conservation International。从其历史作品看，其主要研究方向集中在气候变化背景下南美及拉美地区的极端气候事件、大气水分输送、农业适应策略以及生态系统恢复，尤其关注气候-生态系统-农业的交叉界面。这些研究与你的方向关联在于：她对气候极端事件对生态系统扰动的研究可直接对接你关注的热带雨林退化与恢复过程中的碳循环动态，而其景观尺度视角对评估重野化的生态系统功能恢复很有借鉴意义。",
+        "other_works": [
+          {
+            "title": "Landscape context constrains climate regulation recovery in Amazonian secondary forests",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2426400123"
+          },
+          {
+            "title": "Projections of Atmospheric Moisture Transport Over South America in a Changing Climate",
+            "year": "2026",
+            "journal": "International Journal of Climatology",
+            "doi": "10.1002/joc.70207"
+          },
+          {
+            "title": "Extreme weather events and crop diversification: climate change adaptation in Brazil",
+            "year": "2025",
+            "journal": "Mitigation and Adaptation Strategies for Global Change",
+            "doi": "10.1007/s11027-025-10211-2"
+          },
+          {
+            "title": "Current and Future Climate Extremes Over Latin America and Caribbean: Assessing Earth System Models from High Resolution Model Intercomparison Project (HighResMIP)",
+            "year": "2023",
+            "journal": "Earth Systems and Environment",
+            "doi": "10.1007/s41748-022-00337-7"
+          },
+          {
+            "title": "Nonstationary extreme precipitation in Brazil",
+            "year": "2022",
+            "journal": "Hydrological Sciences Journal",
+            "doi": "10.1080/02626667.2022.2075267"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5549-2026",
+      "title": "Estimation of the degree of decomposition of peat and past net primary production from mid-infrared spectra",
+      "link": "https://doi.org/10.5194/bg-23-5549-2026",
+      "summary": "Estimation of the degree of decomposition of peat and past net primary production from mid-infrared spectra\n                    Henning Teickner, Julien Arsenault, Mariusz Gałka, and Klaus-Holger Knorr\n                        Biogeosciences, 23, 5549–5570, https://doi.org/10.5194/bg-23-5549-2026, 2026\n                        We present a method to estimate the degree of decomposition (fraction of initial mass remaining) of peat from mid-infrared spectra, which also allows to reconstruct the initial mass (aboveground net primary production). Both quantities are required to estimate the mass and carbon balance of peatlands and are useful to model peat physical and hydraulic properties. The approach is therefore useful to test and improve peatland models and our understanding of the long-term peatland carbon cycle.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-12T08:51:22+02:00",
+      "doi": "10.5194/bg-23-5549-2026",
+      "affiliation": null,
+      "title_zh": "基于中红外光谱估算泥炭分解程度和过去的净初级生产力",
+      "relevance_score": 6,
+      "key_conclusion": "提出了利用中红外光谱估算泥炭分解程度（初始质量剩余比例）的方法，并可重建初始质量（地上净初级生产力），有助于估算泥炭地质量与碳平衡，改进泥炭地模型和理解长期碳循环。",
+      "relevance_note": "该研究涉及泥炭地碳循环和净初级生产力估算，与用户关注的陆地生态系统碳循环和土壤有机质主题相关，但研究地点未明确说明，且不涉及动物重野化。",
+      "related_papers": [
+        {
+          "title": "Characterization of biomass burning emissions from cooking fires, peat, crop residue, and other fuels with high-resolution proton-transfer-reaction time-of-flight mass spectrometry",
+          "link": "https://doi.org/10.5194/acp-15-845-2015",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2015
+        },
+        {
+          "title": "Tropical peatland carbon storage linked to global latitudinal trends in peat recalcitrance",
+          "link": "https://doi.org/10.1038/s41467-018-06050-2",
+          "venue": "Nature Communications",
+          "year": 2018
+        },
+        {
+          "title": "Biogeochemical aspects of atmospheric methane",
+          "link": "https://doi.org/10.1029/gb002i004p00299",
+          "venue": "Global Biogeochemical Cycles",
+          "year": 1988
+        },
+        {
+          "title": "Compendium of R code and data for \"Estimation of the Degree of Decomposition of Peat and Past Net Primary Production from Mid-Infrared Spectra\"",
+          "link": "https://doi.org/10.5281/zenodo.21574541",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5549/2026/bg-23-5549-2026-avatar-web.png",
+      "scientific_question": "",
+      "contributions_limitations": "",
+      "follow_up_research": "",
+      "next_step_perspective": "",
+      "why_this_journal": "",
+      "author_profile": null
+    }
+  ]
 }
