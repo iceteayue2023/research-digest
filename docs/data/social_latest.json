@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-08-11T12:52:50.723080+00:00",
-  "count": 6,
+  "generated_at": "2026-08-12T02:13:01.371140+00:00",
+  "count": 10,
   "posts": [
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Join the Climate Change Group this September to explore solutions together. \n\n📅 10-11 September\n📍 University of Plymouth + Online\n\nRegister now 👇\nhttps://f.mtr.cool/sxnybkpwlb",
+      "created_at": "2026-08-11T15:04:30.034203842Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mssv6urawy24",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "How does biodiversity respond and adapt to climate pressures?\n\nWhat is the best ecological evidence we have to mitigate climate change?",
+      "created_at": "2026-08-11T15:04:28.034701881Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mssv6thh6527",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Heatwaves, droughts, and heavy rainfall - the negative effects of climate change are already impacting our ecosystems.\n\nBut do we understand by how much?",
+      "created_at": "2026-08-11T15:04:27.290368321Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mssv6rtmoh2l",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The Amazon rainforest might be closer to a tipping point than scientists thought\n\ngo.nature.com/4g7jjnc",
+      "created_at": "2026-08-11T14:37:04.783Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msstntd6m52s",
+      "external_title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
+      "external_description": "The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
+      "external_uri": "https://go.nature.com/4g7jjnc",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiayl2pkc5ik7j23h3rh3ulmgnl46nv6qfaoxoa3ljbptna7wbugs4"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "As climate change heats up Europe, experts say countries must shift their focus toward preventing fires, rather than just suppressing them.\n\nLearn more: https://scim.ag/4qaMDhg",
+      "created_at": "2026-08-11T13:24:01.087299193Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3msspl6opp62q",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "science.org",
       "author_name": "Science Magazine",
@@ -25,6 +80,17 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicag5aclbpo23hbw4qzo6b23hb7q2rz7ukp4u7pm3swpmadfsaq4q"
     },
     {
+      "handle": "science.org",
+      "author_name": "Sar Crespi",
+      "text": "Fascinating look at the fall of the last nomadic empire in Central Asia using tree rings. #scienceadvances @science.org \nwww.science.org/doi/10.1126/...",
+      "created_at": "2026-08-10T14:41:23.750Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3msqdgmsa6c2g",
+      "external_title": "Steppe productivity decline contributed to smallpox outbreak and the collapse of the last nomadic empire in the 1750s",
+      "external_description": "Tree-ring evidence shows how grassland decline set off smallpox that ultimately ended the last nomadic empire.",
+      "external_uri": "https://www.science.org/doi/10.1126/sciadv.aee4285",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6owq635evfesb3l6f5uqjj3c/bafkreidcgukzutkqmu7d6klttjjecrkxomny6putc3vnsbspdgg2l3ribe"
+    },
+    {
       "handle": "nature.com",
       "author_name": "Nature",
       "text": "Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that\n\ngo.nature.com/4fPpbCz",
@@ -45,28 +111,6 @@
       "external_description": "A mild chemical process upcycles polyvinyl chloride waste into polyalphaolefin lubricants with tunable properties, offering an economical route to plastic recycling and improved carbon circularity.",
       "external_uri": "https://go.nature.com/4whSO4h",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifv3m72kajilj6hr5mi2qp4hei7xsam2lzm3lk5zkrcfyc7q6tvia"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Portfolio",
-      "text": "Shifting atmospheric circulation patterns over Europe since the 1980s have been the major cause of increasingly severe droughts on the continent, according to a study in Nature Geoscience. go.nature.com/4x1kDPo 🌎🧪",
-      "created_at": "2026-08-09T01:59:01.241Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3msmiehvagc2q",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "The domestic cat may be a far more recent arrival to Europe than previously thought, according to a 2025 Science study. \n\nThe findings offer new insight into one of humanity’s most enigmatic animal companions. https://scim.ag/44kov1S #InternationalCatDay",
-      "created_at": "2026-08-08T22:56:01.290627535Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3msm65aly772q",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
