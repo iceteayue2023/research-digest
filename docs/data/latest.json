@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T07:15:00.502663+00:00",
-  "count": 9,
+  "generated_at": "2026-08-13T12:58:13.494050+00:00",
+  "count": 11,
   "articles": [
     {
       "id": "https://www.nature.com/articles/s41586-026-10880-2",
@@ -269,6 +269,53 @@
       }
     },
     {
+      "id": "https://doi.org/10.5194/bg-23-5593-2026",
+      "title": "Uncertainty in Land Carbon Fluxes Simulated by CMIP6 Models from Treatments of Crop Distributions and Photosynthetic Pathways",
+      "link": "https://doi.org/10.5194/bg-23-5593-2026",
+      "summary": "Uncertainty in Land Carbon Fluxes Simulated by CMIP6 Models from Treatments of Crop Distributions and Photosynthetic Pathways\n                    Joseph Ovwemuvwose, Ian Colin Prentice, and Heather Graven\n                        Biogeosciences, 23, 5593–5605, https://doi.org/10.5194/bg-23-5593-2026, 2026\n                        This work examines the roles of cropland representation and the treatment of photosynthetic pathways in the uncertainties of carbon flux simulations in Earth System Models (ESMs). Our results show that reducing these uncertainties will require improvements in the representation of C3 and C4 crops and natural vegetation area coverage, as well as the theories underpinning the simulation of their carbon uptake processes, specifically the implementation of photosynthetic pathways.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-13T14:57:09+02:00",
+      "doi": "10.5194/bg-23-5593-2026",
+      "affiliation": null,
+      "title_zh": "CMIP6模型中作物分布与光合途径处理导致的陆地碳通量模拟不确定性",
+      "relevance_score": 7,
+      "key_conclusion": "该研究考察了作物分布表示和光合途径处理对地球系统模型（ESMs）碳通量模拟不确定性的影响。结果表明，减少这些不确定性需要改进C3和C4作物及自然植被覆盖度的表示，以及碳吸收过程模拟的理论基础。",
+      "relevance_note": "文章直接涉及地球系统模式中动态植被模块的改进和陆地碳循环模拟，与用户关注的地球系统模型开发和验证主题高度相关，但未涉及重野化或动物效应。",
+      "related_papers": [
+        {
+          "title": "Carbon–concentration and carbon–climate feedbacks in CMIP6 models and their comparison to CMIP5 models",
+          "link": "https://doi.org/10.5194/bg-17-4173-2020",
+          "venue": "Biogeosciences",
+          "year": 2020
+        },
+        {
+          "title": "Global Carbon Budget 2018",
+          "link": "https://doi.org/10.5194/essd-10-2141-2018",
+          "venue": "Earth system science data",
+          "year": 2018
+        },
+        {
+          "title": "C4MIP – The Coupled Climate–Carbon Cycle Model Intercomparison Project:experimental protocol for CMIP6",
+          "link": "https://doi.org/10.5194/gmd-9-2853-2016",
+          "venue": "Geoscientific model development",
+          "year": 2016
+        },
+        {
+          "title": "The Canadian Earth System Model version 5 (CanESM5.0.3)",
+          "link": "https://doi.org/10.5194/gmd-12-4823-2019",
+          "venue": "Geoscientific model development",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "该研究试图解答地球系统模型（ESMs）中，作物分布（C3/C4）和光合途径的不同处理方式对陆地碳通量模拟不确定性的具体贡献是什么，以及如何减少这些不确定性。",
+      "contributions_limitations": "主要贡献是指出了CMIP6模型碳通量模拟不确定性的一个关键来源——作物分布与光合途径的理论表达，并强调改进C3/C4作物及自然植被覆盖度表征的必要性。局限性可能在于：依赖模型模拟对比而非直接观测验证，且其结论主要针对作物区域，对自然生态系统重野化相关碳循环模拟的直接适用性有限；摘要未提供具体量化结果。",
+      "follow_up_research": "可进一步研究如何在ESMs中针对重野化区域（如退耕还草还林）动态更新植被类型与光合途径参数，评估不同重野化情景下碳通量模拟不确定性的改善程度；也可探索将野化动物的干扰（如践踏、粪尿输入）作为模型参数化因子引入碳循环模拟。",
+      "next_step_perspective": "为用户提供了方法启发：在评估重野化对土壤有机碳影响时，需注意模型模拟中植被功能型（C3/C4）和土地利用历史的表征精度；同时提示，若未来将重野化纳入地球系统模型情景模拟，需改进作物与自然植被的过渡区域碳循环算法。",
+      "why_this_journal": "Biogeosciences聚焦生物地球化学过程与地球系统模型交叉研究，本文针对ESM碳通量不确定性的机制性分析符合期刊关注模型-过程耦合的方法学创新，推测因其对模型理论基础的批判性诊断而发表。",
+      "author_profile": null
+    },
+    {
       "id": "https://doi.org/10.5194/gmd-19-7479-2026",
       "title": "Enhancing air–sea CO2 exchange and modulating seawater carbonate–pH dynamics: the role of wave effect mechanisms in the POP2–waves coupled model",
       "link": "https://doi.org/10.5194/gmd-19-7479-2026",
@@ -319,6 +366,53 @@
         "intro": "Wei-Liang Lee 来自台湾中央研究院，其研究方向集中于气候模型耦合与海气相互作用（如波浪-海洋耦合），尽管其历史作品列表为空，但从当前论文可推断其在碳循环模拟方面有专长。这与用户关注的生态系统模型改进高度相关，尤其是跨界面过程（空气-水/水-土壤）的建模思路可迁移至动物-土壤-碳耦合模拟。",
         "other_works": []
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03153-8",
+      "title": "Animal degradation of microbial storage polyhydroxyalkanoates",
+      "link": "https://www.nature.com/articles/s41559-026-03153-8",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 13 August 2026; doi:10.1038/s41559-026-03153-8This study shows that the degradation of microbial storage polyhydroxyalkanoates is not just restricted to microorganisms by finding that some animals also have the enzymes required to break down these biopolymers.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-13T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03153-8",
+      "affiliation": null,
+      "title_zh": "动物对微生物存储聚羟基烷酸酯的降解作用",
+      "relevance_score": 6,
+      "key_conclusion": "该研究发现某些动物具备降解微生物存储聚羟基烷酸酯（PHA）所需的酶，说明这类生物聚合物的降解不仅限于微生物。这揭示了动物在生物地球化学循环中的新角色。",
+      "relevance_note": "文章涉及动物介导的生物地球化学循环（zoogeochemistry），与用户关注的动物反馈效应主题直接相关，且为动物-微生物互作研究，但未直接涉及重野化或土壤碳循环。",
+      "related_papers": [
+        {
+          "title": "Polyhydroxyalkanoate (PHA): Review of synthesis, characteristics, processing and potential applications in packaging",
+          "link": "https://doi.org/10.3144/expresspolymlett.2014.82",
+          "venue": "eXPRESS Polymer Letters",
+          "year": 2014
+        },
+        {
+          "title": "Review on the current status of polymer degradation: a microbial approach",
+          "link": "https://doi.org/10.1186/s40643-017-0145-9",
+          "venue": "Bioresources and Bioprocessing",
+          "year": 2017
+        },
+        {
+          "title": "Bacterial polyhydroxyalkanoates: Still fabulous?",
+          "link": "https://doi.org/10.1016/j.micres.2016.07.010",
+          "venue": "Microbiological Research",
+          "year": 2016
+        },
+        {
+          "title": "Recent Advances and Challenges towards Sustainable Polyhydroxyalkanoate (PHA) Production",
+          "link": "https://doi.org/10.3390/bioengineering4020055",
+          "venue": "Bioengineering",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03153-8/MediaObjects/41559_2026_3153_Fig1_HTML.png",
+      "scientific_question": "该研究试图回答动物是否具备降解微生物储存聚合物（如聚羟基烷酸酯PHA）的酶促能力，从而挑战“该降解仅限微生物”的传统认知。",
+      "contributions_limitations": "主要贡献是发现部分动物也能降解微生物储存的PHA，扩展了物种间营养级联中物质循环的认知，提示动物在有机质分解中的新角色，可能影响对动物介导碳循环的理解。局限性可能在于：未明确哪些动物类群（推测可能涉及土壤动物）、降解的生态尺度（实验室酶活性vs野外通量），以及其对土壤有机碳库的净贡献程度尚不明确。",
+      "follow_up_research": "值得探究具有这种能力的动物（如土壤无脊椎动物）在重野化生态系统中的丰度变化如何影响微生物残体碳（特别是PHA类）的周转速率和土壤有机碳稳定性；可结合同位素示踪技术量化动物介导的PHA降解对土壤碳库的贡献。",
+      "next_step_perspective": "这篇文章为用户的zoogeochemistry研究提供了新颖切入点：大型食草动物通过胃肠消化或粪便输入可能改变微生物储存聚合物的降解路径，从而影响土壤有机碳的微生物通道形成；启发用户在野外研究中关注动物-微生物互作对特定生化组分（如PHA）分解速率的非微生物途径。",
+      "why_this_journal": "Nature Ecology & Evolution偏好发表挑战传统生态学范式且具有跨营养级创新概念的短篇论文，本文颠覆了聚合物降解的宿主范围局限，研究视角新颖、潜在生态学意义广泛，推测因其概念突破性而发表。",
+      "author_profile": null
     },
     {
       "id": "https://www.nature.com/articles/s41586-026-10888-8",

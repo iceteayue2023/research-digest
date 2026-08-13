@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-13T07:15:00.504611+00:00",
-  "count": 9,
+  "generated_at": "2026-08-13T12:58:13.496228+00:00",
+  "count": 10,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The world’s oceans are reaching temperatures that could roil marine ecosystems and sap the ocean’s ability to take up carbon dioxide from the air\n\ngo.nature.com/4wB283K",
+      "created_at": "2026-08-13T08:13:38.729Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msx76245wa23",
+      "external_title": "Ocean temperatures set to break all-time record: what’s next?",
+      "external_description": "High sea surface temperatures are expected to weaken ocean carbon sinks and damage coral reefs.",
+      "external_uri": "https://go.nature.com/4wB283K",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiepfvcvsvvewdr6exfwu3jpohdym6l4sexbonh7dmsjy7tcv2i5da"
+    },
     {
       "handle": "science.org",
       "author_name": "Science Magazine",
@@ -12,6 +23,17 @@
       "external_description": "Tree-ring evidence shows how grassland decline set off smallpox that ultimately ended the last nomadic empire.",
       "external_uri": "https://scim.ag/4q101EH",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreiaz4elogng3bghs47d3vb3lhy2lpq4nr2vvo4ojdulx2b6jxkzfpm"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "James Dinneen",
+      "text": "Ocean temperatures are hovering hundredths of a degree below the all-time record high with months to go before El Niño reaches full strength.\n\n“Basically, everywhere on Earth, we’re having above-normal temperatures in the ocean.\"\n\nNew in @nature.com: 🌊🌍🧪\nwww.nature.com/articles/d41...",
+      "created_at": "2026-08-12T17:21:38.260Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msvncytc3s25",
+      "external_title": "Ocean temperatures set to break all-time record: what's next?",
+      "external_description": "High sea surface temperatures are expected to weaken ocean carbon sinks and damage coral reefs.",
+      "external_uri": "https://www.nature.com/articles/d41586-026-02496-3",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i2dmfuqk3wklvyvl77cc66cx/bafkreiedbjwg6477ec22jzjci45rak2csubkrw3k3fiwlbe77esptzn42y"
     },
     {
       "handle": "nature.com",
@@ -78,17 +100,6 @@
       "external_description": "The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
       "external_uri": "https://go.nature.com/4g7jjnc",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiayl2pkc5ik7j23h3rh3ulmgnl46nv6qfaoxoa3ljbptna7wbugs4"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them\n\ngo.nature.com/45OgiTY",
-      "created_at": "2026-08-10T16:51:32.318Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3msqkpdsck62w",
-      "external_title": "Turning the tide: restoring Mozambican mangroves — in photos",
-      "external_description": "As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them.",
-      "external_uri": "https://go.nature.com/45OgiTY",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicag5aclbpo23hbw4qzo6b23hb7q2rz7ukp4u7pm3swpmadfsaq4q"
     },
     {
       "handle": "science.org",
