@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-12T12:56:39.482793+00:00",
-  "count": 10,
+  "generated_at": "2026-08-13T02:18:34.898155+00:00",
+  "count": 9,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Environmental stress, then smallpox, helped bring down the last nomadic empire, according to a new analysis of tree rings in #ScienceAdvances. https://scim.ag/4q101EH ",
+      "created_at": "2026-08-12T18:00:12.61543765Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3msvphxyhmh2a",
+      "external_title": "Steppe productivity decline contributed to smallpox outbreak and the collapse of the last nomadic empire in the 1750s",
+      "external_description": "Tree-ring evidence shows how grassland decline set off smallpox that ultimately ended the last nomadic empire.",
+      "external_uri": "https://scim.ag/4q101EH",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreiaz4elogng3bghs47d3vb3lhy2lpq4nr2vvo4ojdulx2b6jxkzfpm"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them\n\nRead the full story: www.nature.com/immersive/d4...",
+      "created_at": "2026-08-12T13:12:53.145Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msv7g74xhc2v",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -58,28 +80,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiayl2pkc5ik7j23h3rh3ulmgnl46nv6qfaoxoa3ljbptna7wbugs4"
     },
     {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "As climate change heats up Europe, experts say countries must shift their focus toward preventing fires, rather than just suppressing them.\n\nLearn more: https://scim.ag/4qaMDhg",
-      "created_at": "2026-08-11T13:24:01.087299193Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3msspl6opp62q",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "The countryside has always been seen as a refuge from the swelter of summer. But now a pioneering study suggests that as global warming continues in much of the world, the countryside's appeal as a climate buffer may dwindle.\n\nLearn more: https://scim.ag/4wna4Fj",
-      "created_at": "2026-08-10T22:30:03.176853541Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3msr5mnlmt42d",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
       "handle": "nature.com",
       "author_name": "Nature",
       "text": "As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them\n\ngo.nature.com/45OgiTY",
@@ -100,17 +100,6 @@
       "external_description": "Tree-ring evidence shows how grassland decline set off smallpox that ultimately ended the last nomadic empire.",
       "external_uri": "https://www.science.org/doi/10.1126/sciadv.aee4285",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6owq635evfesb3l6f5uqjj3c/bafkreidcgukzutkqmu7d6klttjjecrkxomny6putc3vnsbspdgg2l3ribe"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that\n\ngo.nature.com/4fPpbCz",
-      "created_at": "2026-08-10T12:10:01.634Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3msq2xxluld2a",
-      "external_title": "Why environmental treaties must also address mental health",
-      "external_description": "Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that.",
-      "external_uri": "https://go.nature.com/4fPpbCz",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreieumtbtow3yrmwvm4xjul4tcdkh7jfgsad5d4brawjpqr6jq43tba"
     }
   ]
 }
