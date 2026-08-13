@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T02:18:34.896934+00:00",
-  "count": 5,
+  "generated_at": "2026-08-13T07:15:00.502663+00:00",
+  "count": 9,
   "articles": [
     {
       "id": "https://www.nature.com/articles/s41586-026-10880-2",
@@ -186,6 +186,141 @@
       }
     },
     {
+      "id": "https://doi.org/10.5194/esd-17-1081-2026",
+      "title": "Catalogue of strong nonlinear surprises in ocean, sea-ice, and atmospheric variables in CMIP6",
+      "link": "https://doi.org/10.5194/esd-17-1081-2026",
+      "summary": "Catalogue of strong nonlinear surprises in ocean, sea-ice, and atmospheric variables in CMIP6\n                    Joran R. Angevaare and Sybren S. Drijfhout\n                        Earth Syst. Dynam., 17, 1081–1115, https://doi.org/10.5194/esd-17-1081-2026, 2026\n                        We present a first catalogue of abrupt changes/state transitions in ocean, sea-ice, and atmospheric variables in future Coupled Model Intercomparison Project Phase 6 climate scenarios. We find many models that show Arctic sea-ice disappearance, North Atlantic winter mixed-layer collapse and/or subsequent transition of the Atlantic Meridional Overturning Circulation to a weak state. We find more abrupt changes/state transitions than in previous work at lower global warming levels.",
+      "journal": "Earth System Dynamics",
+      "published": "2026-08-13T07:01:33+02:00",
+      "doi": "10.5194/esd-17-1081-2026",
+      "affiliation": null,
+      "title_zh": "CMIP6中海、海冰和大气变量中强烈非线性意外事件的目录",
+      "relevance_score": 7,
+      "key_conclusion": "本文提供了CMIP6未来气候情景中海、海冰和大气变量中突变/状态转变的首个目录，发现许多模型显示北极海冰消失、北大西洋冬季混合层崩溃及/或大西洋经向翻转环流向弱状态的转变，且比先前研究在较低全球变暖水平下发现了更多突变。",
+      "relevance_note": "该文章关注气候系统中的非线性突变和状态转变，与用户对极端气候事件对碳循环扰动的兴趣相关，涉及生态系统碳循环的响应，但未直接讨论rewilding或陆地碳过程，因此给予较高但不是最高的分数。",
+      "related_papers": [
+        {
+          "title": "JoranAngevaare/Catalogue-of-Strong-Nonlinear-Surprises-in-ocean-sea-ice-and-atmospheric-variables-in-CMIP6",
+          "link": "https://doi.org/10.5281/zenodo.17826419",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        },
+        {
+          "title": "JoranAngevaare/Catalogue-of-Strong-Nonlinear-Surprises-in-ocean-sea-ice-and-atmospheric-variables-in-CMIP6",
+          "link": "https://doi.org/10.5281/zenodo.17867115",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        },
+        {
+          "title": "JoranAngevaare/Catalogue-of-Strong-Nonlinear-Surprises-in-ocean-sea-ice-and-atmospheric-variables-in-CMIP6-: v0.0.0 - repository initialization",
+          "link": "https://doi.org/10.5281/zenodo.17826420",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        },
+        {
+          "title": "Emergent constraints on climate sensitivities",
+          "link": "https://doi.org/10.1103/revmodphys.93.025004",
+          "venue": "Reviews of Modern Physics",
+          "year": 2021
+        }
+      ],
+      "image_url": "https://esd.copernicus.org/articles/17/1081/2026/esd-17-1081-2026-avatar-web.png",
+      "scientific_question": "本文试图系统性地回答：在CMIP6未来气候情景中，海洋、海冰和大气变量中哪些突变或状态转变（强非线性惊喜）会在较低的全球变暖水平下发生，以及这些突变在不同模型中的普遍性如何？",
+      "contributions_limitations": "主要贡献是建立了CMIP6中海洋、海冰和大气突变的首个目录，发现北极海冰消失、北大西洋冬季混合层崩溃及AMOC弱化等转变在较低升温水平下比先前研究出现更多，为气候风险评估提供了重要参考。局限性可能在于这些发现基于模型模拟而非观测，且目录的完整性受限于CMIP6模型的结构偏差；摘要未提供具体突变机制分析，此为推测。",
+      "follow_up_research": "后续研究可探索这些突变之间的级联效应，例如北极海冰消失如何通过大气遥相关影响中纬度生态系统（如欧洲植被碳吸收）；也可分析突变发生前后的生态系统服务变化，如碳汇能力的非线性调整，这对评估气候临界点下的碳循环反馈至关重要。",
+      "next_step_perspective": "本文的方法论（系统编目突变事件）可启发用户构建大型食草动物重野化区域中土壤碳的非线性转变目录，例如识别放牧强度阈值下的碳库骤变；同时，气候变化突变目录可作为背景，帮助用户评估重野化生态系统的脆弱性及对碳循环极端事件的响应。",
+      "why_this_journal": "Earth System Dynamics 专注于地球系统过程的非线性动力学和突变研究，本文首次系统编目CMIP6中的强非线性惊喜，具有跨变量、跨模型的综合性和新颖性，推测符合期刊强调系统级突变机制的核心定位。",
+      "author_profile": {
+        "name": "Joran R. Angevaare",
+        "institution": "KNMI",
+        "intro": "Joran R. Angevaare 来自荷兰皇家气象研究所（KNMI），其历史论文集中于气候数据管道开发、CMIP6投影分析（尤其是AMOC崩溃）及极端温度观测，表明其研究方向为气候系统突变与数据处理方法。这些研究有助于用户理解气候变化背景下的大尺度环境扰动背景，为重野化研究提供气候场景框架。",
+        "other_works": [
+          {
+            "title": "Building Scalable and Reliable Climate Data Pipelines: Software Best Practices for ECA&D (European Climate Assessment & Dataset)",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/ems2026-333"
+          },
+          {
+            "title": "Unlocking km-scale European temperature fields with crowdsourced observations",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/ems2026-393"
+          },
+          {
+            "title": "Shutdown of northern Atlantic overturning after 2100 following deep mixing collapse in CMIP6 projections",
+            "year": "2025",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/adfa3b"
+          },
+          {
+            "title": "Catalogue of Strong Nonlinear Surprises in ocean, sea-ice, and atmospheric variables in CMIP6",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-2039"
+          },
+          {
+            "title": "XENONnT analysis: Signal reconstruction, calibration, and event selection",
+            "year": "2025",
+            "journal": "Physical Review D",
+            "doi": "10.1103/PhysRevD.111.062006"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7479-2026",
+      "title": "Enhancing air–sea CO2 exchange and modulating seawater carbonate–pH dynamics: the role of wave effect mechanisms in the POP2–waves coupled model",
+      "link": "https://doi.org/10.5194/gmd-19-7479-2026",
+      "summary": "Enhancing air–sea CO2 exchange and modulating seawater carbonate–pH dynamics: the role of wave effect mechanisms in the POP2–waves coupled model\n                    Yung-Yao Lan, Huang-Hsiung Hsu, Wei-Liang Lee, and Simon Chou\n                        Geosci. Model Dev., 19, 7479–7502, https://doi.org/10.5194/gmd-19-7479-2026, 2026\n                        This study links wave and ocean models in real time to better simulate how our oceans breathe. Unlike older models that treat waves and oceans separately, this new approach captures their dynamic interactions. It reveals that wave-generated bubbles drive up to 40% of the gas exchange, boosting the estimated global ocean carbon sink by 1.8%. This helps scientists better predict climate change and understand the ocean's natural capacity to buffer global warming.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-13T08:07:05+02:00",
+      "doi": "10.5194/gmd-19-7479-2026",
+      "affiliation": null,
+      "title_zh": "增强海气CO2交换并调节海水碳酸盐-pH动态：POP2-波浪耦合模型中波浪效应机制的作用",
+      "relevance_score": 6,
+      "key_conclusion": "该研究将波浪模型与海洋模型实时耦合，发现波浪产生的气泡驱动了高达40%的气体交换，使全球海洋碳汇估计增加1.8%，有助于更好地预测气候变化和理解海洋缓冲全球变暖的自然能力。",
+      "relevance_note": "文章直接涉及海洋碳循环和碳汇的模型改进，与用户对陆地碳循环和生态系统碳循环的兴趣相关，但焦点在海洋而非陆地生态系统，且未涉及rewilding，因此给予中等偏高分。",
+      "related_papers": [
+        {
+          "title": "Twenty-first century ocean warming, acidification, deoxygenation, and upper-ocean nutrient and primary production decline from CMIP6 model projections",
+          "link": "https://doi.org/10.5194/bg-17-3439-2020",
+          "venue": "Biogeosciences",
+          "year": 2020
+        },
+        {
+          "title": "The Future of Reef Ecosystems in the Gulf of Mexico: Insights From Coupled Climate Model Simulations and Ancient Hot-House Reefs",
+          "link": "https://doi.org/10.3389/fmars.2019.00691",
+          "venue": "Frontiers in Marine Science",
+          "year": 2019
+        },
+        {
+          "title": "Wave effect mechanisms enhancing sea–air CO <sub>2</sub> exchange and modulating seawater carbonate–pH adaptation in the POP2–waves coupled model",
+          "link": "https://doi.org/10.5194/egusphere-2025-4773",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal",
+          "link": "https://doi.org/10.5194/bg-22-5723-2025",
+          "venue": "Biogeosciences",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7479/2026/gmd-19-7479-2026-avatar-web.png",
+      "scientific_question": "本文试图回答：波浪效应机制（尤其是气泡驱动）在耦合波浪-海洋模型中如何增强海-气CO2交换，以及这对海水碳酸盐-酸碱度动态和全球海洋碳汇估算的影响有多大？",
+      "contributions_limitations": "主要贡献是实现了波浪与海洋模型的实时耦合，揭示了波浪气泡驱动高达40%的气体交换，将全球海洋碳汇估算提高1.8%，这显著改进了对海洋吸收CO2能力的量化。局限性可能包括模型简化了波浪破碎的复杂物理过程，且结果依赖于特定的模型参数化；摘要未提及长期验证，此为推测。",
+      "follow_up_research": "后续可研究波浪效应如何影响近岸或高纬度富营养化海域的碳汇动态，特别是与极端气候事件（如风暴）的相互作用；也可将这类耦合机制纳入更复杂的生物地球化学模型，以评估波浪对海洋酸化缓冲能力的时间和空间变异性。",
+      "next_step_perspective": "虽然用户核心关注陆地生态系统，但本文突显了物理过程（波浪）对碳汇估算的实质性影响，类比可启发用户关注动物物理扰动（如大型食草动物踩踏、翻土）对土壤CO2通量测量和碳汇估算的类似'气泡效应'，这提示在重野化碳评估中需纳入非生物物理机制。",
+      "why_this_journal": "Geoscientific Model Development 专注于地球系统模型的开发与改进，本文通过新型模型耦合显著修正碳通量计算，方法学创新性强，且直接量化了碳汇估算的偏差修正，推测符合期刊对模型机制精准表达的追求。",
+      "author_profile": {
+        "name": "Wei-Liang Lee",
+        "institution": "Academia Sinica",
+        "intro": "Wei-Liang Lee 来自台湾中央研究院，其研究方向集中于气候模型耦合与海气相互作用（如波浪-海洋耦合），尽管其历史作品列表为空，但从当前论文可推断其在碳循环模拟方面有专长。这与用户关注的生态系统模型改进高度相关，尤其是跨界面过程（空气-水/水-土壤）的建模思路可迁移至动物-土壤-碳耦合模拟。",
+        "other_works": []
+      }
+    },
+    {
       "id": "https://www.nature.com/articles/s41586-026-10888-8",
       "title": "Cascading continental-scale floods across Europe in 1342–1343",
       "link": "https://www.nature.com/articles/s41586-026-10888-8",
@@ -314,6 +449,160 @@
       "next_step_perspective": "这篇文章可为用户提供跨系统视角的启发，即气候驱动的生物地球化学循环变化如何间接影响病原体—宿主—环境互作，进而影响重野化生态系统的健康功能。其强调的'整合气候信息'框架可迁移至用户研究中，用于评估大型食草动物重野化如何通过改变微气候和土壤性质调节传染病风险，这构成了生态恢复与公共卫生交叉的新研究空白。",
       "why_this_journal": "推测该文发表于Nature Reviews Microbiology是因为其综合性的综述定位契合期刊关注微生物感染与全球变化交叉主题的宗旨，且气候变化与传染病这一议题具有高度的跨学科紧迫性和政策相关性，符合期刊对前沿热点领域综述的高标准。",
       "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7415-2026",
+      "title": "Rapid Evaluation Framework for the CMIP7 Assessment Fast Track",
+      "link": "https://doi.org/10.5194/gmd-19-7415-2026",
+      "summary": "Rapid Evaluation Framework for the CMIP7 Assessment Fast Track\n                    Forrest M. Hoffman, Birgit Hassler, Ranjini Swaminathan, Jared Lewis, Bouwe Andela, Nathan Collier, Dóra Hegedűs, Jiwoo Lee, Charlotte Pascoe, Mika Pflüger, Martina Stockhause, Paul Ullrich, Min Xu, Lisa Bock, Felicity Chun, Bettina K. Gier, Douglas I. Kelley, Axel Lauer, Julien Lenhardt, Manuel Schlund, Mohanan G. Sreeush, Katja Weigel, Ed Blockley, Rebecca Beadling, Romain Beucher, Demiso D. Dugassa, Valerio Lembo, Jianhua Lu, Swen Brands, Jerry Tjiputra, Elizaveta Malinina, Brian Medeiros, Enrico Scoccimarro, Jeremy Walton, Phil Kershaw, André Lanfer Marquez, Malcolm J. Roberts, Eleanor O'Rourke, Beth Dingley, Briony Turner, Helene Hewitt, and John P. Dunne\n                        Geosci. Model Dev., 19, 7415–7455, https://doi.org/10.5194/gmd-19-7415-2026, 2026\n                        The Rapid Evaluation Framework (REF) is a community-driven platform for benchmarking and performance assessment of Earth system models. Built upon four disparate community evaluation tools, the REF is designed to provide model-data comparisons for the Assessment Fast Track for the Seventh Phase of the Coupled Model Intercomparison Project. The REF will be run at the Earth System Grid Federation to enable model devleopers and scientists to quickly identify model biases and performance issues.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-13T08:07:05+02:00",
+      "doi": "10.5194/gmd-19-7415-2026",
+      "affiliation": null,
+      "title_zh": "CMIP7评估快速通道的快速评估框架",
+      "relevance_score": 5,
+      "key_conclusion": "本文介绍了社区驱动的快速评估框架（REF），该框架整合了多个评估工具，用于地球系统模型的基准测试和性能评估，旨在帮助模型开发者和科学家快速识别模型偏差和性能问题，并应用于CMIP7评估快速通道。",
+      "relevance_note": "该文章涉及地球系统模型的评估与改进，与用户对生态系统模型（如DGVM）开发和验证的兴趣相关，但与核心的rewilding和碳循环主题无直接关联，因此给予中等分数。",
+      "related_papers": [
+        {
+          "title": "The Scenario Model Intercomparison Project for CMIP7 (ScenarioMIP-CMIP7)",
+          "link": "https://doi.org/10.5194/gmd-19-2627-2026",
+          "venue": "Geoscientific model development",
+          "year": 2026
+        },
+        {
+          "title": "An evolving Coupled Model Intercomparison Project phase 7 (CMIP7) and Fast Track in support of future climate assessment",
+          "link": "https://doi.org/10.5194/gmd-18-6671-2025",
+          "venue": "Geoscientific model development",
+          "year": 2025
+        },
+        {
+          "title": "The need for carbon-emissions-driven climate projections in CMIP7",
+          "link": "https://doi.org/10.5194/gmd-17-8141-2024",
+          "venue": "Geoscientific model development",
+          "year": 2024
+        },
+        {
+          "title": "High-Resolution Model Intercomparison Project phase 2 (HighResMIP2) towards CMIP7",
+          "link": "https://doi.org/10.5194/gmd-18-1307-2025",
+          "venue": "Geoscientific model development",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7415/2026/gmd-19-7415-2026-avatar-web.png",
+      "scientific_question": "本文试图回答：如何构建一个社区驱动的快速评估框架（REF），以在CMIP7评估快速通道中高效开展地球系统模型的基准测试和性能评估，从而帮助科学家快速识别模型偏差？",
+      "contributions_limitations": "主要贡献是整合了四个现有社区评估工具，构建了统一的REF平台，为CMIP7提供了标准化、可操作的模型-数据比较基础设施，有助于加速模型改进流程。局限性可能包括REF的广泛应用依赖于社区参与和数据基础设施的成熟度，且其评估指标可能未能覆盖所有关键碳循环过程；摘要未提及模型评估的具体生态变量，此为推测。",
+      "follow_up_research": "后续研究可扩展REF以支持针对特定生态过程（如土壤有机碳动态）的定制基准测试，例如开发专门的土壤碳模块评估工具；也可利用REF框架比较不同DGVM或动态植被模块对重野化场景的模拟能力，确定现有模型的碳反馈偏差。",
+      "next_step_perspective": "用户的生态系统模型改进需求可直接受益于REF的方法论，例如参考其标准化评估框架来构建重野化模拟的基准数据集（如放牧梯度下的土壤碳观测），从而系统诊断DGVMs对动物介导生物地球化学循环的模拟不足；这为用户的模型验证提供了实用工具启示。",
+      "why_this_journal": "Geoscientific Model Development 十分重视模型基础设施和方法学创新，REF作为CMIP7的核心评估社区平台，具有高度的协作性和应用广谱性，推测因其战略性地位和方法严谨性而发表。",
+      "author_profile": {
+        "name": "Forrest M. Hoffman",
+        "institution": "University of Tennessee",
+        "intro": "Forrest M. Hoffman 来自田纳西大学，其历史论文集中于土地模型基准测试、土壤有机碳动态模拟和碳循环极端事件，表明其核心方向是地球系统模型中碳-气候反馈的地面观测约束。这些研究直接为用户的重野化碳循环建模提供了基准方法和观测数据整合策略，尤其是土壤碳动态评估部分与用户课题高度契合。",
+        "other_works": [
+          {
+            "title": "Climate Model Benchmarking for CMIP7 &#8211; A CMIP Task Team",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu24-22316"
+          },
+          {
+            "title": "Methodological Developments in the International Land Model Benchmarking Effort",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu24-20894"
+          },
+          {
+            "title": "Global‐Scale Convergence Obscures Inconsistencies in Soil Carbon Change Predicted by Earth System Models",
+            "year": "2024",
+            "journal": "AGU Advances",
+            "doi": "10.1029/2023AV001068"
+          },
+          {
+            "title": "Carbon cycle extremes accelerate weakening of the land carbon sink in the late 21st century",
+            "year": "2023",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-20-1829-2023"
+          },
+          {
+            "title": "Observational benchmarks inform representation of soil organic carbon dynamics in land surface models",
+            "year": "2023",
+            "journal": null,
+            "doi": "10.5194/bg-2023-50"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7457-2026",
+      "title": "SDMBCv2 (v1.0): correcting systematic biases  in RCM inputs for future projection",
+      "link": "https://doi.org/10.5194/gmd-19-7457-2026",
+      "summary": "SDMBCv2 (v1.0): correcting systematic biases  in RCM inputs for future projection\n                    Youngil Kim and Jason P. Evans\n                        Geosci. Model Dev., 19, 7457–7477, https://doi.org/10.5194/gmd-19-7457-2026, 2026\n                        Climate models used to study future climate often contain systematic errors that affect high-resolution simulations. This study presents a new open-source tool that reduces these errors before regional climate simulations are run. By correcting multiple atmospheric variables together and at short time scales, the method improves realism and consistency in simulated climate patterns. This leads to more reliable regional projections, particularly for extreme weather events.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-13T08:07:05+02:00",
+      "doi": "10.5194/gmd-19-7457-2026",
+      "affiliation": null,
+      "title_zh": "SDMBCv2 (v1.0)：修正未来预估中区域气候模型输入的系统偏差",
+      "relevance_score": 4,
+      "key_conclusion": "本研究提出了一种新的开源工具，在区域气候模拟运行前减少系统误差，通过共同校正多个大气变量并采用短时间尺度，提高了模拟气候模式的真实性和一致性，尤其改善了对极端天气事件的区域预估。",
+      "relevance_note": "该文章聚焦于气候模型的偏差校正方法，与用户对生态系统模型开发和验证的兴趣有一定关联，但主题偏向气候模拟而非生态学或碳循环，且与核心课题无关，因此给予较低分。",
+      "related_papers": [
+        {
+          "title": "SDMBCv2 (v1.0): correcting systematic biases in RCM inputs for future projection",
+          "link": "https://doi.org/10.5194/egusphere-2025-6411",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Supplementary material to \"SDMBCv2 (v1.0): correcting systematic biases in RCM inputs for future projection\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-6411-supplement",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7457/2026/gmd-19-7457-2026-avatar-web.png",
+      "scientific_question": "本文试图回答：如何通过一个新的开源偏差校正工具（SDMBCv2）同时纠正多个大气变量的系统误差，并利用短时间尺度处理来提升未来区域气候模拟（尤其针对极端气候事件）的可靠性和一致性？",
+      "contributions_limitations": "主要贡献是提供了一个开源的多元、短时尺度偏差校正工具，显著改善了区域气候模型的输入质量，使得极端事件模拟更接近现实，并增强了未来预估的稳健性。局限性可能在于偏差校正假设历史偏差模式在未来持续成立，这可能在气候变化下失效；且摘要未提供对空间差异的分析，此为推测。",
+      "follow_up_research": "后续研究可评估SDMBCv2校正后的气候数据在驱动生态过程模型（如植被动态或土壤碳模型）时的表现，特别是对极端干旱或热浪的响应；也可将偏差校正应用于用户关注的欧洲重野化研究区，生成高分辨率气候场以驱动场地尺度的碳循环模拟。",
+      "next_step_perspective": "用户研究重野化对土壤碳的影响高度依赖气候驱动数据的准确性，本文的工具能提高区域气候预估的可靠性，从而减少气候输入不确定性对碳循环模拟结论的干扰；这为用户的模型预测提供了数据预处理环节的优化思路，尤其可服务于欧洲研究地点的场景分析。",
+      "why_this_journal": "Geoscientific Model Development 涵盖模型开发和数据处理方法改进，本文提供的新工具有明确的方法学贡献和实际应用价值，且开源特性强化了其社区认可度，推测因其实用性和对极端事件模拟改进的贡献而发表。",
+      "author_profile": {
+        "name": "Jason P. Evans",
+        "institution": "University of New South Wales",
+        "intro": "Jason P. Evans 来自澳大利亚新南威尔士大学，其历史论文广泛涉及区域气候模拟、极端野火事件（如2019澳大利亚大火）和深层学习预测，表明其研究方向为高分辨率气候变化影响评估。这些研究为用户提供了构建欧洲气候极端事件场景的工具，有助于理解重野化区在气候扰动下的碳循环响应。",
+        "other_works": [
+          {
+            "title": "Characterization of the Australia’s 2019 megafires: a remote-sensing perspective",
+            "year": "2025",
+            "journal": "International Journal of Remote Sensing",
+            "doi": "10.1080/01431161.2025.2564909"
+          },
+          {
+            "title": "The influence of lateral flow on land surface fluxes in southeast Australia varies with model resolution",
+            "year": "2025",
+            "journal": "Hydrology and Earth System Sciences",
+            "doi": "10.5194/hess-29-4491-2025"
+          },
+          {
+            "title": "Flash drought prediction using deep learning",
+            "year": "2025",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/addb65"
+          },
+          {
+            "title": "Design, evaluation, and future projections of the NARCliM2.0 CORDEX-CMIP6 Australasia regional climate ensemble",
+            "year": "2025",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-18-671-2025"
+          },
+          {
+            "title": "Evaluation of CORDEX ERA5-forced NARCliM2.0 regional climate models over Australia using the Weather Research and Forecasting (WRF) model version 4.1.2",
+            "year": "2025",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-18-703-2025"
+          }
+        ]
+      }
     }
   ]
 }
