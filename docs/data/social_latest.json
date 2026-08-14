@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-08-13T12:58:13.496228+00:00",
-  "count": 10,
+  "generated_at": "2026-08-14T02:13:40.181594+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Conodont fossils contain data on the Kasimovian–Gzhelian Thermal Maximum, a global temperature rise of about 7.5 °C some 304 million years ago. The event was likely triggered by a modest carbon release that crossed a tipping point. In PNAS: https://ow.ly/wUOE50ZzttA",
+      "created_at": "2026-08-14T01:00:18.125538492Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3msyxg445e223",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Exclusive: For decades, researchers have marveled at how this open-air art gallery resisted extreme weathering. The secret may be macabre.\n\nResearchers report that the paint used to create the images was made with blood, including blood from human childbirth. \n\nLearn more: https://scim.ag/3St9DLW",
+      "created_at": "2026-08-13T16:56:02.253641544Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3msy4e5hezv2x",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "How can we use our knowledge and networks to deliver on the major needs of soil ecology policy and practice in the next 3-5 years?\n\nFind out more and register by 14 August 17:00 (BST) 👇\n",
+      "created_at": "2026-08-13T16:05:38.730006673Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3msxzk24qr22s",
+      "external_title": "Soil Ecology SIG Conference | Policy & Practice | BES Events",
+      "external_description": "Join Soil Ecology SIG for Soil Ecology in Practice 2026, linking soil ecology research with policy, practice and real-world environmental needs.",
+      "external_uri": "https://f.mtr.cool/fvtstjbdeq",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreieumpestzoxeku56ljptydp5tjvvojq2uamsiq35wke6cwnd2m5w4"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "🪱Last chance to register🪱\n\nBES Soil Ecology Group is hosting a three-day conference on cutting-edge soil ecology research at the policy-practice nexus.",
+      "created_at": "2026-08-13T16:05:30.279693960Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3msxzjs2wrs2f",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Heterogeneous climatic controls on tropical-forest biomass\n\ngo.nature.com/4hxHlKm",
+      "created_at": "2026-08-13T15:05:01.845Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3msxw5nri3a2r",
+      "external_title": "Heterogeneous climatic controls on tropical-forest biomass - Nature",
+      "external_description": "An analysis of the relationships between aboveground biomass and various climatic factors in three major regions of tropical forest shows that understanding the complex interactions between climate, topography and soils is crucial to predict how climate change will affect carbon storage capacity.",
+      "external_uri": "https://go.nature.com/4hxHlKm",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreih557yxvtgkp5avrshf7l2vjmqsamd3263l3pz6u4mrd5dj2ffneu"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "One of the biggest challenges facing ecologists today is understanding ecosystems that have never existed before.\n\nEngland and Wales have just experienced their driest July on record, wildfires have swept across Europe and species are on the move.\n\nWe are living in a novel future,",
+      "created_at": "2026-08-13T13:18:53.099062542Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3msxq7tyynu2f",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -89,28 +155,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "The Amazon rainforest might be closer to a tipping point than scientists thought\n\ngo.nature.com/4g7jjnc",
-      "created_at": "2026-08-11T14:37:04.783Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3msstntd6m52s",
-      "external_title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
-      "external_description": "The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
-      "external_uri": "https://go.nature.com/4g7jjnc",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiayl2pkc5ik7j23h3rh3ulmgnl46nv6qfaoxoa3ljbptna7wbugs4"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Sar Crespi",
-      "text": "Fascinating look at the fall of the last nomadic empire in Central Asia using tree rings. #scienceadvances @science.org \nwww.science.org/doi/10.1126/...",
-      "created_at": "2026-08-10T14:41:23.750Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3msqdgmsa6c2g",
-      "external_title": "Steppe productivity decline contributed to smallpox outbreak and the collapse of the last nomadic empire in the 1750s",
-      "external_description": "Tree-ring evidence shows how grassland decline set off smallpox that ultimately ended the last nomadic empire.",
-      "external_uri": "https://www.science.org/doi/10.1126/sciadv.aee4285",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6owq635evfesb3l6f5uqjj3c/bafkreidcgukzutkqmu7d6klttjjecrkxomny6putc3vnsbspdgg2l3ribe"
     }
   ]
 }
