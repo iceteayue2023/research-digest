@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T07:12:08.990172+00:00",
-  "count": 2,
+  "generated_at": "2026-08-14T12:54:21.490522+00:00",
+  "count": 4,
   "articles": [
     {
       "id": "https://www.nature.com/articles/d41586-026-02544-y",
@@ -129,6 +129,172 @@
             "year": "2026",
             "journal": "Journal Of Plant Ecology",
             "doi": "10.1093/jpe/rtag091"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02691-0",
+      "title": "Empirical insights into residual emissions in urban net-zero targets",
+      "link": "https://www.nature.com/articles/s41558-026-02691-0",
+      "summary": "Nature Climate Change, Published online: 14 August 2026; doi:10.1038/s41558-026-02691-0Although many cities have set net-zero targets, there is limited understanding of their residual emissions strategies. An analysis of 103 European cities reveals best practices but also a potential over-reliance on temporary land-based carbon removal and the limited robustness of compensation strategies.",
+      "journal": "Nature Climate Change",
+      "published": "2026-08-14T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02691-0",
+      "affiliation": null,
+      "title_zh": "城市净零目标中剩余排放的实证见解",
+      "relevance_score": 5,
+      "key_conclusion": "对103个欧洲城市的分析揭示了净零排放目标的最佳实践，但也指出了对临时性基于土地的碳移除的潜在过度依赖，以及补偿策略的稳健性有限。",
+      "relevance_note": "文章涉及欧洲城市碳移除策略，与用户关注的基于自然的解决方案及碳循环相关，但主题聚焦于城市政策而非生态系统碳循环，相关性中等。研究地点在欧洲，适当加分。",
+      "related_papers": [
+        {
+          "title": "A systematic review of the evidence on decoupling of GDP, resource use and GHG emissions, part II: synthesizing the insights",
+          "link": "https://doi.org/10.1088/1748-9326/ab842a",
+          "venue": "Environmental Research Letters",
+          "year": 2020
+        },
+        {
+          "title": "Towards a circular and low-carbon economy: Insights from the transitioning to electric vehicles and net zero economy",
+          "link": "https://doi.org/10.1016/j.jclepro.2020.120659",
+          "venue": "Journal of Cleaner Production",
+          "year": 2020
+        },
+        {
+          "title": "A review of trends and drivers of greenhouse gas emissions by sector from 1990 to 2018",
+          "link": "https://doi.org/10.1088/1748-9326/abee4e",
+          "venue": "Environmental Research Letters",
+          "year": 2021
+        },
+        {
+          "title": "Efficient use of cement and concrete to reduce reliance on supply-side technologies for net-zero emissions",
+          "link": "https://doi.org/10.1038/s41467-022-31806-2",
+          "venue": "Nature Communications",
+          "year": 2022
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02691-0/MediaObjects/41558_2026_2691_Fig1_HTML.png",
+      "scientific_question": "这项研究试图回答欧洲城市在设定净零排放目标后，其残余排放（residual emissions）补偿策略的稳健性与实践现状如何，特别是基于土地的碳移除在其中扮演的角色。",
+      "contributions_limitations": "主要贡献在于对103个欧洲城市进行了系统分析，揭示了净零排放目标中残余排放管理的最佳实践，并指出当前对临时性基于土地的碳移除存在过度依赖、补偿策略稳健性有限的关键问题。局限性在于该分析可能主要基于城市报告的政策文件而非实际排放数据，且对碳移除的持久性与可行性评估可能受限于现有信息的完整度。基于现有信息推测。",
+      "follow_up_research": "后续研究可深入评估不同城市土地型碳移除措施（如土壤碳封存、造林）的实际持久性和追加性，比较其与永久性碳移除（如地质封存）的效果差异。另一个方向是探究如何通过生态修复（包括大型食草动物重野化）增强城市周边土地的碳汇稳定性，以减少对临时性碳移除的依赖。",
+      "next_step_perspective": "这篇文章为用户提供了一个跨尺度视角：城市净零目标中对基于土地的碳移除的依赖，与用户在landscape尺度研究大型食草动物重野化对土壤有机碳的影响密切相关。用户可借此思考重野化项目作为'自然解决方案'在碳补偿机制中的角色与局限，尤其是其碳汇的持久性如何被评估和认证。",
+      "why_this_journal": "推测本文因针对城市气候行动这一全球热点、提供了首个跨欧洲城市的大样本实证分析、并挑战了净零目标中碳补偿策略的可靠性假设而发表在Nature Climate Change，其政策相关性和对现有气候治理框架的批判性思考具有广泛影响力。",
+      "author_profile": {
+        "name": "Giulia Ulpiani",
+        "institution": "The University of Sydney School of Civil Engineering",
+        "intro": "Giulia Ulpiani博士就职于悉尼大学土木工程学院，从其多篇论文标题（如'Let's hear it from the cities'、'Towards the first cohort of climate-neutral cities'）来看，其核心研究方向是欧洲城市能源转型、气候中和路径与减缓技术评估。她的研究侧重城市尺度的碳减排政策分析，与用户关注的生态系统碳循环属于不同尺度，但她在碳移除策略的稳健性评估方法上可为用户评估重野化碳汇功能提供参考。",
+        "other_works": [
+          {
+            "title": "Let's hear it from the cities: On the role of renewable energy in reaching climate neutrality in urban Europe",
+            "year": "2023",
+            "journal": "Renewable and Sustainable Energy Reviews",
+            "doi": "10.1016/j.rser.2023.113444"
+          },
+          {
+            "title": "On the risks associated with transitioning to climate neutrality in Europe: A city perspective",
+            "year": "2023",
+            "journal": "Renewable and Sustainable Energy Reviews",
+            "doi": "10.1016/j.rser.2023.113448"
+          },
+          {
+            "title": "Towards the first cohort of climate-neutral cities: Expected impact, current gaps, and next steps to take to establish evidence-based zero-emission urban futures",
+            "year": "2023",
+            "journal": "Sustainable Cities and Society",
+            "doi": "10.1016/j.scs.2023.104572"
+          },
+          {
+            "title": "Fighting urban climate change—state of the art of mitigation technologies",
+            "year": "2023",
+            "journal": "Urban Climate Change and Heat Islands",
+            "doi": "10.1016/b978-0-12-818977-1.00006-5"
+          },
+          {
+            "title": "The Cooling Station: Combining hydronic radiant cooling and daytime radiative cooling for urban shelters",
+            "year": "2022",
+            "journal": "Applied Thermal Engineering",
+            "doi": "10.1016/j.applthermaleng.2022.118493"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03150-x",
+      "title": "Widespread thermophilization but weak link to climate warming in Europe’s summit plant communities",
+      "link": "https://www.nature.com/articles/s41559-026-03150-x",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 14 August 2026; doi:10.1038/s41559-026-03150-xAttributing alpine vegetation changes to climate change alone is intuitive but might neglect complexities such as microclimate and dispersal limitations. Here the authors show that thermophilization of European summit vegetation is weakly related to temperature change, as it depends on local environmental and floristic conditions.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-14T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03150-x",
+      "affiliation": null,
+      "title_zh": "欧洲山顶植物群落普遍热化但与气候变暖关联较弱",
+      "relevance_score": 4,
+      "key_conclusion": "欧洲山顶植被的热化现象与温度变化关联较弱，其变化主要取决于局部环境和植物区系条件，而非单纯的气候变暖。",
+      "relevance_note": "文章涉及气候变化对植被的影响，与用户关注的生态系统碳循环和极端气候扰动有一定关联，但核心主题是高山植被动态而非碳循环或大型动物，相关性一般。研究地点在欧洲，适当加分。",
+      "related_papers": [
+        {
+          "title": "Accelerated increase in plant species richness on mountain summits is linked to warming",
+          "link": "https://doi.org/10.1038/s41586-018-0005-6",
+          "venue": "Nature",
+          "year": 2018
+        },
+        {
+          "title": "Compositional shifts of alpine plant communities across the high Andes",
+          "link": "https://doi.org/10.1111/geb.13721",
+          "venue": "Global Ecology and Biogeography",
+          "year": 2023
+        },
+        {
+          "title": "Divergent community trajectories with climate change across a fine‐scale gradient in snow depth",
+          "link": "https://doi.org/10.1111/1365-2745.14223",
+          "venue": "Journal of Ecology",
+          "year": 2023
+        },
+        {
+          "title": "Climate change impacts on Mediterranean vegetation are amplified at low altitudes",
+          "link": "https://doi.org/10.1111/geb.13682",
+          "venue": "Global Ecology and Biogeography",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03150-x/MediaObjects/41559_2026_3150_Fig1_HTML.png",
+      "scientific_question": "这项研究试图回答欧洲高山山顶植物群落的暖化效应（thermophilization）是否主要由气候变暖驱动，以及局部环境和植物区系条件在其中发挥多大作用。",
+      "contributions_limitations": "主要贡献在于利用欧洲山顶植被长期监测数据，挑战了'气候变化直接导致植被热化'的简单认知，证明热化速率与温度变化关联微弱，而更多受微气候、扩散限制和地方物种库影响。局限性可能包括对历史气候变化梯度的依赖，以及微气候数据的空间分辨率可能不足以完全捕捉山顶环境的异质性。基于现有信息推测。",
+      "follow_up_research": "后续研究可结合动物介导的种子扩散（如大型食草动物对高山植物的迁移促进作用）与热化速率的关系，探索营养级联如何调节植被对气候变化的响应。另一个有价值的方向是整合微气候模型与植物功能性状，预测不同扩散能力物种在山顶群落中的重新组合动态。",
+      "next_step_perspective": "这篇论文对用户的核心启示在于：在评估重野化对植被和土壤碳的影响时，不能将气候变暖视为唯一驱动力，而需考虑动物活动如何通过改变微环境和扩散过程来调节植被组成。用户可借鉴其'局部因素削弱宏观气候信号'的分析框架，设计研究检验食草动物放牧如何通过土壤扰动和养分输入影响土壤有机碳对气候变化的敏感性。",
+      "why_this_journal": "推测本文因对'高山植被响应气候变化'这一经典生态学命题提出了颠覆性见解、基于欧洲范围的多站点长期数据、并强调了微气候和生物地理过程在群落动态中的重要作用而发表在Nature Ecology & Evolution，体现了方法严谨性和对生态学理论的实质推进。",
+      "author_profile": {
+        "name": "Johannes Hausharter",
+        "institution": "University of Vienna",
+        "intro": "Johannes Hausharter就职于维也纳大学，从其多篇论文标题（如'Fine-scale alpine plant community assembly'、'Limited impact of microtopography on alpine plant distribution'）可见，他的核心研究方向是高山植物群落构建机制、物种分布的环境与扩散限制及微地形作用。其研究领域涉及精细尺度的植物-环境互作，与用户关注的植物群落动态和生态系统功能恢复有交叉，其方法可为用户分析重野化后植被演替的环境驱动因子提供借鉴。",
+        "other_works": [
+          {
+            "title": "Widespread thermophilization but weak link to climate warming in Europe’s summit plant communities",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03150-x"
+          },
+          {
+            "title": "Reconsidering climatic predictors for high‐resolution niche models of alpine plants",
+            "year": "2026",
+            "journal": "Oikos",
+            "doi": "10.1002/oik.11545"
+          },
+          {
+            "title": "Fine‐scale alpine plant community assembly: Relative roles of environmental sorting, dispersal processes and species interactions",
+            "year": "2024",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.14401"
+          },
+          {
+            "title": "Limited impact of microtopography on alpine plant distribution",
+            "year": "2024",
+            "journal": "Ecography",
+            "doi": "10.1111/ecog.06744"
+          },
+          {
+            "title": "Niche breadth explains the range size of European‐centred butterflies, but dispersal ability does not",
+            "year": "2023",
+            "journal": "Global Ecology and Biogeography",
+            "doi": "10.1111/geb.13717"
           }
         ]
       }

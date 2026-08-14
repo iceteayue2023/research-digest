@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-14T07:12:08.990866+00:00",
-  "count": 14,
+  "generated_at": "2026-08-14T12:54:21.491705+00:00",
+  "count": 13,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Species intraspecific variation drives tropical forest drought resistance\n\ngo.nature.com/4i5VxKH",
+      "created_at": "2026-08-14T12:37:01.439Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mt26dw7k552r",
+      "external_title": "Species intraspecific variation drives tropical forest drought resistance - Nature",
+      "external_description": "Substantial intraspecific variation, together with species turnover, drives coordinated shifts in drought resistance such as increased embolism resistance and wider stomatal safety margins in drier forests.",
+      "external_uri": "https://go.nature.com/4i5VxKH",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiezvci3ieg33m2rmkr6vvsknffcmatcnv3rejhs3fqrvhyv5fzs7m"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -100,28 +111,6 @@
       "external_description": "High sea surface temperatures are expected to weaken ocean carbon sinks and damage coral reefs.",
       "external_uri": "https://www.nature.com/articles/d41586-026-02496-3",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i2dmfuqk3wklvyvl77cc66cx/bafkreiedbjwg6477ec22jzjci45rak2csubkrw3k3fiwlbe77esptzn42y"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them\n\nRead the full story: www.nature.com/immersive/d4...",
-      "created_at": "2026-08-12T13:12:53.145Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3msv7g74xhc2v",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Growing traffic on inland waterways could offer an opportunity for cutting emissions\n\ngo.nature.com/4wqx0nl",
-      "created_at": "2026-08-12T09:41:52.626Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3msutmxgkyd2a",
-      "external_title": "Shipping on rivers packs a surprisingly large climate punch",
-      "external_description": "Growing traffic on inland waterways could offer an opportunity for cutting emissions.",
-      "external_uri": "https://go.nature.com/4wqx0nl",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiabpeiwxvnqhhogat4blhkibp2phocr4tvs6dcifyus74x25gwtae"
     },
     {
       "handle": "britishecologicalsociety.org",
