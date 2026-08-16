@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-15T12:26:44.069994+00:00",
-  "count": 12,
+  "generated_at": "2026-08-16T01:36:27.603637+00:00",
+  "count": 11,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The Amazon rainforest might be closer to a tipping point than scientists thought\n\ngo.nature.com/4zxEO9I",
+      "created_at": "2026-08-15T15:06:01.725Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mt4x5bsjp62d",
+      "external_title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
+      "external_description": "Nature - The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
+      "external_uri": "https://go.nature.com/4zxEO9I",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiayl2pkc5ik7j23h3rh3ulmgnl46nv6qfaoxoa3ljbptna7wbugs4"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -111,28 +122,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "The world’s oceans are reaching temperatures that could roil marine ecosystems and sap the ocean’s ability to take up carbon dioxide from the air\n\ngo.nature.com/4wB283K",
-      "created_at": "2026-08-13T08:13:38.729Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3msx76245wa23",
-      "external_title": "Ocean temperatures set to break all-time record: what’s next?",
-      "external_description": "High sea surface temperatures are expected to weaken ocean carbon sinks and damage coral reefs.",
-      "external_uri": "https://go.nature.com/4wB283K",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiepfvcvsvvewdr6exfwu3jpohdym6l4sexbonh7dmsjy7tcv2i5da"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "James Dinneen",
-      "text": "Ocean temperatures are hovering hundredths of a degree below the all-time record high with months to go before El Niño reaches full strength.\n\n“Basically, everywhere on Earth, we’re having above-normal temperatures in the ocean.\"\n\nNew in @nature.com: 🌊🌍🧪\nwww.nature.com/articles/d41...",
-      "created_at": "2026-08-12T17:21:38.260Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3msvncytc3s25",
-      "external_title": "Ocean temperatures set to break all-time record: what's next?",
-      "external_description": "High sea surface temperatures are expected to weaken ocean carbon sinks and damage coral reefs.",
-      "external_uri": "https://www.nature.com/articles/d41586-026-02496-3",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i2dmfuqk3wklvyvl77cc66cx/bafkreiedbjwg6477ec22jzjci45rak2csubkrw3k3fiwlbe77esptzn42y"
     }
   ]
 }
