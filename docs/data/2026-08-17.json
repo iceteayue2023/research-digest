@@ -1,8 +1,257 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T06:36:40.822957+00:00",
-  "count": 1,
+  "generated_at": "2026-08-17T12:34:25.817666+00:00",
+  "count": 7,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03158-3",
+      "title": "Trophic hotspots as a perspective for understanding and managing ecosystem function",
+      "link": "https://www.nature.com/articles/s41559-026-03158-3",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 17 August 2026; doi:10.1038/s41559-026-03158-3Foraging species create locations of high concentration and mobilization of energy and nutrients as they move across landscapes. This Perspective discusses how these trophic hotspots are generated and how they contribute to ecosystem function.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-17T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03158-3",
+      "affiliation": null,
+      "title_zh": "营养热点：理解和管理生态系统功能的视角",
+      "relevance_score": 9,
+      "key_conclusion": "觅食动物在景观中移动时会创造能量和养分高浓度集中与动员的地点，这些营养热点对生态系统功能具有重要贡献。",
+      "relevance_note": "该观点文章直接探讨动物介导的能量和养分流动（zoogeochemistry），与用户核心研究方向（大型食草动物重野化对碳循环的影响）高度契合，且为综述类文章。虽未指明研究地点，但主题高度相关。",
+      "related_papers": [
+        {
+          "title": "Habitat fragmentation and its lasting impact on Earth’s ecosystems",
+          "link": "https://doi.org/10.1126/sciadv.1500052",
+          "venue": "Science Advances",
+          "year": 2015
+        },
+        {
+          "title": "Redefining ecosystem multifunctionality",
+          "link": "https://doi.org/10.1038/s41559-017-0461-7",
+          "venue": "Nature Ecology & Evolution",
+          "year": 2018
+        },
+        {
+          "title": "Megafauna and ecosystem function from the Pleistocene to the Anthropocene",
+          "link": "https://doi.org/10.1073/pnas.1502540113",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2016
+        },
+        {
+          "title": "Grasslands—more important for ecosystem services than you might think",
+          "link": "https://doi.org/10.1002/ecs2.2582",
+          "venue": "Ecosphere",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03158-3/MediaObjects/41559_2026_3158_Fig1_HTML.png",
+      "scientific_question": "觅食动物如何在景观尺度上通过移动和集中行为创造能量与养分的'热点'区域，以及这些营养热点如何调控生态系统功能？",
+      "contributions_limitations": "该观点文章提出了'营养热点'（trophic hotspots）这一整合性概念框架，将动物介导的营养与能量流动（zoogeochemistry）与生态系统功能联系起来，对理解大型食草动物重野化对土壤碳动态的影响具有直接的理论启发。作为Perspective文章，它侧重于概念综合而非实证数据，缺乏具体的定量案例或模型验证，可能对机制的量化预测不足（基于现有信息推测）。",
+      "follow_up_research": "可围绕动物重野化过程中营养热点的时空动态开展实证研究，例如量化食草动物粪便分解对土壤有机碳组分（POM/MAOM）的贡献，并利用稳定同位素追踪热点区域碳氮循环路径。此外，可结合生态系统模型模拟不同食草动物密度和移动模式对营养热点大小及持续性的影响。",
+      "next_step_perspective": "该文章的'营养热点'概念可直接应用于大型食草动物重野化对土壤碳影响的框架设计：可将重野化区域视为由动物活动驱动的营养热点增强区，评估其对土壤有机碳积累的空间异质性影响。研究方法上可借鉴其'能量和养分动员'的视角，设计追踪动物介导碳输入的实验。",
+      "why_this_journal": "推测该文发表于Nature Ecology & Evolution因其提出了具有跨层次整合意义的新概念（营养热点），将动物行为、生态系统功能与生物地球化学循环连接，兼具理论创新性和广泛生态学意义，符合该刊发表高影响力观点文章的传统。",
+      "author_profile": {
+        "name": "Timothy J. Fernandes",
+        "institution": "University of Guelph",
+        "intro": "Timothy J. Fernandes就职于加拿大圭尔夫大学。从其历史论文标题看，其主要研究方向是淡水鱼类的觅食生态、营养级联和食物网动态，特别是产卵事件和捕食行为如何驱动水生生态系统中的能量流动。这些研究虽主要聚焦水生系统，但其关于'事件驱动型营养热点'的机制认识可为理解陆地大型动物粪便沉积等脉冲式养分输入提供类比和框架参考。",
+        "other_works": [
+          {
+            "title": "Trophic hotspots as a perspective for understanding and managing ecosystem function",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03158-3"
+          },
+          {
+            "title": "Fish spawning events stimulate trophic hotspots across freshwater food webs",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.09.30.679526"
+          },
+          {
+            "title": "Ovivorous Opportunities: Predation Events During Nest Guarding in a Freshwater Fish Species",
+            "year": "2025",
+            "journal": "Ecology and Evolution",
+            "doi": "10.1002/ece3.70951"
+          },
+          {
+            "title": "Ephemeral piscivory in a mesopredator sunfish: Implications for pond food webs",
+            "year": "2024",
+            "journal": "Ecology",
+            "doi": "10.1002/ecy.4431"
+          },
+          {
+            "title": "Expanding the scope: integrating costs of digestive metabolism and growth into estimates of maximum oxygen uptake in fishes",
+            "year": "2024",
+            "journal": "Journal of Experimental Biology",
+            "doi": "10.1242/jeb.248197"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03144-9",
+      "title": "Mycorrhizal strategy of non-native plants varies with biome and disturbance",
+      "link": "https://www.nature.com/articles/s41559-026-03144-9",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 17 August 2026; doi:10.1038/s41559-026-03144-9Mycorrhizal strategy could be one of the factors that explain why certain non-native species become successful invaders. This study tests this idea at the global scale and explores geographic patterns and putative drivers of mycorrhizal strategies of non-native naturalized plants.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-17T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03144-9",
+      "affiliation": null,
+      "title_zh": "非本地植物的菌根策略随生物群系和干扰而变化",
+      "relevance_score": 7,
+      "key_conclusion": "菌根策略可能是解释某些非本地物种成为成功入侵者的因素之一，该研究在全球尺度上检验了这一想法，并探索了非本地归化植物菌根策略的地理格局和潜在驱动因素。",
+      "relevance_note": "文章涉及植物-微生物互作和入侵生态，与用户关注的生物间互作网络及基于自然解决方案的潜在负面效应（如入侵）相关。虽然不是直接关于重野化，但主题关联性强，且为全球尺度研究。",
+      "related_papers": [
+        {
+          "title": "TRY – a global database of plant traits",
+          "link": "https://doi.org/10.1111/j.1365-2486.2011.02451.x",
+          "venue": "Global Change Biology",
+          "year": 2011
+        },
+        {
+          "title": "Global assessment of nitrogen deposition effects on terrestrial plant diversity: a synthesis",
+          "link": "https://doi.org/10.1890/08-1140.1",
+          "venue": "Ecological Applications",
+          "year": 2010
+        },
+        {
+          "title": "Microbial interactions within the plant holobiont",
+          "link": "https://doi.org/10.1186/s40168-018-0445-0",
+          "venue": "Microbiome",
+          "year": 2018
+        },
+        {
+          "title": "Abiotic Stress Responses and Microbe-Mediated Mitigation in Plants: The Omics Strategies",
+          "link": "https://doi.org/10.3389/fpls.2017.00172",
+          "venue": "Frontiers in Plant Science",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03144-9/MediaObjects/41559_2026_3144_Fig1_HTML.png",
+      "scientific_question": "非本地归化植物的菌根策略（mycorrhizal strategy）在生物群系和干扰梯度上如何变化，其地理格局和驱动因子是什么？",
+      "contributions_limitations": "该研究在全球尺度上系统揭示非本地植物菌根策略与生物群系及干扰的关联，为理解植物-微生物互作如何影响入侵成功提供了新证据，对生物多样性与生态系统功能关系研究有启示。摘要信息有限，未说明具体分析的代谢组学或系统发育控制方法，可能缺乏机制层面的植物-微生物双向互作验证（基于现有信息推测）。",
+      "follow_up_research": "可进一步探究菌根策略差异如何影响入侵植物对土壤碳（尤其是菌根真菌周转相关的MAOM形成）的贡献，结合重野化背景下的植物-土壤反馈实验验证。此外，可研究动物介导的干扰（如食草动物践踏和取食）如何改变菌根策略与入侵成功的关联。",
+      "next_step_perspective": "该文提示菌根类型可作为预测植物群落演替和入侵动态的功能性状，对评估重野化引入大型食草动物后植物-微生物互作方向有借鉴。其全球比较的方法论框架可用于设计欧洲不同重野化地点的对比研究，探索食草动物压力下植物菌根策略的适应性变化。",
+      "why_this_journal": "推测该文发表于Nature Ecology & Evolution因其首次在全球尺度上检验菌根策略与入侵性的关系，结合了大尺度数据与功能生态学框架，具有高度的生物地理学和全球变化意义，符合该刊对新颖全球性生态模式的关注。",
+      "author_profile": {
+        "name": "Sara Giulia Cazzaniga",
+        "institution": "ETH Zurich",
+        "intro": "Sara Giulia Cazzaniga就职于瑞士苏黎世联邦理工学院。从其历史论文看，其研究方向涵盖土壤微生物组、线虫群落、覆盖作物对土壤微生物的影响，以及森林重野化轨迹中的土壤健康微生物指标。这些研究强调植物-微生物互作在生态系统恢复和农业中的功能角色，与用户关注的植物-微生物反馈和重野化土壤功能高度相关。",
+        "other_works": [
+          {
+            "title": "Mycorrhizal strategy of non-native plants varies with biome and disturbance",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03144-9"
+          },
+          {
+            "title": "Microbial Indicators of Soil Health Along Forest Rewilding Trajectories in Europe",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/wbf2026-725"
+          },
+          {
+            "title": "On the diversity of nematode antagonists in an agricultural soil, and their steerability by root-knot nematode density and cover crops",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.1101/2024.09.27.615391"
+          },
+          {
+            "title": "A full-length SSU rRNA-based workflow for high-resolution monitoring of nematode communities reveals direct and indirect responses to plant-based manipulations",
+            "year": "2024",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2023.109263"
+          },
+          {
+            "title": "On the legacy of cover crop-specific microbial footprints",
+            "year": "2023",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2023.109080"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02074-2",
+      "title": "Reforestation dominated China’s forest carbon sink from 1986 to 2019",
+      "link": "https://www.nature.com/articles/s41561-026-02074-2",
+      "summary": "Nature Geoscience, Published online: 17 August 2026; doi:10.1038/s41561-026-02074-2Reforestation on previously forested areas after disturbances exhibits higher post-disturbance carbon sequestration than afforestation on previously unforested land, and has dominated China’s forest carbon sink over the past three decades, according to above- and below-ground biomass estimates.",
+      "journal": "Nature Geoscience",
+      "published": "2026-08-17T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02074-2",
+      "affiliation": null,
+      "title_zh": "再造林主导了1986-2019年中国森林碳汇",
+      "relevance_score": 7,
+      "key_conclusion": "在受干扰后的林地上进行再造林，其扰动后碳固存能力高于在未造林土地上的造林，并主导了过去三十年中国森林碳汇。",
+      "relevance_note": "文章聚焦森林碳汇和恢复过程，与用户关注的陆地生态系统碳循环及碳汇碳源变化直接相关。尽管研究地点在中国而非欧洲，但主题重要，给予较高分数。",
+      "related_papers": [
+        {
+          "title": "The relative contributions of forest growth and areal expansion to forest biomass carbon",
+          "link": "https://doi.org/10.5194/bg-13-375-2016",
+          "venue": "Biogeosciences",
+          "year": 2016
+        },
+        {
+          "title": "Land use and cover change accelerated China’s land carbon sinks limits soil carbon",
+          "link": "https://doi.org/10.1038/s41612-024-00751-w",
+          "venue": "npj Climate and Atmospheric Science",
+          "year": 2024
+        },
+        {
+          "title": "Forest disturbance decreased in China from 1986 to 2020 despite regional variations",
+          "link": "https://doi.org/10.1038/s43247-023-00676-x",
+          "venue": "Communications Earth & Environment",
+          "year": 2023
+        },
+        {
+          "title": "Reforestation policies around 2000 in southern China led to forest densification and expansion in the 2010s",
+          "link": "https://doi.org/10.1038/s43247-023-00923-1",
+          "venue": "Communications Earth & Environment",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02074-2/MediaObjects/41561_2026_2074_Fig1_HTML.png",
+      "scientific_question": "1986至2019年间，中国的森林碳汇主要由再造林（在受干扰后林地上重新植树）还是新造林（在无林地上植树）贡献？两者固碳能力差异如何？",
+      "contributions_limitations": "该研究通过地上和地下生物量估算，明确指出再造林在过去三十年间是中国森林碳汇的主导贡献者，且其扰动后固碳效率高于新造林，对制定基于自然的解决方案和造林政策具有重要参考。摘要未提供具体估算方法细节和不确定性范围，也未能区分不同林型或管理方式的差异（基于现有信息推测）。",
+      "follow_up_research": "可结合土壤有机碳库的深度分层测量，比较再造林的长期碳积累是否稳定或存在饱和点。此外，可将大型食草动物（如重野化引入的物种）对再造林区域土壤碳的影响纳入模型，评估动物干扰对碳汇维持的正面或负面效应。",
+      "next_step_perspective": "该文为区分不同恢复路径（再造林vs新造林）的碳汇效益提供了量化基础，用户可借鉴其区分恢复历史的思路，评估欧洲重野化地点与主动造林地点的土壤碳差异。其基于生物量估算法也提示在重野化研究中需同时关注地下与地上碳分配。",
+      "why_this_journal": "推测该文发表于Nature Geoscience因其核心发现对全球碳收支核算和林业政策有重大影响，利用长时序大尺度数据揭示造林类型对碳汇的关键调控，具有地学与政策交叉的显著性，符合该刊要求。",
+      "author_profile": {
+        "name": "Wenru Xu",
+        "institution": "Institute of Applied Ecology",
+        "intro": "Wenru Xu就职于中国科学院沈阳应用生态研究所（Institute of Applied Ecology）。从其历史论文看，其主要研究方向为森林生态系统碳循环、火灾与干旱干扰对森林碳源汇转变的影响、以及基于光谱遥感评估植被恢复动态。其研究结合遥感、地面观测和建模，对用户关注的陆地生态系统碳循环和干扰恢复具有直接的方法学关联。",
+        "other_works": [
+          {
+            "title": "Reforestation dominated China’s forest carbon sink from 1986 to 2019",
+            "year": "2026",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-026-02074-2"
+          },
+          {
+            "title": "Drought-wildfire synergy drives carbon-source transition and amplifies carbon budget uncertainty of boreal forests in Northeast China",
+            "year": "2026",
+            "journal": "TREES FORESTS AND PEOPLE",
+            "doi": "10.1016/J.TFP.2025.101135"
+          },
+          {
+            "title": "Post-fire spectral recovery and driving factors across the boreal and temperate forests",
+            "year": "2025",
+            "journal": "PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES",
+            "doi": "10.1098/RSTB.2023.0453"
+          },
+          {
+            "title": "Post-fire spectral recovery and driving factors across the boreal and temperate forests' (2025) (vol 380, 20230453, 2025)",
+            "year": "2025",
+            "journal": "PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY B-BIOLOGICAL SCIENCES",
+            "doi": "10.1098/RSTB.2025.0256"
+          },
+          {
+            "title": "Carbon cycle responses to climate change across China's terrestrial ecosystem: Sensitivity and driving process",
+            "year": "2024",
+            "journal": "SCIENCE OF THE TOTAL ENVIRONMENT",
+            "doi": "10.1016/J.SCITOTENV.2024.170053"
+          }
+        ]
+      }
+    },
     {
       "id": "https://doi.org/10.5194/bg-23-5653-2026",
       "title": "Long-term patterns of peat accumulation and organic matter decomposition in Costa Rican peatlands",
@@ -53,6 +302,213 @@
         "institution": null,
         "intro": "Julie Loisel为知名泥炭地科学家，研究兴趣集中于泥炭地碳循环、古环境重建与全球碳库估算，其工作强调地理学与生物地球化学的结合。这与用户关注的土壤有机碳动态及生态系统碳循环高度相关，尤其是在长期碳储存机制方面。",
         "other_works": []
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/esd-17-1135-2026",
+      "title": "Hysteresis and irreversibility in permafrost physical response to increase and decrease of CO2 emissions",
+      "link": "https://doi.org/10.5194/esd-17-1135-2026",
+      "summary": "Hysteresis and irreversibility in permafrost physical response to increase and decrease of CO2 emissions\n                    Natsuki Watanabe, Masahiro Watanabe, Tomohiro Hajima, Tokuta Yokohata, and Irina Melnikova\n                        Earth Syst. Dynam., 17, 1135–1150, https://doi.org/10.5194/esd-17-1135-2026, 2026\n                        We investigated a response of permafrost using an Earth system model driven by an idealized overshooting carbon emission scenario, and found that the permafrost response to warming and cooling is reversible in the area but irreversible in its property. The permafrost response shows hysteresis, arising from a slow soil response tied to heat conductivity and specific heat of water phase change. A carbon release from thawed permafrost accounts for 0.6–41% of the cumulative carbon emission.",
+      "journal": "Earth System Dynamics",
+      "published": "2026-08-17T09:18:11+02:00",
+      "doi": "10.5194/esd-17-1135-2026",
+      "affiliation": null,
+      "title_zh": "多年冻土对CO2排放增减的物理响应中的滞后性和不可逆性",
+      "relevance_score": 6,
+      "key_conclusion": "研究发现多年冻土对增温和降温的响应在面积上是可逆的，但在性质上不可逆，表现出滞后性，源于与热传导和水相变比热相关的缓慢土壤响应。解冻多年冻土释放的碳占累积碳排放的0.6-41%。",
+      "relevance_note": "文章涉及全球碳循环和气候反馈，与用户关注的碳循环扰动和土壤碳过程相关，但重点为多年冻土而非重野化或大型食草动物。主题间接相关，研究地点也未指明在欧洲。",
+      "related_papers": [
+        {
+          "title": "Hysteresis of the Earth system under positive and negative CO<sub>2</sub> emissions",
+          "link": "https://doi.org/10.1088/1748-9326/abc4af",
+          "venue": "Environmental Research Letters",
+          "year": 2020
+        },
+        {
+          "title": "MIROC-ES2L data for \"Hysteresis and irreversibility in permafrost physical response to increase and decrease of CO2 emissions\"",
+          "link": "https://doi.org/10.5281/zenodo.21619154",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Seasonal increase of methane emissions linked to warming in Siberian tundra",
+          "link": "https://doi.org/10.1038/s41558-022-01512-4",
+          "venue": "Nature Climate Change",
+          "year": 2022
+        },
+        {
+          "title": "MIROC-ES2L data for \"Hysteresis and irreversibility in permafrost physical response to increase and decrease of CO2 emissions\"",
+          "link": "https://doi.org/10.5281/zenodo.21619153",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://esd.copernicus.org/articles/17/1135/2026/esd-17-1135-2026-avatar-web.png",
+      "scientific_question": "在二氧化碳排放量先增后减的理想化气候过度情景下，多年冻土对其物理响应是否存在滞后性和不可逆性？这种响应如何影响碳释放？",
+      "contributions_limitations": "该研究利用地球系统模型首次揭示多年冻土面积响应可逆但性质响应不可逆的滞后现象，并量化了由于冻结土壤融化释放的碳占累积碳排放的0.6-41%，对理解气候临界点和碳循环—气候反馈有重要贡献。作为模型研究，其结论依赖于特定排放情景和模型参数化，对土壤中异质性过程（如热融喀斯特、水文再分布）的简化可能引入不确定性（摘要有提及）。",
+      "follow_up_research": "可将多年冻土滞后响应的机制（热传导和相变比热控制）引入动态植被模型（DGVM）中，评估高纬度重野化区域土壤碳在不同排放轨迹下的稳定性。此外，可探究多年冻土融化后植被变化（包括大型动物活动）如何延迟或加速碳释放的不可逆过程。",
+      "next_step_perspective": "该文提供的滞后性和不可逆性框架同样适用于重野化生态系统碳汇的恢复：若人为干预（如引入食草动物）增强土壤碳储存，其效果可能在排放减少后也无法完全恢复原始状态，提示在评估重野化碳效益时需考虑时间滞后和非线性。其模型方法论可启发用户整合物理与生物过程预测碳动态。",
+      "why_this_journal": "推测该文发表于Earth System Dynamics因其聚焦地球系统模型中的碳-气候反馈临界行为，研究滞后性与不可逆性对碳预算的影响，具有地球系统科学的理论深度，符合该刊对过程理解性的追求。",
+      "author_profile": {
+        "name": "Irina Melnikova",
+        "institution": "University of Tsukuba",
+        "intro": "Irina Melnikova就职于日本筑波大学。从其历史论文看，其研究方向为地球系统模型中陆地碳汇分布、气候临界要素（如亚马逊枯萎、多年冻土）在过度排放情景下的响应，以及碳预算框架的改进。其工作偏重未来气候情景模拟和模型不确定性分析，对用户关注的地球系统模式开发和极端气候事件影响有直接参考价值。",
+        "other_works": [
+          {
+            "title": "Hysteresis and irreversibility in permafrost physical response to increase and decrease of CO2 emissions",
+            "year": "2026",
+            "journal": "Earth System Dynamics",
+            "doi": "10.5194/esd-17-1135-2026"
+          },
+          {
+            "title": "Land Carbon Sink Distribution in Northern Eurasia Is Driven by Climate Change",
+            "year": "2026",
+            "journal": "Global Biogeochemical Cycles",
+            "doi": "10.1029/2025GB008971"
+          },
+          {
+            "title": "Narrowed uncertainty in future global temperature and remaining carbon budget",
+            "year": "2026",
+            "journal": "One Earth",
+            "doi": "10.1016/j.oneear.2025.101526"
+          },
+          {
+            "title": "Hysteresis and irreversibility in permafrost physical response to increase and decrease of CO2 emissions",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-4088"
+          },
+          {
+            "title": "Amazon dieback beyond the 21st century under high-emission scenarios by Earth System models",
+            "year": "2025",
+            "journal": "Communications Earth & Environment",
+            "doi": "10.1038/s43247-025-02606-5"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02581-7",
+      "title": "Daily briefing: Ancient rise in CO<sub>2</sub> hints at what could happen today",
+      "link": "https://www.nature.com/articles/d41586-026-02581-7",
+      "summary": "Nature, Published online: 14 August 2026; doi:10.1038/d41586-026-02581-7A sharp rise in carbon dioxide around 56 million years ago was catastrophic for forests. Plus, mRNA-based flu vaccines have been approved in the United States and Anthropic is to introduce an AI watermark.",
+      "journal": "Nature",
+      "published": "2026-08-14T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-02581-7",
+      "affiliation": null,
+      "title_zh": "每日简报：古代二氧化碳上升暗示今天可能发生的情况",
+      "relevance_score": 5,
+      "key_conclusion": "约5600万年前二氧化碳的急剧上升对森林造成了灾难性影响，这一历史事件可能为当前气候变化提供警示。",
+      "relevance_note": "该新闻简报涉及古代碳循环扰动对森林的影响，与用户关注的陆地生态系统碳循环及碳汇碳源变化相关，但内容简略且并非原创研究。研究地点不在欧洲，故分数适中。",
+      "related_papers": [
+        {
+          "title": "Conceptions of curriculum in co-operative education: a framework for analysis of the co-op preparatory curriculum",
+          "link": "",
+          "venue": "Summit (Simon Fraser University)",
+          "year": 2007
+        },
+        {
+          "title": "Munich Security Report 2020: Westlessness",
+          "link": "https://doi.org/10.47342/iaqx5691",
+          "venue": "Munich security report",
+          "year": 2020
+        },
+        {
+          "title": "Stakeholder Engagement for Service Design: How service designers identify and communicate insights",
+          "link": "https://doi.org/10.3384/diss.diva-97320",
+          "venue": "Linköping University Electronic Press eBooks",
+          "year": 2013
+        },
+        {
+          "title": "Cicero, Against Verres, 2.1.53–86",
+          "link": "https://doi.org/10.11647/obp.0016",
+          "venue": "Classics textbooks",
+          "year": 2011
+        }
+      ],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02581-7/d41586-026-02581-7_53129406.png",
+      "scientific_question": "约5600万年前古新世-始新世极热事件期间二氧化碳急剧上升如何影响全球森林生态系统，这对当前气候变化有何启示？",
+      "contributions_limitations": "主要贡献是将深时地质记录中的碳跃升事件与当代气候危机联系起来，强调历史事件对预测当前和未来森林碳汇动态的警示价值。局限性在于该文为新闻简报（Daily briefing），内容高度简洁，缺乏具体数据支撑和深入分析；基于现有信息推测，深时事件与现代排放速率、生态系统结构差异可能限制直接类比的有效性。",
+      "follow_up_research": "可进一步比较PETM时期森林崩溃与当前热带雨林退化在碳损失速率和恢复潜力上的异同；探索深时碳循环扰动对土壤有机碳库持久性的长期影响，这可能为理解大型食草动物重野化对碳循环的历史基线提供参照。",
+      "next_step_perspective": "这篇文章提示用户，历史碳跃升事件（如PETM）可为当前生态系统碳循环研究提供深时对照，尤其有助于理解极端气候事件如何扰动植被-土壤碳库。用户可借鉴这一深时视角，评估重野化在恢复碳汇功能方面能否缓冲类似的气候扰动。",
+      "why_this_journal": "推测：Nature的Daily briefing栏目旨在向广泛读者传递最具时事性和科学价值的研究进展，PETM事件与当代气候变化的关联具有强烈现实意义和公众关注度，故被选入。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02712-y",
+      "title": "Particulate air pollution undermines plant water-use efficiency by inhibiting photosynthesis",
+      "link": "https://www.nature.com/articles/s41558-026-02712-y",
+      "summary": "Nature Climate Change, Published online: 17 August 2026; doi:10.1038/s41558-026-02712-yThe influence of fine particulate pollution (PM2.5) on plant water-use efficiency remains poorly understood. The authors highlight that PM2.5 exerts a primarily negative effect across scales due to asymmetric effects on photosynthesis and evapotranspiration.",
+      "journal": "Nature Climate Change",
+      "published": "2026-08-17T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02712-y",
+      "affiliation": null,
+      "title_zh": "颗粒物空气污染通过抑制光合作用削弱植物水分利用效率",
+      "relevance_score": 5,
+      "key_conclusion": "PM2.5对植物水分利用效率主要产生负面影响，原因是其对光合作用和蒸腾作用的影响不对称，且这种效应在多个尺度上均存在。",
+      "relevance_note": "文章涉及光合作用和生态系统功能，与用户关注的植被-土壤反馈和生态系统功能恢复相关，但核心是空气污染而非动物重野化或土壤碳。主题间接相关，故给予中等分数。",
+      "related_papers": [
+        {
+          "title": "More people, more food, worse water? a global review of water pollution from agriculture",
+          "link": "",
+          "venue": "CGSPace A Repository of Agricultural Research Outputs (Consultative Group for International Agricultural Research)",
+          "year": 2018
+        },
+        {
+          "title": "Impact of Heavy Metal Pollution in the Environment on the Metabolic Profile of Medicinal Plants and Their Therapeutic Potential",
+          "link": "https://doi.org/10.3390/plants13060913",
+          "venue": "Plants",
+          "year": 2024
+        },
+        {
+          "title": "Air Pollution in Asia and the Pacific - Science-based Solutions",
+          "link": "",
+          "venue": "Institutional Repositories DataBase (IRDB)",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02712-y/MediaObjects/41558_2026_2712_Fig1_HTML.png",
+      "scientific_question": "细颗粒物污染（PM2.5）如何通过影响光合作用和蒸腾作用之间的不对称关系来改变植物水分利用效率，这种效应在不同尺度上是如何表现的？",
+      "contributions_limitations": "主要贡献是系统揭示了PM2.5对植物水分利用效率的跨尺度负面影响机制，指出其根源在于对光合作用和蒸腾作用的不对称抑制，填补了空气污染与植物水分关系研究的空白。局限性基于摘要信息推测可能包括：主要关注负面效应，对PM2.5浓度阈值或不同植物功能型的差异分析可能不够细化；跨尺度整合的机制解释可能依赖模型推断而非全域实测。",
+      "follow_up_research": "可探索PM2.5污染背景下植物碳分配策略（如非结构性碳水化合物储存）的变化如何进一步影响土壤碳输入；也可研究污染胁迫是否通过改变植物-微生物互作而间接影响土壤有机碳形成，尤其关注POM与MAOM路径的差异响应。",
+      "next_step_perspective": "本文直接回应了用户对陆地生态系统碳循环和植物碳分配策略的兴趣，提示空气污染是影响植被光合碳固定的重要环境因子，可能干扰重野化地区植被恢复的碳汇潜力。方法上，跨尺度（叶片-冠层-生态系统）的不对称效应分析框架可为用户评估放牧强度对碳-水耦合的影响提供借鉴。",
+      "why_this_journal": "推测：该研究首次在多个尺度上统一了PM2.5对植物水分利用效率的负面效应机制，兼具大气科学、植物生理学和生态系统生态学的跨学科意义，符合Nature Climate Change关注气候变化与人为环境胁迫交叉影响的期刊定位。",
+      "author_profile": {
+        "name": "Jian Wang",
+        "institution": "Chinese Academy of Sciences",
+        "intro": "Jian Wang来自中国科学院，其历史作品涵盖城市化植被热效应、冻土融化与绿化、氮沉降对物候影响等主题，显示出在陆地生态系统对全球变化因子的响应方面有广泛研究积累。这些研究中的遥感与跨尺度分析方法，以及对中国区域生态系统的关注，与用户研究大型食草动物重野化对土壤碳循环的影响存在方法学共通性，尤其是远程监测和尺度推演方面。",
+        "other_works": [
+          {
+            "title": "Particulate air pollution undermines plant water-use efficiency by inhibiting photosynthesis",
+            "year": "2026",
+            "journal": "Nature Climate Change",
+            "doi": "10.1038/s41558-026-02712-y"
+          },
+          {
+            "title": "Global urban vegetation exhibits divergent thermal effects: from cooling to warming as aridity increases",
+            "year": "2026",
+            "journal": "Science Advances",
+            "doi": "10.1126/sciadv.aea9165"
+          },
+          {
+            "title": "Accelerated land surface greening caused by earlier permafrost thawing",
+            "year": "2025",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-025-67644-1"
+          },
+          {
+            "title": "Lagged precipitation effects on plant production across terrestrial biomes",
+            "year": "2025",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-025-02806-4"
+          },
+          {
+            "title": "Nitrogen deposition favors later leaf senescence in woody species",
+            "year": "2025",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-025-59000-0"
+          }
+        ]
       }
     }
   ]
