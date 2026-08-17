@@ -1,6 +1,59 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T01:28:24.152286+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-17T06:36:40.822957+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-5653-2026",
+      "title": "Long-term patterns of peat accumulation and organic matter decomposition in Costa Rican peatlands",
+      "link": "https://doi.org/10.5194/bg-23-5653-2026",
+      "summary": "Long-term patterns of peat accumulation and organic matter decomposition in Costa Rican peatlands\n                    Hannah Mitchell, Julie Loisel, Jacklyn Rivera Wong, Alessandra C. Leri, and Mia Allison\n                        Biogeosciences, 23, 5653–5683, https://doi.org/10.5194/bg-23-5653-2026, 2026\n                        The peatlands of Central America are vastly understudied, despite their role as long-term carbon stores. This study presents 9 new peat-core datasets from different landscapes found across Costa Rica. Our approach includes multiple paleoenvironmental tools that provide peatland ages, peat-soil geochemical characteristics, and ecological succession histories. The total peat carbon store in Costa Rica is estimated at 0.15 gigatonnes and the averaged peatland carbon stock is 1080 Mg C/ha.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-17T08:00:40+02:00",
+      "doi": "10.5194/bg-23-5653-2026",
+      "affiliation": null,
+      "title_zh": "哥斯达黎加泥炭地长期泥炭积累与有机质分解模式",
+      "relevance_score": 6,
+      "key_conclusion": "研究利用9个新的泥炭岩芯数据集，结合多种古环境工具，揭示了哥斯达黎加不同景观泥炭地的年龄、土壤地球化学特征和生态演替历史，估算总泥炭碳储量为0.15亿吨，平均碳储量为1080 Mg C/ha。",
+      "relevance_note": "该文章聚焦泥炭地长期碳储存与有机质分解，属于陆地生态系统碳循环范畴，与用户关注的碳循环主题相关；研究地点在中美洲而非欧洲，相关性适中，但与重野化主题无直接关联。",
+      "related_papers": [
+        {
+          "title": "Nitrous oxide emissions from three ecosystems in tropical peatland of Sarawak, Malaysia",
+          "link": "https://doi.org/10.1111/j.1747-0765.2007.00196.x",
+          "venue": "Soil Science & Plant Nutrition",
+          "year": 2007
+        },
+        {
+          "title": "Coupled abiotic-biotic cycling of nitrous oxide in tropical peatlands",
+          "link": "https://doi.org/10.1038/s41559-022-01892-y",
+          "venue": "Nature Ecology & Evolution",
+          "year": 2022
+        },
+        {
+          "title": "Exploring Dissolved Organic Carbon Variations in a High Elevation Tropical Peatland Ecosystem: Cerro de la Muerte, Costa Rica",
+          "link": "https://doi.org/10.3389/frwa.2021.742780",
+          "venue": "Frontiers in Water",
+          "year": 2022
+        },
+        {
+          "title": "Natural climate solutions for the United States",
+          "link": "https://doi.org/10.1126/sciadv.aat1869",
+          "venue": "Science Advances",
+          "year": 2018
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5653/2026/bg-23-5653-2026-avatar-web.jpg",
+      "scientific_question": "中美洲泥炭地作为长期碳库的作用尚未被充分研究，本文试图回答哥斯达黎加不同景观类型中泥炭地的长期积累模式、有机质分解特征及其碳储量估算问题。",
+      "contributions_limitations": "主要贡献在于提供了9个新的泥炭岩芯数据集，结合多种古环境工具揭示了泥炭地年龄、地球化学特征和生态演替历史，并首次估算了哥斯达黎加的总泥炭碳储量为0.15 Gt、平均碳储量为1080 Mg C/ha，填补了中美洲泥炭地研究的空白。基于摘要信息推测，局限性可能在于岩芯数量有限（9个）对全国尺度估算的代表性，以及古环境重建方法的时间分辨率限制，具体需查看原文确认。",
+      "follow_up_research": "可进一步探讨泥炭地碳积累速率与气候、植被演替历史的定量关系，并建立中美洲泥炭地碳储量与热带其他区域的对比框架。此外，可将泥炭地碳动态纳入区域碳循环模型，评估其作为碳源/碳汇的长期稳定性。",
+      "next_step_perspective": "这篇论文提供了泥炭地长期碳积累和有机质分解的古环境重建方法学参考，可用于研究重野化后大型食草动物活动如何影响泥炭地/湿地生态系统的碳积累过程。其碳储量估算方法可启发对欧洲重野化区域恢复生态系统中土壤碳库量化评估的逻辑。",
+      "why_this_journal": "推测该文发表于Biogeosciences是因为其聚焦生物地球化学循环中的碳储存与有机质分解过程，结合地质历史尺度的古环境重建，具有跨学科整合的研究视角，符合期刊对陆地生态系统碳循环过程机理的发表定位。",
+      "author_profile": {
+        "name": "Julie Loisel",
+        "institution": null,
+        "intro": "Julie Loisel为知名泥炭地科学家，研究兴趣集中于泥炭地碳循环、古环境重建与全球碳库估算，其工作强调地理学与生物地球化学的结合。这与用户关注的土壤有机碳动态及生态系统碳循环高度相关，尤其是在长期碳储存机制方面。",
+        "other_works": []
+      }
+    }
+  ]
 }
