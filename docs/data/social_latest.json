@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-17T12:34:25.819434+00:00",
+  "generated_at": "2026-08-18T01:24:58.842089+00:00",
   "count": 5,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "As climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover\n\ngo.nature.com/4bV9t6z",
+      "created_at": "2026-08-17T17:20:01.372Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mtc7kprnt22r",
+      "external_title": "Too hot to sleep? How heatwaves at night affect our health",
+      "external_description": "As climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.",
+      "external_uri": "https://go.nature.com/4bV9t6z",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifbfan2xispde6qgrc47efrrh4hotxypwqaprhkm4vy7lvz3yc2hi"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Climate change impacts on plants could be modulated or overridden by factors like microclimate. This analysis shows that shifts towards warmth-associated species in European summit flora are strongly dependent on local conditions such as substrate and the species pool\n\nwww.nature.com/articles/s41...",
+      "created_at": "2026-08-17T12:59:26.806Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtbqyrh6zk2l",
+      "external_title": "Widespread thermophilization but weak link to climate warming in Europe’s summit plant communities - Nature Ecology & Evolution",
+      "external_description": "Attributing alpine vegetation changes to climate change alone is intuitive but might neglect complexities such as microclimate and dispersal limitations. Here the authors show that thermophilization o...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03150-x",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiep7556s2cljgfsht7badij2x7ptic5jdtsiouwoxkg3flvqxoyiu"
+    },
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "Dan Miller",
+      "text": "Great discussion today with René van Westen on his paper that says AMOC collapse depends on *rate* of warming rather than an absolute temperature. And our current rate of warming is enough to tip the AMOC to collapse!\n#AMOC #ClimateChange\nwww.youtube.com/live/Zm0v_2r...",
+      "created_at": "2026-08-17T06:09:21.770Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mtb23ib4js2w",
+      "external_title": "Does AMOC Collapse Depend on Rate of Warming? with René van Westen",
+      "external_description": "YouTube video by Climate Chat",
+      "external_uri": "https://www.youtube.com/live/Zm0v_2rqvoQ",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m526tw7vojc336y7onxzmnpv/bafkreia6ioedqml6jvs5ntim7e3ovx65ggk7sbujlbyr52lib7pne7y4vq"
+    },
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "Reyk",
+      "text": "Whether the Atlantic Ocean currents (AMOC) shut down under climate change depends on how quickly the planet warms. Our new study shows that there may be no fixed temperature threshold for this climate tipping scenario.\n\nwww.nature.com/articles/s41...\nFigure by René van Westen",
+      "created_at": "2026-08-16T09:22:38.821Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mt6ug6maoc2e",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -12,50 +56,6 @@
       "external_description": "Nature - The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
       "external_uri": "https://go.nature.com/4zxEO9I",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiayl2pkc5ik7j23h3rh3ulmgnl46nv6qfaoxoa3ljbptna7wbugs4"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Around 14–15 million years ago, during a cool, arid period, forests in Northwest Africa turned into C3 grasslands, according to a study of plant waxes. The modern savanna, dominated by grasses using the C4 photosystem, appeared in the late Miocene. In PNAS: https://ow.ly/ATpF50ZzW7t",
-      "created_at": "2026-08-15T01:00:30.926878691Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mt3hvh32oq2t",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Rapid and prolonged greenhouse warming during the Paleocene–Eocene Thermal Maximum caused forests to thin, drastically reshaped plant communities, and reduced overall vegetation carbon storage. \n\nThe results in Science could foreshadow challenges facing modern forests. https://scim.ag/4g8uUST ",
-      "created_at": "2026-08-14T19:15:04.586388394Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mt2ulorvtk2u",
-      "external_title": "Forest canopy decline under elevated CO2 during the Paleocene-Eocene Thermal Maximum",
-      "external_description": "Uncertainty remains regarding the impact of rapid anthropogenic warming on forest ecosystem structure, biodiversity, and function. As an analog, we reconstruct forest canopy density and compositional ...",
-      "external_uri": "https://scim.ag/4g8uUST",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreidcdqdxng2vv7pa4ts3vo735jhkpx7p7gdvt5vpxlax2nt7tvxbcq"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Two scientists working on Italy’s bid to host the Einstein Telescope, Europe’s next-generation gravitational-wave observatory, had their cars set ablaze in Lula, the village in Sardinia where the project would be built. https://scim.ag/4hywK1U",
-      "created_at": "2026-08-14T16:36:01.677665168Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mt2lpbxetk26",
-      "external_title": "Arson attack jolts Italy’s bid to host the Einstein Telescope",
-      "external_description": "Two scientists' cars were burned at the proposed Sardinian site, in what researchers say was an attempt to intimidate supporters of the gravitational-wave observatory",
-      "external_uri": "https://scim.ag/4hywK1U",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreigpvoarp7hb3e6bb7mr6qapczue4bcm6rf7uekn5qojmk5t3oapue"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Nature research paper: Species intraspecific variation drives tropical forest drought resistance\n\ngo.nature.com/4i5VxKH",
-      "created_at": "2026-08-14T12:37:01.439Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mt26dw7k552r",
-      "external_title": "Species intraspecific variation drives tropical forest drought resistance - Nature",
-      "external_description": "Substantial intraspecific variation, together with species turnover, drives coordinated shifts in drought resistance such as increased embolism resistance and wider stomatal safety margins in drier forests.",
-      "external_uri": "https://go.nature.com/4i5VxKH",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiezvci3ieg33m2rmkr6vvsknffcmatcnv3rejhs3fqrvhyv5fzs7m"
     }
   ]
 }
