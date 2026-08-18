@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T01:24:58.841665+00:00",
-  "count": 1,
+  "generated_at": "2026-08-18T06:28:21.016148+00:00",
+  "count": 2,
   "articles": [
     {
       "id": "https://www.sciencedirect.com/science/article/pii/S1364815226002902",
@@ -49,6 +49,71 @@
       "next_step_perspective": "这篇文章提供了在极端气候背景下评估系统恢复力的方法论框架，虽聚焦水系统，但其量化思路可启发您思考如何构建大型食草动物重野化对土壤有机碳稳定性的'连通性-恢复力'评估指标；尤其是自然-人工耦合系统的处理方法，可能有助于您分析人类管理干预与自然重野化过程交互作用下的碳循环响应。",
       "why_this_journal": "推测发表于Environmental Modelling & Software是因为该研究属于环境系统建模与软件开发的范畴，其提出的量化评估方法具有工具性创新，符合期刊强调模型方法开发和实际应用的定位。",
       "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7589-2026",
+      "title": "Effects of assimilating phytoplankton carbon in marine ecosystem modelling in NEMO4.0.4-MEDUSA2.0-PDAF2.0",
+      "link": "https://doi.org/10.5194/gmd-19-7589-2026",
+      "summary": "Effects of assimilating phytoplankton carbon in marine ecosystem modelling in NEMO4.0.4-MEDUSA2.0-PDAF2.0\n                    Yumeng Chen, Dale Partridge, and Lars Nerger\n                        Geosci. Model Dev., 19, 7589–7613, https://doi.org/10.5194/gmd-19-7589-2026, 2026\n                        Operational marine ecosystem forecasts traditionally rely on combining phytoplankton chlorophyll observations with model forecasts. However, using our newly developed ensemble data assimilation system, we demonstrate that assimilating phytoplankton carbon data leads to more balanced phytoplankton estimates and adjusts estimates of global ocean carbon.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-18T08:15:57+02:00",
+      "doi": "10.5194/gmd-19-7589-2026",
+      "affiliation": null,
+      "title_zh": "在NEMO4.0.4-MEDUSA2.0-PDAF2.0海洋生态系统模型中同化浮游植物碳的影响",
+      "relevance_score": 4,
+      "key_conclusion": "该研究开发了一个新的集合数据同化系统，证明在同化浮游植物碳数据比传统同化叶绿素数据能产生更均衡的浮游植物估算，并改进了全球海洋碳的估算。",
+      "relevance_note": "文章聚焦海洋生态系统模型和数据同化，涉及碳循环，但主要面向海洋而非陆地生态系统，与用户以大型食草动物重野化和陆地土壤有机碳为核心的研究方向关联较弱。不过其生态系统模型改进方面与用户对DGVM和生态系统模型开发的兴趣有一定交叉。",
+      "related_papers": [
+        {
+          "title": "Code and scripts for paper Effects of assimilating phytoplankton carbon in marine ecosystem modelling in NEMO4.0.4-MEDUSA2.0-PDAF2.0",
+          "link": "https://doi.org/10.5281/zenodo.21670592",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7589/2026/gmd-19-7589-2026-avatar-web.png",
+      "scientific_question": "在海洋生态系统模型中，同化浮游植物碳数据（而非传统的叶绿素数据）能否更有效地改善浮游植物生物量估算和全球海洋碳循环的预测？",
+      "contributions_limitations": "该研究开发了NEMO4.0.4-MEDUSA2.0-PDAF2.0集合数据同化系统，首次证明同化浮游植物碳数据比同化叶绿素数据能产生更均衡的浮游植物估算，并改进全球海洋碳收支估算。基于现有信息推测，其局限性可能在于应用场景为海洋模型，与陆地生态系统直接关联有限，且模型复杂度和计算成本可能限制其广泛推广。",
+      "follow_up_research": "借鉴该同化框架的思路，未来可探索在陆地生态系统模型（如动态植被模型DGVM）中同化植物碳储量或碳通量观测数据（如遥感GPP、土壤碳观测）以提高模型预测能力。此外，可比较同化不同碳组分（如颗粒态与矿物结合态有机碳）对土壤碳模型估算精度的影响。",
+      "next_step_perspective": "该研究提供了数据同化方法在生态模型中的应用范例，尤其是引入更直接的过程变量（碳而非色素）替代代理变量的思路，可启发用户考虑在重野化研究中同化大型食草动物密度或粪便碳输入等直接观测数据来改进碳循环模型。其集合同化框架在方法上也具有可迁移性，适用于陆地生态系统的参数估计与不确定性量化。",
+      "why_this_journal": "推测该文发表于Geoscientific Model Development因其聚焦于地球系统模型的开发、改进与评估，研究系统性地展示了数据同化方案对海洋生态模型性能的提升，符合期刊强调模型方法论创新与严格验证的定位。该期刊对模型代码和实验设计的可重复性有较高要求，此类系统开发工作契合其标准。",
+      "author_profile": {
+        "name": "Yumeng Chen",
+        "institution": "University of Reading",
+        "intro": "Yumeng Chen目前任职于University of Reading，从其他作品看其研究方向集中于数据同化框架（PDAF）的开发与应用，包括集合卡尔曼滤波方法、海洋生态系统模型同化以及Python接口工具开发。其核心专长在于数据同化算法与模型集成，这与用户关注的生态系统模型改进（特别是DGVM）具有方法论上的高度相关性。",
+        "other_works": [
+          {
+            "title": "Advancing data assimilation with the renewed Parallel Data Assimilation Framework (PDAF V3.1)",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-2412"
+          },
+          {
+            "title": "The Parallel Data Assimilation Framework (PDAF) - Upgrade to Version 3",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-22041"
+          },
+          {
+            "title": "Effects of assimilating phytoplankton carbon in marine ecosystem modelling in NEMO4.0.4-MEDUSA2.0-PDAF2.0",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5851"
+          },
+          {
+            "title": "Ensemble Kalman filter in latent space using a variational autoencoder pair",
+            "year": "2026",
+            "journal": "Quarterly Journal of the Royal Meteorological Society",
+            "doi": "10.1002/qj.70070"
+          },
+          {
+            "title": "Effects of assimilating phytoplankton carbon in marine ecosystem modelling",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.22541/essoar.174585012.27386970/v3"
+          }
+        ]
+      }
     }
   ]
 }
