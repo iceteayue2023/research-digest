@@ -1,8 +1,102 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T06:28:21.016148+00:00",
-  "count": 2,
+  "generated_at": "2026-08-18T12:35:35.869959+00:00",
+  "count": 6,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02578-2",
+      "title": "Europe must adapt to live with megafires",
+      "link": "https://www.nature.com/articles/d41586-026-02578-2",
+      "summary": "Nature, Published online: 18 August 2026; doi:10.1038/d41586-026-02578-2Europe must adapt to live with megafires",
+      "journal": "Nature",
+      "published": "2026-08-18T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-02578-2",
+      "affiliation": null,
+      "title_zh": "欧洲必须适应与特大火灾共存",
+      "relevance_score": 8,
+      "key_conclusion": "欧洲需要改变策略，从单纯扑灭火灾转向适应与特大火灾共存，以应对气候变化下日益严峻的火灾风险。",
+      "relevance_note": "该文章发表于Nature正刊，主题涉及极端气候事件对生态系统碳循环的扰动（火灾干扰），与用户关注的陆地生态系统碳循环（特别是极端气候扰动）和欧洲研究地点高度相关。",
+      "related_papers": [
+        {
+          "title": "Adapt to more wildfire in western North American forests as climate changes",
+          "link": "https://doi.org/10.1073/pnas.1617464114",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2017
+        },
+        {
+          "title": "Significant increase in natural disturbance impacts on European forests since 1950",
+          "link": "https://doi.org/10.1111/gcb.16531",
+          "venue": "Global Change Biology",
+          "year": 2022
+        },
+        {
+          "title": "Learning to Live with Climate Change",
+          "link": "https://doi.org/10.4324/9780367441265",
+          "venue": null,
+          "year": 2021
+        },
+        {
+          "title": "Understanding future changes to fires in southern Europe and their impacts on the wildland-urban interface",
+          "link": "https://doi.org/10.1016/j.jnlssr.2021.01.001",
+          "venue": "Journal of Safety Science and Resilience",
+          "year": 2021
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "欧洲应如何调整火灾管理策略，以适应气候变化背景下日益频繁和严重的特大火灾？",
+      "contributions_limitations": "文章提出欧洲需从单纯扑灭火灾转向适应与特大火灾共存的策略转变，这是一篇面向政策与实践的评论文章。基于现有信息推测，其局限性可能在于未提供具体的适应措施量化评估或案例数据，更多是方向性呼吁。",
+      "follow_up_research": "后续可研究特大火灾后生态系统的恢复轨迹，特别是大型食草动物在火灾后植被重建和碳循环中的作用；也可探讨火后土壤有机碳的动态变化及其与放牧管理的交互效应。",
+      "next_step_perspective": "本文虽聚焦火灾管理，但为理解极端气候事件对生态系统碳循环的扰动提供了背景，可启发用户思考重野化区域在极端火灾扰动下的碳源汇功能变化，以及动物活动是否可作为一种基于自然的火灾缓解策略。",
+      "why_this_journal": "推测因其发表在Nature正刊，主题涉及气候变化下的重大环境治理议题，具有高度政策相关性和全球关注度，符合期刊对时效性和社会影响力的要求。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7615-2026",
+      "title": "Implementing methane dynamics into the LPJmL6 model",
+      "link": "https://doi.org/10.5194/gmd-19-7615-2026",
+      "summary": "Implementing methane dynamics into the LPJmL6 model\n                    Sibyll Schaphoff, David Hötten, Christoph Müller, Dieter Gerten, Sebastian Ostberg, and Werner von Bloh\n                        Geosci. Model Dev., 19, 7615–7651, https://doi.org/10.5194/gmd-19-7615-2026, 2026\n                        Methane is a powerful driver of climate change, yet emissions from wetlands and farming remain uncertain. We improved a global vegetation model that links water, plants and soils to methane production and release. The model now captures waterlogged areas, methane creation and escape, and flood-tolerant plants. It reproduces global wetland patterns and emissions more realistically, helping assess how climate and land-use change may affect future methane release and improve climate projections.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-18T14:34:23+02:00",
+      "doi": "10.5194/gmd-19-7615-2026",
+      "affiliation": null,
+      "title_zh": "将甲烷动态纳入LPJmL6模型",
+      "relevance_score": 7,
+      "key_conclusion": "研究改进了全球植被模型LPJmL6，成功实现了湿地甲烷产生与释放的动态模拟，更真实地再现了全球湿地格局和排放，有助于评估气候变化和土地利用变化对甲烷释放的影响。",
+      "relevance_note": "该文章属于地球系统模式中动态植被模块（DGVM）的开发与验证主题，与用户明确关注的“生态系统模型改进”高度契合，且涉及植被-土壤-水文相互作用。",
+      "related_papers": [
+        {
+          "title": "Code and data for: \"Implementing methane dynamics into the LPJmL6 model\"",
+          "link": "https://doi.org/10.5281/zenodo.17877397",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        },
+        {
+          "title": "Code and data for: \"Implementing methane dynamics into the LPJmL6 model\"",
+          "link": "https://doi.org/10.5281/zenodo.21456617",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Code and data for: \"Implementing methane dynamics into the LPJmL6 model\"",
+          "link": "https://doi.org/10.5281/zenodo.17877396",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Supplementary material to \"Implementing methane dynamics into the LPJmL6 model\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-6210-supplement",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7615/2026/gmd-19-7615-2026-avatar-web.png",
+      "scientific_question": "如何在全球植被模型中准确模拟湿地甲烷的产生与释放动态，以减少碳排放估算的不确定性？",
+      "contributions_limitations": "主要贡献是在LPJmL6模型中实现了水-植被-土壤耦合的甲烷动力学模拟，包括水淹区域、甲烷生成与逃逸以及耐涝植物，能更真实地再现全球湿地格局和排放。基于摘要信息，局限性可能涉及模型对局部水文过程和微生物机制的简化，以及验证数据的地域偏差。",
+      "follow_up_research": "后续可将该甲烷模块与动物放牧或重野化情景耦合，评估大型食草动物对湿地水文和植被的影响如何改变甲烷排放；也可利用该模型预测不同气候/土地利用情景下湿地碳源汇的转变。",
+      "next_step_perspective": "该文章提供了DGVM中生物地球化学过程（甲烷）建模的范例，可为用户在研究大型食草动物对土壤有机碳影响时，如何将动物介导的扰动过程纳入生态系统模型提供方法参考，尤其是处理土壤水分和植被反馈方面。",
+      "why_this_journal": "推测因其在主流动态全球植被模型中实现了关键温室气体的过程建模，技术方法具有重要创新性和广泛应用价值，符合期刊聚焦模型开发与评估的定位。",
+      "author_profile": null
+    },
     {
       "id": "https://www.sciencedirect.com/science/article/pii/S1364815226002902",
       "title": "Quantitative Assessment Method of Connectivity Resilience in Natural-Artificial Water Systems in the Piedmont Transition Zone: A Watershed Application for Extreme Climate",
@@ -49,6 +143,89 @@
       "next_step_perspective": "这篇文章提供了在极端气候背景下评估系统恢复力的方法论框架，虽聚焦水系统，但其量化思路可启发您思考如何构建大型食草动物重野化对土壤有机碳稳定性的'连通性-恢复力'评估指标；尤其是自然-人工耦合系统的处理方法，可能有助于您分析人类管理干预与自然重野化过程交互作用下的碳循环响应。",
       "why_this_journal": "推测发表于Environmental Modelling & Software是因为该研究属于环境系统建模与软件开发的范畴，其提出的量化评估方法具有工具性创新，符合期刊强调模型方法开发和实际应用的定位。",
       "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03167-2",
+      "title": "High-integrity biodiversity credits through recognition of culturally salient species",
+      "link": "https://www.nature.com/articles/s41559-026-03167-2",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 18 August 2026; doi:10.1038/s41559-026-03167-2Building a high-integrity biodiversity credit market requires recognition of Indigenous Peoples and Local Communities as stewards of nature. Including culturally salient species as a metric in the measurement and monitoring of biodiversity credits — with the consent and guidance of Indigenous and local authorities — may be one pathway towards this pursuit.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-18T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03167-2",
+      "affiliation": null,
+      "title_zh": "通过认可文化重要物种实现高完整性生物多样性信用",
+      "relevance_score": 5,
+      "key_conclusion": "建立高完整性的生物多样性信用市场需要承认原住民和当地社区作为自然管理者的角色，并在其同意和指导下，将文化重要物种纳入信用衡量指标。",
+      "relevance_note": "文章涉及生物多样性保护和自然治理，与用户关注的BEF关系和基于自然的解决方案（NbS）有间接关联，但并非核心研究主题。",
+      "related_papers": [
+        {
+          "title": "Connecting Diverse Knowledge Systems for Enhanced Ecosystem Governance: The Multiple Evidence Base Approach",
+          "link": "https://doi.org/10.1007/s13280-014-0501-3",
+          "venue": "AMBIO",
+          "year": 2014
+        },
+        {
+          "title": "The inclusion of biodiversity into Environmental, Social, and Governance (ESG) framework: A strategic integration of ecocentric extinction accounting",
+          "link": "https://doi.org/10.1016/j.jenvman.2023.119808",
+          "venue": "Journal of Environmental Management",
+          "year": 2023
+        },
+        {
+          "title": "Biodiversity and Spiritual Well-being",
+          "link": "https://doi.org/10.1007/978-3-030-02318-8_10",
+          "venue": null,
+          "year": 2019
+        },
+        {
+          "title": "Making intrinsic values work; integrating intrinsic values of the more-than-human world through the Life Framework of Values",
+          "link": "https://doi.org/10.1007/s11625-019-00715-7",
+          "venue": "Sustainability Science",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03167-2/MediaObjects/41559_2026_3167_Figa_HTML.png",
+      "scientific_question": "如何通过纳入文化重要物种作为衡量指标，建立高完整性的生物多样性信用市场？",
+      "contributions_limitations": "核心贡献是提出将原住民和当地社区视为自然管理者，并在其同意和指导下将文化重要物种纳入生物多样性信用计量和监测体系，为信用市场的高完整性提供了社会-文化维度路径。基于现有信息推测，可能的局限性在于如何量化文化重要性并确保不同地区指标的可比性，以及市场机制如何防范滥用。",
+      "follow_up_research": "后续可研究文化重要物种（如大型食草动物）在生态系统功能中的角色，并探讨将其作为生物多样性信用指标对实际保护成效（如土壤碳、食物网结构）的预测能力；也可评估这种信用机制对重野化项目资金的潜在影响。",
+      "next_step_perspective": "用户研究rewilding涉及生态系统功能恢复，本文提出的文化物种指标可作为一种新的评价框架，启发思考在碳汇和生物多样性核算中纳入本土知识和社会价值，使重野化生态效益评估更立体。",
+      "why_this_journal": "推测因其将生态学计量与国际政策市场机制创新结合，并强调原住民权利，具有鲜明的跨学科社会-生态价值，符合期刊对前沿性和政策影响力的重视。",
+      "author_profile": {
+        "name": "Charis Enns",
+        "institution": "The University of Manchester",
+        "intro": "Charis Enns，来自曼彻斯特大学，其既往研究涉及政治生态学、荒野生态学、野生动物价值链和传染病基础设施，关注人与自然关系的社会-生态复杂性。其研究与用户方向的关联在于，其对生态系统中人类-动物-环境交互的社会维度探讨，可补充用户对动物介导生物地球化学循环研究的制度和社会视角。",
+        "other_works": [
+          {
+            "title": "High-integrity biodiversity credits through recognition of culturally salient species",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03167-2"
+          },
+          {
+            "title": "Should Political Ecology be More-than-Human?",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.4324/9781003430995-49"
+          },
+          {
+            "title": "Critical gaps in the global fight against locust outbreaks and addressing emerging challenges",
+            "year": "2025",
+            "journal": "npj Sustainable Agriculture",
+            "doi": "10.1038/s44264-025-00068-y"
+          },
+          {
+            "title": "How uneven access shapes the socio‐economic and environmental potential of game meat value chains: The case of legal game meat in Zambia",
+            "year": "2025",
+            "journal": "People and Nature",
+            "doi": "10.1002/pan3.70021"
+          },
+          {
+            "title": "Settler Ecologies: The Enduring Nature of Settler Colonialism in Kenya",
+            "year": "2024",
+            "journal": "University of Toronto Press",
+            "doi": null
+          }
+        ]
+      }
     },
     {
       "id": "https://doi.org/10.5194/gmd-19-7589-2026",
@@ -111,6 +288,89 @@
             "year": "2025",
             "journal": null,
             "doi": "10.22541/essoar.174585012.27386970/v3"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02676-z",
+      "title": "Cities need robust carbon dioxide removal strategies to meet net-zero targets",
+      "link": "https://www.nature.com/articles/s41558-026-02676-z",
+      "summary": "Nature Climate Change, Published online: 18 August 2026; doi:10.1038/s41558-026-02676-zLeading European cities race to reach net-zero emissions, but residual emissions are tied to easier-to-abate sectors and temporary, land-intensive carbon removal for compensation. To keep climate neutrality credible and fair, policy must tighten expectations on cutting emissions and set clear rules for carbon removal and credits.",
+      "journal": "Nature Climate Change",
+      "published": "2026-08-18T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02676-z",
+      "affiliation": null,
+      "title_zh": "城市需要稳健的二氧化碳去除策略以实现净零目标",
+      "relevance_score": 4,
+      "key_conclusion": "欧洲主要城市在实现净零排放时，残余排放问题与土地密集型碳去除方案的补偿密切相关，政策需严格限制排放并规范碳去除和信用规则。",
+      "relevance_note": "文章主题为城市碳中和政策，虽涉及碳去除，但主要聚焦政策层面，与大型食草动物重野化和土壤碳循环的直接关联较弱。",
+      "related_papers": [
+        {
+          "title": "The meaning of net zero and how to get it right",
+          "link": "https://doi.org/10.1038/s41558-021-01245-w",
+          "venue": "Nature Climate Change",
+          "year": 2021
+        },
+        {
+          "title": "Strategies to achieve a carbon neutral society: a review",
+          "link": "https://doi.org/10.1007/s10311-022-01435-8",
+          "venue": "Environmental Chemistry Letters",
+          "year": 2022
+        },
+        {
+          "title": "The role of renewable energy in the global energy transformation",
+          "link": "https://doi.org/10.1016/j.esr.2019.01.006",
+          "venue": "Energy Strategy Reviews",
+          "year": 2019
+        },
+        {
+          "title": "Green construction for low-carbon cities: a review",
+          "link": "https://doi.org/10.1007/s10311-022-01544-4",
+          "venue": "Environmental Chemistry Letters",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02676-z/MediaObjects/41558_2026_2676_Fig1_HTML.png",
+      "scientific_question": "欧洲领先城市如何通过稳健的二氧化碳去除（CDR）策略来弥补残余排放，以实现可信且公平的净零目标？",
+      "contributions_limitations": "贡献在于指出城市残余排放与容易减排的部门相关，而当前依赖临时的、土地密集型的碳去除补偿，并强调政策需严格限制排放和规范碳去除信用。基于摘要信息推测，局限性可能在于数据主要来自欧洲部分城市，对全球南方的适用性有待验证，且未深入分析不同CDR技术的生态影响。",
+      "follow_up_research": "后续可评估不同CDR策略（如造林、生物炭）在城市周边土地利用中的碳汇潜力及其对生物多样性和土壤有机碳的协同/权衡效应，也可研究如何将重野化项目纳入城市碳信用框架。",
+      "next_step_perspective": "本文聚焦城市CDR，其关于土地密集型碳去除的警示可迁移至用户领域，提醒在评估重野化作为自然气候解决方案时，需审慎考虑其碳去除的持久性和空间足迹，有助于批判性看待NbS的局限。",
+      "why_this_journal": "推测因其直面净零承诺中的关键漏洞（残余排放和CDR信用问题），具有高度政策紧迫性和治理创新价值，符合Nature Climate Change对气候政策与科学交叉议题的选稿标准。",
+      "author_profile": {
+        "name": "Giulia Ulpiani",
+        "institution": "The University of Sydney School of Civil Engineering",
+        "intro": "Giulia Ulpiani，来自悉尼大学土木工程学院，其多数研究围绕城市气候中和、可再生能源、气候风险及降温技术，关注城市尺度的减缓与适应措施。其研究与用户方向的关联在于，其城市碳去除和气候中和视角，可启发思考城市建设区域与周边自然生态系统（如重野化区域）的碳耦合。",
+        "other_works": [
+          {
+            "title": "Let's hear it from the cities: On the role of renewable energy in reaching climate neutrality in urban Europe",
+            "year": "2023",
+            "journal": "Renewable and Sustainable Energy Reviews",
+            "doi": "10.1016/j.rser.2023.113444"
+          },
+          {
+            "title": "On the risks associated with transitioning to climate neutrality in Europe: A city perspective",
+            "year": "2023",
+            "journal": "Renewable and Sustainable Energy Reviews",
+            "doi": "10.1016/j.rser.2023.113448"
+          },
+          {
+            "title": "Towards the first cohort of climate-neutral cities: Expected impact, current gaps, and next steps to take to establish evidence-based zero-emission urban futures",
+            "year": "2023",
+            "journal": "Sustainable Cities and Society",
+            "doi": "10.1016/j.scs.2023.104572"
+          },
+          {
+            "title": "Fighting urban climate change—state of the art of mitigation technologies",
+            "year": "2023",
+            "journal": "Urban Climate Change and Heat Islands",
+            "doi": "10.1016/b978-0-12-818977-1.00006-5"
+          },
+          {
+            "title": "The Cooling Station: Combining hydronic radiant cooling and daytime radiative cooling for urban shelters",
+            "year": "2022",
+            "journal": "Applied Thermal Engineering",
+            "doi": "10.1016/j.applthermaleng.2022.118493"
           }
         ]
       }
