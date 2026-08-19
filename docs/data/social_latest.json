@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-19T06:29:43.894243+00:00",
+  "generated_at": "2026-08-19T12:36:10.501439+00:00",
   "count": 10,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Population genetics analysis of centromeres of cultivated and wild accessions of pepper plants (Capsicum annuum) reveals centromere diversity and organization, and shows that these chromosomal regions played a role in the selection for domesticated traits 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-08-19T07:44:39.809Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtgadqdb222a",
+      "external_title": "Evolution and domestication-trait associations of ultra-long centromere haplotypes in pepper plants - Nature Ecology & Evolution",
+      "external_description": "Population genetics analysis of centromeres of cultivated and wild accessions of pepper plants (Capsicum annuum) reveals centromere diversity and organization, and shows that these chromosomal regions played a role in the selection for domesticated traits.",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03143-w",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigpk57dhscjtofcpsn25oj5u4hixndr67u3ol746rqak6xxit5ski"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -100,17 +111,6 @@
       "external_description": "YouTube video by Climate Chat",
       "external_uri": "https://www.youtube.com/live/Zm0v_2rqvoQ",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m526tw7vojc336y7onxzmnpv/bafkreia6ioedqml6jvs5ntim7e3ovx65ggk7sbujlbyr52lib7pne7y4vq"
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "Reyk",
-      "text": "Whether the Atlantic Ocean currents (AMOC) shut down under climate change depends on how quickly the planet warms. Our new study shows that there may be no fixed temperature threshold for this climate tipping scenario.\n\nwww.nature.com/articles/s41...\nFigure by René van Westen",
-      "created_at": "2026-08-16T09:22:38.821Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mt6ug6maoc2e",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
