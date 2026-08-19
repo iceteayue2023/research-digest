@@ -1,6 +1,313 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T01:26:08.162269+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-19T06:29:43.893057+00:00",
+  "count": 6,
+  "articles": [
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2527340123?af=R",
+      "title": "The origin and development of the Miocene northwest African savanna",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527340123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. SignificanceIn modern Africa, savannas cover ~50% of the continent, provide critical ecosystem services, and affect global climate. Here, we uncover the history of savanna development in northwest Africa. We show that C3, grass-rich ecosystems with no ...",
+      "journal": "PNAS",
+      "published": "2026-08-10T07:00:00+00:00",
+      "doi": "10.1073/pnas.2527340123",
+      "affiliation": "Ocean Sciences Department, University of California Santa Cruz; Department of Biology, Burke Museum of Natural History and Culture, University of Washington",
+      "title_zh": "中新世西北非稀树草原的起源与发展",
+      "relevance_score": 8,
+      "key_conclusion": "该研究揭示了西北非稀树草原的发展历史，发现中新世时期存在以C3植物为主、富含草本且无现代稀树草原特征的生态系统，为理解非洲稀树草原演变提供了新视角。",
+      "relevance_note": "文章涉及稀树草原生态系统的历史演变，与用户关注的植被-土壤反馈和生态系统功能恢复相关，且研究地点在非洲，与大型食草动物和碳循环有潜在关联，相关性较高。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "西北非稀树草原在何时以及如何形成？中新世时期该地区的生态系统结构是否与现代稀树草原相似？",
+      "contributions_limitations": "该研究揭示了中新世西北非存在以C3植物为主、富含草本但缺乏现代稀树草原特征的生态系统，将景观开放的时间点前移至C4草原兴起之前约500万年，对理解稀树草原起源及其与气候、动物群的关系有重要意义。局限性在于该研究基于植物蜡生物标志物等间接证据，可能难以全面重建古植被的精细结构与动物群落组成，且结论可能受限于特定地质时期的时空分辨率。",
+      "follow_up_research": "后续研究可结合古土壤碳同位素、花粉记录及化石动物群资料，重建中新世稀树草原的植被-动物协同演化关系；也可探究C3草本稀树草原向C4草原转变的驱动机制（如大气CO2浓度、火干扰、大型食草动物采食压力），为现代大型食草动物重野化对草原生态系统演替的影响提供古生态学参考。",
+      "next_step_perspective": "该研究提供了古生态学视角下植被与食草动物（如大型哺乳动物）共同演化的时间框架，启发我们在重野化研究中关注食草动物如何通过采食、践踏等活动塑造从C3到C4植被的转变过程；其基于生物标志物的方法也可借鉴于评估现代重野化区域土壤有机质来源的转变。",
+      "why_this_journal": "推测PNAS重视该研究因为其利用多代理证据揭示了非洲重要生态系统（稀树草原）的演化历史，具有宏观生态学与全球气候联系的跨学科意义，且对理解现代生态系统形成机制具有时间尺度上的深刻洞见。",
+      "author_profile": {
+        "name": "Anna K. Schartman",
+        "institution": "University of California, Santa Cruz",
+        "intro": "Anna K. Schartman来自加州大学圣克鲁斯分校，其研究主要集中于植物蜡生物标志物的氢碳同位素分析，用于重建古植被、古水文和古气候，尤其关注非洲和中生代以来的景观演化。她的研究兴趣与用户方向在'植被-环境反馈'和'动物-植被相互作用'上有方法上的间接关联，但更偏向古气候重建而非现代重野化生态过程。",
+        "other_works": [
+          {
+            "title": "Opening of NW African landscape in the middle Miocene, 5 million years prior to the rise of the C4 grass savanna ",
+            "year": "2023",
+            "journal": "American Geophysical Union Fall Meeting",
+            "doi": null
+          },
+          {
+            "title": "Plant-wax Evidence for a Middle Miocene C3 Grass-rich Ecosystem in NW Africa",
+            "year": "2022",
+            "journal": "American Geophysical Union Fall Meeting",
+            "doi": null
+          },
+          {
+            "title": "Hydrogen and carbon isotope fractionation in modern plant wax n-alkanes from the Falkland Islands",
+            "year": "2022",
+            "journal": "Organic Geochemistry",
+            "doi": "10.1016/j.orggeochem.2022.104404"
+          },
+          {
+            "title": "Centennial-scale age offsets of plant wax n-alkanes in Adirondack lake sediments",
+            "year": "2021",
+            "journal": "Geochimica et Cosmochimica Acta",
+            "doi": "10.1016/j.gca.2021.02.022"
+          },
+          {
+            "title": "Contrasting sensitivity of lake sediment n-alkanoic acids and n-alkanes to basin-scale vegetation and regional-scale precipitation δ<sup>2</sup>H in the Adirondack Mountains, NY (USA)",
+            "year": "2020",
+            "journal": "Geochimica et Cosmochimica Acta",
+            "doi": "10.1016/j.gca.2019.08.026"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2529389123?af=R",
+      "title": "Engineering and land use intensified climate-driven Yangtze River flood hazards since the Little Ice Age",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2529389123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. SignificanceFloods are among the most devastating natural disasters, yet the long-term roles of climate and human activity in shaping river flood hazards remain unclear. This study reconstructs 500 y of Yangtze River flood variability using lake sediments,...",
+      "journal": "PNAS",
+      "published": "2026-08-03T07:00:00+00:00",
+      "doi": "10.1073/pnas.2529389123",
+      "affiliation": "Key Laboratory of Regional Sustainable Development System Analysis and Simulation in Higher Education Institutions, School of Geography, Geomatics, and Planning, Jiangsu Normal University; State Key Laboratory of Loess Science, Institute of Earth Environment, Chinese Academy of Sciences; Department of Marine Science, Coastal Carolina University",
+      "title_zh": "工程与土地利用加剧了自小冰期以来气候驱动的长江洪水灾害",
+      "relevance_score": 7,
+      "key_conclusion": "该研究利用湖泊沉积物重建了长江500年的洪水变率，发现气候和人类活动（工程与土地利用）共同塑造了洪水灾害，且人类活动加剧了气候驱动的洪水风险。",
+      "relevance_note": "文章涉及气候变化与人类活动对生态系统和自然过程的影响，与用户关注的极端气候事件对生态系统碳循环的扰动有间接关联，但研究重点在洪水而非碳循环。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "在过去的500年中，气候变化和人类活动（工程与土地利用）各自如何影响长江洪水风险？两者的相对贡献如何？",
+      "contributions_limitations": "该研究通过湖泊沉积物重建了长江500年洪水变率，明确区分了气候驱动与人类活动（工程及土地利用变化）对洪水灾害的叠加效应，指出人类活动在气候变化基础上加剧了洪水风险。局限性可能包括沉积物记录的空间代表性问题，以及难以完全分离不同人类活动（如筑坝、围垦、森林砍伐）的独立贡献，且区域外推需谨慎。",
+      "follow_up_research": "后续可研究不同土地利用类型（如森林恢复vs.城市化）对洪水/碳循环的差异化效应，结合生态系统模型模拟未来极端气候情景下的水文-碳耦合响应；也可将类似方法应用于其他大河流域，比较人类活动对碳输运与洪水风险的协同影响。",
+      "next_step_perspective": "该研究强化了'人类活动与气候驱动叠加效应'的分析框架，对用户在重野化研究中评估'去除人类干扰（如恢复自然水文过程）'如何调节生态系统碳循环具有借鉴意义；其长尺度重建思路可用于评估重野化区域土壤有机碳的历史基线及人类干扰后的碳损失程度。",
+      "why_this_journal": "推测PNAS刊发此文因其解决了气候与人类活动共同塑造自然灾害的长期定量区分难题，具有灾害风险管理和全球变化研究的普遍意义，方法学上结合地质记录与历史数据也体现了跨学科严谨性。",
+      "author_profile": {
+        "name": "Shi-Yong Yu",
+        "institution": null,
+        "intro": "Shi-Yu Yu的研究方向涉及河流洪水重建（如黄河冰凌洪水）、基于卫星的生态系统呼吸模型以及内陆草原的植被与碳循环模拟，表明其兴趣跨越水文气候学与生态系统碳动态。这一跨领域的背景与用户关注'极端事件对碳循环扰动'直接相关，但其工作侧重气候与水文，而非动物介导的生态过程。",
+        "other_works": [
+          {
+            "title": "Ice-related flooding in the lower Yellow River driven by atmospheric teleconnections over the past 160 years",
+            "year": "2025",
+            "journal": "Science Advances",
+            "doi": "10.1126/sciadv.adw4729"
+          },
+          {
+            "title": "A Satellite-Based Model for Simulating Ecosystem Respiration in the Tibetan and Inner Mongolian Grasslands",
+            "year": "2018",
+            "journal": "Remote Sensing",
+            "doi": "10.3390/rs10010149"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2620602123?af=R",
+      "title": "Decision rules diverge between sympatric Featherfin cichlids despite shared preferences, ecology, and evolutionary history",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620602123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. SignificanceWhen presented with the same options, can animals arrive at different decisions? Cognitive theory proposes that different species could process information differently, leading to distinct decisional outcomes. However, testing this idea is ...",
+      "journal": "PNAS",
+      "published": "2026-08-12T07:00:00+00:00",
+      "doi": "10.1073/pnas.2620602123",
+      "affiliation": "Laboratoire de Psychologie Sociale et Cognitive, UMR6024, CNRS, Université Clermont-Auvergne; Behavioural Evolution Research Group, Max Planck Institute of Animal Behaviour",
+      "title_zh": "同域分布的羽鳍丽鱼科鱼类的决策规则尽管共享偏好、生态和进化历史却存在分歧",
+      "relevance_score": 6,
+      "key_conclusion": "该研究发现同域分布的两种丽鱼尽管有共享的偏好、生态和进化历史，但在面对相同选择时采用了不同的决策规则，表明认知差异可导致行为分歧。",
+      "relevance_note": "文章涉及动物行为决策和认知，与用户关注的生物间互作和种群动态有间接关联，但主题并非捕食者-猎物关系或碳循环，相关性中等。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "在相同偏好、生态环境和进化历史背景下，同域分布的物种是否仍可能发展出不同的决策规则？认知差异如何影响行为选择？",
+      "contributions_limitations": "该研究通过比较同域分布的两种羽鳍丽鱼的决策行为，证实了即使共享偏好、生态位和进化祖先，物种仍可因信息处理方式不同而演化出分歧的决策规则，为认知生态学提供了重要实证。局限性在于仅基于两种近缘物种，样本和场景有限，可能难以推广到更广泛的分类群；且实验室条件下的决策测试可能无法完全反映野外环境的复杂性。",
+      "follow_up_research": "后续可探索不同决策规则是否与特定生态功能（如觅食策略、栖息地选择）相关联，进而影响种群动态或群落结构；也可研究环境变化（如资源波动）如何选择不同的决策规则，以及认知差异是否可通过机制学模型（如强化学习）来预测物种对气候变化的响应。",
+      "next_step_perspective": "该研究提出的'行为决策差异'概念可以延伸到大型食草动物重野化：不同物种（如牛、马、鹿）在相同放牧管理下可能发展出不同的采食或空间利用决策，从而产生不同的土壤碳影响。这提示我们在重野化设计中需要考虑物种特异性的行为-生态效应，而不仅是物种多样性的数量指标。",
+      "why_this_journal": "推测PNAS认可该研究因其挑战了'生态位和进化史相同则行为趋同'的默认假设，对认知进化、行为生态学和物种共存理论具有突破性意义，且实验设计严谨、比较方法具有新颖性。",
+      "author_profile": {
+        "name": "Maëlan Tomasek",
+        "institution": "Monash University",
+        "intro": "Maëlan Tomasek来自莫纳什大学，其研究主要聚焦于坦噶尼喀湖丽鱼的认知行为、空间导航和社会学习，特别是不同物种间决策策略的比较。其研究与用户的联系在于'物种间行为差异如何介导生态功能'这一层面，但研究对象是鱼类而非大型哺乳动物，转化时需要谨慎类比。",
+        "other_works": [
+          {
+            "title": "Decision rules diverge between sympatric Featherfin cichlids despite shared preferences, ecology, and evolutionary history",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2620602123"
+          },
+          {
+            "title": "Comparative spatial cognition in wild Tanganyikan cichlids: navigation performance varies with home range and shelter availability",
+            "year": "2026",
+            "journal": "Animal Cognition",
+            "doi": "10.1007/s10071-026-02064-2"
+          },
+          {
+            "title": "Rooks (Corvus frugilegus) can show spontaneous vocal flexibility when exposed to dynamically changing rhythmic sounds",
+            "year": "2026",
+            "journal": "Animal Cognition",
+            "doi": "10.1007/s10071-025-02038-w"
+          },
+          {
+            "title": "Experimental Study of Social Learning in Three Wild Shell-dwelling Tanganyikan Cichlids That Vary in Sociality",
+            "year": "2025",
+            "journal": "International Journal of Comparative Psychology",
+            "doi": "10.46867/IJCP.47088"
+          },
+          {
+            "title": "Decision-making strategies of two related fish species diverge under increased perceptual load",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.03.07.641999"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2525056123?af=R",
+      "title": "How illegal wildlife trade adheres to and defies conventional market behavior",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2525056123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. SignificanceIllegal wildlife markets threaten biodiversity conservation, ecosystem stability, and local livelihoods, and their dynamics sometimes challenge conventional economic assumptions underlying typical policy responses. Conventional supply-side ...",
+      "journal": "PNAS",
+      "published": "2026-08-10T07:00:00+00:00",
+      "doi": "10.1073/pnas.2525056123",
+      "affiliation": "RAND Corporation; Department of Criminology and Criminal Justice, University of Maryland; Department of Geographical Sciences, University of Maryland",
+      "title_zh": "非法野生动物贸易如何遵循并挑战常规市场行为",
+      "relevance_score": 5,
+      "key_conclusion": "该研究探讨了非法野生动物市场的动态，发现其有时与常规经济假设相悖，这对基于供给侧的政策响应提出了挑战，但具体结论细节在摘要中未完全展开。",
+      "relevance_note": "文章涉及野生动物贸易对生物多样性保护的威胁，与用户关注的生态系统中大型动物保护存在间接关联，但主题并非核心的碳循环或重野化，相关性中等。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "非法野生动物贸易的市场动态在哪些方面符合、又在哪些方面违背传统市场经济学假设？这对政策设计有何启示？",
+      "contributions_limitations": "该研究系统分析了非法野生动物市场的供需行为，揭示其部分遵循（如价格弹性）而部分违背（如供给不响应价格下跌）常规市场规律，为从供给侧干预提供了新的理论依据和政策警示。局限性在于非法贸易数据的隐性和不完整性可能导致估计偏差，且研究可能局限于特定物种或地区，全球外推需谨慎。",
+      "follow_up_research": "后续可研究非法野生动物贸易如何影响大型食草动物种群的恢复（如非洲草原象），从而间接影响植被与土壤碳库；也可将非法贸易的价格信号与生态系统监测数据结合，开发早期预警系统来预测物种骤减对生态功能（如种子传播或碳储存）的级联影响。",
+      "next_step_perspective": "该研究提醒我们，大型食草动物的重野化策略必须考虑非法狩猎/贸易这一人为干扰因素，因为其经济动力学可能使保护政策失效。用户可将'市场行为与生态响应的耦合'纳入重野化的社会经济-生态分析框架，评估碳收益在现实中的可实现性。",
+      "why_this_journal": "推测PNAS刊发此文因其将经济学模型应用于生态保护议题，揭示了非法贸易市场的非传统行为，对生物多样性保护政策和执法效率具有直接应用价值，且数据和分析手段具有跨学科创新性。",
+      "author_profile": {
+        "name": "Greg Midgette",
+        "institution": null,
+        "intro": "Greg Midgette的研究集中于刑事司法、药物滥用干预和公共政策评估（如911分流），本次涉足非法野生动物贸易说明其应用经济学和公共政策工具跨领域迁移的特点。其研究与用户的生态学方向关联较弱，但可为理解'人类行为如何通过多维途径（如非法经济）影响生态系统'提供政策分析视角。",
+        "other_works": [
+          {
+            "title": "How illegal wildlife trade adheres to and defies conventional market behavior",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2525056123"
+          },
+          {
+            "title": "Diverting 911 calls: Lessons from early adopting urban jurisdictions",
+            "year": "2024",
+            "journal": "Criminology & Public Policy",
+            "doi": "10.1111/1745-9133.12680"
+          },
+          {
+            "title": "Criminal Justice Interventions Against Drug Use and Harms",
+            "year": "2023",
+            "journal": null,
+            "doi": "10.4324/9781003219286-44"
+          },
+          {
+            "title": "A test for implicit bias in discretionary criminal justice decisions.",
+            "year": "2023",
+            "journal": "Law and Human Behavior",
+            "doi": "10.1037/lhb0000520"
+          },
+          {
+            "title": "A Model to Assess the Feasibility of 911 Call Diversion Programs",
+            "year": "2022",
+            "journal": null,
+            "doi": "10.31235/osf.io/kct4y"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2534402123?af=R",
+      "title": "Tangerine: A new family of Starships from lichen-forming fungi",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2534402123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. SignificanceLichens are ubiquitous in most terrestrial ecosystems and yet remain poorly understood. In lichens, fungi form a mutualistic symbiosis with photosynthetic micro-organisms that results in a macroscopic plant-like organism. The recent discovery ...",
+      "journal": "PNAS",
+      "published": "2026-08-11T07:00:00+00:00",
+      "doi": "10.1073/pnas.2534402123",
+      "affiliation": "The Sainsbury Laboratory, University of East Anglia; Department of Ecology, Environment and Plant Sciences, Science for Life Laboratory, Stockholm University; Department of Plant Pathology, University of Wisconsin-Madison",
+      "title_zh": "Tangerine：地衣形成真菌中的新Starships家族",
+      "relevance_score": 5,
+      "key_conclusion": "该研究在地衣形成真菌中发现了一个新的Starships转座子家族，并探讨了其在真菌共生关系中的作用，加深了对地衣这一全球广泛分布的共生系统的理解。",
+      "relevance_note": "文章涉及真菌-光合微生物的共生互作，与用户关注的植物-微生物互作主题相关，但研究焦点是分子机制而非生态系统功能或碳循环，相关性中等。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "地衣形成真菌中是否存在新的Starships转座子家族，以及这些转座子在真菌-藻类共生关系建立和维持中扮演什么角色？",
+      "contributions_limitations": "该研究揭示了地衣真菌中一个新的转座子家族，拓展了对真菌基因组的认识，并可能为共生关系的进化提供新视角。但摘要信息有限，具体的实验方法和生态学意义尚不明确，其对理解地衣作为生态系统组分在碳循环中的功能贡献还需要进一步研究。基于现有信息推测，局限性可能在于研究主要集中于基因组学层面，缺乏对生态系统功能的直接验证。",
+      "follow_up_research": "后续研究可以探究该转座子家族在地衣共生关系中的具体功能，例如是否影响共生藻的识别或养分交换；也可将地衣共生系统与大型食草动物重野化区中的土壤微生物群落变化关联起来，研究转座子在环境扰动下的动态。",
+      "next_step_perspective": "虽然这篇文章不直接涉及大型动物重野化，但地衣作为陆地生态系统的重要组分，其真菌共生机制的研究方法可启发您探索动物扰动下土壤共生微生物群落的基因组适应性。此外，转座子介导的基因组可塑性可能是土壤有机碳分解与稳定微生物群落对环境变化响应的一个未被充分探索的因素。",
+      "why_this_journal": "推测其发表于PNAS是因为该工作首次报道了地衣共生真菌中的一个新转座子家族，具有新颖性和跨学科意义（涉及微生物学、共生生物学和基因组进化），符合PNAS对具有广泛科学意义工作的收录标准。",
+      "author_profile": {
+        "name": "Gulnara Tagirdzhanova",
+        "institution": "Science for Life Laboratory",
+        "intro": "Gulnara Tagirdzhanova目前就职于Science for Life Laboratory。从其历史研究来看，其主要研究方向为地衣共生系统的基因组学与分子生物学，包括共生藻基因组组装、真菌与藻类间的物质交换（如铁载体）以及基因家族进化。这些研究与用户关注的大型动物重野化与土壤碳循环无直接关联，但其在共生互作机制上的研究思路可为理解植物-微生物互作网络提供参考。",
+        "other_works": [
+          {
+            "title": "Tangerine : A new family of Starships from lichen-forming fungi",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2534402123"
+          },
+          {
+            "title": "Siderophore production by the lichen fungus Xanthoria parietina supports its algal symbiont",
+            "year": "2026",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-026-74988-9"
+          },
+          {
+            "title": "Chromosome‐level genome assembly of the photobiont microalga Trebouxia sp. ‘A48’ from the lichen Xanthoria parietina",
+            "year": "2026",
+            "journal": "New Phytologist",
+            "doi": "10.1111/nph.70728"
+          },
+          {
+            "title": "Tangerine: a new family of Starships from lichen-forming fungi",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.11.25.690456"
+          },
+          {
+            "title": "Chromosome-level genome assembly of the photobiont alga Trebouxia sp. ‘A48’ from Xanthoria parietina provides new insight into the lichen symbiosis",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.05.01.651714"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2600276123?af=R",
+      "title": "The effectiveness of green place-based industrial policy: Evidence from the Inflation Reduction Act",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600276123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. SignificanceThe Inflation Reduction Act represents the largest U.S. climate investment in history, combining clean energy subsidies with place-based incentives targeting economically distressed communities. We provide evidence on whether these spatially ...",
+      "journal": "PNAS",
+      "published": "2026-08-14T07:00:00+00:00",
+      "doi": "10.1073/pnas.2600276123",
+      "affiliation": "Applied Economics Section, Utrecht School of Economics, Utrecht University; Development Research Group, World Bank Group; Fiscal Policy and Growth Global Practice, World Bank Group",
+      "title_zh": "绿色地方产业政策的有效性：来自《通货膨胀削减法案》的证据",
+      "relevance_score": 5,
+      "key_conclusion": "该研究评估了美国《通货膨胀削减法案》中结合清洁能源补贴和地方激励措施的效果，探讨了这些空间定向政策是否有效促进了绿色产业和经济发展。",
+      "relevance_note": "文章涉及气候政策和绿色产业经济，与用户关注的基于自然的解决方案和气候变化应对有间接关联，但主题聚焦经济政策而非生态系统过程，相关性中等。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "美国的《通货膨胀削减法案》中，结合清洁能源补贴与地方定向激励的绿色产业政策，在空间上是否有效促进了经济落后地区的产业和经济发展？",
+      "contributions_limitations": "该研究对具有标志性意义的气候法案《通货膨胀削减法案》的绿色产业政策效果进行了实证评估，填补了该领域政策成效评估的空白。由于该法案实施时间较短，其长期经济与环境效应可能尚无法完全体现，且政策效果的因果识别在复杂经济社会背景下存在挑战。基于现有信息推测，研究可能依赖于初步统计数据，其结论的稳健性有待进一步验证。",
+      "follow_up_research": "进一步的研究可以追踪该法案政策对绿色就业、碳排放以及生态系统（如可再生能源设施占地对生物多样性和土壤碳的影响）的长期影响。此外，研究此类政策在不同地理或生态区域（特别是欧洲和重野化地区）的适用性或可对比性，是一个有价值的延伸方向。",
+      "next_step_perspective": "这篇文章虽然聚焦于经济政策，但其'地方定向'的研究框架对您评估'基于自然的解决方案'（如牧食重野化项目）在特定区域实施时的效益与局限具有方法上的借鉴意义。它提示您在设计研究时，需要考虑政策或干预措施的空间异质性以及可能存在的负面外部效应（如对生物入侵的促进作用）。",
+      "why_this_journal": "推测发表于PNAS是因为该研究结合了当前全球关注的气候变化政策议题与严密的实证经济分析，涉及大规模公共政策评估，具有高度的现实意义和广泛的社会科学读者群，符合PNAS跨学科收录的偏好。",
+      "author_profile": {
+        "name": "Joep Keuzenkamp",
+        "institution": "Utrecht University",
+        "intro": "Joep Keuzenkamp就职于Utrecht University。从其当前唯一的文章看，其研究方向为环境经济学与公共政策评估。这一领域与您关注的基于自然的解决方案在气候变化中的作用存在交叉，该文探讨的政策评估方法可能为您思考牧食管理措施效果评估提供经济学视角，但两者研究范式差异较大，相关关联性有限。",
+        "other_works": [
+          {
+            "title": "The effectiveness of green place-based industrial policy: Evidence from the Inflation Reduction Act",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2600276123"
+          }
+        ]
+      }
+    }
+  ]
 }
