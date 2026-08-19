@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-18T12:35:35.871343+00:00",
-  "count": 7,
+  "generated_at": "2026-08-19T01:26:08.162602+00:00",
+  "count": 10,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Breathing a mix of carbon tetrafluoride and oxygen for 10 minutes before decompression from a simulated 200-foot dive reduced decompression sickness in pigs. The technique could extend the depth accessible for human exploration. In PNAS: https://ow.ly/SFsl50ZB3zr",
+      "created_at": "2026-08-18T19:00:37.040679442Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mtevnjpf2k2q",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Fast-growing wildfires tend to be stronger and burn a larger proportion of area at high severity levels, according to a new analysis of 3499 recent wildfires in the conifer forests of Canada and the western United States. \n\nLearn more in #ScienceAdvances: https://scim.ag/4bK33aj  ",
+      "created_at": "2026-08-18T18:25:01.704650813Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mtetnuubcd26",
+      "external_title": "Faster, bigger, more severe: Extreme wildfire spread sets the stage for forest ecosystem change in western and boreal North America",
+      "external_description": "A relatively small number of rapidly spreading wildfire events burn disproportionately large areas. But beyond area burned, do fast fires produce distinct postfire ecological outcomes? Here, we measur...",
+      "external_uri": "https://scim.ag/4bK33aj",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreie3kipac2n5op3es3457ayxmpemcv6teechomwscwmhorplrrtrja"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "In the forests of Puerto Rico, individual trees from the same species can store, handle, and transport water in different ways based on the dryness of their respective habitats. https://scim.ag/3U1icy3",
+      "created_at": "2026-08-18T16:30:06.540039684Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mtenaf4mfp2d",
+      "external_title": "Surprising uniqueness of Puerto Rico’s trees could make them more resistant to drought",
+      "external_description": "Two trees from the same species can vary in how they transport and manage water, improving specieswide drought resilience",
+      "external_uri": "https://scim.ag/3U1icy3",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreic2j7aqypx7ba2rot3vf4hpl6f6diengvmx4vksxucko6svw4qmtu"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "This study shows that the degradation of microbial storage polyhydroxyalkanoates is not just restricted to microorganisms by finding that some animals also have the enzymes required to break down these biopolymers 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-08-18T13:24:13.117Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtectyekmc2r",
+      "external_title": "Animal degradation of microbial storage polyhydroxyalkanoates - Nature Ecology & Evolution",
+      "external_description": "This study shows that the degradation of microbial storage polyhydroxyalkanoates is not just restricted to microorganisms by finding that some animals also have the enzymes required to break down thes...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03153-8",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreicsp5bjm2xspu35husoyev4hy2suuojdf333kzcoe3zh25epnrfzi"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -67,17 +111,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "The Amazon rainforest might be closer to a tipping point than scientists thought\n\ngo.nature.com/4zxEO9I",
-      "created_at": "2026-08-15T15:06:01.725Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mt4x5bsjp62d",
-      "external_title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
-      "external_description": "Nature - The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
-      "external_uri": "https://go.nature.com/4zxEO9I",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiayl2pkc5ik7j23h3rh3ulmgnl46nv6qfaoxoa3ljbptna7wbugs4"
     }
   ]
 }
