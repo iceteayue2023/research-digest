@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-20T06:30:23.810605+00:00",
-  "count": 13,
+  "generated_at": "2026-08-20T12:37:21.962784+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "You've heard of carbon footprints but what about biodiversity footprints?\n\nOur biodiversity footprint is 0.003 species.year\n\nWhat does that mean? Find out here👇\nwww.britishecologicalsociety.org/content/our-...",
+      "created_at": "2026-08-20T12:33:07.056Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mtjawhbcg22y",
+      "external_title": "Our biodiversity footprint - British Ecological Society",
+      "external_description": "Here's how we calculated our biodiversity footprint and what we learnt.",
+      "external_uri": "https://www.britishecologicalsociety.org/content/our-biodiversity-footprint/",
+      "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New Perspective 👇\n\nTrophic hotspots as a perspective for understanding and managing ecosystem function www.nature.com/articles/s41...",
+      "created_at": "2026-08-20T08:40:25.636Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtitweml7225",
+      "external_title": "Trophic hotspots as a perspective for understanding and managing ecosystem function - Nature Ecology & Evolution",
+      "external_description": "Foraging species create locations of high concentration and mobilization of energy and nutrients as they move across landscapes. This Perspective discusses how these trophic hotspots are generated and...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03158-3",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihsa5tdb4ltcc2sutzepp2dcqfdw6agvzfsr4bvrosmzwtmenunyy"
+    },
     {
       "handle": "science.org",
       "author_name": "Science Magazine",
@@ -122,17 +144,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "As climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover\n\ngo.nature.com/4bV9t6z",
-      "created_at": "2026-08-17T17:20:01.372Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mtc7kprnt22r",
-      "external_title": "Too hot to sleep? How heatwaves at night affect our health",
-      "external_description": "As climate change ramps up, scientists must urgently understand how night-time heat makes it harder for our bodies to rest and recover.",
-      "external_uri": "https://go.nature.com/4bV9t6z",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifbfan2xispde6qgrc47efrrh4hotxypwqaprhkm4vy7lvz3yc2hi"
     },
     {
       "handle": "natecoevo.nature.com",

@@ -1,8 +1,67 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20T06:30:23.809784+00:00",
-  "count": 3,
+  "generated_at": "2026-08-20T12:37:21.961196+00:00",
+  "count": 8,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03154-7",
+      "title": "Variation in the costs and ecological benefits of tropical natural forest regeneration",
+      "link": "https://www.nature.com/articles/s41559-026-03154-7",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 20 August 2026; doi:10.1038/s41559-026-03154-7Large areas of the tropics could naturally regenerate into forest, yet how the costs and benefits of realizing this potential vary spatially remain unknown. This study fills that gap, revealing that natural regeneration could reduce extinction risk for forest species by ~31% with adequate investment.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-20T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03154-7",
+      "affiliation": null,
+      "title_zh": "热带自然森林再生的成本与生态效益差异",
+      "relevance_score": 8,
+      "key_conclusion": "研究揭示了大面积热带地区自然再生成森林的潜力，但其成本和效益存在空间差异。结果显示，在充足投资下，自然再生可降低森林物种灭绝风险约31%。",
+      "relevance_note": "直接关联热带雨林退化与恢复过程中的碳获取和生态系统功能恢复，属于用户兴趣范围，且相关性强。",
+      "related_papers": [
+        {
+          "title": "Tropical Forests in the Anthropocene",
+          "link": "https://doi.org/10.1146/annurev-environ-030713-155141",
+          "venue": "Annual Review of Environment and Resources",
+          "year": 2014
+        },
+        {
+          "title": "Impact of pesticides use in agriculture: their benefits and hazards",
+          "link": "https://doi.org/10.2478/v10102-009-0001-7",
+          "venue": "Interdisciplinary Toxicology",
+          "year": 2009
+        },
+        {
+          "title": "Sustaining conservation values in selectively logged tropical forests: the attained and the attainable",
+          "link": "https://doi.org/10.1111/j.1755-263x.2012.00242.x",
+          "venue": "Conservation Letters",
+          "year": 2012
+        },
+        {
+          "title": "International principles and standards for the practice of ecological restoration. Second edition",
+          "link": "https://doi.org/10.1111/rec.13035",
+          "venue": "Restoration Ecology",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03154-7/MediaObjects/41559_2026_3154_Fig1_HTML.png",
+      "scientific_question": "热带地区自然森林再生的生态效益（如降低物种灭绝风险）与实现这些效益所需成本的空间变异模式是怎样的？",
+      "contributions_limitations": "该研究填补了热带自然再生成本与效益空间格局认知的空白，量化了充足投资下自然再生可使森林物种灭绝风险降低约31%，为基于自然的解决方案提供了宏观层面的成本-效益证据。局限性可能在于其空间分辨率下的简化假设（如投资-响应关系的线性外推），且对碳汇效益的核算可能不够精细。基于摘要信息有限，具体方法学细节建议查看原文。",
+      "follow_up_research": "可进一步将自然再生成本-效益评估与土壤有机碳动态模型耦合，识别碳封存与生物多样性保护的双赢区域；也可探索不同投资强度下再生森林对大型食草动物介导的营养级联效应的影响。",
+      "next_step_perspective": "这篇文章为你在'基于自然的解决方案'维度提供了空间显式的成本-效益分析框架，可类比用于评估大型食草动物重野化在不同欧洲景观中的碳收益与投资优先级。其方法也启发你在研究中整合生物多样性指标与碳循环过程的空间建模。",
+      "why_this_journal": "推测其发表价值在于首次提供了热带自然再生成本与生态效益的大尺度空间评估，兼具保护政策指导意义与生态学前沿性，符合Nature Ecology & Evolution关注宏观生态学与保护科学的定位。",
+      "author_profile": {
+        "name": "Jiaqi Li",
+        "institution": "The University of Queensland",
+        "intro": "Jiaqi Li来自昆士兰大学（The University of Queensland），其研究主题集中于全球尺度下热带自然再生的成本与生态效益评估，结合空间建模与保护规划，这与你的研究在'基于自然的解决方案'与退化生态系统恢复的评估方法论上具有交叉点。",
+        "other_works": [
+          {
+            "title": "Global variation in the costs and ecological benefits of tropical natural regeneration",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-6482620/v1"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.nature.com/articles/s43017-026-00814-x",
       "title": "Photochemical interactions between iron minerals and dissolved organic matter",
@@ -82,6 +141,89 @@
             "year": "2025",
             "journal": "Journal of Hazardous Materials",
             "doi": "10.1016/j.jhazmat.2025.139972"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5715-2026",
+      "title": "Limited blue carbon potential of intertidal seagrass meadows in the Wadden Sea – a case study in a tidal basin",
+      "link": "https://doi.org/10.5194/bg-23-5715-2026",
+      "summary": "Limited blue carbon potential of intertidal seagrass meadows in the Wadden Sea – a case study in a tidal basin\n                    Veronika Mohr, Corinna Schrum, and Wenyan Zhang\n                        Biogeosciences, 23, 5715–5739, https://doi.org/10.5194/bg-23-5715-2026, 2026\n                        Intertidal seagrass meadows are often considered important blue carbon ecosystems, but their role in highly dynamic environments is uncertain. Using a coupled hydrodynamic–ecosystem model, we quantify carbon uptake, burial, and export in a Wadden Sea tidal basin. We show that sequestration rates are low, depend on meadow persistence, and that a substantial fraction of seagrass carbon is redistributed within the basin and to salt marshes.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-20T14:15:30+02:00",
+      "doi": "10.5194/bg-23-5715-2026",
+      "affiliation": null,
+      "title_zh": "瓦登海潮间带海草床的蓝碳潜力有限——潮汐盆地案例研究",
+      "relevance_score": 7,
+      "key_conclusion": "通过耦合水动力-生态系统模型，研究量化了瓦登海潮汐盆地中碳的摄取、埋藏和输出，发现碳封存率低，取决于海草床的持久性，且大量海草碳在盆地内及盐沼间再分配。",
+      "relevance_note": "研究地点在欧洲（瓦登海），涉及蓝碳和碳循环，与用户对陆地生态系统碳循环及欧洲研究的兴趣相关，尽管不直接涉及大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Evaluation of seagrass as a nature-based solution for coastal protection in the German Wadden Sea",
+          "link": "https://doi.org/10.1007/s10236-023-01577-5",
+          "venue": "Ocean Dynamics",
+          "year": 2023
+        },
+        {
+          "title": "Eutrophication of Chesapeake Bay: historical trends and ecological interactions",
+          "link": "https://doi.org/10.3354/meps303001",
+          "venue": "Marine Ecology Progress Series",
+          "year": 2005
+        },
+        {
+          "title": "Ecological value of coastal habitats for commercially and ecologically important species",
+          "link": "https://doi.org/10.1093/icesjms/fst152",
+          "venue": "ICES Journal of Marine Science",
+          "year": 2013
+        },
+        {
+          "title": "Seagrass Impact on Sediment Exchange Between Tidal Flats and Salt Marsh, and The Sediment Budget of Shallow Bays",
+          "link": "https://doi.org/10.1029/2018gl078056",
+          "venue": "Geophysical Research Letters",
+          "year": 2018
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5715/2026/bg-23-5715-2026-avatar-web.png",
+      "scientific_question": "在高度动态的潮间带环境中，海草草甸的蓝碳封存潜力究竟有多大？碳在其间的摄取、埋藏和输出过程如何定量？",
+      "contributions_limitations": "主要贡献在于利用耦合水动力-生态系统模型，定量揭示了瓦登海潮汐盆地中海草碳封存率低且受草甸持久性制约，并指出大量碳在盆地内被再分配至盐沼，挑战了海草床等同高蓝碳潜力的简单假设。局限性在于案例研究限制（单个潮汐盆地），且模型可能低估了长期碳埋藏的变异性，也需要实测数据进一步验证。",
+      "follow_up_research": "可扩展至欧洲其他潮汐系统比较蓝碳潜力；进一步研究海草床持久性与碳封存的关系，探索管理措施（如减少扰动）能否有效提升碳储存；将动物（如食草水鸟或底栖生物）对海草床的干扰纳入模型。",
+      "next_step_perspective": "这篇文章为你提供了生态系统模型中处理'碳摄取-埋藏-输出'动态平衡的范式，尤其是强调'生态系统持久性'和碳'横向再分配'的观点，可类比思考大型食草动物在重野化过程中如何扰动或促进植被碳库的空间再分配。其方法学对你在DGVM或生态系统模型改进方向上具有参考价值。",
+      "why_this_journal": "推测其发表价值在于结合高精度水动力模型与生态系统碳循环评估，提供了对既有蓝碳范式的重要修正，体现了方法上的严谨性和对现实复杂性的回应，符合Biogeosciences聚焦生物地球化学过程定量化的期刊定位。",
+      "author_profile": {
+        "name": "Veronika Mohr",
+        "institution": "Helmholtz-Zentrum Hereon",
+        "intro": "Veronika Mohr任职于Helmholtz-Zentrum Hereon，其研究聚焦于海草生态系统与海岸水动力-形态动力学的相互作用，特别是季节性变化对碳和沉积物循环的影响，她开发的耦合建模方法对理解生态系统功能动态有重要贡献，可作为你在生态系统建模方面的参考。",
+        "other_works": [
+          {
+            "title": "Limited blue carbon potential of intertidal seagrass meadows in the Wadden Sea – a case study in a tidal basin",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5715-2026"
+          },
+          {
+            "title": "Limited Blue Carbon Potential of Intertidal Seagrass Meadows in the Wadden Sea – A Case Study in a Tidal Basin",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-616"
+          },
+          {
+            "title": "The Importance of Seasonality in Seagrass Properties for Coastal Hydro‐Morphodynamics—A Case Study in a Wadden Sea Basin",
+            "year": "2025",
+            "journal": "Journal of Geophysical Research: Earth Surface",
+            "doi": "10.1029/2025JF008331"
+          },
+          {
+            "title": "The Importance of Seasonality in Seagrass Properties for Coastal Hydro-Morphodynamics - An Exemplary Study in the Wadden Sea",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.22541/au.173956922.23675277/v1"
+          },
+          {
+            "title": "Marine Oil Pollution in an Area of High Economic Use: Statistical Analyses of SAR Data from the Western Java Sea",
+            "year": "2022",
+            "journal": "Remote Sensing",
+            "doi": "10.3390/rs14040880"
           }
         ]
       }
@@ -170,6 +312,136 @@
       }
     },
     {
+      "id": "https://doi.org/10.5194/gmd-19-7741-2026",
+      "title": "GCAM-Europe v7.2.0: enhancing policy-relevant climate modelling through spatial and sectoral detail",
+      "link": "https://doi.org/10.5194/gmd-19-7741-2026",
+      "summary": "GCAM-Europe v7.2.0: enhancing policy-relevant climate modelling through spatial and sectoral detail\n                    Jon Sampedro, Russell Horowitz, Clàudia Rodés-Bachs, Konstantinos Koasidis, and Dirk-Jan Van de Ven\n                        Geosci. Model Dev., 19, 7741–7766, https://doi.org/10.5194/gmd-19-7741-2026, 2026\n                        GCAM-Europe is an open-access modelling tool designed to assess the impacts of climate and environmental policies across European countries. Built on a global framework, it adds detailed regional and sectoral representation for Europe, including energy, land use, water, and emissions. This allows for analysis of policy effects within and between countries, as well as global spillover effects, to support transparent, evidence-based decision-making.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-20T14:16:00+02:00",
+      "doi": "10.5194/gmd-19-7741-2026",
+      "affiliation": null,
+      "title_zh": "GCAM-Europe v7.2.0：通过空间和部门细节增强政策相关气候建模",
+      "relevance_score": 6,
+      "key_conclusion": "GCAM-Europe是一个开放获取的建模工具，在现有全球框架基础上为欧洲添加了区域和部门级别的详细表示，包括能源、土地利用、水和排放，以评估气候和环境政策影响及其溢出效应。",
+      "relevance_note": "属于地球系统模型开发范畴，且聚焦欧洲，与用户对DGVM和生态系统模型改进的兴趣及欧洲研究地点偏好相关，但主要面向政策而非生态过程。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"GCAM-Europe v7.2.0: Enhancing Policy-Relevant Climate Modelling Through Spatial and Sectoral Detail\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-3546-supplement",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "A Socioeconomic Assessment of Projected Health Impacts From Outdoor Air Pollution Under Current European Climate Policy: A Modelling Study",
+          "link": "https://doi.org/10.1016/j.lanepe.2026.101754",
+          "venue": "The Lancet Regional Health - Europe",
+          "year": 2026
+        },
+        {
+          "title": "GCAM-China-v8: An Integrated Global-to-Provincial Framework for Assessing China’s Energy and Emission Futures",
+          "link": "https://doi.org/10.5194/egusphere-2026-1919",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Cost-optimal vs. policy-driven scenarios for a decarbonised European energy system",
+          "link": "https://doi.org/10.21203/rs.3.rs-7847096/v1",
+          "venue": "Research Square",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7741/2026/gmd-19-7741-2026-avatar-web.png",
+      "scientific_question": "如何通过改进全球气候模型的空间和部门细节，使其能更有效地评估欧洲各国气候与环境政策的影响和溢出效应？",
+      "contributions_limitations": "主要贡献在于发布了GCAM-Europe v7.2.0这一开放获取建模工具，为欧洲增加了能源、土地利用、水和排放的详细区域与部门表征，支持跨国政策效应分析。局限性可能在于模型对生态过程（如植被动态、土壤碳）的表征仍相对简化，主要侧重社会经济维度。",
+      "follow_up_research": "可将该模型与动态植被模块或土地利用-生态系统服务模型耦合，评估不同气候政策路径下土地利用变化对土壤有机碳、生物多样性和大型动物栖息地的反馈；也可用于模拟重野化作为土地管理选择在不同欧洲国家的成本效益。",
+      "next_step_perspective": "这篇文章为你提供了将政策相关建模与生态系统评估结合的工具视角，其'空间与部门细节'的处理方式可启发你在评估重野化碳汇潜力时纳入社会经济驱动因素。虽然其生态过程简化，但框架本身可作为你整合生态与经济模型的桥梁。",
+      "why_this_journal": "推测其发表价值在于该工具增强了全球模型在欧洲区域的政策相关性，具有高开放性和可重复性，为跨学科研究（气候、能源、土地利用）提供公共产品，符合Geoscientific Model Development聚焦模型开发与评估的期刊性质。",
+      "author_profile": {
+        "name": "Jon Sampedro",
+        "institution": null,
+        "intro": "Jon Sampedro的研究方向集中于气候-能源-经济模型的开发与政策评估，涉及空气污染健康影响、碳预算分配及减排路径优化，其工作更多聚焦于社会经济模型层面，与你的生态碳循环研究交集在于土地利用与政策情景的模拟接口。",
+        "other_works": [
+          {
+            "title": "A Socioeconomic Assessment of Projected Health Impacts From Outdoor Air Pollution Under Current European Climate Policy: A Modelling Study",
+            "year": "2026",
+            "journal": "The Lancet Regional Health - Europe",
+            "doi": "10.1016/j.lanepe.2026.101754"
+          },
+          {
+            "title": "The challenge with climate-energy-economy models in constructing fair and equitable climate futures",
+            "year": "2026",
+            "journal": "Futures",
+            "doi": "10.1016/j.futures.2026.103850"
+          },
+          {
+            "title": "Mitigation implications of remaining carbon budget allocation rules for Mediterranean countries",
+            "year": "2026",
+            "journal": "Open Research Europe",
+            "doi": "10.12688/openreseurope.24364.1"
+          },
+          {
+            "title": "Including ozone increases estimated global crop and economic benefits of carbon neutrality policies",
+            "year": "2026",
+            "journal": "Nature Food",
+            "doi": "10.1038/s43016-026-01351-y"
+          },
+          {
+            "title": "Regional impacts on decarbonisation under evolving financing conditions for energy technologies",
+            "year": "2026",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-026-73522-1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03169-0",
+      "title": "Insufficient tree acclimation",
+      "link": "https://www.nature.com/articles/s41559-026-03169-0",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 20 August 2026; doi:10.1038/s41559-026-03169-0Insufficient tree acclimation",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-20T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03169-0",
+      "affiliation": null,
+      "title_zh": "树木适应性驯化不足",
+      "relevance_score": 5,
+      "key_conclusion": "文章指出树木在应对气候变化时的适应性驯化（acclimation）可能不足，暗示树木可能无法充分调整生理特性以适应快速变化的环境。",
+      "relevance_note": "涉及树木对气候变化的响应，与用户的陆地生态系统碳循环及极端气候事件对碳循环扰动的研究方向相关，但具体内容未详细展开。",
+      "related_papers": [
+        {
+          "title": "Drought Stress Effects and Olive Tree Acclimation under a Changing Climate",
+          "link": "https://doi.org/10.3390/plants8070232",
+          "venue": "Plants",
+          "year": 2019
+        },
+        {
+          "title": "Temperature acclimation of photosynthesis: mechanisms involved in the changes in temperature dependence of photosynthetic rate",
+          "link": "https://doi.org/10.1093/jxb/erj049",
+          "venue": "Journal of Experimental Botany",
+          "year": 2005
+        },
+        {
+          "title": "<i>Metabolic Acclimation to Cold in Man</i>",
+          "link": "https://doi.org/10.1152/jappl.1958.12.1.1",
+          "venue": "Journal of Applied Physiology",
+          "year": 1958
+        },
+        {
+          "title": "On the salty side of life: molecular, physiological and anatomical adaptation and acclimation of trees to extreme habitats",
+          "link": "https://doi.org/10.1111/pce.12440",
+          "venue": "Plant Cell & Environment",
+          "year": 2014
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "树木在面对气候变化时，其生理适应性驯化能力是否足以应对？如果不足，含义是什么？",
+      "contributions_limitations": "主要贡献在于提出并论证了树木在气候变化下的驯化存在不足（insufficient acclimation），这可能意味着树木将无法通过生理调节来完全缓冲气候压力，影响其对干旱、高温等极端事件的抵抗力。局限性在于摘要信息过少，未提供验证数据或具体物种/生态系统范围，具体机制和证据需查看原文。",
+      "follow_up_research": "可探讨驯化不足是否会影响森林恢复和重野化项目中树种选择的长期生态功能；也可量化驯化不足对碳分配策略（如NSC储存）和土壤有机碳输入的影响，以及对极端气候下森林碳汇稳定性的作用。",
+      "next_step_perspective": "这篇文章直接呼应你对'植物碳分配策略'和'极端气候事件对碳循环扰动'的兴趣，提示在评估重野化生态效益时需考虑树种的气候适应潜力。其'驯化不足'观点可作为解释森林恢复碳汇不确定性（如再生失败或生长减缓）的关键生理机制。",
+      "why_this_journal": "推测其发表价值在于提出了一个核心的生态生理学假说，挑战了'树木能通过表型可塑性适应气候变化'的乐观假设，具有广泛的理论意义和对全球森林管理的重要启示，符合Nature Ecology & Evolution对基础生态学前沿问题的高标准。",
+      "author_profile": null
+    },
+    {
       "id": "https://doi.org/10.5194/gmd-19-7653-2026",
       "title": "The CMIP6-downscaled CORDEX-Southeast Asia (SEA) ensemble: evaluation and benchmarking for megacities of SEA",
       "link": "https://doi.org/10.5194/gmd-19-7653-2026",
@@ -248,6 +520,89 @@
             "year": "2026",
             "journal": null,
             "doi": "10.22541/essoar.177038553.33606549/v1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41477-026-02408-3",
+      "title": "Author Correction: Non-native and invasive tree species are abundant in neotropical secondary forest but decline over time",
+      "link": "https://www.nature.com/articles/s41477-026-02408-3",
+      "summary": "Nature Plants, Published online: 20 August 2026; doi:10.1038/s41477-026-02408-3Author Correction: Non-native and invasive tree species are abundant in neotropical secondary forest but decline over time",
+      "journal": "Nature Plants",
+      "published": "2026-08-20T00:00:00+00:00",
+      "doi": "10.1038/s41477-026-02408-3",
+      "affiliation": null,
+      "title_zh": "作者更正：非本地和入侵树种在新热带次生林中丰富但随时间减少",
+      "relevance_score": 4,
+      "key_conclusion": "这是对一篇关于新热带次生林中非本地和入侵树种丰富度随时间变化研究的更正通知，原文结论可能涉及入侵种的动态。",
+      "relevance_note": "涉及次生林和入侵种，与基于自然的解决方案潜在负面效应相关，但仅为一则更正，实质性内容有限。",
+      "related_papers": [
+        {
+          "title": "Insect Declines in the Anthropocene",
+          "link": "https://doi.org/10.1146/annurev-ento-011019-025151",
+          "venue": "Annual Review of Entomology",
+          "year": 2019
+        },
+        {
+          "title": "Droughts, Wildfires, and Forest Carbon Cycling: A Pantropical Synthesis",
+          "link": "https://doi.org/10.1146/annurev-earth-082517-010235",
+          "venue": "Annual Review of Earth and Planetary Sciences",
+          "year": 2019
+        },
+        {
+          "title": "Designing payments for environmental services in theory and practice: An overview of the issues",
+          "link": "https://doi.org/10.1016/j.ecolecon.2008.03.011",
+          "venue": "Ecological Economics",
+          "year": 2008
+        },
+        {
+          "title": "Mapping Species Composition of Forests and Tree Plantations in Northeastern Costa Rica with an Integration of Hyperspectral and Multitemporal Landsat Imagery",
+          "link": "https://doi.org/10.3390/rs70505660",
+          "venue": "Remote Sensing",
+          "year": 2015
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "这篇作者更正通知涉及的原文试图回答新热带次生林中非本地和入侵树种在演替过程中的丰度动态变化问题，即这些物种是否随时间推移而增多或减少。",
+      "contributions_limitations": "基于现有信息推测，原文的主要贡献是揭示了新热带次生林中入侵树种在早期演替阶段丰度较高但随时间下降的规律，挑战了入侵物种持续扩张的普遍假设。局限性可能在于仅关注次生林这一特定生态系统类型，对入侵机制的解释可能不够深入，且本研究地点范围和物种覆盖有限。由于这是更正通知，具体内容需参考原文。",
+      "follow_up_research": "后续研究可探索入侵树种随时间下降的驱动机制，如种间竞争、食草动物压力或环境过滤的相对贡献；还可比较不同气候区和干扰历史下次生林入侵动态的异同；以及评估入侵树种下降对土壤碳储量和养分循环的潜在影响。",
+      "next_step_perspective": "这篇更正通知本身不是实质研究，但原文主题与用户关注的'基于自然的解决方案'及其对生物入侵的潜在负面效应高度相关。次生林恢复过程中入侵种的动态可作为用户评估自然恢复方案生态风险的一个案例参考，尤其在热带退化生态系统恢复背景下。",
+      "why_this_journal": "推测：该通知发表于Nature Plants，表明原文涉及植物科学领域的前沿问题，且次生林恢复与入侵生态学的交叉议题具有跨学科价值，符合该期刊关注植物-环境相互作用及生态恢复的重要议题。",
+      "author_profile": {
+        "name": "Angélica F. Resende",
+        "institution": "Universidade de São Paulo",
+        "intro": "Angélica F. Resende来自巴西圣保罗大学（Universidade de São Paulo），从其历史论文标题看，其主要研究方向为热带森林恢复、次生林动态、遥感监测恢复成效及恢复与生物经济的结合。这些研究有助于理解热带退化生态系统的恢复过程和生物多样性变化，与用户关注的生态系统功能恢复和基于自然的解决方案主题具有相关性。",
+        "other_works": [
+          {
+            "title": "Non-native and invasive tree species are abundant in neotropical secondary forest but decline over time",
+            "year": "2026",
+            "journal": "Nature Plants",
+            "doi": "10.1038/s41477-026-02327-3"
+          },
+          {
+            "title": "Bioeconomic opportunities in restored tropical forests",
+            "year": "2025",
+            "journal": "Ambio",
+            "doi": "10.1007/s13280-025-02234-5"
+          },
+          {
+            "title": "Remote sensing approaches to monitor tropical forest restoration: Current methods and future possibilities",
+            "year": "2025",
+            "journal": "Journal of Applied Ecology",
+            "doi": "10.1111/1365-2664.14830"
+          },
+          {
+            "title": "Canopy functional trait variation across Earth's tropical forests",
+            "year": "2025",
+            "journal": "NATURE",
+            "doi": "10.1038/S41586-025-08663-2"
+          },
+          {
+            "title": "Current constraints to reconcile tropical forest restoration and bioeconomy",
+            "year": "2025",
+            "journal": "SUSTAINABILITY SCIENCE",
+            "doi": "10.1007/S11625-024-01573-8"
           }
         ]
       }
