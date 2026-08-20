@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-19T12:36:10.501439+00:00",
-  "count": 10,
+  "generated_at": "2026-08-20T01:25:39.210209+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Landraces and wild species hold genetic diversity that could be key to developing new potato varieties, which are needed to help farmers adapt to climate change and other challenges.\n\n🥔 Learn more on #NationalPotatoDay in this 2019 issue of Science: https://scim.ag/4g3d0Cr",
+      "created_at": "2026-08-19T19:32:01.540499834Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mthhulwps22f",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Seasonally driven mosquito feeding patterns, along with drought conditions, may have been behind Brazil’s first yellow fever epidemic in a century, according to a new #ScienceAdvances study. https://scim.ag/4wXdWOC  ",
+      "created_at": "2026-08-19T18:20:02.739511219Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mthdtv7ei726",
+      "external_title": "Drought dynamics explain once in a century yellow fever virus outbreak in Brazil with implications for climate change",
+      "external_description": "While excess rainfall is associated with mosquito-borne disease because it supports mosquito breeding, drought may also counterintuitively increase disease transmission by altering mosquito and host b...",
+      "external_uri": "https://scim.ag/4wXdWOC",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreici53ko23ctb635lqbp4l4w5s35ovjxs7ljsu5f3xu7fjcrr5jlia"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Have a story like Ian?\n\n📩 Share it with us by entering Capturing Ecology and get the chance to win up to £750. \n\nEnter your photos today 👇\nhttps://f.mtr.cool/jvfljiglvm",
+      "created_at": "2026-08-19T14:06:20.735246593Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mtgvoav3rh2v",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Can photography protect what we love? \n\nCapturing Ecology 2026 judge Ian Price from @plantlifeuk.bsky.social talks about ways photography can inspire people to care for nature in a meaningful way and raise awareness for plant and fungi conservation. 🌸🌱🍄",
+      "created_at": "2026-08-19T14:04:40.797912599Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mtgvlby5bu2f",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
