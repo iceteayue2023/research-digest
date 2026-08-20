@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T01:25:39.210209+00:00",
-  "count": 14,
+  "generated_at": "2026-08-20T06:30:23.810605+00:00",
+  "count": 13,
   "posts": [
     {
       "handle": "science.org",
@@ -144,17 +144,6 @@
       "external_description": "Attributing alpine vegetation changes to climate change alone is intuitive but might neglect complexities such as microclimate and dispersal limitations. Here the authors show that thermophilization o...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03150-x",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiep7556s2cljgfsht7badij2x7ptic5jdtsiouwoxkg3flvqxoyiu"
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "Dan Miller",
-      "text": "Great discussion today with René van Westen on his paper that says AMOC collapse depends on *rate* of warming rather than an absolute temperature. And our current rate of warming is enough to tip the AMOC to collapse!\n#AMOC #ClimateChange\nwww.youtube.com/live/Zm0v_2r...",
-      "created_at": "2026-08-17T06:09:21.770Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mtb23ib4js2w",
-      "external_title": "Does AMOC Collapse Depend on Rate of Warming? with René van Westen",
-      "external_description": "YouTube video by Climate Chat",
-      "external_uri": "https://www.youtube.com/live/Zm0v_2rqvoQ",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:m526tw7vojc336y7onxzmnpv/bafkreia6ioedqml6jvs5ntim7e3ovx65ggk7sbujlbyr52lib7pne7y4vq"
     }
   ]
 }
