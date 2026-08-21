@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-21T06:31:34.573995+00:00",
+  "generated_at": "2026-08-21T12:36:28.730079+00:00",
   "count": 15,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "This study tests the idea that mycorrhizal strategy could be one of the factors that explain why certain non-native species become successful invaders, and explores geographic patterns and putative drivers of mycorrhizal strategies of non-native naturalized plants 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-08-21T07:45:46.723Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtlbdl2tps2f",
+      "external_title": "Mycorrhizal strategy of non-native plants varies with biome and disturbance - Nature Ecology & Evolution",
+      "external_description": "Mycorrhizal strategy could be one of the factors that explain why certain non-native species become successful invaders. This study tests this idea at the global scale and explores geographic patterns...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03144-9",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigqoy4pvziwk2hytrhukbhto5ogf5wxkyetmnr3jotlmczrkwuswi"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -155,17 +166,6 @@
       "external_description": "This study shows that the degradation of microbial storage polyhydroxyalkanoates is not just restricted to microorganisms by finding that some animals also have the enzymes required to break down thes...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03153-8",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreicsp5bjm2xspu35husoyev4hy2suuojdf333kzcoe3zh25epnrfzi"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Has your work helped advance the field of ecology? \n\nApply to become a BES Fellow and have the chance to be recognised for your outstanding contributions to the discipline.\n\n⏰Applications will close on 21 September. \n\n✅Apply today - https://f.mtr.cool/cokomahscm",
-      "created_at": "2026-08-18T11:25:30.713535437Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mte47q2zze2v",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
