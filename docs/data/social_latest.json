@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-21T12:36:28.730079+00:00",
+  "generated_at": "2026-08-22T01:24:58.224236+00:00",
   "count": 15,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "A new analysis of lunar topography indicates significant regions of the Moon’s south pole with consistent milder conditions—suggesting that microbial life might survive within these areas.\n\nLearn more in this week’s issue of Science Advances: https://scim.ag/4qkkioR",
+      "created_at": "2026-08-21T21:10:04.226483262Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mtmobqzi7y2h",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "The global push for solar energy could come with a hidden biodiversity cost, a study of more than 2300 Chinese counties reports in Science. https://scim.ag/4imqN8t ",
+      "created_at": "2026-08-21T19:19:02.770478093Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mtmi3a637d2c",
+      "external_title": "China’s solar expansion policy reduces bird diversity",
+      "external_description": "Could the global transition to renewable energy create a green dilemma that pits carbon reduction against biodiversity conservation? This study examined the effect of policies promoting solar photovol...",
+      "external_uri": "https://scim.ag/4imqN8t",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreifmut74bq5hub2dpwaoawfh7sumas6dfnqbk6hlili7vsbabcn4dq"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit\n\ngo.nature.com/4xREd0O",
+      "created_at": "2026-08-21T16:15:38.067Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mtm5tbbxhm2p",
+      "external_title": "Synthesis of pyrroles from isoxazoles by an O-to-C skeletal edit - Nature",
+      "external_description": "A one-pot skeletal-editing reaction replaces isoxazole oxygen with carbon to form challenging pyrroles, enabled by an N-propargylic enaminone intermediate and a computational model predicting reaction outcomes.",
+      "external_uri": "https://go.nature.com/4xREd0O",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigp7u566xjta5ln2s5qf5d7sq7do7g2oocfj5auckxkwadyuwabli"
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -133,39 +166,6 @@
       "external_description": "Population genetics analysis of centromeres of cultivated and wild accessions of pepper plants (Capsicum annuum) reveals centromere diversity and organization, and shows that these chromosomal regions played a role in the selection for domesticated traits.",
       "external_uri": "https://www.nature.com/articles/s41559-026-03143-w",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigpk57dhscjtofcpsn25oj5u4hixndr67u3ol746rqak6xxit5ski"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Breathing a mix of carbon tetrafluoride and oxygen for 10 minutes before decompression from a simulated 200-foot dive reduced decompression sickness in pigs. The technique could extend the depth accessible for human exploration. In PNAS: https://ow.ly/SFsl50ZB3zr",
-      "created_at": "2026-08-18T19:00:37.040679442Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mtevnjpf2k2q",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Fast-growing wildfires tend to be stronger and burn a larger proportion of area at high severity levels, according to a new analysis of 3499 recent wildfires in the conifer forests of Canada and the western United States. \n\nLearn more in #ScienceAdvances: https://scim.ag/4bK33aj  ",
-      "created_at": "2026-08-18T18:25:01.704650813Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mtetnuubcd26",
-      "external_title": "Faster, bigger, more severe: Extreme wildfire spread sets the stage for forest ecosystem change in western and boreal North America",
-      "external_description": "A relatively small number of rapidly spreading wildfire events burn disproportionately large areas. But beyond area burned, do fast fires produce distinct postfire ecological outcomes? Here, we measur...",
-      "external_uri": "https://scim.ag/4bK33aj",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreie3kipac2n5op3es3457ayxmpemcv6teechomwscwmhorplrrtrja"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "This study shows that the degradation of microbial storage polyhydroxyalkanoates is not just restricted to microorganisms by finding that some animals also have the enzymes required to break down these biopolymers 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-08-18T13:24:13.117Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtectyekmc2r",
-      "external_title": "Animal degradation of microbial storage polyhydroxyalkanoates - Nature Ecology & Evolution",
-      "external_description": "This study shows that the degradation of microbial storage polyhydroxyalkanoates is not just restricted to microorganisms by finding that some animals also have the enzymes required to break down thes...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03153-8",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreicsp5bjm2xspu35husoyev4hy2suuojdf333kzcoe3zh25epnrfzi"
     }
   ]
 }
