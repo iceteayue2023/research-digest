@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T12:29:30.138086+00:00",
-  "count": 12,
+  "generated_at": "2026-08-24T01:36:30.473112+00:00",
+  "count": 7,
   "posts": [
     {
       "handle": "britishecologicalsociety.org",
@@ -78,61 +78,6 @@
       "external_description": "Mycorrhizal strategy could be one of the factors that explain why certain non-native species become successful invaders. This study tests this idea at the global scale and explores geographic patterns...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03144-9",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigqoy4pvziwk2hytrhukbhto5ogf5wxkyetmnr3jotlmczrkwuswi"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Researchers found evidence of life buried in rock layers that date to around 3.497 billion years ago, during the Paleoarchean Eon. The carbonaceous matter is among the earliest known occurrences of biologically generated organic matter. In PNAS: https://ow.ly/lwtl50ZBWHo",
-      "created_at": "2026-08-21T01:00:15.055768316Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mtkkohfwpd2t",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Scientists report evidence of about 16 cascading floods that wreaked havoc across Europe between late 1341 and 1343—the largest number of back-to-back flooding events documented in the past 700 years.\n\nLearn more: https://scim.ag/4wze45N",
-      "created_at": "2026-08-20T22:16:01.471439681Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mtkbiriesd23",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "In this issue: The solar link to the South Asian summer monsoon, carbon nanotube manufacturing from CO2, and how giving poor households cash leads to a spike in spending with lasting results. In PNAS: https://ow.ly/sFwm50ZBWOv",
-      "created_at": "2026-08-20T21:00:27.490860381Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mtk5boallz23",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Sar Crespi",
-      "text": "Could microbes make it on the moon? If so, it would be good news for using microbes as little biofactories for a moon base. On the flip side, it could justify concerns about contaminating the lunar surface with earth-sourced bacteria \n\n#ScienceAdvances @science.org \n\nwww.science.org/doi/10.1126/...",
-      "created_at": "2026-08-20T13:43:54.337Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mtjeuzs2qk2f",
-      "external_title": "Potential survivable niches for microbial life on the lunar south pole",
-      "external_description": "Most lunar surface conditions are incredibly harsh for microbial survival. High ultraviolet radiation, temperatures, and energetic particle radiation limit survival over most unprotected lunar surface...",
-      "external_uri": "https://www.science.org/doi/10.1126/sciadv.aec0811",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6owq635evfesb3l6f5uqjj3c/bafkreigc5hy6465cpakamwumwy3vrlbnhrytuxxp7kmlpsqv6pk5uztiii"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "You've heard of carbon footprints but what about biodiversity footprints?\n\nOur biodiversity footprint is 0.003 species.year\n\nWhat does that mean? Find out here👇\nwww.britishecologicalsociety.org/content/our-...",
-      "created_at": "2026-08-20T12:33:07.056Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mtjawhbcg22y",
-      "external_title": "Our biodiversity footprint - British Ecological Society",
-      "external_description": "Here's how we calculated our biodiversity footprint and what we learnt.",
-      "external_uri": "https://www.britishecologicalsociety.org/content/our-biodiversity-footprint/",
-      "external_thumb": null
     }
   ]
 }
