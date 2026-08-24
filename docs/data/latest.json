@@ -1,6 +1,90 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T01:36:30.472774+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-24T06:39:24.307035+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-5781-2026",
+      "title": "Soil disturbance in wetlands by feral pigs increases greenhouse gas emissions",
+      "link": "https://doi.org/10.5194/bg-23-5781-2026",
+      "summary": "Soil disturbance in wetlands by feral pigs increases greenhouse gas emissions\n                    Maria Fernanda Adame, Alex Pearse, Jack W. Hill, Swade Cristopherson, Jonathan Nadji, Jasmine Malua Hall, Jessa Thurman, Valerie Hagger, and Catherine E. Lovelock\n                        Biogeosciences, 23, 5781–5793, https://doi.org/10.5194/bg-23-5781-2026, 2026\n                        Invasive feral pigs are globally widespread and cause massive damage to wetlands by trampling, grubbing, and digging the soil. We investigated whether these impacts would lead to increased greenhouse gas emissions. Emissions of methane and nitrous oxide, two potent greenhouse gases, were higher in sites disturbed by pigs compared to undisturbed sites. Thus, managing feral pigs could reduce soil greenhouse gas emissions.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-24T07:42:55+02:00",
+      "doi": "10.5194/bg-23-5781-2026",
+      "affiliation": null,
+      "title_zh": "野猪对湿地的土壤扰动增加温室气体排放",
+      "relevance_score": 8,
+      "key_conclusion": "入侵性野猪通过踩踏、拱土和挖掘对湿地土壤造成扰动，导致甲烷和氧化亚氮这两种强效温室气体的排放量显著高于未受干扰的样地。因此，管理野猪种群可以减少土壤温室气体排放。",
+      "relevance_note": "该研究直接探讨大型动物（野猪）的土壤扰动对生态系统碳循环（温室气体排放）的影响，与您关注的大型食草动物介导的生物地球化学循环和生态系统功能恢复高度相关，且涉及动物对土壤有机碳库的干扰机制。",
+      "related_papers": [
+        {
+          "title": "Soil disturbance in wetlands by feral pigs increases greenhouse gas emissions [Dataset]",
+          "link": "https://doi.org/10.25904/1912/6008",
+          "venue": "Open MIND",
+          "year": 2026
+        },
+        {
+          "title": "Feral Ungulate Impacts on Carbon Cycling in a Coastal Floodplain Wetland in Tropical Northern Australia",
+          "link": "https://doi.org/10.1029/2025jg009056",
+          "venue": "Journal of Geophysical Research Biogeosciences",
+          "year": 2025
+        },
+        {
+          "title": "Meta-analysis shows that wild large herbivores shape ecosystem properties and promote spatial heterogeneity",
+          "link": "https://doi.org/10.1038/s41559-024-02327-6",
+          "venue": "Nature Ecology & Evolution",
+          "year": 2024
+        },
+        {
+          "title": "Lessons learned on the feasibility of coastal wetland restoration for blue carbon and co-benefits in Australia",
+          "link": "https://doi.org/10.1016/j.jenvman.2024.122287",
+          "venue": "Journal of Environmental Management",
+          "year": 2024
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5781/2026/bg-23-5781-2026-avatar-web.jpg",
+      "scientific_question": "入侵性野猪对湿地土壤的物理扰动（踩踏、拱土、挖掘）是否会显著增加温室气体（甲烷和氧化亚氮）的排放？",
+      "contributions_limitations": "该研究首次系统量化了野猪对湿地土壤扰动导致的温室气体排放增加效应，揭示了入侵性大型哺乳动物作为土壤碳氮循环的潜在驱动者角色，为'动物介导的生物地球化学循环'提供了直接证据。可能的局限性包括：未区分不同扰动强度和频率的梯度效应，未测量CO2通量变化，也未追踪排放增加的具体微生物机制（如功能基因丰度变化），且研究样地范围有限，结果外推需谨慎。基于摘要信息推测。",
+      "follow_up_research": "后续可研究野猪扰动对土壤有机碳不同组分（POM与MAOM）的差异化影响，以及扰动后微生物群落结构和功能基因（如mcrA、nosZ）的响应机制；还可量化野猪控制（排除/管理）后温室气体排放的恢复速率，评估其作为基于自然的解决方案（NbS）的潜力；进一步可构建野猪扰动强度-排放通量的剂量-响应模型，为湿地碳核算提供参数。",
+      "next_step_perspective": "这篇文章为你的研究提供了'大型动物物理扰动'这一不同于'放牧/啃食'的机制路径，即动物通过非摄食行为（机械性土壤扰动）改变土壤碳氮循环，可类比扩展到大型食草动物重野化场景下动物行为对土壤有机碳稳定性的影响。方法上可借鉴其'干扰vs未干扰'配对样地设计和温室气体通量测定方法；研究空白提示在于：重野化中大型动物（如野牛、河马）的土壤扰动效应同样需要被纳入碳收支评估，而不仅是关注地上生物量变化。",
+      "why_this_journal": "Biogeosciences作为欧洲地球科学联盟（EGU）旗下的生物地球化学领域核心期刊，关注生物过程与地球系统循环的交叉研究，该文将入侵生物学与温室气体生物地球化学耦合，契合期刊定位；推测其价值在于提供了大型动物干扰对湿地温室气体预算影响的量化证据，填补了入侵物种管理的气候反馈知识空白。",
+      "author_profile": {
+        "name": "Maria Fernanda Adame",
+        "institution": "Griffith University",
+        "intro": "Maria Fernanda Adame目前任职于澳大利亚格里菲斯大学（Griffith University），其主要研究方向为蓝碳生态系统（红树林、海草床）的碳储量估算、气候变化响应及恢复管理，同时涉及湿地氮循环和流域养分管理。她的作品聚焦于沿海湿地的碳核算与生态系统服务评估，与你的研究中'动物介导的生物地球化学循环'和'生态系统功能恢复'方向高度相关，其蓝碳研究方法和碳储量估算经验可为大型食草动物重野化对土壤碳影响的量化提供方法论参考。",
+        "other_works": [
+          {
+            "title": "Changes in Mangrove Carbon Stocks and Exposure to Sea Level Rise (SLR) under Future Climate Scenarios",
+            "year": "2022",
+            "journal": "Sustainability",
+            "doi": "10.3390/su14073873"
+          },
+          {
+            "title": "Ambitious global targets for mangrove and seagrass recovery",
+            "year": "2022",
+            "journal": "Current Biology",
+            "doi": null
+          },
+          {
+            "title": "Modeled approaches to estimating blue carbon accumulation with mangrove restoration to support a blue carbon accounting method for Australia",
+            "year": "2022",
+            "journal": "Limnology and Oceanography",
+            "doi": "10.1002/lno.12014"
+          },
+          {
+            "title": "A conceptual model of nitrogen dynamics for the Great Barrier Reef catchments",
+            "year": "2021",
+            "journal": "Marine Pollution Bulletin",
+            "doi": "10.1016/j.marpolbul.2021.112909"
+          },
+          {
+            "title": "Coastal wetland management in the Great Barrier Reef: Farmer perceptions",
+            "year": "2021",
+            "journal": "Geographical Research",
+            "doi": "10.1111/1745-5871.12497"
+          }
+        ]
+      }
+    }
+  ]
 }
