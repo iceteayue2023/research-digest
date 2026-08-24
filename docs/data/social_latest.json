@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-08-24T06:39:24.307625+00:00",
-  "count": 7,
+  "generated_at": "2026-08-24T12:39:47.320755+00:00",
+  "count": 5,
   "posts": [
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Letting late summer weeds grow could help honeybees when they find it most challenging to gather nectar, according to new research in @funecology.bsky.social",
-      "created_at": "2026-08-22T22:01:42.987696690Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mtpbmzsxkh2s",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -67,17 +56,6 @@
       "external_description": "A one-pot skeletal-editing reaction replaces isoxazole oxygen with carbon to form challenging pyrroles, enabled by an N-propargylic enaminone intermediate and a computational model predicting reaction outcomes.",
       "external_uri": "https://go.nature.com/4xREd0O",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigp7u566xjta5ln2s5qf5d7sq7do7g2oocfj5auckxkwadyuwabli"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "This study tests the idea that mycorrhizal strategy could be one of the factors that explain why certain non-native species become successful invaders, and explores geographic patterns and putative drivers of mycorrhizal strategies of non-native naturalized plants 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-08-21T07:45:46.723Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtlbdl2tps2f",
-      "external_title": "Mycorrhizal strategy of non-native plants varies with biome and disturbance - Nature Ecology & Evolution",
-      "external_description": "Mycorrhizal strategy could be one of the factors that explain why certain non-native species become successful invaders. This study tests this idea at the global scale and explores geographic patterns...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03144-9",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigqoy4pvziwk2hytrhukbhto5ogf5wxkyetmnr3jotlmczrkwuswi"
     }
   ]
 }

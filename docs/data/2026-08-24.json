@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T06:39:24.307035+00:00",
-  "count": 1,
+  "generated_at": "2026-08-24T12:39:47.319774+00:00",
+  "count": 3,
   "articles": [
     {
       "id": "https://doi.org/10.5194/bg-23-5781-2026",
@@ -82,6 +82,142 @@
             "year": "2021",
             "journal": "Geographical Research",
             "doi": "10.1111/1745-5871.12497"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7855-2026",
+      "title": "Hydrological auditing of LISFLOOD v4.1.1: impacts of model  setup on water balance components in the Po River Basin",
+      "link": "https://doi.org/10.5194/gmd-19-7855-2026",
+      "summary": "Hydrological auditing of LISFLOOD v4.1.1: impacts of model  setup on water balance components in the Po River Basin\n                    Francesca Moschini, Andrea Ficchí, and Alberto Pistocchi\n                        Geosci. Model Dev., 19, 7855–7892, https://doi.org/10.5194/gmd-19-7855-2026, 2026\n                        We evaluated how different configurations of a large-scale river basin model affect simulations of streamflow, evaporation, soil moisture, and groundwater in the Po River Basin in Italy. We tested alternative soil depths and the inclusion or removal of subsurface flow pathways, and compared results with observations and with an established long-term water balance relationship. Setups that best matched river flow often underestimated evaporation and overestimated deep groundwater recharge.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-24T13:16:01+02:00",
+      "doi": "10.5194/gmd-19-7855-2026",
+      "affiliation": null,
+      "title_zh": "LISFLOOD v4.1.1水文审计：模型设置对波河流域水量平衡组分的影响",
+      "relevance_score": 7,
+      "key_conclusion": "该研究评估了不同配置的大型流域模型对意大利波河流域径流、蒸发、土壤湿度和地下水模拟的影响，发现最匹配径流的设置往往低估蒸发、高估深层地下水补给。",
+      "relevance_note": "文章涉及生态系统模型（水文模型）的验证与改进，且研究地点在意大利（欧洲），与用户对模型开发和欧洲地点的兴趣相关，但主题偏水文而非碳循环，相关性中等偏上。",
+      "related_papers": [
+        {
+          "title": "Hydrological Auditing of LISFLOOD v4.1.1: Impacts of Model Setup on Water Balance Components in the Po River Basin",
+          "link": "https://doi.org/10.5194/egusphere-2026-423",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7855/2026/gmd-19-7855-2026-avatar-web.png",
+      "scientific_question": "这项研究试图回答不同模型配置（如土壤深度、地下水流路径的取舍）如何影响大型流域水文模型LISFLOOD对波河流域水量平衡各组分（径流、蒸发、土壤湿度、地下水）模拟的准确性。",
+      "contributions_limitations": "主要贡献在于系统性地对LISFLOOD模型进行了水文审计，揭示了模型设置对水量平衡模拟结果的显著影响，并指出仅以径流为校准目标可能导致其他关键组分的系统性偏差。局限性可能在于研究仅针对意大利波河流域，结论的外推性需在其他流域验证；且模型配置的测试范围可能未覆盖所有水文过程参数。",
+      "follow_up_research": "后续研究可将类似的水文审计方法应用于其他气候区和流域，特别是干旱或半干旱地区，以检验模型配置对不同水文过程相对重要性的普适性。还可探索将土壤碳循环模块与水文模型耦合，以追踪水文设置对碳输移和土壤有机碳动态的间接影响。",
+      "next_step_perspective": "该研究提供了一种严谨的模型审计思路，可启发用户在评估生态系统模型中碳循环模块时，不仅关注目标变量（如SOC储量）的拟合，还要审视模型对其他组分（如分解速率、植物碳分配）的模拟是否物理一致。其对模型设置敏感性的分析框架，有助于用户在构建或改进DGVM时识别关键不确定来源。此外，该研究地点在欧洲，与用户对欧洲研究的偏好相契合，且模型审计方法论可借鉴于生态系统模型验证。",
+      "why_this_journal": "推测：该研究发表于Geoscientific Model Development，因其对水文模型LISFLOOF的系统性评估和审计方法具有方法学贡献，符合期刊专注于地球系统模型开发、评估和完善的定位。",
+      "author_profile": {
+        "name": "Francesca Moschini",
+        "institution": "Joint Research Centre",
+        "intro": "Francesca Moschini来自欧盟联合研究中心（Joint Research Centre），其历史研究主要围绕LISFLOOD水文模型的应用与改进，包括干旱监测、雪模块校准、径流模拟优化及基于自然的适应措施评估。她的研究特长在于水文模型开发与评估，与用户关注的生态系统模型改进（如DGVM）在方法论上有相通之处，但其侧重于水循环而非碳循环，可为用户提供跨领域模型校准与验证的参考。",
+        "other_works": [
+          {
+            "title": "Advances in drought monitoring using an operational hydrological model",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-20246"
+          },
+          {
+            "title": "Assessing the impact of Earth Observation data-driven calibration of the melting coefficient on the LISFLOOD snow module",
+            "year": "2026",
+            "journal": "Hydrology and Earth System Sciences",
+            "doi": "10.5194/hess-30-1189-2026"
+          },
+          {
+            "title": "Improving low and high flow simulations at once: An enhanced metric for hydrological model calibration",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-43"
+          },
+          {
+            "title": "Hydrological Auditing of LISFLOOD v4.1.1: Impacts of Model Setup on Water Balance Components in the Po River Basin",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-423"
+          },
+          {
+            "title": "Assessing the Impact of Earth Observation Data-Driven Calibration of the Melting Coefficient on the LISFLOOD Snow Module",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-2157"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02731-9",
+      "title": "Climate warming drives thermal shocks and accelerated freshwater habitat fragmentation",
+      "link": "https://www.nature.com/articles/s41558-026-02731-9",
+      "summary": "Nature Climate Change, Published online: 24 August 2026; doi:10.1038/s41558-026-02731-9Assessing 9,809 freshwater fish species globally, this study shows risk to a high proportion of species in the tropics, and severe extremes in non-tropical regions. Under high emissions, gradual warming drives abrupt exposure, with 63% of species facing accelerating thermal fragmentation by 2099.",
+      "journal": "Nature Climate Change",
+      "published": "2026-08-24T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02731-9",
+      "affiliation": null,
+      "title_zh": "气候变暖驱动热冲击并加速淡水栖息地破碎化",
+      "relevance_score": 4,
+      "key_conclusion": "该研究评估了全球9809种淡水鱼类，发现高排放情景下，到2099年63%的物种将面临加速的热破碎化，热带物种风险比例高，非热带地区出现严重极端事件。",
+      "relevance_note": "文章涉及气候变化对生态系统的影响，但主题聚焦淡水鱼类栖息地，而非陆地碳循环或大型食草动物重野化，相关性一般。",
+      "related_papers": [
+        {
+          "title": "Emerging threats and persistent conservation challenges for freshwater biodiversity",
+          "link": "https://doi.org/10.1111/brv.12480",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2018
+        },
+        {
+          "title": "Scientists' warning on climate change and insects",
+          "link": "https://doi.org/10.1002/ecm.1553",
+          "venue": "Ecological Monographs",
+          "year": 2022
+        },
+        {
+          "title": "Effects of water temperature on freshwater macroinvertebrates: a systematic review",
+          "link": "https://doi.org/10.1111/brv.12903",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2022
+        },
+        {
+          "title": "Assessing “Dangerous Climate Change”: Required Reduction of Carbon Emissions to Protect Young People, Future Generations and Nature",
+          "link": "https://doi.org/10.1371/journal.pone.0081648",
+          "venue": "PLoS ONE",
+          "year": 2013
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02731-9/MediaObjects/41558_2026_2731_Fig1_HTML.png",
+      "scientific_question": "这项研究试图回答在全球气候变化背景下，淡水鱼类栖息地面临的温度冲击（thermal shocks）和栖息地热破碎化（thermal fragmentation）的时空格局及其物种脆弱性分布。",
+      "contributions_limitations": "主要贡献在于首次在全球尺度上系统评估了9809种淡水鱼类面临的热破碎化风险，指出了热带物种的高风险比例和非热带地区的极端威胁。局限性可能包括仅考虑了温度维度而忽略了其他人为干扰（如水坝、污染）与温度的交互作用，且对未来排放情景的依赖带来不确定性。",
+      "follow_up_research": "后续研究可探讨淡水鱼类如何通过行为或生理适应应对热破碎化，以及温度变化如何通过食物网级联影响生态系统的碳循环和养分动态。还可将热破碎化预测与水文模型、土地利用情景结合，评估多重压力下的复合风险。",
+      "next_step_perspective": "该研究强调了气候变化驱动的栖息地破碎化对生物多样性的非线性影响，可启发用户在重野化研究中考虑气候极端事件（如热浪）对物种重新引入和生态系统恢复效果的制约。其全球尺度的物种风险评估方法也可借鉴于评估大型食草动物重野化对土壤碳循环的潜在空间异质性影响。",
+      "why_this_journal": "推测：该研究发表于Nature Climate Change，因其基于全球9809种鱼类的系统评估，揭示气候变化下栖息地破碎化的加速趋势，具有前瞻性和政策相关性，符合该期刊关注气候变化对自然系统影响的前沿研究定位。",
+      "author_profile": {
+        "name": "Hong Wang",
+        "institution": null,
+        "intro": "Hong Wang的研究方向涉及气候变化对淡水和陆地生态系统的影响，包括极端降水事件和河流径流季节性变化的归因分析。其工作侧重于人类活动与气候变化耦合效应的量化评估，与用户关注的极端气候事件对生态系统的扰动维度有交叉，但该作者的视角主要集中在水文系统而非碳循环。",
+        "other_works": [
+          {
+            "title": "Climate warming drives thermal shocks and accelerated freshwater habitat fragmentation",
+            "year": "2026",
+            "journal": "Nature Climate Change",
+            "doi": "10.1038/s41558-026-02731-9"
+          },
+          {
+            "title": "Human‐Induced Climate Change Intensifies Extreme Precipitation Events in Central China's Urban Areas",
+            "year": "2025",
+            "journal": "Geophysical Research Letters",
+            "doi": "10.1029/2024GL111818"
+          },
+          {
+            "title": "Anthropogenic climate change has influenced global river flow seasonality",
+            "year": "2024",
+            "journal": "Science",
+            "doi": "10.1126/science.adi9501"
           }
         ]
       }
