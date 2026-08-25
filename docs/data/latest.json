@@ -1,6 +1,238 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T01:26:03.997021+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-25T06:32:10.900213+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-5811-2026",
+      "title": "Quantifying the influence of wood carbon fractions on tree- and forest ecosystem-scale carbon estimation in a temperate forest",
+      "link": "https://doi.org/10.5194/bg-23-5811-2026",
+      "summary": "Quantifying the influence of wood carbon fractions on tree- and forest ecosystem-scale carbon estimation in a temperate forest\n                    Adam R. Martin, Dilene Mugenzi, Sean C. Thomas, Audrey Barker-Plotkin, Mahendra Doraisami, Mark Givelas, Adam Gorgolewski, Rachel O. Mariani, David Orwig, Benton N. Taylor, and Leeladarshini Sujeeun\n                        Biogeosciences, 23, 5811–5825, https://doi.org/10.5194/bg-23-5811-2026, 2026\n                        Forests are critical in the global carbon cycle. Accurate estimates of tree and forest carbon stocks depend on assumptions surrounding wood chemistry, though this is often overlooked in forest carbons science. We show that species-specific wood chemistry values upward-revise tree-and forest carbon stock estimates, though certain wood chemistry assumptions – namely, the commonly-employed 50 % wood carbon fraction assumption – over-estimate carbon stocks in virtually all temperate trees and forests.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-25T08:02:40+02:00",
+      "doi": "10.5194/bg-23-5811-2026",
+      "affiliation": null,
+      "title_zh": "量化木材碳组分对温带森林树木及生态系统尺度碳估算的影响",
+      "relevance_score": 7,
+      "key_conclusion": "研究显示，使用物种特异性木材化学值可以上调树木和森林碳储量的估算，而常用的假设木材碳含量为50%的做法几乎在所有温带树木和森林中高估了碳储量。",
+      "relevance_note": "文章直接涉及森林生态系统碳估算的准确性，与用户核心关注的陆地生态系统碳循环和碳储量估算高度相关，尤其是森林在碳循环中的角色，与重野化对碳循环影响的研究有紧密联系。",
+      "related_papers": [
+        {
+          "title": "The human footprint in the carbon cycle of temperate and boreal forests",
+          "link": "https://doi.org/10.1038/nature05847",
+          "venue": "Nature",
+          "year": 2007
+        },
+        {
+          "title": "Global fire emissions and the contribution of deforestation, savanna, forest, agricultural, and peat fires (1997–2009)",
+          "link": "https://doi.org/10.5194/acp-10-11707-2010",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2010
+        },
+        {
+          "title": "Global Carbon Budget 2020",
+          "link": "https://doi.org/10.5194/essd-12-3269-2020",
+          "venue": "Earth system science data",
+          "year": 2020
+        },
+        {
+          "title": "Tamm Review: Influence of forest management activities on soil organic carbon stocks: A knowledge synthesis",
+          "link": "https://doi.org/10.1016/j.foreco.2020.118127",
+          "venue": "Forest Ecology and Management",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5811/2026/bg-23-5811-2026-avatar-web.jpg",
+      "scientific_question": "这篇文章试图量化木材不同碳组分（如碳分数假设）对树木及森林生态系统尺度碳储量估算的精确影响，尤其是在温带森林中，物种特异性木材化学值相比常用50%碳分数假设会如何改变碳储量估计。",
+      "contributions_limitations": "贡献在于揭示了物种特异性木材碳分数对于提升森林碳储量估算准确性的重要性，并指出广泛使用的50%碳分数假设会系统性地高估温带树木和森林的碳储量，从而对碳核算和气候模型产生偏差。局限性可能在于研究聚焦于特定温带森林类型，其结论对热带或北方森林的普适性有待验证；此外，摘要未详述木材化学测定方法的具体误差。基于现有信息推测，建议查看原文获取更多细节。",
+      "follow_up_research": "后续研究可扩展至不同气候区（如热带、北方森林）和不同树种功能群，验证物种特异性碳分数的普适性；同时可探索将木材碳分数变异纳入动态植被模型（DGVM）或碳循环模型，评估其对区域及全球碳收支模拟的影响。",
+      "next_step_perspective": "这项研究为我的重野化研究提供了方法启发：在评估大型食草动物对土壤有机碳影响时，需注意碳库估算中类似'假设偏差'的问题，即动物介导的植被变化可能导致木质部分碳分数变化，从而影响碳储量估算精度。此外，其强调的'组分特异性'分析思路可借鉴到土壤有机碳组分（如POM/MAOM）的量化中。",
+      "why_this_journal": "推测该文发表于Biogeosciences是因为其主题直接关联陆地生态系统碳循环的量化方法，具有方法学创新性和对碳核算实践的重要修正意义，符合期刊关注生物地球化学过程与定量评估的定位。",
+      "author_profile": {
+        "name": "Adam R. Martin",
+        "institution": "University of Toronto",
+        "intro": "Adam R. Martin来自多伦多大学，其历史作品涵盖植物菌根策略、非结构性碳水化合物（NSC）的进化史驱动、叶片性状预测及全球磷富集对磷循环的影响等，显示出他在植物生态生理、碳分配和地球化学循环方面的广泛兴趣。这些研究与我关注的植物碳分配策略（NSC）和动物介导的营养循环有直接关联，尤其是其NSC研究可为理解放牧下植物碳储备变化提供框架。",
+        "other_works": [
+          {
+            "title": "Mycorrhizal strategy of non-native plants varies with biome and disturbance",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03144-9"
+          },
+          {
+            "title": "Author Correction: Evolutionary history drives organ-specific variability in plant non-structural carbohydrates",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03166-3"
+          },
+          {
+            "title": "Evolutionary history drives organ-specific variability in plant non-structural carbohydrates",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03129-8"
+          },
+          {
+            "title": "Predicting leaf traits in wine grapes with reflectance spectroscopy",
+            "year": "2026",
+            "journal": "PLOS One",
+            "doi": "10.1371/journal.pone.0336560"
+          },
+          {
+            "title": "Three key directions toward the development of a holistic crop modelling framework",
+            "year": "2026",
+            "journal": "Ecological Informatics",
+            "doi": "10.1016/j.ecoinf.2026.103723"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5827-2026",
+      "title": "Projected Effects of Climate-induced Changes in Phytoplankton biomass in the Southern South China Sea",
+      "link": "https://doi.org/10.5194/bg-23-5827-2026",
+      "summary": "Projected Effects of Climate-induced Changes in Phytoplankton biomass in the Southern South China Sea\n                    Chathumini W. Kiel, Kanchana Bandara, Roswati Md Amin, Nathalie Gypens, and Mohd Fadzil Mohd Akhir\n                        Biogeosciences, 23, 5827–5846, https://doi.org/10.5194/bg-23-5827-2026, 2026\n                        Phytoplankton are tiny organisms that support marine life and influence the planet’s climate. Using a computer model, we studied how future climate change may affect them in the southern South China Sea. We found that warmer waters and reduced nutrient availability could lower phytoplankton growth, potentially reducing food sources for bigger marine creatures and impacting fisheries and coastal communities in the region.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-25T08:02:40+02:00",
+      "doi": "10.5194/bg-23-5827-2026",
+      "affiliation": null,
+      "title_zh": "气候变化引起的南海南部浮游植物生物量变化的预测效应",
+      "relevance_score": 5,
+      "key_conclusion": "利用计算机模型研究发现，未来气候变暖和营养盐减少可能降低南海南部浮游植物的生长和生物量，从而可能减少大型海洋生物的食物来源，影响该地区的渔业和沿海社区。",
+      "relevance_note": "文章探讨气候变化对海洋生态系统初级生产力的影响，与用户关注的生态系统功能恢复和碳循环有一定相关性，但主要聚焦海洋浮游植物而非陆地生态系统，且与重野化关系较远。",
+      "related_papers": [
+        {
+          "title": "Global imprint of climate change on marine life",
+          "link": "https://doi.org/10.1038/nclimate1958",
+          "venue": "Nature Climate Change",
+          "year": 2013
+        },
+        {
+          "title": "Scientists’ warning to humanity: microorganisms and climate change",
+          "link": "https://doi.org/10.1038/s41579-019-0222-5",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2019
+        },
+        {
+          "title": "Lakes and reservoirs as regulators of carbon cycling and climate",
+          "link": "https://doi.org/10.4319/lo.2009.54.6_part_2.2298",
+          "venue": "Limnology and Oceanography",
+          "year": 2009
+        },
+        {
+          "title": "Couplings Between Changes in the Climate System and Biogeochemistry",
+          "link": "",
+          "venue": "eScholarship (California Digital Library)",
+          "year": 2007
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5827/2026/bg-23-5827-2026-avatar-web.png",
+      "scientific_question": "该研究旨在利用计算机模型预测未来气候变暖和营养盐变化如何影响南海南部浮游植物生物量，从而评估气候变化对海洋食物网和渔业资源的潜在影响。",
+      "contributions_limitations": "贡献在于提供了气候变化下南海南部浮游植物动态的模型预测，强调变暖和营养盐减少对初级生产力的负面效应，并指出其对渔业和沿海社区的经济社会影响。局限性可能包括模型分辨率限制、未充分耦合海洋食物网复杂性，以及区域气候模式的不确定性。基于现有信息推测，具体模型验证和不确定性分析需查看原文。",
+      "follow_up_research": "后续可结合更完整的生态系统模型，模拟浮游植物减少对更高营养级鱼类和底栖生物的影响，并探索极端气候事件（如海洋热浪）对浮游植物生物量扰动的非线性响应，以改进区域适应策略。",
+      "next_step_perspective": "虽然研究地点在海洋，但其'气候变暖降低初级生产力'的链条分析可类比到陆地重野化系统中：气候变暖可能改变植被生产力，进而影响大型食草动物的食物资源和生态系统碳输入。此外，其模型耦合方法（物理-生物地球化学）可启发我构建整合动物-植被-土壤碳循环的模拟框架。",
+      "why_this_journal": "推测该文发表于Biogeosciences是因为其利用数值模型探讨气候驱动的生物地球化学变化，符合期刊对跨学科碳循环和生态过程模拟的重视，且研究具有区域气候政策参考价值。",
+      "author_profile": {
+        "name": "Mohd Fadzil Mohd Akhir",
+        "institution": "Universiti Malaysia Terengganu",
+        "intro": "Mohd Fadzil Mohd Akhir来自马来西亚登嘉楼大学，其作品集中于南海南部长期上升流趋势、海洋空间规划及未来物理-生物地球化学变化（RCP8.5情景），表明他专注于区域海洋学和气候变化对海洋生态系统的影响。这些研究虽不直接涉及大型动物，但提供了气候-生态耦合分析的方法论参考。",
+        "other_works": [
+          {
+            "title": "Long‐Term Trends and Variability of Upwelling in the Southern South China Sea",
+            "year": "2026",
+            "journal": "Journal of Geophysical Research: Oceans",
+            "doi": "10.1029/2026JC024068"
+          },
+          {
+            "title": "Governing Marine Space in Peninsular Malaysia: A Framework for Marine Spatial Planning (MSP)",
+            "year": "2026",
+            "journal": "Coasts",
+            "doi": "10.3390/coasts6020020"
+          },
+          {
+            "title": "FUTURE CHANGES OF PHYSICAL-BIOGEOCHEMISTRY (1990–2060) IN THE SOUTH CHINA SEA UNDER RCP8.5 CLIMATE CHANGE SCENARIO",
+            "year": "2026",
+            "journal": "JOURNAL OF SUSTAINABILITY SCIENCE AND MANAGEMENT",
+            "doi": "10.46754/jssm.2026.04.003"
+          },
+          {
+            "title": "INFLUENCE OF OCEANOGRAPHIC PATTERN ON HARD CORAL COMMUNITIES IN PULAU BIDONG, SOUTH CHINA SEA",
+            "year": "2026",
+            "journal": "JOURNAL OF SUSTAINABILITY SCIENCE AND MANAGEMENT",
+            "doi": "10.46754/jssm.2026.04.002"
+          },
+          {
+            "title": "Long-term Trends and Variability of Upwelling in the Southern South China Sea",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.22541/essoar.15002006/v1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-7893-2026",
+      "title": "Paleoclimate data assimilation with adaptive observation error inflation and adaptive localization",
+      "link": "https://doi.org/10.5194/gmd-19-7893-2026",
+      "summary": "Paleoclimate data assimilation with adaptive observation error inflation and adaptive localization\n                    Ge Luo, Yuefei Zeng, Feng Zhu, and Jiuwei Zhao\n                        Geosci. Model Dev., 19, 7893–7909, https://doi.org/10.5194/gmd-19-7893-2026, 2026\n                        Reconstructing past temperatures from sparse coral records is challenging. We developed two adaptive methods to improve how model simulations are combined with proxy data. The first adjusts trust in each record based on model consistency; the second adapts how far each record influences the reconstruction. Our approach improved accuracy and better captured El Niño–Southern Oscillation patterns, especially in data‑poor regions. These strategies enable more reliable climate reconstructions",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-08-25T08:23:49+02:00",
+      "doi": "10.5194/gmd-19-7893-2026",
+      "affiliation": null,
+      "title_zh": "具有自适应观测误差膨胀和自适应局地化的古气候数据同化",
+      "relevance_score": 4,
+      "key_conclusion": "本研究开发了两种自适应方法改进古气候数据同化中模型模拟与珊瑚代用资料的结合，一种根据模型一致性调整对各记录的信赖程度，另一种自适应调整每个记录的影响范围。该方法提高了气候重建的准确性，尤其在数据缺乏地区更好地捕捉了厄尔尼诺-南方涛动(ENSO)模式。",
+      "relevance_note": "文章涉及气候重建方法学，与用户核心研究方向（大型食草动物重野化对土壤碳循环的影响）无直接关联，但属于气候系统模型改进领域，与用户对地球系统模式中动态植被模块及生态系统模型改进的兴趣有一定边缘相关。",
+      "related_papers": [
+        {
+          "title": "Impact of different estimations of the background-error covariance matrix on climate reconstructions based on data assimilation",
+          "link": "https://doi.org/10.5194/cp-15-1427-2019",
+          "venue": "Climate of the past",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/7893/2026/gmd-19-7893-2026-avatar-web.jpg",
+      "scientific_question": "这篇方法学文章旨在解决古气候重建中，如何利用稀疏珊瑚代用记录与模型模拟进行数据同化，以更准确重建过去温度变化，特别是改进厄尔尼诺-南方涛动（ENSO）模式的捕捉能力。",
+      "contributions_limitations": "贡献在于提出了两种自适应方法（自适应观测误差膨胀和自适应局地化），显著提高了古气候数据同化的准确性，尤其是在数据稀缺区域，增强了重建结果的可信度。局限性可能包括方法对代用记录质量和模型偏差的敏感性，以及计算成本较高；摘要未提供详细验证对比，基于现有信息推测。",
+      "follow_up_research": "后续研究可应用该同化方法于不同代用记录和气候变量（如降水、土壤湿度），并评估其在更长时间尺度或更复杂气候模型中的表现；也可结合机器学习优化参数选择，提高同化效率。",
+      "next_step_perspective": "该方法学为我提供了处理稀疏生态数据的工具思路：在研究重野化对土壤有机碳影响时，往往面临长期观测数据不足，类似的自适应同化技术可帮助结合模型模拟和不完整样方数据，提高碳储量和通量重建精度，尤其适用于评估历史放牧或猎物种群变化对碳循环的印记。",
+      "why_this_journal": "推测该文发表于Geoscientific Model Development因其聚焦于数据同化方法的创新和改进，属于模型开发与评估的核心范畴，技术贡献突出且具有广泛适用性，符合期刊的专业定位。",
+      "author_profile": {
+        "name": "Yuefei Zeng",
+        "institution": "Ludwig-Maximilians-Universitat Munchen",
+        "intro": "Yuefei Zeng来自慕尼黑大学，其历史作品多涉及雷达数据同化、可见光反射率评估和对流尺度数据同化，显示出他在气象数据同化算法和遥感数据应用方面的深厚专长。这些研究虽集中于大气领域，但其算法设计原理（自适应误差处理）可跨界应用于生态数据同化，对我处理土壤碳观测与模型融合有借鉴价值。",
+        "other_works": [
+          {
+            "title": "Paleoclimate data assimilation with adaptive observation error inflation and adaptive localization",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1424"
+          },
+          {
+            "title": "Study on representation error of radar data in convective scale data assimilation",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu25-8227"
+          },
+          {
+            "title": "Evaluation of FY-4A/AGRI visible reflectance using the equivalents derived from the forecasts of CMA-MESO using RTTOV",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu24-2793"
+          },
+          {
+            "title": "Exploring the characteristics of Fengyun-4A Advanced Geostationary Radiation Imager (AGRI) visible reflectance using the China Meteorological Administration Mesoscale (CMA-MESO) forecasts and its implications for data assimilation",
+            "year": "2024",
+            "journal": "Atmospheric Measurement Techniques",
+            "doi": "10.5194/amt-17-6659-2024"
+          },
+          {
+            "title": "Evaluation of FY-4A/AGRI visible reflectance using the equivalents derived from the forecasts of CMA-MESO using RTTOV",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.5194/amt-2024-12"
+          }
+        ]
+      }
+    }
+  ]
 }
