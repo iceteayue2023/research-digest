@@ -1,8 +1,91 @@
 {
   "date": "2026-08-25",
-  "generated_at": "2026-08-25T06:32:10.900213+00:00",
-  "count": 3,
+  "generated_at": "2026-08-25T12:42:52.595755+00:00",
+  "count": 5,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02071-5",
+      "title": "Disturbance characteristics and forest properties regulate surface warming and recovery across Europe",
+      "link": "https://www.nature.com/articles/s41561-026-02071-5",
+      "summary": "Nature Geoscience, Published online: 25 August 2026; doi:10.1038/s41561-026-02071-5Forest disturbances drive substantial surface warming across Europe, with magnitude and recovery shaped by disturbance severity, size and forest characteristics, as inferred from combining satellite-derived land-surface temperature estimates with continent-wide disturbance data.",
+      "journal": "Nature Geoscience",
+      "published": "2026-08-25T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02071-5",
+      "affiliation": null,
+      "title_zh": "干扰特征和森林属性调控欧洲地表增温与恢复",
+      "relevance_score": 8,
+      "key_conclusion": "通过卫星地表温度数据与欧洲大陆干扰数据的结合分析，发现森林干扰（如采伐、火灾等）驱动了显著的地表增温，其幅度和恢复速度由干扰严重度、规模和森林特征共同决定。",
+      "relevance_note": "研究地点在欧洲，直接涉及森林退化/恢复过程中的生态系统功能（地表温度）动态，与用户关注的陆地生态系统碳循环和退化恢复过程高度相关，且欧洲地点加分。",
+      "related_papers": [
+        {
+          "title": "Forest restoration following surface mining disturbance: challenges and solutions",
+          "link": "https://doi.org/10.1007/s11056-015-9506-4",
+          "venue": "New Forests",
+          "year": 2015
+        },
+        {
+          "title": "A review of the effects of forest fire on soil properties",
+          "link": "https://doi.org/10.1007/s11676-022-01475-4",
+          "venue": "Journal of Forestry Research",
+          "year": 2022
+        },
+        {
+          "title": "Forest microclimates and climate change: Importance, drivers and future research agenda",
+          "link": "https://doi.org/10.1111/gcb.15569",
+          "venue": "Global Change Biology",
+          "year": 2021
+        },
+        {
+          "title": "Simulating the impacts of disturbances on forest carbon cycling in North America: Processes, data, models, and challenges",
+          "link": "https://doi.org/10.1029/2010jg001585",
+          "venue": "Journal of Geophysical Research Atmospheres",
+          "year": 2011
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02071-5/MediaObjects/41561_2026_2071_Fig1_HTML.png",
+      "scientific_question": "欧洲森林干扰如何通过其严重程度、规模及森林自身特征影响地表增温幅度及随后的恢复过程？",
+      "contributions_limitations": "该研究结合卫星地表温度与大陆尺度干扰数据，系统揭示了森林干扰驱动地表增温的幅度与恢复速度受干扰属性（严重度、大小）和森林特征的共同调控，为理解干扰后生态系统气候反馈提供了大尺度实证。局限性可能包括：基于遥感的温度估计难以完全区分生物物理与非生物过程，且恢复时间框架受数据时段限制；基于现有信息推测。",
+      "follow_up_research": "可进一步探究干扰后植被结构与土壤碳动态变化如何耦合调节地表能量平衡与碳循环恢复；或将干扰属性参数化引入生态系统模型，预测不同干扰情景下气候反馈的长期演变。",
+      "next_step_perspective": "该研究为大型食草动物重野化可能引起的植被干扰（如啃食、践踏）对地表温度及碳循环的影响提供了方法学参考，特别是将干扰特征与生态系统响应关联的分析框架，可启发探索重野化作为基于自然的解决方案在气候调节中的潜在作用。",
+      "why_this_journal": "该研究首次在大陆尺度量化了森林干扰属性对地表增温和恢复的调控规律，具有跨尺度整合的创新性和对气候-植被反馈理论的重要贡献，符合Nature Geoscience对全球变化前沿问题的定位。此为推测。",
+      "author_profile": {
+        "name": "Yang Su",
+        "institution": "École Normale Supérieure - PSL",
+        "intro": "Yang Su来自法国巴黎高等师范学院（École Normale Supérieure - PSL），其历史作品集中于欧洲农田和森林的生物物理气候反馈、ORCHIDEE模型开发及土地管理的气候效应，表明其主要研究方向为陆气相互作用与生态系统生物物理过程模拟。这与用户关注的生态系统碳循环和模型改进高度相关，其方法可迁移至重野化场景的碳-气候耦合分析。",
+        "other_works": [
+          {
+            "title": "Disturbance characteristics and forest properties regulate surface warming and recovery across Europe",
+            "year": "2026",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-026-02071-5"
+          },
+          {
+            "title": "Resolving effects of leaf pigmentation changes and plant residue on the energy balance of winter wheat cultivation in the ORCHIDEE-CROP model",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-7217-2026"
+          },
+          {
+            "title": "Global Marine LNG Terminals, Tankers & Trade: A High-Resolution AIS-Based Dataset of LNG Trade (2020–2024)",
+            "year": "2026",
+            "journal": "Scientific Data",
+            "doi": "10.1038/s41597-026-07454-2"
+          },
+          {
+            "title": "Biophysical climate responses to albedo management for wheat residue retention, cover crops, and pale wheat across European croplands",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-9895"
+          },
+          {
+            "title": "Forest disturbances intensify land surface warming across Europe",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-8782712/v1"
+          }
+        ]
+      }
+    },
     {
       "id": "https://doi.org/10.5194/bg-23-5811-2026",
       "title": "Quantifying the influence of wood carbon fractions on tree- and forest ecosystem-scale carbon estimation in a temperate forest",
@@ -82,6 +165,83 @@
             "year": "2026",
             "journal": "Ecological Informatics",
             "doi": "10.1016/j.ecoinf.2026.103723"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5847-2026",
+      "title": "Seasonal dynamics of dissolved organic matter along an intertidal gradient in semi-arid mangrove soils (New Caledonia)",
+      "link": "https://doi.org/10.5194/bg-23-5847-2026",
+      "summary": "Seasonal dynamics of dissolved organic matter along an intertidal gradient in semi-arid mangrove soils (New Caledonia)\n                    Naïna Mouras, Cyril Marchand, Maximilien Mathian, and Hugues Lemonnier\n                        Biogeosciences, 23, 5847–5877, https://doi.org/10.5194/bg-23-5847-2026, 2026\n                        Mangroves are key ecosystem for the global carbon cycle, yet the dynamics of dissolved organic matter in their soils must be better constrained. We investigated dissolved organic matter quality and quantity in porewaters of mangroves developing in a semi-arid region. The dominance of humic-like fluorescent component suggests that organic matter is primarily mangrove-derived. In addition, habitats and seasons seem to be the main drivers of dissolved organic matter dynamics.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-25T12:00:56+02:00",
+      "doi": "10.5194/bg-23-5847-2026",
+      "affiliation": null,
+      "title_zh": "新喀里多尼亚半干旱红树林土壤沿潮间带梯度的溶解性有机质季节动态",
+      "relevance_score": 7,
+      "key_conclusion": "研究发现半干旱地区红树林孔隙水中的溶解性有机质以类腐殖质荧光组分为主，表明有机质主要源于红树林自身。栖息地和季节是控制溶解性有机质动态的主要驱动因素。",
+      "relevance_note": "文章涉及湿地生态系统的有机质动态和碳循环，与用户关注的土壤有机质形成与稳定机制、生态系统碳循环相关，但研究地点在新喀里多尼亚（非欧洲），且不直接涉及rewilding或放牧，故分数适中。",
+      "related_papers": [
+        {
+          "title": "Mangrove production and carbon sinks: A revision of global budget estimates",
+          "link": "https://doi.org/10.1029/2007gb003052",
+          "venue": "Global Biogeochemical Cycles",
+          "year": 2008
+        },
+        {
+          "title": "Tidal variability of CO2 and CH4 emissions from the water column within a Rhizophora mangrove forest (New Caledonia)",
+          "link": "https://doi.org/10.1016/j.scitotenv.2018.03.006",
+          "venue": "The Science of The Total Environment",
+          "year": 2018
+        },
+        {
+          "title": "Seasonal Pattern of the Biogeochemical Properties of Mangrove Sediments Receiving Shrimp Farm Effluents (New Caledonia)",
+          "link": "https://doi.org/10.4172/2155-9546.1000262",
+          "venue": "Journal of Aquaculture Research & Development",
+          "year": 2014
+        },
+        {
+          "title": "Dissolved and particulate carbon export from a tropical mangrove‐dominated riverine system",
+          "link": "https://doi.org/10.1002/lno.11934",
+          "venue": "Limnology and Oceanography",
+          "year": 2021
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5847/2026/bg-23-5847-2026-avatar-web.png",
+      "scientific_question": "在半干旱红树林土壤中，溶解性有机质（DOM）的质量和数量如何随潮间带梯度和季节变化而变化？",
+      "contributions_limitations": "该研究通过荧光光谱等手段揭示了半干旱红树林孔隙水中DOM以类腐殖质组分为主，表明其源于红树林自身，并识别出栖息地和季节为DOM动态的主要驱动因素。局限性可能包括：仅基于光学特征推断DOM来源和活性，缺乏分子级别表征；研究地点特定（新喀里多尼亚），外推至其他红树林需谨慎。",
+      "follow_up_research": "后续可结合稳定同位素或高分辨率质谱追踪DOM的微生物转化路径，并量化DOM输出对邻近沿海碳循环的贡献；也可探究大型动物活动对红树林DOM动态的潜在影响。",
+      "next_step_perspective": "该研究揭示了潮间带环境梯度对有机质动态的关键调控，为用户理解动物介导养分循环（如大型食草动物排泄物对土壤DOM的影响）提供了生态位分异的分析思路，可借鉴其方法（如荧光组分识别）研究重野化样地中土壤DOM的来源与稳定性。",
+      "why_this_journal": "该文针对红树林这一蓝碳生态系统中DOM动态这一长期未充分约束的问题，提供了半干旱区域的独特观测数据，并强调了环境梯度的重要性，符合Biogeosciences对生物地球化学循环过程研究的定位。此为推测。",
+      "author_profile": {
+        "name": "Naïna Mouras",
+        "institution": "Ifremer",
+        "intro": "Naïna Mouras供职于法国海洋开发研究所（Ifremer），其历史作品主要聚焦红树林土壤中DOM的时空变异及其对痕量金属动态的影响，表明其主要研究方向为红树林生态系统中的有机质生物地球化学循环。这与用户关注的土壤有机质形成与稳定机制有交集，特别是在湿地碳循环方面可提供对照案例。",
+        "other_works": [
+          {
+            "title": "Seasonal dynamics of dissolved organic matter along an intertidal gradient in semi-arid mangrove soils (New Caledonia)",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5847-2026"
+          },
+          {
+            "title": "Vertical and tidal variability of dissolved organic matter in mangrove soils: influence on dissolved trace metal dynamics",
+            "year": "2026",
+            "journal": "Estuarine, Coastal and Shelf Science",
+            "doi": "10.1016/j.ecss.2026.109785"
+          },
+          {
+            "title": "Seasonal dynamics of dissolved organic matter along an intertidal gradient in semi-arid mangrove soils (New Caledonia)",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-4328"
+          },
+          {
+            "title": "Variability of the optical signatures of dissolved organic matter in soils of different mangrove stands (Ouvéa, New Caledonia)",
+            "year": "2025",
+            "journal": "Environmental Science and Pollution Research",
+            "doi": "10.1007/s11356-025-36373-9"
           }
         ]
       }
