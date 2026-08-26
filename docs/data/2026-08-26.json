@@ -1,8 +1,433 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T06:33:18.493047+00:00",
-  "count": 1,
+  "generated_at": "2026-08-26T12:42:12.325117+00:00",
+  "count": 9,
   "articles": [
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2536998123?af=R",
+      "title": "NatA complex is a leaf-intrinsic brake on systemic responses induced by root endophytic fungi",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2536998123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 34, August 2026. SignificancePlants live in lifelong partnership with beneficial soil fungi that prime systemic immunity, yet how they prevent runaway defense in distant leaves has remained unknown. Here, we show that the NatA N-terminal acetyltransferase complex acts as ...",
+      "journal": "PNAS",
+      "published": "2026-08-18T07:00:00+00:00",
+      "doi": "10.1073/pnas.2536998123",
+      "affiliation": "State Key Laboratory of Vegetation Structure, Function and Construction (VegLab), Yunnan University; Yunnan Key Laboratory of Biological Adaptation, Conservation and Utilization; Ministry of Education Key Laboratory for Transboundary Ecosecurity of Southwest China; Institute of Biodiversity, School of Ecology and Environmental Science, Yunnan University; State Key Laboratory for Conservation and Utilization of Bio‐Resources in Yunnan, Yunnan University",
+      "title_zh": "NatA复合体是根内真菌诱导系统响应中的叶片内在制动器",
+      "relevance_score": 7,
+      "key_conclusion": "研究发现NatA N-乙酰转移酶复合体作为叶片内在制动器，抑制根内有益真菌引发的系统性免疫过度响应，维持植物防御的稳态平衡。",
+      "relevance_note": "涉及植物-微生物互作和植物免疫系统调控，与用户关注的植物-微生物互作网络及气候极端事件的关系高度相关，研究地点在中国但主题契合。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "植物如何防止根内有益真菌引发的系统性免疫反应在远端叶片中过度激活，从而维持防御稳态？",
+      "contributions_limitations": "该研究揭示NatA N-乙酰转移酶复合体作为叶片内在的制动器，负调控根内生真菌引发的系统性防御响应，为植物-微生物互作的系统信号调控提供了新机制。局限性尚不明确，基于现有信息推测其可能局限于模式植物或特定真菌互作体系，需进一步验证其普适性。",
+      "follow_up_research": "后续研究可探究NatA复合体在不同植物-微生物组合中的保守性，以及其是否受环境因子（如干旱、养分）调控；还可研究该制动机制是否影响植物对病原菌的抗性权衡，从而联系到植物碳分配与防御的权衡策略。",
+      "next_step_perspective": "该研究提供了植物-微生物跨界互作中系统信号调控的范式，尤其关于系统性信号如何被局部'制动'以避免过度防御的机制，对于理解大型食草动物采食（类似系统性扰动）如何触发植物整体响应及其碳成本具有借鉴意义。其分子机制可能为评估放牧对植物防御-生长权衡的影响提供新视角。",
+      "why_this_journal": "推测该文发表于PNAS是因为其揭示了植物-微生物互作中一种新型的系统性调控机制，具有跨学科重要性（分子生物学与生态学交叉），且'重要性声明'强调了其对理解植物与有益微生物共生关系的普适意义。",
+      "author_profile": {
+        "name": "Xiao-Jie Chen",
+        "institution": null,
+        "intro": "Xiao-Jie Chen的研究方向集中于植物与微生物的共生互作机制，特别是N-乙酰转移酶复合体在植物发育和胁迫响应中的功能。其过往工作涉及兰花原生体与真菌共生、热耐受性调控等，显示其从分子层面解析植物-微生物-环境互作的综合研究兴趣，这与用户关注的植物-微生物互作网络及生态系统功能有深度关联。",
+        "other_works": [
+          {
+            "title": "NatA complex is a leaf-intrinsic brake on systemic responses induced by root endophytic fungi",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2536998123"
+          },
+          {
+            "title": "Symbiosis between Dendrobium catenatum protocorms and Serendipita indica involves the plant hypoxia response pathway",
+            "year": "2023",
+            "journal": "Plant Physiology",
+            "doi": "10.1093/plphys/kiad198"
+          },
+          {
+            "title": "UBA domain protein SUF1 interacts with NatA‐complex subunit NAA15 to regulate thermotolerance in Arabidopsis",
+            "year": "2022",
+            "journal": "Journal of Integrative Plant Biology",
+            "doi": "10.1111/jipb.13273"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2627297123?af=R",
+      "title": "Correction for Zhou et al., Warming substantially amplifies Antarctic coastal polynyas as key carbon sinks",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2627297123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 34, August 2026.",
+      "journal": "PNAS",
+      "published": "2026-08-17T07:00:00+00:00",
+      "doi": "10.1073/pnas.2627297123",
+      "affiliation": null,
+      "title_zh": "更正：Zhou等人，变暖显著扩大南极沿海冰间湖作为关键碳汇的作用",
+      "relevance_score": 7,
+      "key_conclusion": "这是一篇更正通知，针对原论文的修正，原论文主题涉及变暖对南极沿海冰间湖作为碳汇的放大效应，但更正本身不包含新的科学结论。",
+      "relevance_note": "尽管是更正文章，但原主题直接关联海洋碳汇与全球变暖对碳循环的影响，与用户关注的生态系统碳循环有所联系；但由于内容为更正，实质性信息有限，且南极地点不在用户偏好的欧洲区域，故给予中等偏高分数。",
+      "related_papers": [
+        {
+          "title": "Halogens and their role in polar boundary-layer ozone depletion",
+          "link": "https://doi.org/10.5194/acp-7-4375-2007",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2007
+        },
+        {
+          "title": "The Southern Ocean Freshwater Input from Antarctica (SOFIA) Initiative: scientific objectives and experimental design",
+          "link": "https://doi.org/10.5194/gmd-16-7289-2023",
+          "venue": "Geoscientific model development",
+          "year": 2023
+        },
+        {
+          "title": "Reviews and syntheses: A framework to observe, understand and project ecosystem response to environmental change in the East Antarctic Southern Ocean",
+          "link": "https://doi.org/10.5194/bg-19-5313-2022",
+          "venue": "Biogeosciences",
+          "year": 2022
+        },
+        {
+          "title": "Polar oceans and sea ice in a changing climate",
+          "link": "https://doi.org/10.1525/elementa.2023.00056",
+          "venue": "Elementa Science of the Anthropocene",
+          "year": 2023
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "这是一篇更正通知，不包含具体的科学问题。",
+      "contributions_limitations": "该通知仅对原论文（关于变暖放大南极冰间湖碳汇效应）进行更正，不包含新数据或新结论，因此无实质科学贡献，也不存在可评估的局限性。",
+      "follow_up_research": "无直接后续研究方向。",
+      "next_step_perspective": "无直接研究价值。",
+      "why_this_journal": "作为更正通知，发表于PNAS仅因其原始论文发表在该期刊，无其他原因。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2610907123?af=R",
+      "title": "The ecology of Lyme disease: Long-term data, surprises, and a synthesis",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610907123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 34, August 2026. SignificanceLong-term study of ticks, pathogens, hosts, and weather in an area with endemic Lyme disease reveals that risk of human exposure is not related to the abundance of white-tailed deer or to seasonal temperature extremes. Instead, risk correlates ...",
+      "journal": "PNAS",
+      "published": "2026-08-17T07:00:00+00:00",
+      "doi": "10.1073/pnas.2610907123",
+      "affiliation": "Cary Institute of Ecosystem Studies; Bard College, Program in Biology",
+      "title_zh": "莱姆病的生态学：长期数据、意外发现与综合",
+      "relevance_score": 6,
+      "key_conclusion": "长期追踪莱姆病流行区的蜱、病原体、宿主和天气后，发现人类暴露风险与白尾鹿丰度或季节性温度极端无关，而与特定宿主物种类群（如小型哺乳动物）的动态相关。",
+      "relevance_note": "涉及宿主-病原体-环境互作和动物介导的生态过程，与研究地点在欧洲的偏好不同（本研究在美国），但与生态系统中动物角色及生物互作网络有部分相关。",
+      "related_papers": [
+        {
+          "title": "Disease ecology and the global emergence of zoonotic pathogens",
+          "link": "https://doi.org/10.1007/bf02897701",
+          "venue": "Environmental Health and Preventive Medicine",
+          "year": 2005
+        },
+        {
+          "title": "Data associated with: The ecology of Lyme disease: Long-term data, surprises, and a synthesis",
+          "link": "https://doi.org/10.25390/caryinstitute.31872853.v1",
+          "venue": "Cary Institute",
+          "year": 2026
+        },
+        {
+          "title": "Data associated with: The ecology of Lyme disease: Long-term data, surprises, and a synthesis",
+          "link": "https://doi.org/10.25390/caryinstitute.31872853.v2",
+          "venue": "Cary Institute",
+          "year": 2026
+        },
+        {
+          "title": "Data associated with: The ecology of Lyme disease: Long-term data, surprises, and a synthesis",
+          "link": "https://doi.org/10.25390/caryinstitute.31872853",
+          "venue": "Cary Institute",
+          "year": 2026
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在莱姆病流行区，人类暴露风险主要由哪些生态因子（宿主丰度、天气极端事件等）决定，而非传统认为的白尾鹿密度或季节性温度？",
+      "contributions_limitations": "基于长期数据揭示人类莱姆病风险主要与小型哺乳动物（如啮齿类）等特定宿主物种类群动态相关，而非鹿丰度或温度极端，挑战了传统认知，具有重要的生态流行病学意义。局限性可能在于该结论基于单一地点的长期观测，外推到其他生态系统或病原体系时需谨慎。",
+      "follow_up_research": "后续研究可探究小型哺乳动物丰度的驱动因子（如橡子产量、气候）如何级联影响蜱媒病风险；可将该框架扩展到不同蜱种和病原体，或探讨栖息地破碎化和土地利用变化如何通过改变宿主群落结构影响疾病风险。",
+      "next_step_perspective": "该研究展示了长期数据在揭示复杂生态关系中的价值，特别是挑战了'直觉性'但错误的因果推断。对于重野化研究，这提示大型食草动物（如鹿）的存在不一定直接决定某些生态系统功能（如疾病风险），而需关注整个食物网和宿主群落动态，为评估野化对生态系统服务（包括健康相关）的影响提供了方法学借鉴。",
+      "why_this_journal": "推测该文发表于PNAS是因为其基于数十年长期数据，揭示了疾病生态学中一个反直觉且重要的机制，修正了'鹿-蜱-风险'的简单化认知，对公共卫生和生态学都具有广泛影响力和实践指导意义。",
+      "author_profile": {
+        "name": "Richard S. Ostfeld",
+        "institution": "Cary Institute of Ecosystem Studies",
+        "intro": "Richard S. Ostfeld是Cary生态系统研究所的资深科学家，长期致力于生态流行病学与种群动态研究。其代表工作聚焦于莱姆病生态学、橡子产量-啮齿动物动态-疾病风险的级联效应，以及气候变暖对种群和疾病的影响，这些研究体现了典型的长周期生态系统整合分析，深刻影响了疾病生态学领域，也与用户关注的动物-生态系统反馈和食物网复杂性高度契合。",
+        "other_works": [
+          {
+            "title": "The ecology of Lyme disease: Long-term data, surprises, and a synthesis",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2610907123"
+          },
+          {
+            "title": "Climate warming, acorn masting and the dynamics of rodent populations: Comparing long‐term studies",
+            "year": "2026",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70257"
+          },
+          {
+            "title": "Data associated with: Climate warming, acorn masting, and the dynamics of rodent populations: Comparing long-term studies",
+            "year": "2026",
+            "journal": "Cary Institute",
+            "doi": "10.25390/caryinstitute.31915557"
+          },
+          {
+            "title": "Data associated with: The ecology of Lyme disease: Long-term data, surprises, and a synthesis",
+            "year": "2026",
+            "journal": "Cary Institute",
+            "doi": "10.25390/caryinstitute.31872853"
+          },
+          {
+            "title": "Ecological and Epidemiological Consequences of Tick‐Control Interventions in Residential Neighborhoods: A Synthesis of The Tick Project",
+            "year": "2026",
+            "journal": "Transboundary and Emerging Diseases",
+            "doi": "10.1155/tbed/4940832"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2528506123?af=R",
+      "title": "Marine heatwaves and undernutrition in low- and middle-income countries",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2528506123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 34, August 2026. SignificanceClimate change has increased ocean temperatures as well as the frequency and intensity of unusually warm ocean waters, known as marine heatwaves. Because fish distribution and productivity can be impacted by these events, marine heatwaves ...",
+      "journal": "PNAS",
+      "published": "2026-08-18T07:00:00+00:00",
+      "doi": "10.1073/pnas.2528506123",
+      "affiliation": "Department of Geography and Environment, The University of North Carolina at Chapel Hill; Environment, Ecology and Energy Program, Institute of Marine Sciences, University of North Carolina Chapel Hill; Bioinformatics and Computational Biology Program, University of North Carolina Chapel Hill",
+      "title_zh": "海洋热浪与中低收入国家的营养不足",
+      "relevance_score": 6,
+      "key_conclusion": "研究表明海洋热浪通过影响鱼类分布和生产力，可能加剧中低收入国家的营养不足问题，尤其在依赖渔业的区域。",
+      "relevance_note": "涉及极端气候事件对生态系统和人类福祉的影响，与用户关注的极端气候对碳循环扰动有间接联系，但主题为海洋系统而非陆地，相关度中等。",
+      "related_papers": [
+        {
+          "title": "The human imperative of stabilizing global climate change at 1.5°C",
+          "link": "https://doi.org/10.1126/science.aaw6974",
+          "venue": "Science",
+          "year": 2019
+        },
+        {
+          "title": "Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health",
+          "link": "https://doi.org/10.1016/s0140-6736(15)60901-1",
+          "venue": "The Lancet",
+          "year": 2015
+        },
+        {
+          "title": "IPCC, 2023: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland.",
+          "link": "https://doi.org/10.59327/ipcc/ar6-9789291691647",
+          "venue": null,
+          "year": 2023
+        },
+        {
+          "title": "The 2019 report of The Lancet Countdown on health and climate change: ensuring that the health of a child born today is not defined by a changing climate",
+          "link": "https://doi.org/10.1016/s0140-6736(19)32596-6",
+          "venue": "The Lancet",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "海洋热浪如何通过影响渔业资源而加剧中低收入国家的营养不足问题？",
+      "contributions_limitations": "该研究定量评估了海洋热浪对依赖渔业的中低收入国家人群营养安全的影响，将气候变化与人类健康直接联系，具有重要的政策意义。局限性可能在于依赖宏观统计模型，对具体的生计适应机制和替代食物来源考虑有限；基于现有信息，具体方法学（如数据源、因果识别策略）未呈现。",
+      "follow_up_research": "后续研究可深入评估不同国家或地区对海洋热浪的脆弱性差异及其缓冲机制（如水产养殖、进口）；可研究陆海生态系统相互作用，例如海洋资源变动如何通过贸易和劳动力转移影响内陆社区的碳足迹和土地利用。",
+      "next_step_perspective": "该研究提供了极端气候事件（海洋热浪）干扰生态系统服务并提供给人类社会的案例，与用户关注的极端气候对碳循环扰动具有方法论上的可比性。它强调了极端事件的级联社会经济效应，提示在评估野化对碳循环的影响时，也应考虑极端事件与动物种群动态的耦合，以及系统恢复力的非线性响应。",
+      "why_this_journal": "推测该文发表于PNAS是因为其综合了气候学、海洋生态和全球健康议题，研究结果对全球变化下的粮食安全和可持续发展具有重要政策含义，其跨学科的全球性分析符合PNAS办刊宗旨。",
+      "author_profile": {
+        "name": "Clark Gray",
+        "institution": "University of North Carolina at Chapel Hill",
+        "intro": "Clark Gray任职于北卡罗来纳大学教堂山分校，研究领域聚焦于环境变化（气候、土地利用）对人口迁移、生育、健康和人力资本的影响。其过往作品涉及气候-迁移关系、气候冲击与生育等，体现了社会人口学与环境科学的交叉特色。这与用户关注的生态系统变化（包括气候）如何通过动物和生态过程反馈到人类系统具有概念上的类似性，但其研究不涉及重野化。",
+        "other_works": [
+          {
+            "title": "Marine heatwaves and undernutrition in low- and middle-income countries",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2528506123"
+          },
+          {
+            "title": "Measuring the environmental context of child growth in Burkina Faso",
+            "year": "2023",
+            "journal": "Population and Environment",
+            "doi": "10.1007/s11111-023-00414-7"
+          },
+          {
+            "title": "The changing climate-migration relationship in China, 1989–2011",
+            "year": "2020",
+            "journal": "Climatic Change",
+            "doi": "10.1007/s10584-020-02657-x"
+          },
+          {
+            "title": "Cambios socioeconómicos en el siglo XXI en poblaciones indígenas Amazónicas: retos actuales",
+            "year": "2019",
+            "journal": "Estudios Demográficos y Urbanos",
+            "doi": "10.24201/edu.v35i1.1768"
+          },
+          {
+            "title": "Climate change and educational attainment in the global tropics",
+            "year": "2019",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-5921-2026",
+      "title": "Organic carbon pathways across the fluvial-marine transition zone of the Mackenzie River Delta – Beaufort Sea region and implications on ocean color remote sensing",
+      "link": "https://doi.org/10.5194/bg-23-5921-2026",
+      "summary": "Organic carbon pathways across the fluvial-marine transition zone of the Mackenzie River Delta – Beaufort Sea region and implications on ocean color remote sensing\n                    Annabeth McCall, Martin Hieronymi, P. Paul Overduin, Lisa Bröder, Julie Lattaud, Rüdiger Röttgers, Irina Overeem, Anne Morgenstern, Guido Grosse, and Bennet Juhls\n                        Biogeosciences, 23, 5921–5942, https://doi.org/10.5194/bg-23-5921-2026, 2026\n                        This study examines how carbon and sediments move from the Mackenzie River, through its delta, and into the Beaufort Sea. We use data from 2009–2024 and show that major changes in carbon concentrations unfold in low-salinity mixing zones. As the optical properties of the water also shift, satellite estimates of carbon will require more tailored methods. These findings will improve our understanding of Arctic carbon fluxes and influences on the greater Arctic Ocean carbon budget.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-26T11:29:22+02:00",
+      "doi": "10.5194/bg-23-5921-2026",
+      "affiliation": null,
+      "title_zh": "麦肯齐河三角洲-波弗特海地区河流-海洋过渡带的有机碳路径及其对海洋颜色遥感的启示",
+      "relevance_score": 6,
+      "key_conclusion": "该研究利用2009-2024年的数据，分析了碳和沉积物从麦肯齐河流经三角洲进入波弗特海的过程，发现在低盐度混合区碳浓度发生显著变化，同时水体光学性质改变，导致卫星碳估算需要更专属的方法，这将改进对北极碳通量和整体碳预算的理解。",
+      "relevance_note": "文章直接涉及有机碳在河流-海洋系统中的路径和通量，属于陆地-海洋生态系统碳循环的重要环节，与用户关注的碳循环主题高度相关；但研究地点在北极（非欧洲），且不直接涉及重野化或土壤机制，故给予中等偏高分数。",
+      "related_papers": [
+        {
+          "title": "Freshwater and its role in the Arctic Marine System: Sources, disposition, storage, export, and physical and biogeochemical consequences in the Arctic and global oceans",
+          "link": "https://doi.org/10.1002/2015jg003140",
+          "venue": "Journal of Geophysical Research Biogeosciences",
+          "year": 2015
+        },
+        {
+          "title": "Dissolved organic matter at the fluvial–marine transition in the Laptev Sea using in situ data and ocean colour remote sensing",
+          "link": "https://doi.org/10.5194/bg-16-2693-2019",
+          "venue": "Biogeosciences",
+          "year": 2019
+        },
+        {
+          "title": "Around one third of current Arctic Ocean primary production sustained by rivers and coastal erosion",
+          "link": "https://doi.org/10.1038/s41467-020-20470-z",
+          "venue": "Nature Communications",
+          "year": 2021
+        },
+        {
+          "title": "Transitions in Arctic ecosystems: Ecological implications of a changing hydrological regime",
+          "link": "https://doi.org/10.1002/2015jg003133",
+          "venue": "Journal of Geophysical Research Biogeosciences",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5921/2026/bg-23-5921-2026-avatar-web.png",
+      "scientific_question": "该研究试图回答有机碳如何从麦肯齐河流经三角洲进入波弗特海，以及这些碳通量的空间变化如何影响海洋水色遥感碳估算的准确性。",
+      "contributions_limitations": "主要贡献在于利用2009-2024年的长期数据揭示了低盐度混合区碳浓度的显著变化及其对水体光学性质的影响，为改进北极碳通量估算提供了关键参数。局限性可能在于研究区域集中于北极特定系统，结论对其他河口系统的推广可能有限，且遥感方法的调整可能受限于当地水文条件的复杂性和数据分辨率。基于现有信息推测。",
+      "follow_up_research": "后续研究可探索将改进的遥感算法应用于其他高纬度河流-海洋过渡带，以验证其普适性；同时可结合模型模拟碳在混合区的生物地球化学转化路径，深化对北极碳循环动态的理解。",
+      "next_step_perspective": "此研究为用户的碳循环研究提供了遥感与实地数据结合的方法论启发，尤其在追踪有机碳从陆地到海洋的迁移过程时，可借鉴其光学-碳关联的分析框架。此外，北极作为气候变化敏感区，其碳通量变化与用户关注的生态恢复和碳循环扰动主题高度相关。",
+      "why_this_journal": "Biogeosciences是聚焦生物地球化学过程的专业期刊，该研究结合碳循环与遥感技术，具有跨学科的方法创新性和对北极碳预算的重要贡献，推测因此获得发表机会。",
+      "author_profile": {
+        "name": "Bennet Juhls",
+        "institution": null,
+        "intro": "Bennet Juhls来自阿尔弗雷德·韦格纳研究所（基于其历史论文涉及北极研究推断），主要从事北极沉积物碳埋藏、河流-海洋碳通量及遥感监测研究，这些工作与用户关注的碳循环和生态系统功能恢复有显著关联，尤其在极端环境下的碳动态方面。",
+        "other_works": [
+          {
+            "title": "Organic carbon pathways across the fluvial-marine transition zone of the Mackenzie River Delta – Beaufort Sea region and implications on ocean color remote sensing",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5921-2026"
+          },
+          {
+            "title": "Seasonal contrast in rare earth elements concentration in sediment of the Mackenzie Delta",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-3039-2026"
+          },
+          {
+            "title": "Spatial variability of modern carbon burial in the Canadian Beaufort Sea ",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-13878"
+          },
+          {
+            "title": "Organic carbon pathways across the fluvial-marine transition zone of the Mackenzie River Delta – Beaufort Sea region and implications on ocean color remote sensing",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-997"
+          },
+          {
+            "title": "Seasonal Contrast in Rare Earth Elements Concentration in Sediment of the Mackenzie Delta",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-266"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2624553123?af=R",
+      "title": "Peter H. Raven: Botanist, evolutionary biologist, and biodiversity champion",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2624553123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 34, August 2026. Peter H. Raven was a transformative leader whose influence extended far beyond his own research. From a precocious childhood passion for natural history to landmark contributions to coevolution, ecological speciation, biogeography, and botanical ...",
+      "journal": "PNAS",
+      "published": "2026-08-19T07:00:00+00:00",
+      "doi": "10.1073/pnas.2624553123",
+      "affiliation": "Department of Biology, Washington University",
+      "title_zh": "Peter H. Raven：植物学家、进化生物学家和生物多样性倡导者",
+      "relevance_score": 5,
+      "key_conclusion": "这是一篇关于Peter H. Raven的纪念性文章，回顾了他在共同进化、生态物种形成、生物地理学和植物学领域的开创性贡献及其对生物多样性保护的深远影响。",
+      "relevance_note": "文章涉及生物多样性保护和生态进化主题，与用户关注的生物多样性和生态系统功能关系有一定关联，但主要是一篇人物传记，缺乏针对rewilding或碳循环的直接研究内容。",
+      "related_papers": [
+        {
+          "title": "Progress in understanding pollination systems in New Zealand",
+          "link": "https://doi.org/10.1080/0028825x.2005.9512943",
+          "venue": "New Zealand Journal of Botany",
+          "year": 2005
+        },
+        {
+          "title": "The rise and fall of plant species: a population biologist's perspective",
+          "link": "https://doi.org/10.2307/3558369",
+          "venue": "American Journal of Botany",
+          "year": 2001
+        },
+        {
+          "title": "REVIEWS AND NOTICES OF PUBLICATIONS",
+          "link": "https://doi.org/10.1002/j.1996-8175.1995.tb04927.x",
+          "venue": "Taxon",
+          "year": 1995
+        },
+        {
+          "title": "Jorge Víctor Crisci: Latin American champion of synantherology, phenetics, cladistics and biogeography",
+          "link": "https://doi.org/10.53875/capitulum.02.1.01",
+          "venue": "The International Compositae Alliance",
+          "year": 2022
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "这篇文章回顾Peter H. Raven作为植物学家和进化生物学家的生平和贡献，探讨他在共同进化、生态物种形成和生物多样性保护方面的科学遗产。",
+      "contributions_limitations": "主要贡献在于系统梳理了Raven在植物学与生物多样性领域的标志性成就，强调其对生态学和保护科学的跨学科影响。局限性可能在于作为纪念性文章，其内容侧重于历史回顾而非新实验数据，分析深度可能受限于对个人生平的叙述性质。",
+      "follow_up_research": "基于此文，后续研究可深入探讨Raven提出的共同进化理论在现代生态系统管理中的应用，尤其是在生物多样性丧失背景下的保护策略设计。",
+      "next_step_perspective": "对于用户而言，这篇综述类文章有助于把握生物多样性保护的历史脉络和理论框架，其强调的进化-生态耦合视角可能为用户在生物多样性-生态系统功能关系研究中提供概念性启发。",
+      "why_this_journal": "PNAS作为综合性顶级期刊，常发表具有广泛科学影响力和纪念意义的文章，此文纪念一位具有跨时代影响力的科学领袖，其领域重要性符合期刊定位。",
+      "author_profile": {
+        "name": "Jonathan B. Losos",
+        "institution": null,
+        "intro": "Jonathan B. Losos是一位进化生物学家，其研究主要涉及爬行动物（如蜥蜴）的适应性辐射、形态多样性和表型进化，这些与用户关注的生物互作和进化过程有一定交叉，但具体关联性需结合更多信息。",
+        "other_works": [
+          {
+            "title": "Peter H. Raven: Botanist, evolutionary biologist, and biodiversity champion",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2624553123"
+          },
+          {
+            "title": "Diversification and Evolutionary Dynamics in Tropical Montane Regions",
+            "year": "2026",
+            "journal": "Global Ecology and Biogeography",
+            "doi": "10.1111/geb.70218"
+          },
+          {
+            "title": "The cat diaspora out of Africa",
+            "year": "2025",
+            "journal": "Science",
+            "doi": "10.1126/science.aec9283"
+          },
+          {
+            "title": "Morphological and genomic responses to hurricanes arise and persist during a biological invasion",
+            "year": "2025",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2517322122"
+          },
+          {
+            "title": "Structural Rearrangements and Selection Promote Phenotypic Evolution in Anolis Lizards",
+            "year": "2025",
+            "journal": "Genome Biology and Evolution",
+            "doi": "10.1093/gbe/evaf196"
+          }
+        ]
+      }
+    },
     {
       "id": "https://doi.org/10.5194/bg-23-5901-2026",
       "title": "Qualitative transformations of dissolved organic matter along supra-permafrost flow: insights from Arctic subterranean estuaries",
@@ -64,6 +489,116 @@
             "year": "2023",
             "journal": "Earth System Science Data",
             "doi": "10.5194/essd-15-1617-2023"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2607117123?af=R",
+      "title": "TaIAA25 negatively regulates wheat alkaline tolerance by inhibiting plasma membrane H+-ATPase activity",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607117123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 34, August 2026. SignificanceGlobal soil salinization/alkalization severely restricts crop yields by imposing high salt and high pH stress on plants. Although auxin and plasma membrane (PM) H+-ATPase participate in alkaline tolerance, their connecting pathway remains ...",
+      "journal": "PNAS",
+      "published": "2026-08-18T07:00:00+00:00",
+      "doi": "10.1073/pnas.2607117123",
+      "affiliation": "The Key Laboratory of Plant Development and Environmental Adaptation Biology, Ministry of Education, Shandong Key Laboratory of Precision Molecular Crop Design and Breeding, Shandong Key Laboratory of Plant Stress Biology and Genetic Improvement, School of Life Sciences, Shandong University; National Center of Technology Innovation for Comprehensive Utilization of Saline-Alkali Land; State Key Laboratory of Microbial Technology, Shandong University",
+      "title_zh": "TaIAA25通过抑制质膜H+-ATPase活性负调控小麦耐碱性",
+      "relevance_score": 4,
+      "key_conclusion": "研究表明TaIAA25转录因子通过抑制质膜H+-ATPase活性负调控小麦的耐碱性，揭示了生长素和质子泵在植物盐碱胁迫响应中的连接通路。",
+      "relevance_note": "涉及植物逆境生理和养分利用，但与碳循环、rewilding或动物生态关联较弱，仅在植物-土壤反馈方面有一定间接联系。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "该研究试图揭示小麦耐碱性调控的分子机制，特别是生长素信号通路中TaIAA25转录因子如何通过影响质膜H+-ATPase活性来调节植物的盐碱胁迫响应。",
+      "contributions_limitations": "主要贡献是首次阐明了TaIAA25与质膜H+-ATPase之间的调控连接，为理解植物碱胁迫耐受性提供了新的分子靶点。局限性可能在于研究聚焦于小麦单一物种，调控网络在其他作物或自然生态系统中的普适性尚待验证，且实验多为室内条件。",
+      "follow_up_research": "后续研究可探索TaIAA25在不同作物和野生植物中的功能保守性，并评估其在盐碱地生态恢复中的应用潜力，如通过基因编辑提高植被抗逆性以促进退化土壤的碳固定。",
+      "next_step_perspective": "此研究虽非直接涉及rewilding，但盐碱胁迫是影响植被恢复和碳循环的关键非生物因子，其分子机制知识可启发用户思考植物-土壤反馈在重野化过程中的抗逆性瓶颈，以及如何通过调控植物生理特性来增强生态系统功能。",
+      "why_this_journal": "PNAS以发表具有重要生物学意义和广泛应用价值的原创研究著称，该研究揭示了植物逆境响应的新调控机制，具有分子生物学创新性和农业应用前景，推测符合期刊标准。",
+      "author_profile": {
+        "name": "Fengxiang Yin",
+        "institution": null,
+        "intro": "基于现有信息，Fengxiang Yin的作者信息不足，无法提供详细学术背景，建议查看原文获取机构或领域信息。",
+        "other_works": []
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2606669123?af=R",
+      "title": "Urban tree canopy fragmentation and child mortality in low- and middle-income countries",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606669123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 34, August 2026. SignificanceAlthough international health agendas increasingly promote nature-based solutions, little is known about whether the spatial configuration of urban trees associates with child survival. Using longitudinal data from more than 420,000 children ...",
+      "journal": "PNAS",
+      "published": "2026-08-21T07:00:00+00:00",
+      "doi": "10.1073/pnas.2606669123",
+      "affiliation": "School of Earth System Science, Institute of Surface-Earth System Science, Tianjin University; Singapore–ETH Centre, Future Cities Laboratory Global; Bioeconomy Science Institute",
+      "title_zh": "低收入和中等收入国家城市树冠破碎化与儿童死亡率",
+      "relevance_score": 4,
+      "key_conclusion": "该研究利用超过42万名儿童的纵向数据，探讨了城市树木的空间配置与儿童存活率之间的关系，发现城市树冠的破碎化程度可能与儿童死亡率相关，表明树木的分布格局而非仅仅是覆盖面积对健康结果有重要影响。",
+      "relevance_note": "文章涉及基于自然的解决方案（城市树木）与人类健康的关系，虽非直接关于碳循环或重野化，但属于nature-based solutions在应对气候变化以外效应的探讨，用户对此类主题有关注角度，可给予中等分数。",
+      "related_papers": [
+        {
+          "title": "Growing Biodiverse Urban Futures: Renaturalization and Rewilding as Strategies to Strengthen Urban Resilience",
+          "link": "https://doi.org/10.3390/su13052932",
+          "venue": "Sustainability",
+          "year": 2021
+        },
+        {
+          "title": "Balanced Urban Development: Options and Strategies for Liveable Cities",
+          "link": "https://doi.org/10.1007/978-3-319-28112-4",
+          "venue": "Water science and technology library",
+          "year": 2016
+        },
+        {
+          "title": "Luxury and legacy effects on urban biodiversity, vegetation cover and ecosystem services",
+          "link": "https://doi.org/10.1038/s42949-023-00128-7",
+          "venue": "npj Urban Sustainability",
+          "year": 2023
+        },
+        {
+          "title": "Food systems at risk. New trends and challenges",
+          "link": "https://doi.org/10.19182/agritrop/00080",
+          "venue": null,
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "该研究探讨城市树木的空间配置（而非单纯覆盖面积）如何与中低收入国家儿童死亡率相关，评估基于自然的解决方案的健康效应是否依赖于树冠的景观结构。",
+      "contributions_limitations": "主要贡献是利用超过42万名儿童的纵向数据，首次大规模揭示了树冠破碎化与儿童健康结局的关联，为城市绿化政策提供了空间规划层面的循证依据。局限性可能在于观察性研究设计难以完全排除混杂因素，且中低收入国家的背景异质性可能影响结果的推广。",
+      "follow_up_research": "后续研究可进一步分析树冠配置影响儿童健康的具体机制，如通过空气污染过滤或心理健康路径，并设计干预实验验证树冠连通性的因果效应。",
+      "next_step_perspective": "此文与用户关注的基于自然的解决方案直接相关，其核心主题——空间配置对生态系统服务功能的影响，可类比至重野化中景观异质性对碳封存的调控作用，启发用户在设计rewilding规划时考虑空间格局的功能效应。",
+      "why_this_journal": "PNAS重视具有广泛社会影响力和政策相关性的研究，城市生态与公共健康的交叉主题具有高度新颖性，且大规模数据集的使用增强了研究的严谨性，推测是其发表原因。",
+      "author_profile": {
+        "name": "Dengkai Chi",
+        "institution": "KU Leuven",
+        "intro": "Dengkai Chi来自KU Leuven，其主要研究方向为城市生态系统服务与公共健康，涉及树木健康遥感监测和城市环境对居民福祉的影响，这些研究与用户关注的生态功能评估和自然解决方案有较强的关联性，其遥感方法可为用户提供技术借鉴。",
+        "other_works": [
+          {
+            "title": "Urban tree canopy fragmentation and child mortality in low- and middle-income countries",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2606669123"
+          },
+          {
+            "title": "Tree canopy configuration and Swiss adult mortality at the municipal level: A nationwide ecological study",
+            "year": "2026",
+            "journal": "Environment International",
+            "doi": "10.1016/j.envint.2026.110188"
+          },
+          {
+            "title": "Reanalysis-data-based approach to generate urban local weather data to support building energy design in a tropical climate",
+            "year": "2025",
+            "journal": "Sustainable Cities and Society",
+            "doi": "10.1016/j.scs.2025.106629"
+          },
+          {
+            "title": "Residential Exposure to Urban Trees and Medication Sales for Mood Disorders and Cardiovascular Disease in Brussels, Belgium: An Ecological Study",
+            "year": "2022",
+            "journal": "Environmental Health Perspectives",
+            "doi": "10.1289/EHP9924"
+          },
+          {
+            "title": "Foliar optical traits capture physiological and phenological leaf plasticity in Tilia×euchlora in the urban environment",
+            "year": "2022",
+            "journal": "Science of The Total Environment",
+            "doi": "10.1016/j.scitotenv.2021.150219"
           }
         ]
       }
