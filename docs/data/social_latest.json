@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-08-25T12:42:52.597166+00:00",
-  "count": 8,
+  "generated_at": "2026-08-26T01:36:46.047420+00:00",
+  "count": 9,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Kosovo shows how surveilling ticks and the pathogens they carry can uncover the hidden circulation of Crimean-Congo hemorrhagic fever—and help other European countries prepare before human cases appear. https://scim.ag/46ia138",
+      "created_at": "2026-08-25T22:59:01.509279342Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mtwwabci5a2c",
+      "external_title": "Deadly tick-borne virus gains ground in Europe as climate warms",
+      "external_description": "Kosovo shows how surveillance can uncover hidden circulation—and help countries prepare before human cases appear",
+      "external_uri": "https://scim.ag/46ia138",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreifixkclzlopkhn5lvmearmjvpep3wqjiejb3rwdqrbdmupdawlpsy"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Europe’s rules for proving environmental performance of battery technologies could reshape sustainability regulation far beyond the European Union, researchers report in a new #SciencePolicyArticle. https://scim.ag/4zC4oKO ",
+      "created_at": "2026-08-25T19:40:01.689448541Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mtwl4gm3ny2c",
+      "external_title": "A Brussels Effect for battery sustainability",
+      "external_description": "An EU battery regulation can help drive toward a widely shared evidentiary system for sustainability governance",
+      "external_uri": "https://scim.ag/4zC4oKO",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreifvyrsdaxxeucyji5lo55r6wuffdasq4x7out3qi33lucsxixsady"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "As the world debates how to regulate AI, Europe’s lawmakers are doing a lot of the heavy lifting\n\ngo.nature.com/4giPHog",
+      "created_at": "2026-08-25T16:17:02.021Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mtw7rh74lm2e",
+      "external_title": "How to manage AI risks while reaping the benefits",
+      "external_description": "As the world debates how to regulate artificial intelligence, Europe’s lawmakers are doing a lot of the heavy lifting.",
+      "external_uri": "https://go.nature.com/4giPHog",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiagpcq34lyxi33awc3jwxyrgrbhnh4fyg6x74wtjw6yxzrtwenzdq"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New Comment:\n\nChallender et al evaluate the potential risks and benefits of reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable—  and discuss policy solutions www.nature.com/articles/s41...",
+      "created_at": "2026-08-25T15:15:39.886Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtw4dplshk2v",
+      "external_title": "Assessing a reverse approach to protecting traded species - Nature Ecology & Evolution",
+      "external_description": "Reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable — is increasingly proposed as a means of addressing unregulated trade. We evaluate the potential ...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03161-8",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic6srlvzii7uwjk4afsfz7tzilymp7fv32ssyllmpzol4sfzbpfe4"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -52,39 +96,6 @@
       "text": "Our editors write:\n\n- Drought genes: Narrow origin yet broad action rdcu.be/fBLoz\n\n- Saxifraga confirmed carnivorous rdcu.be/fBLpn\n\n- Cambium needs no preprophase band rdcu.be/fBLpq\n\n- Forest ecology: Going against gravity rdcu.be/fBLpJ\n\n#PlantScience",
       "created_at": "2026-08-24T15:13:24.824Z",
       "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mttlqrdby22x",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Letting late summer weeds grow could help honeybees when they find it most challenging to gather nectar, according to new research in @funecology.bsky.social",
-      "created_at": "2026-08-22T22:01:42.987696690Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mtpbmzsxkh2s",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "A study of the environmental history of Yellowstone National Park over the past 15,000 years suggests that climate warming is likely to reduce hydrothermal activity and increase wildfire activity—but will likely not change the dominance of lodgepole pine. In PNAS: https://ow.ly/zFma50ZCLZH",
-      "created_at": "2026-08-22T18:00:28.145684027Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mtou5nvwzx2w",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Opinion piece: Supposed “hydrogen-ready” #pipelines and #infrastructure risk new #carbon lock-in rather than offering a pathway to #decarbonization. In PNAS Front Matter: https://ow.ly/T0jS50ZCLRN\n\n#hydrogen #ClimateChange #CleanEnergy",
-      "created_at": "2026-08-22T17:00:24.747082313Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mtoqsbatgg2s",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
