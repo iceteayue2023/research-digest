@@ -1,6 +1,72 @@
 {
   "date": "2026-08-26",
-  "generated_at": "2026-08-26T01:36:46.047138+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-26T06:33:18.493047+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-5901-2026",
+      "title": "Qualitative transformations of dissolved organic matter along supra-permafrost flow: insights from Arctic subterranean estuaries",
+      "link": "https://doi.org/10.5194/bg-23-5901-2026",
+      "summary": "Qualitative transformations of dissolved organic matter along supra-permafrost flow: insights from Arctic subterranean estuaries\n                    Aude Flamand, Jean-François Lapierre, and Gwénaëlle Chaillou\n                        Biogeosciences, 23, 5901–5919, https://doi.org/10.5194/bg-23-5901-2026, 2026\n                        Climate change is accelerating permafrost thaw and coastal erosion, increasing dissolved organic matter (DOM) inputs to the Arctic Ocean. We show that, beyond seawater dilution, DOM is transformed as it passes through Arctic beach subterranean estuaries, shifting from humic-rich to more microbially processed material. These coastal zones act as biogeochemical reactors, modifying DOM before its export to coastal waters.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-26T07:14:08+02:00",
+      "doi": "10.5194/bg-23-5901-2026",
+      "affiliation": null,
+      "title_zh": "沿超永久冻土水流中溶解有机物的定性转化：来自北极地下河口的见解",
+      "relevance_score": 4,
+      "key_conclusion": "研究发现，在气候变暖加速永久冻土融化和海岸侵蚀的背景下，溶解有机物（DOM）在通过北极海滩地下河口时不仅受到海水稀释，还经历了定性转化，从富含腐殖质的状态转变为更多微生物处理过的物质。这些沿海区域作为生物地球化学反应器，在DOM输出到沿海水域前对其进行了改造。",
+      "relevance_note": "该研究与用户关注的土壤有机碳循环相关，但重点在北极地下河口的溶解有机物转化，而非大型食草动物重野化或放牧效应。文章涉及碳循环但缺乏与动物反馈或植被-土壤互作的直接关联，故相关性中等偏低。",
+      "related_papers": [
+        {
+          "title": "Traditional Ecological Knowledge of Belgula Whale (Delphinapterus Lecuas) in a Changing Climate in the Inuvialuit Settlement Region (ISR), NWT",
+          "link": "",
+          "venue": "USC Research Bank (University of the Sunshine Coast)",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5901/2026/bg-23-5901-2026-avatar-web.png",
+      "scientific_question": "本文试图解答在气候变暖导致永久冻土融化和海岸侵蚀加剧的背景下，溶解有机物（DOM）在北极超高寒地下河口（supra-permafrost subterranean estuaries）沿程输送过程中经历了怎样的定性（化学组成）转化，以及这些沿海区域在多大程度上充当DOM的生物地球化学反应器而非简单的传输通道。",
+      "contributions_limitations": "主要贡献在于通过实证研究证明，北极海滩地下河口不仅是物理稀释的场所，更是DOM发生定性转化的活跃生物地球化学反应区，DOM从富腐殖质特征向更多微生物加工物质的转变，为理解北极海岸带DOM的最终命运和碳循环贡献提供了关键证据。可能的局限包括：研究地点可能具有区域特异性（如Mackenzie三角洲区域），其结论在空间外推时的普适性需要更多跨北极样点的验证；基于现有信息，具体的水文路径定量和DOM分子层面的转化机制可能未完全闭合。",
+      "follow_up_research": "后续研究可定量评估这一DOM转化过程对下游异养微生物呼吸和CO2释放的具体贡献，结合同位素示踪（如14C、13C）厘清DOM的不同来源和年龄；也可将地下河口DOM转化参数化后耦合到区域海洋碳循环模型中，评估其对北极近岸碳收支的尺度影响。",
+      "next_step_perspective": "这篇研究为你的碳循环研究提供了'海岸带地下河口作为DOM反应器'这一视角，提示在大型食草动物重野化研究中，动物介导的有机质输入（如粪便、尸体）在流入水体前是否也会经历类似的'地下水/土壤-水界面'处理过程，值得关注。方法上，DOM的定性表征（光谱、分子组成）技术可以迁移到土壤有机碳研究中，用于追踪POM向MAOM转化过程中有机质化学性质的连续变化。",
+      "why_this_journal": "Biogeosciences是欧洲地球科学联合会（EGU）旗下的生物地球化学领域主流期刊，侧重多圈层相互作用和碳氮循环等问题，该文聚焦北极海岸带DOM转化这一跨永冻土—地下水—海洋界面的研究，兼具气候变化响应背景和生物地球化学过程机理，符合该刊对'气候变化驱动的关键带碳循环过程'选题的偏好。此为推测：该文的方法严谨性（沿水文连续体采样）和区域代表性（高纬度北极关键带）也是其被接收的可能原因。",
+      "author_profile": {
+        "name": "Aude Flamand",
+        "institution": "Université de Montréal",
+        "intro": "作者Aude Flamand来自加拿大蒙特利尔大学（Université de Montréal），从其历史论文（如'Fate of dissolved organic matter across the permafrost–nearshore water continuum'和'Nunataryuk field campaigns'）来看，其主要研究方向是北极/寒带生态系统中陆源有机质的来源、输运与转化过程，特别是永久冻土融化背景下陆地-海洋连续体中的碳循环。这一方向与你的土壤有机碳和气候-碳反馈研究有很好的衔接点——有机质的降解与稳定机制是共同的科学内核，其沿程转化的视角可启发你在重野化系统中考虑动物源有机质在土壤-水体界面的去向。",
+        "other_works": [
+          {
+            "title": "Qualitative transformations of dissolved organic matter along supra-permafrost flow: insights from Arctic subterranean estuaries",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5901-2026"
+          },
+          {
+            "title": "ERRATUM: From Holocene stability to industrial acceleration: shifting patterns of carbon accumulation in North American boreal and temperate lakes (2026 Environ. Res. Lett. 21 074017)",
+            "year": "2026",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ae81cb"
+          },
+          {
+            "title": "From Holocene stability to industrial acceleration: shifting patterns of carbon accumulation in North American boreal and temperate lakes",
+            "year": "2026",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ae5a4c"
+          },
+          {
+            "title": "Fate of dissolved organic matter across the permafrost–nearshore water continuum: role of the intertidal sediments",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.5194/egusphere-2024-2945"
+          },
+          {
+            "title": "Nunataryuk field campaigns: understanding the origin and fate of terrestrial organic matter in the coastal waters of the Mackenzie Delta region",
+            "year": "2023",
+            "journal": "Earth System Science Data",
+            "doi": "10.5194/essd-15-1617-2023"
+          }
+        ]
+      }
+    }
+  ]
 }
