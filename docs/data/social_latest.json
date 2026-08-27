@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-27T08:25:09.809248+00:00",
-  "count": 9,
+  "generated_at": "2026-08-27T17:09:42.972896+00:00",
+  "count": 13,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Old-growth grasslands are slow to recover once destroyed. Characteristic plants of such grasslands are shorter and have smaller leaves with less nitrogen than plants in secondary grasslands, which are resource-acquisitive and more competitive. In PNAS: https://ow.ly/zOl950ZFVFu",
+      "created_at": "2026-08-27T16:01:20.286632852Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mu37tasjki25",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Deadline is fast approaching 🔥Submit your abstract by 17:00 (BST) on Wednesday 2 September 👇\n\n",
+      "created_at": "2026-08-27T11:45:47.059614002Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mu2rkb7gsl2z",
+      "external_title": "Call for abstracts - British Ecological Society",
+      "external_description": "Submit your abstract now to share your work with Europe's largest gathering of ecologists",
+      "external_uri": "https://www.britishecologicalsociety.org/content/bes-annual-meeting-2026/call-for-abstracts/",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreid35jp7jmjnnmyos3jubojwa5cg2allntm2wbo6o2f2yswqs2pr6q"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Large areas of the tropics could naturally regenerate into forest, yet how the costs and benefits vary spatially remain unknown. This study reveals that natural regeneration could reduce extinction risk for forest species by ~31% with adequate investment 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-08-27T08:38:40.157Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mu2h3oawcs2b",
+      "external_title": "Variation in the costs and ecological benefits of tropical natural forest regeneration - Nature Ecology & Evolution",
+      "external_description": "Large areas of the tropics could naturally regenerate into forest, yet how the costs and benefits of realizing this potential vary spatially remain unknown. This study fills that gap, revealing that n...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03154-7",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreibc6i3xhxj77kpuw3caomc7v4ykhm6r3owowjxnasbhiws7wjl5ly"
+    },
     {
       "handle": "science.org",
       "author_name": "Hannah Richter",
@@ -58,6 +91,28 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiagpcq34lyxi33awc3jwxyrgrbhnh4fyg6x74wtjw6yxzrtwenzdq"
     },
     {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New Comment:\n\nChallender et al evaluate the potential risks and benefits of reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable—  and discuss policy solutions www.nature.com/articles/s41...",
+      "created_at": "2026-08-25T15:15:39.886Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtw4dplshk2v",
+      "external_title": "Assessing a reverse approach to protecting traded species - Nature Ecology & Evolution",
+      "external_description": "Reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable — is increasingly proposed as a means of addressing unregulated trade. We evaluate the potential ...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03161-8",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic6srlvzii7uwjk4afsfz7tzilymp7fv32ssyllmpzol4sfzbpfe4"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New Comment:\n\nChallender et al evaluate the potential risks and benefits of reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable—  and discuss policy solutions www.nature.com/articles/s41...",
+      "created_at": "2026-08-25T15:15:39.886Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtw4dplshk2v",
+      "external_title": "Assessing a reverse approach to protecting traded species - Nature Ecology & Evolution",
+      "external_description": "Reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable — is increasingly proposed as a means of addressing unregulated trade. We evaluate the potential ...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03161-8",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic6srlvzii7uwjk4afsfz7tzilymp7fv32ssyllmpzol4sfzbpfe4"
+    },
+    {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
       "text": "Researchers find that expanding human land use and populations may intensify elephant crop raiding in Southern Africa, with climate playing a smaller role. \n\nIn Mongabay: https://ow.ly/njgw50ZENLG \n\nIn PNAS Nexus: https://ow.ly/WM8m50ZENM6",
@@ -85,17 +140,6 @@
       "text": "Read highlights in this week’s issue of PNAS: We examine the origin of Northwest African savannas, explore the effects of UV radiation on DNA building-blocks, and investigate climate and flood risk along the Yangtze River. Explore now: https://ow.ly/LlC850ZEOjv",
       "created_at": "2026-08-24T19:00:30.197908338Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3mttygu7f7g2v",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "A painting of a sun-ray motif from a limestone rock shelter on Wetar Island in Southeast Indonesia was radiocarbon-dated to about 4,000 years ago, making it the earliest securely dated example of Austronesian painting. In PNAS: https://ow.ly/AsJr50ZEOAX",
-      "created_at": "2026-08-24T16:01:33.548952507Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mttoguybwz2p",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
