@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-08-26T12:42:12.327041+00:00",
-  "count": 11,
+  "generated_at": "2026-08-27T08:25:09.809248+00:00",
+  "count": 9,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Hannah Richter",
+      "text": "3% of a giant Western Australian forest died in a record drought in 2023-24. Now, scientists have used the damage to develop a surprising new tool for predicting future die-offs: gamma rays.🌲⚡ \n\nRead more in @science.org: www.science.org/content/arti... #tree #forest #drought #climate #climatechange",
+      "created_at": "2026-08-26T14:52:08.445Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mtylikys4c2b",
+      "external_title": "To predict tree death, scientists tapped gamma rays to peer underground",
+      "external_description": "Airborne radiation sensors could help forecast and prevent drought-driven tree mortality",
+      "external_uri": "https://www.science.org/content/article/predict-tree-death-scientists-tapped-gamma-rays-peer-underground",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:etkgpjuvhfxgbe55f7kewofu/bafkreidkt7rsgao4a5thxdr764lrxt7qrm7l5mq2r2ld7gcx76ukslury4"
+    },
     {
       "handle": "natclimate.nature.com",
       "author_name": "Nature Portfolio",
@@ -47,17 +58,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiagpcq34lyxi33awc3jwxyrgrbhnh4fyg6x74wtjw6yxzrtwenzdq"
     },
     {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New Comment:\n\nChallender et al evaluate the potential risks and benefits of reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable—  and discuss policy solutions www.nature.com/articles/s41...",
-      "created_at": "2026-08-25T15:15:39.886Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtw4dplshk2v",
-      "external_title": "Assessing a reverse approach to protecting traded species - Nature Ecology & Evolution",
-      "external_description": "Reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable — is increasingly proposed as a means of addressing unregulated trade. We evaluate the potential ...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03161-8",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic6srlvzii7uwjk4afsfz7tzilymp7fv32ssyllmpzol4sfzbpfe4"
-    },
-    {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
       "text": "Researchers find that expanding human land use and populations may intensify elephant crop raiding in Southern Africa, with climate playing a smaller role. \n\nIn Mongabay: https://ow.ly/njgw50ZENLG \n\nIn PNAS Nexus: https://ow.ly/WM8m50ZENM6",
@@ -96,28 +96,6 @@
       "text": "A painting of a sun-ray motif from a limestone rock shelter on Wetar Island in Southeast Indonesia was radiocarbon-dated to about 4,000 years ago, making it the earliest securely dated example of Austronesian painting. In PNAS: https://ow.ly/AsJr50ZEOAX",
       "created_at": "2026-08-24T16:01:33.548952507Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3mttoguybwz2p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natplants.nature.com",
-      "author_name": "Nature Plants",
-      "text": "New OA Article: \"Bottom-up reconstruction of synthetic pyrenoids provides insights into the mechanisms and evolution of carbon concentration by EPYC1 proteins\" rdcu.be/fBLCs\n\nWith Research Briefing: rdcu.be/fBLC7\n\n#PlantScience",
-      "created_at": "2026-08-24T15:26:26.395Z",
-      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mttmi2ovwk2x",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natplants.nature.com",
-      "author_name": "Nature Plants",
-      "text": "Our editors write:\n\n- Drought genes: Narrow origin yet broad action rdcu.be/fBLoz\n\n- Saxifraga confirmed carnivorous rdcu.be/fBLpn\n\n- Cambium needs no preprophase band rdcu.be/fBLpq\n\n- Forest ecology: Going against gravity rdcu.be/fBLpJ\n\n#PlantScience",
-      "created_at": "2026-08-24T15:13:24.824Z",
-      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mttlqrdby22x",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
