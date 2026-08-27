@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-27T17:09:42.972896+00:00",
-  "count": 13,
+  "generated_at": "2026-08-27T21:38:20.420754+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "In this issue: Lyme disease ecology in New York, evidence that a painted plaque suggests an Austronesian tradition preceded Neolithic pottery, and a stem cell-derived model of neurodegenerative retinal diseases. In PNAS: https://ow.ly/S85S50ZFWio",
+      "created_at": "2026-08-27T21:00:17.578545728Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mu3qjsquzu2g",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "A millennium-long record from Galápagos corals suggests that El Niño is intensifying as the planet warms, with ENSO variability in the eastern Pacific roughly 37% higher than during the preindustrial era. \n\nLearn more: https://scim.ag/4zJ0DTJ ",
+      "created_at": "2026-08-27T19:15:04.681295241Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mu3knnuons2h",
+      "external_title": "Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord",
+      "external_description": "The Pacific El Niño–Southern Oscillation (ENSO) generates climate extremes that endanger ecosystems, infrastructure, and human well-being worldwide. The response of this system to climate warming is p...",
+      "external_uri": "https://scim.ag/4zJ0DTJ",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreie4z2j6rsawt5652iaaa5ojewlcg36icitzhrexxgoobh7t5uid6m"
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Antimicrobial-resistant bacteria and associated genes lurk in farm soil, but field experiments show that switching from industrial monocultures to less-intensive, low-input systems with diverse crop rotations can mitigate the threat. In PNAS: https://ow.ly/HN0r50ZFVHw",
+      "created_at": "2026-08-27T19:00:31.286226170Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mu3jtnovuk2g",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -118,28 +151,6 @@
       "text": "Researchers find that expanding human land use and populations may intensify elephant crop raiding in Southern Africa, with climate playing a smaller role. \n\nIn Mongabay: https://ow.ly/njgw50ZENLG \n\nIn PNAS Nexus: https://ow.ly/WM8m50ZENM6",
       "created_at": "2026-08-24T23:00:19.108592889Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3mtufto5rer2p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "Joseph Holden",
-      "text": "Our new open access paper from Hong Wang's PhD in Nature Climate Change @springernature.com shows how climate warming causes more barriers for river habitats due to river temperatures exceeding tolerance thresholds for fish species: www.nature.com/articles/s41... @water.leeds.ac.uk",
-      "created_at": "2026-08-24T20:23:45.284Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mtu53p6nwc2h",
-      "external_title": "Climate warming drives thermal shocks and accelerated freshwater habitat fragmentation - Nature Climate Change",
-      "external_description": "Assessing 9,809 freshwater fish species globally, this study shows risk to a high proportion of species in the tropics, and severe extremes in non-tropical regions. Under high emissions, gradual warmi...",
-      "external_uri": "https://www.nature.com/articles/s41558-026-02731-9",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c2tyhm34r4eg6artmp4sjpdi/bafkreicmrf3337e2ttrzm4dgu74ltu7qtf5l7dh6atigu4gfw7eg3jy7xa"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Read highlights in this week’s issue of PNAS: We examine the origin of Northwest African savannas, explore the effects of UV radiation on DNA building-blocks, and investigate climate and flood risk along the Yangtze River. Explore now: https://ow.ly/LlC850ZEOjv",
-      "created_at": "2026-08-24T19:00:30.197908338Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mttygu7f7g2v",
       "external_title": null,
       "external_description": null,
       "external_uri": null,

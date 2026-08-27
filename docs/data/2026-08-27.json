@@ -1,7 +1,7 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27T17:09:42.971639+00:00",
-  "count": 5,
+  "generated_at": "2026-08-27T21:38:20.419694+00:00",
+  "count": 6,
   "articles": [
     {
       "id": "https://www.nature.com/articles/d41586-026-02480-x",
@@ -132,6 +132,28 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02717-9",
+      "title": "Why are El Niños getting stronger? 1000-year-coral record points to climate change",
+      "link": "https://www.nature.com/articles/d41586-026-02717-9",
+      "summary": "Nature, Published online: 27 August 2026; doi:10.1038/d41586-026-02717-9A reconstruction of Pacific Ocean sea surface temperatures adds to the evidence that human-caused warming is boosting El Niño events.",
+      "journal": "Nature",
+      "published": "2026-08-27T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-02717-9",
+      "affiliation": null,
+      "title_zh": "为什么厄尔尼诺现象正在增强？千年珊瑚记录指向气候变化",
+      "relevance_score": 6,
+      "key_conclusion": "基于珊瑚重建的太平洋海表温度记录表明，人类活动导致的变暖正在增强厄尔尼诺事件的强度。",
+      "relevance_note": "该文章虽不直接涉及重野化或土壤碳循环，但发表于Nature正刊，主题涉及气候系统对极端事件的扰动，与您关注的极端气候事件对碳循环扰动领域有一定关联，且发表期刊价值高。",
+      "related_papers": [],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02717-9/d41586-026-02717-9_53171026.jpg",
+      "scientific_question": "人类活动导致的气候变暖是否以及在多大程度上增强了厄尔尼诺事件的强度？",
+      "contributions_limitations": "基于千年的珊瑚重建记录，文章提供了太平洋海表温度的长时序证据，表明人类活动导致的气候变暖正在增强厄尔尼诺事件的强度。其局限性可能在于珊瑚重建记录的空间覆盖范围有限，且对ENSO变率的季节性或区域性细节刻画可能不够全面。",
+      "follow_up_research": "后续研究可探索增强的厄尔尼诺事件如何影响全球或区域尺度的陆地生态系统碳循环，特别是热带雨林的碳源汇动态；也可将此类气候变率信息耦合到动态植被模型（DGVM）中，评估极端气候对植被碳分配策略的长期影响。",
+      "next_step_perspective": "这篇文章提示用户，长时序的代理数据（如珊瑚）是评估气候变率变化的宝贵资源，其结论可直接用于理解极端气候事件（如厄尔尼诺）对碳循环的扰动机制。方法上可借鉴其建立生物地球化学代理指标与气候变率关联的思路，用于反演历史时期的放牧或重野化对土壤碳库的影响。",
+      "why_this_journal": "该研究提供了关键的古气候证据，连接了人类活动与全球性气候变率增强这一重大问题，具有高度的跨学科意义和公众影响力，符合Nature的发表标准（推测）。",
+      "author_profile": null
     },
     {
       "id": "https://www.nature.com/articles/d41586-026-02681-4",
