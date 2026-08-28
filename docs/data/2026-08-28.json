@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28T10:25:09.405130+00:00",
-  "count": 2,
+  "generated_at": "2026-08-28T17:56:33.077431+00:00",
+  "count": 3,
   "articles": [
     {
       "id": "https://www.nature.com/articles/s41559-026-03160-9",
@@ -79,6 +79,53 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026003261",
+      "title": "Hybrid forest models in the age of abundant monitoring data and powerful data-driven algorithms: back to the future",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026003261?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 27 August 2026Source: Ecological ModellingAuthor(s): Yueh-Hsin Lo, Juan A. Blanco",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "在监测数据丰富和数据驱动算法强大的时代，混合森林模型：回到未来",
+      "relevance_score": 7,
+      "key_conclusion": "本文探讨了在大量监测数据和强大数据驱动算法背景下，混合森林模型（结合过程与数据驱动方法）的发展前景，主张融合传统机制模型与机器学习以提升预测能力，并可能回顾了此类模型的演变与应用潜力。",
+      "relevance_note": "文章主题涉及生态系统模型改进，特别是森林模型的混合开发，与用户对生态系统模型改进和DGVM开发方向相关，但未直接涉及碳循环或rewilding，因此分数中等偏高。",
+      "related_papers": [
+        {
+          "title": "Machine learning and structural health monitoring overview with emerging technology and high-dimensional data source highlights",
+          "link": "https://doi.org/10.1177/14759217211036880",
+          "venue": "Structural Health Monitoring",
+          "year": 2021
+        },
+        {
+          "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+          "link": "https://doi.org/10.1109/access.2020.2970143",
+          "venue": "IEEE Access",
+          "year": 2020
+        },
+        {
+          "title": "Measuring biological age using omics data",
+          "link": "https://doi.org/10.1038/s41576-022-00511-7",
+          "venue": "Nature Reviews Genetics",
+          "year": 2022
+        },
+        {
+          "title": "The ERA‐40 re‐analysis",
+          "link": "https://doi.org/10.1256/qj.04.176",
+          "venue": "Quarterly Journal of the Royal Meteorological Society",
+          "year": 2005
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在监测数据大量积累和机器学习算法日益强大的背景下，如何整合过程模型与数据驱动方法以构建更优的混合森林模型，从而提升生态系统预测能力？",
+      "contributions_limitations": "本文基于现有信息推测，系统回顾并展望了混合森林模型（过程模型与机器学习结合）的发展方向，强调了在数据丰富时代融合机制性与数据驱动算法的必要性。局限性可能包括对具体模型实现细节和数据整合技术方案的讨论有限，且未提供实证案例验证。信息不足，建议查看原文。",
+      "follow_up_research": "后续研究可探索混合森林模型在土壤有机碳动态或植被-土壤反馈模拟中的具体应用，评估不同数据驱动算法（如深度学习）与过程模型的耦合方式对碳循环预测精度的影响。也可开发适用于大型食草动物干扰情景的混合模型框架。",
+      "next_step_perspective": "这篇文章为用户提供了方法学上的启发：在研究重野化对碳循环影响时，可采用混合建模思路，将放牧强度等生态过程参数与机器学习算法结合，弥补传统生态模型在复杂非线性关系上的不足，尤其适用于欧洲长期监测数据的整合分析。",
+      "why_this_journal": "本文符合Ecological Modelling期刊聚焦生态模型理论与方法创新的定位，探讨模型融合的前沿议题，具有跨学科方法学意义，适合模型开发与改进类研究。此推测基于摘要信息。",
+      "author_profile": null
     },
     {
       "id": "https://doi.org/10.5194/bg-23-5943-2026",

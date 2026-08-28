@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-28T10:25:09.405853+00:00",
-  "count": 14,
+  "generated_at": "2026-08-28T17:56:33.097922+00:00",
+  "count": 12,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "There are more than a billion #cattle worldwide. Adding #seaweed to cattle feed can significantly reduce #methane #emissions. How much of an impact could this approach have? In PNAS Front Matter: https://ow.ly/kWLl50ZFWgJ\n\n#GreenhouseGas #MethaneEmissions #farming #microbiology #ClimateChange",
+      "created_at": "2026-08-28T17:00:31.803094534Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mu5tlyqgqc25",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "A deep dive into the capacity for trees to physiologically adapt to drought reaches a sobering conclusion: Trees have little ability to change their inner hydraulic systems to accommodate increasing levels of drought as the climate changes. In PNAS: https://ow.ly/rcBR50ZFVIC",
+      "created_at": "2026-08-28T16:01:05.955439637Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mu5qbqejrb2p",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -12,6 +34,17 @@
       "external_description": "A reconstruction of Pacific Ocean sea surface temperatures adds to the evidence that human-caused warming is boosting El Niño events.",
       "external_uri": "https://go.nature.com/4wStJgC",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreieldrxn27d56gkbufq5gx7zhfcjjktiq2v2lglknok7lfuaot62aa"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New Comment: \n\nEnns et al. argue that the inclusion of culturally salient species may help build a biodiversity credit market that better recognizes, values and protects Indigenous Peoples and Local Communities’ connection to and stewardship of nature. www.nature.com/articles/s41...",
+      "created_at": "2026-08-28T07:35:04.077Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mu4tyug3qc2m",
+      "external_title": "High-integrity biodiversity credits through recognition of culturally salient species - Nature Ecology & Evolution",
+      "external_description": "Building a high-integrity biodiversity credit market requires recognition of Indigenous Peoples and Local Communities as stewards of nature. Including culturally salient species as a metric in the mea...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03167-2",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreidqs5wvpqm3astpv7rnm4ncdvqtryjswh3v5ekpn7ftc6szfulpeq"
     },
     {
       "handle": "natecoevo.nature.com",
@@ -91,17 +124,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreibc6i3xhxj77kpuw3caomc7v4ykhm6r3owowjxnasbhiws7wjl5ly"
     },
     {
-      "handle": "science.org",
-      "author_name": "Hannah Richter",
-      "text": "3% of a giant Western Australian forest died in a record drought in 2023-24. Now, scientists have used the damage to develop a surprising new tool for predicting future die-offs: gamma rays.🌲⚡ \n\nRead more in @science.org: www.science.org/content/arti... #tree #forest #drought #climate #climatechange",
-      "created_at": "2026-08-26T14:52:08.445Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mtylikys4c2b",
-      "external_title": "To predict tree death, scientists tapped gamma rays to peer underground",
-      "external_description": "Airborne radiation sensors could help forecast and prevent drought-driven tree mortality",
-      "external_uri": "https://www.science.org/content/article/predict-tree-death-scientists-tapped-gamma-rays-peer-underground",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:etkgpjuvhfxgbe55f7kewofu/bafkreidkt7rsgao4a5thxdr764lrxt7qrm7l5mq2r2ld7gcx76ukslury4"
-    },
-    {
       "handle": "natclimate.nature.com",
       "author_name": "Nature Portfolio",
       "text": "Climate change is expected to alter oceanic circulation, with the Atlantic Meridional Overturning Circulation at risk of collapse. A study in Nature Climate Change shows that the stability of the AMOC is dependent on the rate of atmospheric CO2 change rather than having a fixed threshold. 🌊🧪",
@@ -111,50 +133,6 @@
       "external_description": "Climate change is expected to alter oceanic circulation, with the Atlantic Meridional Overturning Circulation (AMOC) at risk of collapse. This work shows that the stability of the AMOC is dependent on the rate of atmospheric CO2 change rather than having a fixed threshold.",
       "external_uri": "https://go.nature.com/3RXMFfS",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jyctnrcv5dznuu67bkjjlf3t/bafkreiez4pfhztbznpjqvvf44ssmfzjk7r46qy57fcdppuurrm66az3clm"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Kosovo shows how surveilling ticks and the pathogens they carry can uncover the hidden circulation of Crimean-Congo hemorrhagic fever—and help other European countries prepare before human cases appear. https://scim.ag/46ia138",
-      "created_at": "2026-08-25T22:59:01.509279342Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mtwwabci5a2c",
-      "external_title": "Deadly tick-borne virus gains ground in Europe as climate warms",
-      "external_description": "Kosovo shows how surveillance can uncover hidden circulation—and help countries prepare before human cases appear",
-      "external_uri": "https://scim.ag/46ia138",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreifixkclzlopkhn5lvmearmjvpep3wqjiejb3rwdqrbdmupdawlpsy"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Europe’s rules for proving environmental performance of battery technologies could reshape sustainability regulation far beyond the European Union, researchers report in a new #SciencePolicyArticle. https://scim.ag/4zC4oKO ",
-      "created_at": "2026-08-25T19:40:01.689448541Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mtwl4gm3ny2c",
-      "external_title": "A Brussels Effect for battery sustainability",
-      "external_description": "An EU battery regulation can help drive toward a widely shared evidentiary system for sustainability governance",
-      "external_uri": "https://scim.ag/4zC4oKO",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreifvyrsdaxxeucyji5lo55r6wuffdasq4x7out3qi33lucsxixsady"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New Comment:\n\nChallender et al evaluate the potential risks and benefits of reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable—  and discuss policy solutions www.nature.com/articles/s41...",
-      "created_at": "2026-08-25T15:15:39.886Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtw4dplshk2v",
-      "external_title": "Assessing a reverse approach to protecting traded species - Nature Ecology & Evolution",
-      "external_description": "Reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable — is increasingly proposed as a means of addressing unregulated trade. We evaluate the potential ...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03161-8",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic6srlvzii7uwjk4afsfz7tzilymp7fv32ssyllmpzol4sfzbpfe4"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New Comment:\n\nChallender et al evaluate the potential risks and benefits of reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable—  and discuss policy solutions www.nature.com/articles/s41...",
-      "created_at": "2026-08-25T15:15:39.886Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mtw4dplshk2v",
-      "external_title": "Assessing a reverse approach to protecting traded species - Nature Ecology & Evolution",
-      "external_description": "Reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable — is increasingly proposed as a means of addressing unregulated trade. We evaluate the potential ...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03161-8",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic6srlvzii7uwjk4afsfz7tzilymp7fv32ssyllmpzol4sfzbpfe4"
     }
   ]
 }
