@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-27T21:38:20.420754+00:00",
+  "generated_at": "2026-08-28T10:25:09.405853+00:00",
   "count": 14,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The past century has seen strong El Niño events happening more frequently than in the 1,000 years before human-generated greenhouse-gas emissions began to warm the planet\n\ngo.nature.com/4wStJgC",
+      "created_at": "2026-08-28T09:30:10.626Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mu52gp6lu62r",
+      "external_title": "Why are El Niños getting stronger? 1000-year-coral record points to climate change",
+      "external_description": "A reconstruction of Pacific Ocean sea surface temperatures adds to the evidence that human-caused warming is boosting El Niño events.",
+      "external_uri": "https://go.nature.com/4wStJgC",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreieldrxn27d56gkbufq5gx7zhfcjjktiq2v2lglknok7lfuaot62aa"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New Comment: \n\nEnns et al. argue that the inclusion of culturally salient species may help build a biodiversity credit market that better recognizes, values and protects Indigenous Peoples and Local Communities’ connection to and stewardship of nature. www.nature.com/articles/s41...",
+      "created_at": "2026-08-28T07:35:04.077Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mu4tyug3qc2m",
+      "external_title": "High-integrity biodiversity credits through recognition of culturally salient species - Nature Ecology & Evolution",
+      "external_description": "Building a high-integrity biodiversity credit market requires recognition of Indigenous Peoples and Local Communities as stewards of nature. Including culturally salient species as a metric in the mea...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03167-2",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreidqs5wvpqm3astpv7rnm4ncdvqtryjswh3v5ekpn7ftc6szfulpeq"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -113,17 +135,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreifvyrsdaxxeucyji5lo55r6wuffdasq4x7out3qi33lucsxixsady"
     },
     {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "As the world debates how to regulate AI, Europe’s lawmakers are doing a lot of the heavy lifting\n\ngo.nature.com/4giPHog",
-      "created_at": "2026-08-25T16:17:02.021Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mtw7rh74lm2e",
-      "external_title": "How to manage AI risks while reaping the benefits",
-      "external_description": "As the world debates how to regulate artificial intelligence, Europe’s lawmakers are doing a lot of the heavy lifting.",
-      "external_uri": "https://go.nature.com/4giPHog",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiagpcq34lyxi33awc3jwxyrgrbhnh4fyg6x74wtjw6yxzrtwenzdq"
-    },
-    {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
       "text": "New Comment:\n\nChallender et al evaluate the potential risks and benefits of reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable—  and discuss policy solutions www.nature.com/articles/s41...",
@@ -144,17 +155,6 @@
       "external_description": "Reverse listing for wildlife trade — a default ban for all species unless expressly proven sustainable — is increasingly proposed as a means of addressing unregulated trade. We evaluate the potential ...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03161-8",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic6srlvzii7uwjk4afsfz7tzilymp7fv32ssyllmpzol4sfzbpfe4"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Researchers find that expanding human land use and populations may intensify elephant crop raiding in Southern Africa, with climate playing a smaller role. \n\nIn Mongabay: https://ow.ly/njgw50ZENLG \n\nIn PNAS Nexus: https://ow.ly/WM8m50ZENM6",
-      "created_at": "2026-08-24T23:00:19.108592889Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mtufto5rer2p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
