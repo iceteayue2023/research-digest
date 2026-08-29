@@ -1,6 +1,48 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-29T12:01:09.450389+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-29T16:05:36.159265+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026003029",
+      "title": "Coupling SWAT with LANDIS for integrated landscape-scale forest dynamics and ecohydrological simulations at forested watershed",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026003029?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Ecological Modelling, Volume 522Author(s): Tianxiao Ma, Yu Liang, Bo Liu, Mia M. Wu, Zhihua Liu, Guangyou Hao, Hong S. He, Jian Yang, Jianzhang Xiao",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "将SWAT与LANDIS耦合，实现森林流域的景观尺度森林动态与生态水文综合模拟",
+      "relevance_score": 6,
+      "key_conclusion": "该研究通过耦合SWAT（水文模型）与LANDIS（森林动态模型），实现了森林流域尺度上森林植被动态与生态水文过程的集成模拟，为评估土地利用和气候情景下的生态系统功能提供了工具。",
+      "relevance_note": "文章涉及生态系统模型改进（如模型耦合），与用户关注的生态系统模型开发方向相关；虽未直接讨论重野化或碳循环，但模型工具可应用于森林恢复情景下的碳-水耦合分析，且研究地点可能在森林流域（未明确欧洲），故给予中等分数。",
+      "related_papers": [
+        {
+          "title": "Carbon sequestration or water yield? The effect of payments for ecosystem services on forest management decisions in Mediterranean forests",
+          "link": "https://doi.org/10.1016/j.wre.2018.04.002",
+          "venue": "Water Resources and Economics",
+          "year": 2018
+        },
+        {
+          "title": "Emerging Opportunities for Landscape Ecological Modelling",
+          "link": "https://doi.org/10.1007/s40823-016-0016-7",
+          "venue": "Current Landscape Ecology Reports",
+          "year": 2016
+        },
+        {
+          "title": "Evolution and concept of environmental flows (e-flows): meta-analysis",
+          "link": "https://doi.org/10.2166/ws.2023.120",
+          "venue": "Water Science & Technology Water Supply",
+          "year": 2023
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何将水文模型（SWAT）与森林动态模型（LANDIS）耦合，以实现流域尺度上森林植被动态与生态水文过程的集成模拟？",
+      "contributions_limitations": "基于现有信息推测，该研究的主要贡献在于开发了一种耦合建模框架，能够同时模拟森林动态（如物种组成、生物量变化）与水文过程（如径流、蒸散），为评估土地利用和气候情景下的生态系统功能提供了综合工具。可能的局限性包括：耦合模型的参数化复杂、计算成本高，且对数据要求严格；模型对土壤有机碳动态的刻画可能较为简化，未直接模拟碳循环的详细机制。",
+      "follow_up_research": "后续研究可将该耦合框架扩展到碳循环模拟，例如在LANDIS中增加植被碳分配与土壤有机碳分解模块，以评估不同森林管理或重野化情景下的碳汇潜力。此外，可探索将模型应用于食草动物干扰（如放牧、啃食）对流域植被-水文-碳耦合过程的影响模拟。",
+      "next_step_perspective": "该研究为用户提供了流域尺度上集成模拟植被-水文耦合过程的方法论借鉴，特别是对于评估大型食草动物重野化对水分和养分循环的间接影响（如通过改变植被结构影响蒸散和径流）具有参考价值。用户可尝试将其与土壤有机碳模型（如POM/MAOM模块）结合，以弥补现有模型对碳动态刻画不足的空白。",
+      "why_this_journal": "推测理由：Ecological Modelling 专注于生态系统过程的数学模拟与模型开发，该研究涉及水文与植被动态的多模型耦合，属于该期刊的核心范畴，且集成了跨学科方法，具有方法学创新性。",
+      "author_profile": null
+    }
+  ]
 }
