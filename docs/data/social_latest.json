@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T10:57:45.209558+00:00",
-  "count": 13,
+  "generated_at": "2026-08-30T15:54:37.068238+00:00",
+  "count": 12,
   "posts": [
     {
       "handle": "pnas.org",
@@ -133,17 +133,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Deadline is fast approaching 🔥Submit your abstract by 17:00 (BST) on Wednesday 2 September 👇\n\n",
-      "created_at": "2026-08-27T11:45:47.059614002Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mu2rkb7gsl2z",
-      "external_title": "Call for abstracts - British Ecological Society",
-      "external_description": "Submit your abstract now to share your work with Europe's largest gathering of ecologists",
-      "external_uri": "https://www.britishecologicalsociety.org/content/bes-annual-meeting-2026/call-for-abstracts/",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreid35jp7jmjnnmyos3jubojwa5cg2allntm2wbo6o2f2yswqs2pr6q"
     }
   ]
 }
