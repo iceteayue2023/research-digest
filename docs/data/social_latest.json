@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T15:54:37.068238+00:00",
-  "count": 12,
+  "generated_at": "2026-08-31T04:39:57.593231+00:00",
+  "count": 8,
   "posts": [
     {
       "handle": "pnas.org",
@@ -89,50 +89,6 @@
       "external_description": "Building a high-integrity biodiversity credit market requires recognition of Indigenous Peoples and Local Communities as stewards of nature. Including culturally salient species as a metric in the mea...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03167-2",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreidqs5wvpqm3astpv7rnm4ncdvqtryjswh3v5ekpn7ftc6szfulpeq"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "In this issue: Lyme disease ecology in New York, evidence that a painted plaque suggests an Austronesian tradition preceded Neolithic pottery, and a stem cell-derived model of neurodegenerative retinal diseases. In PNAS: https://ow.ly/S85S50ZFWio",
-      "created_at": "2026-08-27T21:00:17.578545728Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mu3qjsquzu2g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "A millennium-long record from Galápagos corals suggests that El Niño is intensifying as the planet warms, with ENSO variability in the eastern Pacific roughly 37% higher than during the preindustrial era. \n\nLearn more: https://scim.ag/4zJ0DTJ ",
-      "created_at": "2026-08-27T19:15:04.681295241Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mu3knnuons2h",
-      "external_title": "Recent strengthening of eastern Pacific ENSO in the last millennium paleorecord",
-      "external_description": "The Pacific El Niño–Southern Oscillation (ENSO) generates climate extremes that endanger ecosystems, infrastructure, and human well-being worldwide. The response of this system to climate warming is p...",
-      "external_uri": "https://scim.ag/4zJ0DTJ",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreie4z2j6rsawt5652iaaa5ojewlcg36icitzhrexxgoobh7t5uid6m"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Antimicrobial-resistant bacteria and associated genes lurk in farm soil, but field experiments show that switching from industrial monocultures to less-intensive, low-input systems with diverse crop rotations can mitigate the threat. In PNAS: https://ow.ly/HN0r50ZFVHw",
-      "created_at": "2026-08-27T19:00:31.286226170Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mu3jtnovuk2g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Old-growth grasslands are slow to recover once destroyed. Characteristic plants of such grasslands are shorter and have smaller leaves with less nitrogen than plants in secondary grasslands, which are resource-acquisitive and more competitive. In PNAS: https://ow.ly/zOl950ZFVFu",
-      "created_at": "2026-08-27T16:01:20.286632852Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mu37tasjki25",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
