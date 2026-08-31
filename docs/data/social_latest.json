@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-31T12:16:21.823423+00:00",
+  "generated_at": "2026-08-31T18:38:53.733960+00:00",
   "count": 7,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Opinion piece: So-called “Hydrogen-ready” #pipelines risk new #carbon lock-in rather than offering a pathway to #decarbonization that helps address #ClimateChange. In PNAS Front Matter: https://ow.ly/Sye950ZFWhl\n\n#hydrogen #CleanEnergy #CO2Emissions #NaturalGas",
+      "created_at": "2026-08-31T17:00:37.748880043Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mufeywxn3g2p",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Synergistic degradation of fucoidans in the ocean\n\ngo.nature.com/3UGv1hr",
+      "created_at": "2026-08-31T14:53:02.037Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3muf5urhqs72b",
+      "external_title": "Synergistic degradation of fucoidans in the ocean - Nature",
+      "external_description": "Efficient degradation of fucoidans depends on complementary bacterial guilds that cooperatively break backbone and side-chain sugars, revealing a conserved, globally relevant mechanism that shapes marine carbon cycling.",
+      "external_uri": "https://go.nature.com/3UGv1hr",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigygf43rq6txd4xontltjqb3icxujvdake2xzotb4psf7n2haxpny"
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -52,28 +74,6 @@
       "text": "One of the few general rules in ecology is that biodiversity increases as you approach the equator. But there’s an exception. The global latitudinal diversity gradient for birds is three times weaker in cities than in natural areas. In PNAS: https://ow.ly/9xmR50ZFVLZ",
       "created_at": "2026-08-28T19:00:20.505872127Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3mu62cawe5i2b",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "There are more than a billion #cattle worldwide. Adding #seaweed to cattle feed can significantly reduce #methane #emissions. How much of an impact could this approach have? In PNAS Front Matter: https://ow.ly/kWLl50ZFWgJ\n\n#GreenhouseGas #MethaneEmissions #farming #microbiology #ClimateChange",
-      "created_at": "2026-08-28T17:00:31.803094534Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mu5tlyqgqc25",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "A deep dive into the capacity for trees to physiologically adapt to drought reaches a sobering conclusion: Trees have little ability to change their inner hydraulic systems to accommodate increasing levels of drought as the climate changes. In PNAS: https://ow.ly/rcBR50ZFVIC",
-      "created_at": "2026-08-28T16:01:05.955439637Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mu5qbqejrb2p",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
