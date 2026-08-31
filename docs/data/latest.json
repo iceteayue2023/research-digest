@@ -1,6 +1,173 @@
 {
   "date": "2026-08-31",
-  "generated_at": "2026-08-31T04:39:57.592927+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-08-31T12:16:21.822760+00:00",
+  "count": 2,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-5983-2026",
+      "title": "Natural disturbances from bark beetle outbreaks and windthrow increasingly affect Europe's most mature and carbon-rich forests",
+      "link": "https://doi.org/10.5194/bg-23-5983-2026",
+      "summary": "Natural disturbances from bark beetle outbreaks and windthrow increasingly affect Europe's most mature and carbon-rich forests\n                    Simon Besnard, Alba Viana-Soto, Henrik Hartmann, Marco Patacca, Viola H. A. Heinrich, Katja Kowalski, Maurizio Santoro, Wanda De Keersmaecker, Ruben Van De Kerchove, Martin Herold, and Cornelius Senf\n                        Biogeosciences, 23, 5983–6002, https://doi.org/10.5194/bg-23-5983-2026, 2026\n                        Europe’s forests store vast amounts of carbon, but climate-driven disturbances are becoming more frequent. By combining satellite records with information on forest age and structure, we show that recent disturbances increasingly affect the oldest and most carbon-rich forests, particularly spruce forests in Central Europe. This emerging pattern puts long-accumulated carbon at risk and may reduce the long-term climate benefits provided by Europe’s forests.",
+      "journal": "Biogeosciences",
+      "published": "2026-08-31T07:53:21+02:00",
+      "doi": "10.5194/bg-23-5983-2026",
+      "affiliation": null,
+      "title_zh": "树皮甲虫爆发和风倒等自然干扰日益影响欧洲最成熟且碳储量最高的森林",
+      "relevance_score": 9,
+      "key_conclusion": "结合卫星记录与森林年龄和结构数据，发现气候驱动的干扰（树皮甲虫爆发和风倒）日益影响欧洲最古老且碳储量最高的森林，尤其是中欧云杉林，使长期积累的碳面临损失风险，削弱森林的气候调节效益。",
+      "relevance_note": "研究地点在欧洲，直接涉及森林碳循环与干扰对碳储量的影响，与用户关注的陆地生态系统碳循环和极端气候事件扰动高度相关，且为碳源碳汇变化提供了实证。",
+      "related_papers": [
+        {
+          "title": "Living with bark beetles: impacts, outlook and management options",
+          "link": "https://doi.org/10.36333/fs08",
+          "venue": "From science to policy",
+          "year": 2019
+        },
+        {
+          "title": "Bark beetle outbreaks in coniferous forests: a review of climate change effects",
+          "link": "https://doi.org/10.1007/s10342-023-01623-3",
+          "venue": "European Journal of Forest Research",
+          "year": 2023
+        },
+        {
+          "title": "Impacts on and damage to European forests from the 2018–2022 heat and drought events",
+          "link": "https://doi.org/10.5194/nhess-25-77-2025",
+          "venue": "Natural hazards and earth system sciences",
+          "year": 2025
+        },
+        {
+          "title": "Forest Biodiversity in Europe",
+          "link": "https://doi.org/10.36333/fs13",
+          "venue": "From science to policy",
+          "year": 2022
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/5983/2026/bg-23-5983-2026-avatar-web.png",
+      "scientific_question": "欧洲森林中由气候驱动的自然干扰（如树皮甲虫爆发和风倒）是否越来越倾向于影响最成熟、碳储量最高的森林？这种干扰模式的变化对森林长期碳汇功能有何影响？",
+      "contributions_limitations": "主要贡献：利用卫星记录与森林年龄和结构数据的结合，首次揭示了自然干扰正日益集中于欧洲最古老、碳最丰富的森林（特别是中欧云杉林），指出长期积累的碳面临风险。局限性：基于现有信息推测，摘要未提供具体量化数据和干扰机制细节，且卫星数据可能无法完全捕捉地面尺度的干扰强度与恢复动态。",
+      "follow_up_research": "可进一步探究受干扰碳丰富森林的恢复轨迹及其碳源/碳汇转变时间，以及不同干扰类型（甲虫爆发vs风倒）对土壤有机碳各组分（如POM和MAOM）的差异化影响，还可结合模型模拟预测未来干扰频率下欧洲森林碳汇的脆弱性。",
+      "next_step_perspective": "这篇文章为用户的rewilding研究提供了重要视角：在评估大型食草动物重野化作为基于自然的解决方案时，需考虑自然干扰（如甲虫爆发）对碳储量的潜在负面效应，提示重野化策略可能需要在干扰管理与碳保护间取得平衡，尤其是在欧洲成熟的碳丰富森林中。",
+      "why_this_journal": "推测：Biogeosciences聚焦生物地球化学循环与生态过程的交叉，该文将自然干扰、森林年龄结构和碳动态耦合，具有跨尺度（卫星到景观）的方法创新性和政策相关性，符合期刊对生态系统碳循环过程研究的定位。",
+      "author_profile": {
+        "name": "Simon Besnard",
+        "institution": "GFZ Helmholtz Centre for Geosciences",
+        "intro": "Simon Besnard就职于GFZ亥姆霍兹地球科学中心，从其他作品看，主要研究方向包括欧洲森林干扰与碳动态、热带森林退化与恢复的碳收支、森林结构与年龄遥感制图等，其研究高度契合用户对陆地生态系统碳循环和欧洲生态系统的兴趣，尤其在森林碳汇脆弱性和干扰-碳反馈方面的成果可为用户提供方法论参考。",
+        "other_works": [
+          {
+            "title": "Natural disturbances from bark beetle outbreaks and windthrow increasingly affect Europe's most mature and carbon-rich forests",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-5983-2026"
+          },
+          {
+            "title": "A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration",
+            "year": "2026",
+            "journal": "Science Advances",
+            "doi": "10.1126/sciadv.adz1923"
+          },
+          {
+            "title": "Integrating forest inventory plot and GEDI data for forest structure assessment",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-9733"
+          },
+          {
+            "title": "Reconstructing European forest age maps at 100 m resolution from 1900 to 2019",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-10304"
+          },
+          {
+            "title": "High Biomass Forests are more Susceptible to Bark Beetle Disturbance in Europe",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-3924"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03147-6",
+      "title": "Tree diversity and mycorrhizal type independently shape multitrophic biodiversity, with stronger effects belowground than aboveground",
+      "link": "https://www.nature.com/articles/s41559-026-03147-6",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 31 August 2026; doi:10.1038/s41559-026-03147-6Tree diversity and mycorrhizal dominance are considered major drivers of multitrophic diversity and ecosystem functioning in forests. Here the authors disentangle the effects of these factors on above- and belowground trophic levels in a tree diversity–mycorrhiza diversity experiment.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-08-31T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03147-6",
+      "affiliation": null,
+      "title_zh": "树种多样性与菌根类型独立塑造多营养级生物多样性，地下效应强于地上",
+      "relevance_score": 7,
+      "key_conclusion": "在树种多样性与菌根多样性实验中，树种多样性和菌根优势度独立驱动森林多营养级生物多样性，且对地下营养级的影响强于地上营养级。",
+      "relevance_note": "该研究涉及生物多样性-生态系统功能关系（BEF）及植物-微生物互作，且实验地点可能在欧洲（需确认），与用户关注的食物网复杂性和地下生态过程高度相关。",
+      "related_papers": [
+        {
+          "title": "EFFECTS OF BIODIVERSITY ON ECOSYSTEM FUNCTIONING: A CONSENSUS OF CURRENT KNOWLEDGE",
+          "link": "https://doi.org/10.1890/04-0922",
+          "venue": "Ecological Monographs",
+          "year": 2005
+        },
+        {
+          "title": "Interactions between Aboveground and Belowground Biodiversity in Terrestrial Ecosystems: Patterns, Mechanisms, and Feedbacks",
+          "link": "https://doi.org/10.1641/0006-3568(2000)050[1049:ibaabb]2.0.co;2",
+          "venue": "BioScience",
+          "year": 2000
+        },
+        {
+          "title": "Landscape moderation of biodiversity patterns and processes ‐ eight hypotheses",
+          "link": "https://doi.org/10.1111/j.1469-185x.2011.00216.x",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2012
+        },
+        {
+          "title": "Biodiversity effects on ecosystem functioning in a 15-year grassland experiment: Patterns, mechanisms, and open questions",
+          "link": "https://doi.org/10.1016/j.baae.2017.06.002",
+          "venue": "Basic and Applied Ecology",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03147-6/MediaObjects/41559_2026_3147_Fig1_HTML.png",
+      "scientific_question": "在森林生态系统中，树种多样性和菌根类型如何独立地影响地上和地下多营养级群落的生物多样性？它们对地下和地上营养级的影响是否存在强度差异？",
+      "contributions_limitations": "主要贡献：通过树种多样性-菌根多样性控制实验，明确区分了树种多样性和菌根优势度对多营养级多样性的独立作用，并揭示地下营养级对这两个因素的反应强于地上，深化了对森林生物多样性与生态系统功能关系的理解。局限性：基于现有信息推测，摘要未提供关键结论的具体评估指标和效应大小，实验尺度（可能为幼树或控制条件）可能限制对自然成熟林生态过程的直接外推。",
+      "follow_up_research": "可进一步探索菌根类型和树种多样性对多营养级互作网络（如捕食者-猎物关系、植物-微生物反馈）的具体机制，并评估这种地下驱动的多样性效应如何影响土壤有机碳组分（POM/MAOM）的形成与稳定性，特别是在rewilding或自然恢复情景下。",
+      "next_step_perspective": "这篇文章为用户提供了关键的方法启示：在评估大型食草动物重野化对碳循环的影响时，应关注树种多样性和菌根类型如何通过调控地下食物网（如土壤动物和微生物）间接影响有机碳分解与稳定，提示重野化引起的植被-土壤反馈可能通过营养级联放大，值得设计多因子的田间实验来分离变量。",
+      "why_this_journal": "推测：Nature Ecology & Evolution偏好发表生态学中概念性突破和实验机制研究的文章，本文通过精巧的实验设计解耦了树种多样性与菌根类型对多营养级的独立影响，并挑战了地上/地下影响的传统认知，具有高度新颖性和跨尺度生态学意义。",
+      "author_profile": {
+        "name": "Huimin Yi",
+        "institution": "Sean Global Education",
+        "intro": "Huimin Yi目前机构为Sean Global Education，从历史作品看，主要研究植物多样性对多营养级互作（如土壤线虫、食物网）的影响，并关注地下能量流动对食物网结构的驱动，其研究紧密联系生物多样性-生态系统功能关系，与用户对土壤微生物群落和食物网复杂性的兴趣高度相关，可为用户提供多营养级与地下过程耦合的研究思路。",
+        "other_works": [
+          {
+            "title": "Tree diversity and mycorrhizal type independently shape multitrophic biodiversity, with stronger effects belowground than aboveground",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03147-6"
+          },
+          {
+            "title": "Plant diversity modifies multi-trophic interactions in croplands, grasslands and forests",
+            "year": "2026",
+            "journal": "Science Advances",
+            "doi": "10.1126/sciadv.aeb8680"
+          },
+          {
+            "title": "Tree Diversity Increases the Diversity of Soil Nematodes and the Density of Persisters in a Temperate Forest Experiment",
+            "year": "2025",
+            "journal": "European Journal of Soil Science",
+            "doi": "10.1111/ejss.70183"
+          },
+          {
+            "title": "Belowground energy fluxes determine tree diversity effects on above- and belowground food webs",
+            "year": "2025",
+            "journal": "Current Biology",
+            "doi": "10.1016/j.cub.2025.03.034"
+          },
+          {
+            "title": "Tree diversity and mycorrhizal type co‐determine multitrophic ecosystem functions",
+            "year": "2024",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.14252"
+          }
+        ]
+      }
+    }
+  ]
 }

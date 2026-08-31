@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-08-31T04:39:57.593231+00:00",
-  "count": 8,
+  "generated_at": "2026-08-31T12:16:21.823423+00:00",
+  "count": 7,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Global analysis shows that the sensitivity of birds to deforestation is modulated by their thermal ecology and forest cover effects on microclimate.\n\nwww.nature.com/articles/s41...\n\n@natashagranville.bsky.social \n@imperiallifesci.bsky.social",
+      "created_at": "2026-08-31T08:49:18.675Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3muejkezv3s2k",
+      "external_title": "Temperature mediates variation in avian sensitivity to forest cover - Nature Ecology & Evolution",
+      "external_description": "Land-use and climate change may have synergistic impacts on biodiversity. This global analysis shows that the sensitivity of bird species and populations to deforestation is modulated by their thermal...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03160-9",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihritj7d66pgg6vwgidiwj5g2kj5fpy4vbqayymvkdsorasunh4ya"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Critical zone processes limit alkalinity export from natural basaltic systems\n\ngo.nature.com/3SW42xS",
+      "created_at": "2026-08-31T08:44:04.321Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3muejazby5u2j",
+      "external_title": "Critical zone processes limit alkalinity export from natural basaltic systems - Nature",
+      "external_description": "Observations from natural volcanic watersheds demonstrate attenuation of alkalinity fluxes along the complete reactive pathways from soil to river that lead to reductions in exported alkalinity, indicating the limiting effects of critical zone processes.",
+      "external_uri": "https://go.nature.com/3SW42xS",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidcbl7hcljlo7tlgdp3gqfuhtsa6lfq4qaiditres3qtraysknbtq"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -56,39 +78,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "The past century has seen strong El Niño events happening more frequently than in the 1,000 years before human-generated greenhouse-gas emissions began to warm the planet\n\ngo.nature.com/4wStJgC",
-      "created_at": "2026-08-28T09:30:10.626Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mu52gp6lu62r",
-      "external_title": "Why are El Niños getting stronger? 1000-year-coral record points to climate change",
-      "external_description": "A reconstruction of Pacific Ocean sea surface temperatures adds to the evidence that human-caused warming is boosting El Niño events.",
-      "external_uri": "https://go.nature.com/4wStJgC",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreieldrxn27d56gkbufq5gx7zhfcjjktiq2v2lglknok7lfuaot62aa"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New Comment: \n\nEnns et al. argue that the inclusion of culturally salient species may help build a biodiversity credit market that better recognizes, values and protects Indigenous Peoples and Local Communities’ connection to and stewardship of nature. www.nature.com/articles/s41...",
-      "created_at": "2026-08-28T07:35:04.077Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mu4tyug3qc2m",
-      "external_title": "High-integrity biodiversity credits through recognition of culturally salient species - Nature Ecology & Evolution",
-      "external_description": "Building a high-integrity biodiversity credit market requires recognition of Indigenous Peoples and Local Communities as stewards of nature. Including culturally salient species as a metric in the mea...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03167-2",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreidqs5wvpqm3astpv7rnm4ncdvqtryjswh3v5ekpn7ftc6szfulpeq"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New Comment: \n\nEnns et al. argue that the inclusion of culturally salient species may help build a biodiversity credit market that better recognizes, values and protects Indigenous Peoples and Local Communities’ connection to and stewardship of nature. www.nature.com/articles/s41...",
-      "created_at": "2026-08-28T07:35:04.077Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mu4tyug3qc2m",
-      "external_title": "High-integrity biodiversity credits through recognition of culturally salient species - Nature Ecology & Evolution",
-      "external_description": "Building a high-integrity biodiversity credit market requires recognition of Indigenous Peoples and Local Communities as stewards of nature. Including culturally salient species as a metric in the mea...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03167-2",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreidqs5wvpqm3astpv7rnm4ncdvqtryjswh3v5ekpn7ftc6szfulpeq"
     }
   ]
 }
