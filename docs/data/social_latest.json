@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-08-31T18:38:53.733960+00:00",
-  "count": 7,
+  "generated_at": "2026-09-01T04:20:51.330346+00:00",
+  "count": 9,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "A review of antimicrobial resistance calls for AI-powered platforms to support and accelerate drug development alongside a community-driven approach that engages scientists, policymakers, health economists, clinicians, and patients. In PNAS Nexus: https://ow.ly/gwLt50ZHm7z",
+      "created_at": "2026-09-01T02:00:16.349010402Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mugd5ws5yz2r",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Correction: The previous image associated with this story showed a forest most consistent with forests during the Carboniferous and Permian periods, not the Jurassic period. The story has been updated.",
+      "created_at": "2026-08-31T18:50:49.100Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mufl5xk7rs2h",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "This is what a Jurassic forest may have sounded like.\n\nBy combining exquisitely preserved fossil wings with experiments on living insects, computer simulations, and machine learning, scientists have re-created what they say is a partial Middle Jurassic soundscape. scim.ag/4cirWKy",
+      "created_at": "2026-08-31T18:50:32.948Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mufl5i5dd22k",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -63,17 +96,6 @@
       "text": "Explore peer-reviewed research in agricultural sciences from PNAS, including food security, precision farming, climate-resilient crops, and more. Discover articles that advance sustainable agriculture, resource management, and food systems: https://ow.ly/xTPR50ZFWkj",
       "created_at": "2026-08-29T19:00:20.248891943Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3muakr5uyov2v",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "One of the few general rules in ecology is that biodiversity increases as you approach the equator. But there’s an exception. The global latitudinal diversity gradient for birds is three times weaker in cities than in natural areas. In PNAS: https://ow.ly/9xmR50ZFVLZ",
-      "created_at": "2026-08-28T19:00:20.505872127Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mu62cawe5i2b",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
