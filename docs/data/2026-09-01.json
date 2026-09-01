@@ -1,6 +1,100 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T04:20:51.330047+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-01T10:51:14.786127+00:00",
+  "count": 2,
+  "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03162-7",
+      "title": "Fourfold increase in fragmentation from road expansion in Siberian intact forests since 2000",
+      "link": "https://www.nature.com/articles/s41559-026-03162-7",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 01 September 2026; doi:10.1038/s41559-026-03162-7Analysing Landsat satellite images between 2000 and 2023, the authors show that road expansion linked to logging and mining in the central-eastern Siberian intact forest landscape has intensified forest fragmentation and contributed to more than 39 megatonnes of aboveground biomass loss.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-01T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03162-7",
+      "affiliation": null,
+      "title_zh": "2000年以来西伯利亚完整森林道路扩张导致破碎化程度增加四倍",
+      "relevance_score": 6,
+      "key_conclusion": "基于2000-2023年Landsat卫星影像分析，发现中西伯利亚完整森林景观中与伐木和采矿相关的道路扩张加剧了森林破碎化，并导致超过3900万吨地上生物量损失。",
+      "relevance_note": "文章涉及森林退化与碳损失（地上生物量），属于用户关注的陆地生态系统碳循环与退化恢复主题；研究地点在西伯利亚（欧洲邻近区域），且涉及人类活动导致的生态系统干扰，与用户对退化过程碳动态的兴趣相关。",
+      "related_papers": [
+        {
+          "title": "Global and Regional Trends and Drivers of Fire Under Climate Change",
+          "link": "https://doi.org/10.1029/2020rg000726",
+          "venue": "Reviews of Geophysics",
+          "year": 2022
+        },
+        {
+          "title": "Nebraska Statewide Forest Resource Assessment & Strategy - 2010",
+          "link": "",
+          "venue": "Lincoln (University of Nebraska)",
+          "year": 2010
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03162-7/MediaObjects/41559_2026_3162_Fig1_HTML.png",
+      "scientific_question": "该研究试图回答2000年以来中西伯利亚完整森林景观中与伐木和采矿相关的道路扩张如何改变森林破碎化格局，以及这种扩张对地上生物量碳库造成了多大损失。",
+      "contributions_limitations": "主要贡献在于首次利用长时间序列Landsat影像量化了2000-2023年间中西伯利亚道路扩张驱动的森林破碎化加剧趋势，并估算出超过3900万吨的地上生物量损失，为理解人类基础设施扩张对北方森林碳汇功能的影响提供了重要数据支撑。局限性可能包括基于遥感的生物量估算存在一定不确定性，且研究聚焦于地上生物量，未涵盖土壤有机碳变化，对完整生态系统碳循环图景的刻画有限。基于现有信息推测。",
+      "follow_up_research": "后续研究可结合实地调查和土壤采样，评估道路扩张与森林破碎化对土壤有机碳库（尤其是POM与MAOM组分）的潜在影响，因为地上生物量损失往往伴随地下碳动态变化；还可将遥感监测与生态系统模型耦合，模拟不同道路扩张情景下北方森林碳源汇功能的长期演变。",
+      "next_step_perspective": "这篇文章为你提供了利用长时序遥感数据监测大型干扰事件（如道路扩张）如何改变景观尺度碳储量的方法学范例，可类比用于评估大型食草动物重野化区域中动物扰动（如践踏、啃食）对植被覆盖和土壤碳影响的时空动态；同时提醒你关注人类活动驱动的破碎化与动物行为（如移动路径）之间的交互如何级联影响生态系统碳循环。",
+      "why_this_journal": "该研究发表在Nature Ecology & Evolution，推测原因是其揭示了偏远未受干扰森林中基础设施扩张这一此前未充分量化的碳损失来源，结合了遥感大数据与碳循环评估，兼具新技术方法应用和全球变化生态学意义，符合该刊对具有广泛生态学启示的研究的偏好。此为推测。",
+      "author_profile": {
+        "name": "Zhongbin B. Li",
+        "institution": "Wuhan University",
+        "intro": "Zhongbin B. Li目前任职于武汉大学，从其一作/参与的其他论文看，其研究方向集中于全球可持续性评估、多传感器卫星遥感（如Sargassum监测、云掩膜）、时间序列分类与土地覆盖制图，以及太阳能项目与粮食安全的冲突分析。这些研究体现了他将遥感与地理空间分析应用于环境监测和可持续发展问题的专长，与你的大型食草动物重野化对碳循环影响的研究在遥感监测方法上有潜在交叉点。",
+        "other_works": [
+          {
+            "title": "Assessing global sustainability performance, imbalance, and coordination over space and time",
+            "year": "2025",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-025-64219-y"
+          },
+          {
+            "title": "Continuous Sargassum monitoring across the Caribbean Sea and Central Atlantic using multi-sensor satellite observations",
+            "year": "2024",
+            "journal": "Remote Sensing of Environment",
+            "doi": "10.1016/j.rse.2024.114223"
+          },
+          {
+            "title": "Classifying raw irregular time series (CRIT) for large area land cover mapping by adapting transformer model",
+            "year": "2024",
+            "journal": "Science of Remote Sensing",
+            "doi": "10.1016/j.srs.2024.100123"
+          },
+          {
+            "title": "Linearly interpolating missing values in time series helps little for land cover classification using recurrent or attention networks",
+            "year": "2024",
+            "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+            "doi": "10.1016/j.isprsjprs.2024.04.021"
+          },
+          {
+            "title": "Deep-Learning-Based Cloud Masking on Multispectral Ocean Color Imagery for Floating Macroalgae Monitoring",
+            "year": "2024",
+            "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+            "doi": "10.1109/tgrs.2023.3337238"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-8053-2026",
+      "title": "CMIP7 Data Request: co-created guidance for the production of CMIP7 data [v1.2.2.5]",
+      "link": "https://doi.org/10.5194/gmd-19-8053-2026",
+      "summary": "CMIP7 Data Request: co-created guidance for the production of CMIP7 data [v1.2.2.5]\n                    Chloe Mackallah, Martin Juckes, James Anstey, Beth Dingley, Charlotte Pascoe, Gaëlle Rigoudy, Marie-Pierre Moine, Tomas Lovato, Alison Pamment, Martin Schupfner, Michio Kawamiya, Tommi Bergman, Charles Koven, Eleanor O'Rourke, Briony Turner, Daniel Ellis, and Matthew Mizielinski\n                        Geosci. Model Dev., 19, 8053–8079, https://doi.org/10.5194/gmd-19-8053-2026, 2026\n                        This paper describes the creation of a new set of output data requirements for upcoming global climate model experiments performed for CMIP7, an international climate modelling activity. Experts from the community helped to co-create a database that describes which data should be produced, and the scientific justifications behind these choices. It supports growing climate research and policy needs by linking experiments and variables to scientific objectives and real‑world applications.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-01T12:48:17+02:00",
+      "doi": "10.5194/gmd-19-8053-2026",
+      "affiliation": null,
+      "title_zh": "CMIP7数据需求：协同制定的CMIP7数据生产指南",
+      "relevance_score": 5,
+      "key_conclusion": "本文描述了为CMIP7全球气候模型实验创建新输出数据需求的过程，由社区专家共同制定数据库，明确各实验应产出的数据及其科学依据，以支持气候研究与政策需求。",
+      "relevance_note": "文章涉及地球系统模式（CMIP7）的数据规范制定，与用户对地球系统模式开发与改进的兴趣相关，但关注点侧重数据管理而非动态植被模块或碳循环过程模拟，相关性中等。",
+      "related_papers": [],
+      "image_url": "https://gmd.copernicus.org/articles/19/8053/2026/gmd-19-8053-2026-avatar-web.png",
+      "scientific_question": "该文章旨在阐述如何为CMIP7（第七阶段耦合模式比较计划）的全球气候模型实验共同制定一套新的输出数据需求体系，明确哪些数据应被产出及其背后的科学理由。",
+      "contributions_limitations": "主要贡献在于通过社区专家共同协作方式，构建了连接实验设计、变量输出与科学目标及实际应用需求的数据请求数据库，为CMIP7实验的标准化和科学有效性奠定了基础，有助于支撑气候研究与政策制定。由于本文是描述性方法论论文，其局限性可能在于数据的实际应用价值尚未经模型实验验证，且数据需求清单是否能充分覆盖所有新兴科学问题（如生态过程反馈）仍有待检验。基于现有信息推测。",
+      "follow_up_research": "后续研究可关注CMIP7数据请求中是否纳入或应纳入动态植被模块（DGVM）相关的关键输出变量（如植被碳分配、土壤碳组分、动物对植被的影响参数），从而为碳循环与生态过程耦合的建模提供接口；此外可追踪基于该数据请求的CMIP7实验结果，评估模型模拟的生态系统碳循环过程不确定性。",
+      "next_step_perspective": "这篇文章为你提供了一个窗口，了解全球顶级气候模型实验（CMIP7）中与生态系统碳循环相关的数据产出框架，可直接指导你思考如何将大型食草动物重野化的效应（如放牧强度、植被-土壤反馈）纳入地球系统模式中的动态植被模块，或与CMIP7输出数据进行对比分析，以评估重野化在地球系统尺度上的碳汇潜力。",
+      "why_this_journal": "该论文发表于Geoscientific Model Development，推测原因在于其内容专注于模型数据标准的制定与开发，属于地球系统建模社区的核心基础设施工作，具有明确的社区服务性质和跨机构协调意义，符合该期刊聚焦模型开发、评估和数据标准的定位。此为推测。",
+      "author_profile": null
+    }
+  ]
 }
