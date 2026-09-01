@@ -1,8 +1,67 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01T10:51:14.786127+00:00",
-  "count": 2,
+  "generated_at": "2026-09-01T15:57:48.011213+00:00",
+  "count": 3,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02083-1",
+      "title": "Multilayer soil moisture depletion intensifies drought impacts on global ecosystems",
+      "link": "https://www.nature.com/articles/s41561-026-02083-1",
+      "summary": "Nature Geoscience, Published online: 01 September 2026; doi:10.1038/s41561-026-02083-1Vertically compound soil moisture droughts—when all soil layers are depleted—have intensified worldwide, driving sharper ecosystem losses than single-layer droughts, according to global analyses of multilayer soil moisture.",
+      "journal": "Nature Geoscience",
+      "published": "2026-09-01T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02083-1",
+      "affiliation": null,
+      "title_zh": "多层土壤水分亏缺加剧干旱对全球生态系统的影响",
+      "relevance_score": 7,
+      "key_conclusion": "全球分析显示，多层土壤水分同时亏缺（即所有土层均 depleted）的垂直复合干旱在全球范围内加剧，且相比单层干旱，这种复合干旱导致更严重的生态系统损失。",
+      "relevance_note": "该文章研究极端气候事件（干旱）对全球生态系统的扰动，属于用户关注的陆地生态系统碳循环中极端气候扰动主题，且为全球尺度分析，与碳循环对干旱的响应密切相关。",
+      "related_papers": [
+        {
+          "title": "The Community Land Model Version 5: Description of New Features, Benchmarking, and Impact of Forcing Uncertainty",
+          "link": "https://doi.org/10.1029/2018ms001583",
+          "venue": "Journal of Advances in Modeling Earth Systems",
+          "year": 2019
+        },
+        {
+          "title": "Non-renewable groundwater use and groundwater depletion: a review",
+          "link": "https://doi.org/10.1088/1748-9326/ab1a5f",
+          "venue": "Environmental Research Letters",
+          "year": 2019
+        },
+        {
+          "title": "Global greening drives significant soil moisture loss",
+          "link": "https://doi.org/10.1038/s43247-025-02470-3",
+          "venue": "Communications Earth & Environment",
+          "year": 2025
+        },
+        {
+          "title": "Impact of recent and future climate change on vector‐borne diseases",
+          "link": "https://doi.org/10.1111/nyas.13950",
+          "venue": "Annals of the New York Academy of Sciences",
+          "year": 2018
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02083-1/MediaObjects/41561_2026_2083_Fig1_HTML.png",
+      "scientific_question": "这项研究试图回答的核心问题是：全球范围内，多层土壤水分同时亏缺（垂直复合干旱）相比单层干旱，是否在加剧并导致更严重的生态系统损失？",
+      "contributions_limitations": "主要贡献在于通过全球尺度的多层土壤水分分析，首次揭示了垂直复合干旱（所有土层同时亏缺）的加剧趋势及其对生态系统更严重的损害，突破了以往仅关注单层或表层干旱的局限。局限性可能在于分析依赖于卫星反演和模型模拟的土壤水分数据，其垂直分辨率和准确性可能影响结论的精确性；此外，对'生态系统损失'的量化指标（如植被生产力、绿度等）的简化可能掩盖不同生态系统类型的差异（基于现有信息推测）。",
+      "follow_up_research": "后续研究可探讨垂直复合干旱对不同生态系统类型（如森林、草原、农田）碳循环过程（尤其是土壤有机碳分解与植被碳分配）的差异化影响；还可结合野外观测站点数据验证模型结果，并进一步分析大型食草动物放牧或重野化活动如何调节土壤水分垂直分布，从而缓解或加剧复合干旱对生态系统碳汇功能的影响。",
+      "next_step_perspective": "这篇文章提供了一个重要视角：在评估重野化或放牧管理对土壤碳循环的影响时，不能仅关注表层土壤水分，多层土壤水分的垂直动态可能通过影响根系活动和微生物分解来显著改变土壤有机碳的稳定性。其多层土壤水分分析方法可启发用户在其研究站点或数据集中引入垂直分层的水分监测，以更全面地理解动物-植被-土壤反馈。",
+      "why_this_journal": "推测该文能发表在Nature Geoscience，是因为它首次在全球尺度揭示了垂直复合干旱这一新现象及其加剧趋势和放大生态影响，具有高度的新颖性和跨学科意义（链接水文气候与生态系统功能），且采用了全球多源数据与分析方法，符合该刊对全球变化前沿问题的定位。",
+      "author_profile": {
+        "name": "Xihui Gu",
+        "institution": null,
+        "intro": "Xihui Gu目前所在机构未知，但从其历史论文标题《Excess water availability in northern mid-high latitudes contiguously migrated from ocean under climate change》来看，其主要研究方向为气候变化对水文循环的影响，尤其是极端水分条件（干旱与过剩）的时空迁移规律。该研究与用户关注的极端气候事件对碳循环的扰动高度相关，其方法论可迁移至评估干旱如何影响重野化生态系统的碳汇功能。",
+        "other_works": [
+          {
+            "title": "Excess water availability in northern mid-high latitudes contiguously migrated from ocean under climate change",
+            "year": "2025",
+            "journal": "Science Advances",
+            "doi": "10.1126/sciadv.adv0282"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.nature.com/articles/s41559-026-03162-7",
       "title": "Fourfold increase in fragmentation from road expansion in Siberian intact forests since 2000",
