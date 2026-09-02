@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T10:16:26.310876+00:00",
-  "count": 11,
+  "generated_at": "2026-09-02T15:51:22.160395+00:00",
+  "count": 17,
   "articles": [
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2610728123?af=R",
@@ -299,6 +299,136 @@
       }
     },
     {
+      "id": "https://www.nature.com/articles/s41558-026-02742-6",
+      "title": "Responding to ecological novelty",
+      "link": "https://www.nature.com/articles/s41558-026-02742-6",
+      "summary": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02742-6Climate change is shifting the world into new ecological states, prompting discussions of how humans and species will deal with this novelty, including how mitigation and adaptation will ultimately lead to further change.",
+      "journal": "Nature Climate Change",
+      "published": "2026-09-02T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02742-6",
+      "affiliation": null,
+      "title_zh": "应对生态新颖性",
+      "relevance_score": 7,
+      "key_conclusion": "文章讨论了气候变化将世界推向新型生态状态，探讨了人类和物种如何应对这种新颖性，以及减缓与适应措施如何反过来驱动进一步的变化。",
+      "relevance_note": "涉及气候变化下的生态系统状态转换和适应策略，与rewilding和生态功能恢复的理论背景高度相关，且发表在Nature Climate Change，值得关注。",
+      "related_papers": [
+        {
+          "title": "Models of ecological rationality: The recognition heuristic.",
+          "link": "https://doi.org/10.1037/0033-295x.109.1.75",
+          "venue": "Psychological Review",
+          "year": 2002
+        },
+        {
+          "title": "Resilience Management in Social-ecological Systems: a Working Hypothesis for a Participatory Approach",
+          "link": "https://doi.org/10.5751/es-00356-060114",
+          "venue": "Conservation Ecology",
+          "year": 2002
+        },
+        {
+          "title": "A Handful of Heuristics and Some Propositions for Understanding Resilience in Social-Ecological Systems",
+          "link": "https://doi.org/10.5751/es-01530-110113",
+          "venue": "Ecology and Society",
+          "year": 2006
+        },
+        {
+          "title": "Shooting the Rapids: Navigating Transitions to Adaptive Governance of Social-Ecological Systems",
+          "link": "https://doi.org/10.5751/es-01595-110118",
+          "venue": "Ecology and Society",
+          "year": 2006
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02742-6/MediaObjects/41558_2026_2742_Figa_HTML.png",
+      "scientific_question": "气候变化正在将世界推向新的生态状态，人类和物种将如何应对这种生态新颖性？减缓与适应措施又会如何反过来引发进一步的生态变化？",
+      "contributions_limitations": "本文为观点/评论类文章，系统讨论了气候变化背景下生态系统进入'新颖状态'的概念框架，并探讨了人类应对策略（减缓与适应）与生态变化之间的反馈回路，对理解生态系统非线性转变具有重要概念性贡献。由于仅提供期刊摘要，具体论证细节和实证案例无法确认，局限性难以判断；推测其可能缺乏量化分析。",
+      "follow_up_research": "后续研究可探讨大型食草动物重野化如何在生态新颖性背景下促进生态系统功能恢复，例如评估重野化是否通过创建新颖的植物-土壤反馈来缓冲气候变化带来的生态扰动。另一个方向是模型模拟：将生态新颖性概念嵌入DGVM，预测在不同气候情景下重野化区域土壤碳动态的非线性响应。",
+      "next_step_perspective": "这篇文章提供了'生态新颖性'这一理论透镜，可帮助我在分析重野化对土壤有机碳影响时跳出传统'恢复到历史基准'的思维定式，转而关注新兴生态状态下的碳循环动力学。其关于减缓/适应措施与进一步变化之间反馈的讨论，启发我思考重野化本身作为自然解决方案是否可能产生未预见的生态后果（如促进入侵物种）。",
+      "why_this_journal": "推测：Nature Climate Change重视能引领学科发展方向的前瞻性概念文章，本文抓住'生态新颖性'这一气候科学前沿议题，结合人为干预与生态响应的双向反馈，具有概念新颖性和跨学科讨论价值。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03163-6",
+      "title": "Spatially explicit forecasts of tree insect and disease incidence across North American forests under future climate scenarios",
+      "link": "https://www.nature.com/articles/s41559-026-03163-6",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 02 September 2026; doi:10.1038/s41559-026-03163-6Synergies between climate change and natural enemy pressure threaten forests. Here the authors quantify the impact of climate change on North American forest insect and pathogen burden and map potential trends under climate change scenarios.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-02T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03163-6",
+      "affiliation": null,
+      "title_zh": "未来气候情景下北美森林树木病虫害的空间显式预测",
+      "relevance_score": 7,
+      "key_conclusion": "研究量化了气候变化对北美森林昆虫和病原体负担的影响，并在气候情景下绘制了潜在趋势，发现气候变化与天敌压力的协同作用威胁森林。",
+      "relevance_note": "涉及植物-病原体互作、极端气候对森林生态系统的影响，与用户关注的植物-微生物互作和碳循环扰动相关，但地点在北美而非欧洲。",
+      "related_papers": [
+        {
+          "title": "Climate change impacts on plant pathogens, food security and paths forward",
+          "link": "https://doi.org/10.1038/s41579-023-00900-7",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2023
+        },
+        {
+          "title": "Scientists’ warning to humanity: microorganisms and climate change",
+          "link": "https://doi.org/10.1038/s41579-019-0222-5",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2019
+        },
+        {
+          "title": "Crop and pasture response to climate change",
+          "link": "https://doi.org/10.1073/pnas.0701728104",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2007
+        },
+        {
+          "title": "Europe’s forest management did not mitigate climate warming",
+          "link": "https://doi.org/10.1126/science.aad7270",
+          "venue": "Science",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03163-6/MediaObjects/41559_2026_3163_Fig1_HTML.png",
+      "scientific_question": "在未来的气候变化情景下，北美森林树木昆虫和病原体的发生频率与分布将如何变化？气候与天敌压力的协同作用如何影响森林健康？",
+      "contributions_limitations": "该研究首次在空间显式框架下量化了气候变化对北美森林昆虫和病原体负担的历史影响，并绘制了未来气候情景下的潜在趋势，揭示了气候变化与天敌压力协同加剧森林威胁的格局，方法上结合了空间建模和气候情景预测，具有较强预测能力。基于现有信息推测，局限可能包括模型不确定性传递以及未纳入树种适应性演化或管理干预。",
+      "follow_up_research": "后续研究可将昆虫和病原体压力预测与森林碳循环模型耦合，评估生物胁迫加剧导致的树木死亡/碳损失量级，这直接关系到退化森林恢复中的碳汇功能。另一个方向是在欧洲森林开展类似的空间预测，并与大型食草动物放牧/啃食对树木胁迫的交互效应相结合。",
+      "next_step_perspective": "这篇文章的空间显式建模方法（物种分布模型结合气候情景）可借鉴用于预测重野化区域中食草动物啃食压力对未来植被分布和有机碳输入的影响。此外，其强调的天敌压力与气候变化的协同作用，与用户关注的'植物病原体与极端气候事件关系'紧密呼应，可作为动物介导碳循环研究中被忽视的间接驱动因子。",
+      "why_this_journal": "推测：Nature Ecology & Evolution重视将宏观生态预测与全球变化结合的原创研究，本文以高分辨率、空间显式的方式连接气候变化、生物互作与森林健康，兼具方法创新性和政策意义。",
+      "author_profile": {
+        "name": "Zihui Wang",
+        "institution": null,
+        "intro": "第一作者Zihui Wang的研究轨迹明显聚焦于植物-微生物互作的生态学与生物地理学：从叶际微生物群落组成对植物生长的影响，到利用环境DNA和物种分布模型探讨植物相关微生物的分布格局与宿主特异性，近期延伸到空间预测框架下的病虫害风险制图。其研究结合了微生物生态、统计建模和宏观生态学视角，与用户关注的植物-微生物互作网络、极端气候事件对植物病原体影响的方向高度契合，可为用户提供从个体互作到景观尺度预测的方法链参考。",
+        "other_works": [
+          {
+            "title": "Spatially explicit forecasts of tree insect and disease incidence across North American forests under future climate scenarios",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03163-6"
+          },
+          {
+            "title": "Plant diversity effects on productivity are shaped by the interaction between above- and belowground plant-associated microbiota",
+            "year": "2026",
+            "journal": "Plant and Soil",
+            "doi": "10.1007/s11104-025-08112-z"
+          },
+          {
+            "title": "Using eDNA to Assess Freshwater Bacterial Diversity Along a Forest–Non‐Forest Gradient in the Afrotropics",
+            "year": "2025",
+            "journal": "Environmental DNA",
+            "doi": "10.1002/edn3.70136"
+          },
+          {
+            "title": "Modelling the distribution of plant‐associated microbes with species distribution models",
+            "year": "2025",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70035"
+          },
+          {
+            "title": "Richness and composition of phyllosphereMethylobacteriumcommunities cause variation inArabidopsis thalianagrowth",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.1101/2024.08.30.610551"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2617749123?af=R",
       "title": "Parental niche construction buffers microbial and competitive challenges and drives offspring dependence in burying beetles",
       "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617749123?af=R",
@@ -384,6 +514,182 @@
       "next_step_perspective": "这篇文章提醒你，即使重野化策略有碳汇潜力，其效果也需置于1.5°C被突破的快速变暖背景下评估——极端气候事件可能削弱动物介导的碳稳定机制（如大型食草动物对土壤扰动的正/负反馈），因此你的研究应考虑未来非平稳气候条件下重野化碳效益的稳健性。",
       "why_this_journal": "推测：Nature正刊刊发此新闻评论因其对接全球气候治理最前沿政治动态——联合国官方承认目标失守，具有极高时效性与国际影响力，符合期刊对重大科学-政策事件快速反应的定位。",
       "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02744-4",
+      "title": "Record-breaking wildfires in Canada",
+      "link": "https://www.nature.com/articles/s41558-026-02744-4",
+      "summary": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02744-4Record-breaking wildfires in Canada",
+      "journal": "Nature Climate Change",
+      "published": "2026-09-02T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02744-4",
+      "affiliation": null,
+      "title_zh": "加拿大创纪录的野火",
+      "relevance_score": 6,
+      "key_conclusion": "研究描述了加拿大创纪录野火事件及其可能的气候驱动因素或生态系统影响，涉及极端事件对碳循环的扰动。",
+      "relevance_note": "野火作为极端气候事件会影响陆地碳循环和生态系统恢复，与用户关注的碳源碳汇变化及极端事件扰动相关，但未直接涉及rewilding。",
+      "related_papers": [
+        {
+          "title": "Drivers and Impacts of the Record-Breaking 2023 Wildfire Season in Canada",
+          "link": "https://doi.org/10.1038/s41467-024-51154-7",
+          "venue": "Nature Communications",
+          "year": 2024
+        },
+        {
+          "title": "Impact of anthropogenic climate change on wildfire across western US forests",
+          "link": "https://doi.org/10.1073/pnas.1607171113",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2016
+        },
+        {
+          "title": "Canadian record-breaking wildfires in 2023 and their impact on US air quality",
+          "link": "https://doi.org/10.1016/j.atmosenv.2024.120941",
+          "venue": "Atmospheric Environment",
+          "year": 2024
+        },
+        {
+          "title": "Global Pyrogeography: the Current and Future Distribution of Wildfire",
+          "link": "https://doi.org/10.1371/journal.pone.0005102",
+          "venue": "PLoS ONE",
+          "year": 2009
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02744-4/MediaObjects/41558_2026_2744_Figa_HTML.png",
+      "scientific_question": "加拿大创纪录的野火事件有何特征？其气候驱动因素以及对生态系统碳循环的潜在影响是什么？",
+      "contributions_limitations": "基于现有信息推测，该研究（或简报）记录了加拿大极端野火事件的破纪录性质，可能分析了其气象/气候驱动条件并讨论了火烧面积与碳排放量级，为理解极端气候事件对陆地碳循环的扰动提供了实例。由于摘要信息严重不足，具体数据、分析方法及局限无法判断，建议查看原文确认是否包含碳损失定量评估。",
+      "follow_up_research": "后续研究可评估极端野火后植被恢复路径与土壤有机碳的净变化，包括火后重野化/大型食草动物活动是否加速或延缓碳重建。另一个方向是探讨在全球变暖背景下野火频率上升对加拿大北方森林从碳汇转为碳源的临界阈值。",
+      "next_step_perspective": "",
+      "why_this_journal": "推测：Nature Climate Change快速报道极端气候事件及其碳循环影响，本文抓取加拿大破纪录野火这一高社会关注度事件，及时回应气候-碳反馈这一紧迫议题，具有时效性和现实紧迫性。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03189-w",
+      "title": "Publisher Correction: Widespread thermophilization but weak link to climate warming in Europe’s summit plant communities",
+      "link": "https://www.nature.com/articles/s41559-026-03189-w",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 02 September 2026; doi:10.1038/s41559-026-03189-wPublisher Correction: Widespread thermophilization but weak link to climate warming in Europe’s summit plant communities",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-02T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03189-w",
+      "affiliation": null,
+      "title_zh": "出版者更正：欧洲山顶植物群落广泛嗜热化但变暖关联微弱",
+      "relevance_score": 6,
+      "key_conclusion": "这是一篇出版者更正，原始研究报道了欧洲山顶植物群落对气候变暖的响应模式，但更正内容本身不含具体数据结论。",
+      "relevance_note": "研究地点在欧洲（符合地点偏好），涉及气候变化对植物群落的影响，与植被-土壤反馈和生态系统功能相关，但系更正无实质数据。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "本文为出版者更正，不涉及具体的科学问题；原始研究旨在回答欧洲山顶植物群落是否出现了嗜热化（thermophilization）及其与气候变暖的关联强度。",
+      "contributions_limitations": "内容为出版者更正，不含数据或新科学结论。原始研究报道了欧洲山顶植物群落广泛存在嗜热化趋势但与气候变暖相关性较弱，提示非气候因素（如局地过程、历史遗留）可能驱动群落组成转变。更正本身不涉及学科实质贡献或方法局限。",
+      "follow_up_research": "基于原始研究主题，后续可探讨大型食草动物在高山生态系统中是否通过扰动和养分循环影响植物群落的温度梯度位移，从而加速或减缓嗜热化过程。亦可评估重野化项目在高山草甸上是否改变物种更替速率与温度敏感性。",
+      "next_step_perspective": "尽管是更正，原始研究的主题与用户偏好的欧洲地点和研究方向（气候变化驱动的植被群落转变）高度相关。嗜热化与气候变暖弱关联的发现提醒我：在评估重野化对土壤碳影响时，气候因素可能不是主导驱动，动物-土壤反馈和植被组成变化（如嗜热物种增加）更重要。",
+      "why_this_journal": "推测：作为更正，发表于原文章所在期刊即可；不适用于常规发表理由分析。",
+      "author_profile": {
+        "name": "Johannes Hausharter",
+        "institution": "University of Vienna",
+        "intro": "作者Johannes Hausharter来自维也纳大学，其研究围绕高山植物群落生态学展开，包括山顶植物嗜热化、精细尺度群落构建机制、微地形对植物分布的影响以及基于高分辨率气候数据的生态位建模。其研究方向聚焦于气候变化与山地植物生物多样性，涉及环境筛选与物种互作，对用户关注气候驱动的植被变化对生态系统功能的反馈有参考价值。",
+        "other_works": [
+          {
+            "title": "Publisher Correction: Widespread thermophilization but weak link to climate warming in Europe’s summit plant communities",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03189-w"
+          },
+          {
+            "title": "Widespread thermophilization but weak link to climate warming in Europe’s summit plant communities",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03150-x"
+          },
+          {
+            "title": "Food Plant Availability Constrains Climatic Niches of Host‐Specialized Europe‐Centred Butterflies",
+            "year": "2026",
+            "journal": "Diversity and Distributions",
+            "doi": "10.1111/ddi.70245"
+          },
+          {
+            "title": "Reconsidering climatic predictors for high‐resolution niche models of alpine plants",
+            "year": "2026",
+            "journal": "Oikos",
+            "doi": "10.1002/oik.11545"
+          },
+          {
+            "title": "Fine‐scale alpine plant community assembly: Relative roles of environmental sorting, dispersal processes and species interactions",
+            "year": "2024",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.14401"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6019-2026",
+      "title": "Stability of stream biofilm community composition to transient shifts in dissolved organic carbon characteristics",
+      "link": "https://doi.org/10.5194/bg-23-6019-2026",
+      "summary": "Stability of stream biofilm community composition to transient shifts in dissolved organic carbon characteristics\n                    Oliviah Lines, Ewen Silvester, Suman Acharya, Aleicia Holland, and Michael Shackleton\n                        Biogeosciences, 23, 6019–6036, https://doi.org/10.5194/bg-23-6019-2026, 2026\n                        Stream biofilm microbial communities play key roles in elemental cycles and stream food webs, yet little is known about their response to transient changes in dissolved organic carbon (DOC) composition and characteristics. Using chemical analyses and eDNA metabarcoding, this study found that DOC composition shifted during storm events, but the composition of most biofilm communities remained stable, suggesting ecological resilience to transient shifts in DOC composition and characteristics.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-02T15:42:36+02:00",
+      "doi": "10.5194/bg-23-6019-2026",
+      "affiliation": null,
+      "title_zh": "溪流生物膜群落组成对溶解有机碳特性瞬态变化的稳定性",
+      "relevance_score": 6,
+      "key_conclusion": "研究发现风暴事件期间溶解有机碳（DOC）组成发生变化，但多数生物膜群落组成保持稳定，表明这些微生物群落对DOC瞬态变化具有生态韧性。",
+      "relevance_note": "涉及溶解有机碳动态和微生物群落响应，与土壤有机质形成及微生物-碳循环反馈有一定关联，但聚焦淡水系统而非陆地/土壤，且无动物介导过程。",
+      "related_papers": [
+        {
+          "title": "A review of allochthonous organic matter dynamics and metabolism in streams",
+          "link": "https://doi.org/10.1899/08-170.1",
+          "venue": "Journal of the North American Benthological Society",
+          "year": 2010
+        },
+        {
+          "title": "The biofilm matrix: multitasking in a shared space",
+          "link": "https://doi.org/10.1038/s41579-022-00791-0",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2022
+        },
+        {
+          "title": "Low shifts in salinity determined assembly processes and network stability of microeukaryotic plankton communities in a subtropical urban reservoir",
+          "link": "https://doi.org/10.1186/s40168-021-01079-w",
+          "venue": "Microbiome",
+          "year": 2021
+        },
+        {
+          "title": "The ecological significance of exchange processes between rivers and groundwater",
+          "link": "https://doi.org/10.1046/j.1365-2427.1997.00143.x",
+          "venue": "Freshwater Biology",
+          "year": 1997
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6019/2026/bg-23-6019-2026-avatar-web.png",
+      "scientific_question": "溪流生物膜微生物群落的组成在面对溶解有机碳（DOC）特性的瞬态变化时，其稳定性如何？",
+      "contributions_limitations": "该研究结合化学分析与eDNA宏条形码技术，发现风暴事件引起的DOC组成变化并未显著改变大多数生物膜群落的组成，揭示了微生物群落在碳源波动下的生态韧性。基于摘要推测，其局限可能在于仅关注群落组成而非功能变化，且DOC瞬态变化的时间尺度与群落响应的匹配程度需要更精细的采样设计来验证。",
+      "follow_up_research": "后续研究可深入探究生物膜群落功能（如胞外酶活性、代谢速率）是否同样保持稳定，并识别在DOC扰动下群落组成仍发生改变的特有类群及其生态角色。此外，可将此结论拓展至其他水生或陆地界面系统，检验生态韧性假说的普适性。",
+      "next_step_perspective": "这篇文章提供了关于微生物群落对碳源变化响应稳定性的方法学参考（eDNA与化学分析结合），对于理解土壤微生物如何响应大型食草动物重野化引起的有机碳输入变化具有借鉴意义。其关于'群落组成稳定但DOC变化'的发现，也可能提示在评估重野化对土壤碳循环影响时，应关注功能冗余而非仅群落结构变化。",
+      "why_this_journal": "推测该文发表于Biogeosciences，因其结合了碳循环动力学与微生物生态学，且采用多学科方法（化学与分子生物学）探讨了生态系统中的关键过程，符合期刊对生物地球化学交叉研究的关注。",
+      "author_profile": {
+        "name": "Oliviah Lines",
+        "institution": "La Trobe University",
+        "intro": "Oliviah Lines来自澳大利亚La Trobe University，从历史题目看，其研究涉及淡水生物膜群落稳定性和气候变化对水生变温动物的影响，核心方向是淡水生态学与水生态系统响应。这与用户关注的土壤碳循环仍有一定距离，但在微生物介导的元素循环和气候变化扰动方面存在潜在概念上的关联。",
+        "other_works": [
+          {
+            "title": "Stability of stream biofilm community composition to transient shifts in dissolved organic carbon characteristics",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-4143"
+          },
+          {
+            "title": "Supplementary material to \"Stability of stream biofilm community composition to transient shifts in dissolved organic carbon characteristics\"",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-4143-supplement"
+          },
+          {
+            "title": "Out of the frying pan into the fire: Predicted warming in alpine streams suggests hidden consequences for aquatic ectotherms",
+            "year": "2024",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.17364"
+          }
+        ]
+      }
     },
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2601583123?af=R",
@@ -621,6 +927,53 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02721-x",
+      "title": "Restoring reefs with heat-tolerant corals",
+      "link": "https://www.nature.com/articles/s41558-026-02721-x",
+      "summary": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02721-xAs the Great Barrier Reef reels from successive devastating bleaching events, researchers are working to regenerate small areas with corals selected or manipulated for better heat tolerance.",
+      "journal": "Nature Climate Change",
+      "published": "2026-09-02T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02721-x",
+      "affiliation": null,
+      "title_zh": "用耐热珊瑚修复珊瑚礁",
+      "relevance_score": 5,
+      "key_conclusion": "在大堡礁连续遭受严重白化事件后，研究者正在尝试通过选择或改造耐热性更强的珊瑚来恢复小面积礁区，以提高其对气候变化的抵抗力。",
+      "relevance_note": "涉及生态系统恢复和气候变化适应，与基于自然的解决方案和生态恢复相关，但聚焦海洋系统，与陆地碳循环和草食动物无直接联系。",
+      "related_papers": [
+        {
+          "title": "Status of Coral Reefs of the World: 2020",
+          "link": "https://doi.org/10.59387/wotj9184",
+          "venue": null,
+          "year": 2021
+        },
+        {
+          "title": "Building coral reef resilience through assisted evolution",
+          "link": "https://doi.org/10.1073/pnas.1422301112",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2015
+        },
+        {
+          "title": "Shifting paradigms in restoration of the world's coral reefs",
+          "link": "https://doi.org/10.1111/gcb.13647",
+          "venue": "Global Change Biology",
+          "year": 2017
+        },
+        {
+          "title": "Selecting Heat-Tolerant Corals for Proactive Reef Restoration",
+          "link": "https://doi.org/10.3389/fmars.2021.632027",
+          "venue": "Frontiers in Marine Science",
+          "year": 2021
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02721-x/MediaObjects/41558_2026_2721_Figa_HTML.png",
+      "scientific_question": "在连续严重白化事件的背景下，人类是否可以通过耐热珊瑚的筛选与改造来促进受损珊瑚礁的局部恢复？",
+      "contributions_limitations": "该文作为Nature Climate Change的新闻或评论类文章，报道了基于耐热珊瑚的恢复实践进展，为基于自然的解决方案（如珊瑚礁修复）提供了实证案例。基于现有摘要推测，其局限性可能在于其并非系统性研究，缺乏对大规模可行性和生态副作用的深入评估，例如耐热改造对珊瑚共生微生物组或整体生物多样性的非预期影响。",
+      "follow_up_research": "后续研究可评估耐热珊瑚移植区的长期生态效益，包括对非目标物种和生态系统功能（如碳循环）的潜在影响；同时可对比自然恢复与人工干预在增强气候韧性方面的效果和成本。",
+      "next_step_perspective": "该文对用户的价值在于其展示了基于自然的解决方案在应对气候压力时的应用前景与实施挑战，用户可从中提取关于修复干预措施（如重野化）在多大程度上能缓冲气候变化影响的思考，并关注此类干预可能带来的生态进化后果。",
+      "why_this_journal": "推测该文发表于Nature Climate Change，因其紧扣气候驱动的生态退化与应对策略，具有高度时效性和现实紧迫性，符合该期刊对气候变化影响与适应方案关注的定位。",
+      "author_profile": null
     },
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2613422123?af=R",
