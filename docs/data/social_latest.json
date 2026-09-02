@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-02T03:44:59.007845+00:00",
-  "count": 10,
+  "generated_at": "2026-09-02T10:16:26.313039+00:00",
+  "count": 11,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Earth will breach a long-standing target before the end of the decade, according to a new UN report.\n\ngo.nature.com/4xAY4Sh",
+      "created_at": "2026-09-02T09:59:41.798Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mujog3mves22",
+      "external_title": "UN finally admits global warming will shoot past 1.5 ºC climate limit",
+      "external_description": "Earth will breach a long-standing target before the end of the decade, report says.",
+      "external_uri": "https://go.nature.com/4xAY4Sh",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiazh3ullwlrjk6u4mcznxc6wt6ybxflvystywq47v5eba3hdqlhym"
+    },
+    {
+      "handle": "natplants.nature.com",
+      "author_name": "Nature Plants",
+      "text": "New Comment: \"Evolution and implementation of EU regulation on new genomic techniques\" rdcu.be/FNqnZw7iVk8a\n\nRegulation (EU) 2026/1388 on plants obtained by certain new genomic techniques and their products was finally adopted by the European Union on 17 June 2026.",
+      "created_at": "2026-09-02T09:38:12.127Z",
+      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mujn7njacs2v",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -100,17 +122,6 @@
       "external_description": "Land-use and climate change may have synergistic impacts on biodiversity. This global analysis shows that the sensitivity of bird species and populations to deforestation is modulated by their thermal...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03160-9",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihritj7d66pgg6vwgidiwj5g2kj5fpy4vbqayymvkdsorasunh4ya"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Nature research paper: Critical zone processes limit alkalinity export from natural basaltic systems\n\ngo.nature.com/3SW42xS",
-      "created_at": "2026-08-31T08:44:04.321Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3muejazby5u2j",
-      "external_title": "Critical zone processes limit alkalinity export from natural basaltic systems - Nature",
-      "external_description": "Observations from natural volcanic watersheds demonstrate attenuation of alkalinity fluxes along the complete reactive pathways from soil to river that lead to reductions in exported alkalinity, indicating the limiting effects of critical zone processes.",
-      "external_uri": "https://go.nature.com/3SW42xS",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidcbl7hcljlo7tlgdp3gqfuhtsa6lfq4qaiditres3qtraysknbtq"
     }
   ]
 }

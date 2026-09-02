@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
-  "generated_at": "2026-09-02T03:44:59.006115+00:00",
-  "count": 8,
+  "generated_at": "2026-09-02T10:16:26.310876+00:00",
+  "count": 11,
   "articles": [
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2610728123?af=R",
@@ -240,6 +240,65 @@
       }
     },
     {
+      "id": "https://www.nature.com/articles/s41558-026-02734-6",
+      "title": "Declines in European bumblebee habitat suitability attributable to climate change",
+      "link": "https://www.nature.com/articles/s41558-026-02734-6",
+      "summary": "Nature Climate Change, Published online: 02 September 2026; doi:10.1038/s41558-026-02734-6The authors consider factual and counterfactual scenarios to isolate the role of climate change in the decline of suitable habitats for European bumblebees (1901–2019). They show reductions of 5% on average, and up to 19% locally, with high-altitude gains partially offsetting losses.",
+      "journal": "Nature Climate Change",
+      "published": "2026-09-02T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02734-6",
+      "affiliation": null,
+      "title_zh": "欧洲熊蜂适宜栖息地因气候变化而减少",
+      "relevance_score": 7,
+      "key_conclusion": "通过事实与反事实情景比较，表明气候变化导致1901-2019年间欧洲熊蜂适宜栖息地平均减少5%，局部最高达19%，高海拔地区的增加部分抵消了损失。",
+      "relevance_note": "文章研究地点在欧洲，涉及气候变化对生物分布与生态系统的影响，与用户对欧洲研究地点及气候扰动下生物互作的兴趣相关，但主题非大型动物或碳循环，故评分为7。",
+      "related_papers": [
+        {
+          "title": "Habitat and Forage Associations of a Naturally Colonising Insect Pollinator, the Tree Bumblebee Bombus hypnorum",
+          "link": "https://doi.org/10.1371/journal.pone.0107568",
+          "venue": "PLoS ONE",
+          "year": 2014
+        },
+        {
+          "title": "Grain Legume Production and Use in European Agricultural Systems",
+          "link": "https://doi.org/10.1016/bs.agron.2017.03.003",
+          "venue": "Advances in agronomy",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02734-6/MediaObjects/41558_2026_2734_Fig1_HTML.png",
+      "scientific_question": "在1901-2019年间，气候变化在多大程度上导致了欧洲熊蜂适宜栖息地的缩减，以及不同海拔区域（如高海拔）的响应有何差异？",
+      "contributions_limitations": "该研究通过对比事实与反事实情景，首次量化了气候变化对欧洲熊蜂栖息地适宜性的独立贡献，揭示了平均5%、局部最高19%的显著下降，并发现高海拔地区有部分增益，方法上具有因果推断的创新性。可能的局限性包括模型仅聚焦气候因子，未纳入土地利用、农药、病原体等非气候驱动因素，且熊蜂物种内的功能差异（如不同蜂王与工蜂需求）可能未被精细刻画。",
+      "follow_up_research": "后续研究可评估气候变化导致的栖息地收缩对熊蜂传粉功能及植物群落繁殖的影响，特别是高海拔避难所的连通性与保护价值；也可将气候与非气候胁迫（如土地利用变化、物种互作）耦合建模，预测未来不同排放情景下的熊蜂灭绝风险与重分布格局。",
+      "next_step_perspective": "这篇文章为你的研究提供了基于反事实情景分离气候变化贡献的分析框架，可用于评估大型食草动物重野化对土壤有机碳的净效应（对比有/无重野化情景）；高海拔增益与低位损失的格局也提示，在碳循环研究中需关注海拔梯度上放牧移除后植被-土壤反馈的非对称性。",
+      "why_this_journal": "推测：该文发表于Nature Climate Change因其首次用因果推断框架（事实vs反事实）将栖息地衰退明确归因于气候变化，兼具方法严谨性与对全球生物多样性热点议题的高度政策相关性，符合期刊对气候变化影响的原创性与大尺度实证研究偏好。",
+      "author_profile": {
+        "name": "Bastien De Tandt",
+        "institution": "Fonds De La Recherche Scientifique - FNRS",
+        "intro": "Bastien De Tandt来自比利时国家科学研究基金会（FNRS），从其历史作品看，主要研究方向为欧洲野生蜂与食蚜蝇的记录数据库构建、红色名录评估及蜂群落对人为干扰（如生物同质化）的功能响应。其核心关注传粉者多样性的大尺度时空格局与保护，与你的研究方向（大型动物重野化对生态系统功能的影响）在生物多样性-生态系统功能和保护决策层面有交叉，但对象和尺度不同。",
+        "other_works": [
+          {
+            "title": "Synthesised database of wild bee and hoverfly records in Europe",
+            "year": "2026",
+            "journal": "Scientific Data",
+            "doi": "10.1038/s41597-026-06644-2"
+          },
+          {
+            "title": "European Red List of Bees - Measuring the pulse of European biodiversity",
+            "year": "2026",
+            "journal": "Publications Office of the European Union",
+            "doi": "10.2779/521877"
+          },
+          {
+            "title": "Biotic homogenization and functional restructuring of bee communities in northern France: implications for conservation priorities",
+            "year": "2025",
+            "journal": "Biodiversity and Conservation",
+            "doi": "10.1007/s10531-024-03005-6"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2617749123?af=R",
       "title": "Parental niche construction buffers microbial and competitive challenges and drives offspring dependence in burying beetles",
       "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617749123?af=R",
@@ -303,6 +362,28 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02753-5",
+      "title": "UN finally admits global warming will shoot past 1.5 ºC climate limit",
+      "link": "https://www.nature.com/articles/d41586-026-02753-5",
+      "summary": "Nature, Published online: 02 September 2026; doi:10.1038/d41586-026-02753-5Earth will breach a long-standing target before the end of the decade, report says.",
+      "journal": "Nature",
+      "published": "2026-09-02T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-02753-5",
+      "affiliation": null,
+      "title_zh": "联合国最终承认全球变暖将突破1.5°C气候限制",
+      "relevance_score": 6,
+      "key_conclusion": "报告指出地球将在本十年末前突破长期设定的1.5°C温控目标。",
+      "relevance_note": "该文涉及气候变化目标与碳循环背景，与用户关注的极端气候对生态系统碳循环的扰动相关，但非直接研究。虽为Nature新闻，但主题宏观，故给予中等偏上分数。",
+      "related_papers": [],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02753-5/d41586-026-02753-5_53199302.jpg",
+      "scientific_question": "联合国最新报告如何确认全球变暖将超过1.5°C长期目标，并评估这一突破的时间节点及对国际气候治理的启示？",
+      "contributions_limitations": "作为新闻评论，该文传递了联合国对1.5°C目标将在本十年末前被突破的官方承认信号，对政策界和公众认知具有重要警示价值。局限性在于此类短评缺乏系统分析的具体数据，未详述突破后的生态与经济级联效应，也未讨论可能的社会适应路径。",
+      "follow_up_research": "后续研究可系统评估1.5°C突破后对关键生态系统（如永久冻土碳库、热带森林碳汇）的临界点触发风险，以及重野化等基于自然的解决方案在超温情景下的降碳与增汇上限；同时可探讨超越1.5°C后社会-生态系统的韧性赤字与适应政策优先序。",
+      "next_step_perspective": "这篇文章提醒你，即使重野化策略有碳汇潜力，其效果也需置于1.5°C被突破的快速变暖背景下评估——极端气候事件可能削弱动物介导的碳稳定机制（如大型食草动物对土壤扰动的正/负反馈），因此你的研究应考虑未来非平稳气候条件下重野化碳效益的稳健性。",
+      "why_this_journal": "推测：Nature正刊刊发此新闻评论因其对接全球气候治理最前沿政治动态——联合国官方承认目标失守，具有极高时效性与国际影响力，符合期刊对重大科学-政策事件快速反应的定位。",
+      "author_profile": null
     },
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2601583123?af=R",
@@ -466,6 +547,77 @@
             "year": "2026",
             "journal": "Essays in Biochemistry",
             "doi": "10.1042/EBC20250034"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-8081-2026",
+      "title": "AD-MERGE 2.0: an integrated assessment of the Nexus among energy transitions, climate impacts, and adaptation responses",
+      "link": "https://doi.org/10.5194/gmd-19-8081-2026",
+      "summary": "AD-MERGE 2.0: an integrated assessment of the Nexus among energy transitions, climate impacts, and adaptation responses\n                    Kamyar Amirmoeini, Olivier Bahn, Kelly de Bruin, Kirsten Everett, Hamed Kouchaki-Penchah, and Pierre-Olivier Pineau\n                        Geosci. Model Dev., 19, 8081–8113, https://doi.org/10.5194/gmd-19-8081-2026, 2026\n                        This study introduces AD-MERGE 2.0, an updated model designed to evaluate emission reduction policies alongside immediate and long-term climate adaptation strategies. The new version improves regional detail, energy system representation, and the calibration of climate damages and adaptation. By comparing five policy scenarios, the study shows how mitigation and adaptation interact across regions, highlighting key trade-offs and synergies.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-02T11:55:00+02:00",
+      "doi": "10.5194/gmd-19-8081-2026",
+      "affiliation": null,
+      "title_zh": "AD-MERGE 2.0：能源转型、气候影响与适应对策关联的综合评估",
+      "relevance_score": 5,
+      "key_conclusion": "该模型更新了区域细节和能源系统表征，通过比较五个政策情景，展示了减缓与适应策略在区域间的交互作用，揭示了关键权衡与协同效应。",
+      "relevance_note": "文章涉及气候变化影响与适应建模，与用户对生态系统模型改进及气候变化响应的兴趣相关，但主题侧重能源政策而非生态碳循环，故评分为5。",
+      "related_papers": [
+        {
+          "title": "The MESSAGE Integrated Assessment Model and the ix modeling platform (ixmp): An open framework for integrated and cross-cutting analysis of energy, climate, the environment, and sustainable development",
+          "link": "https://doi.org/10.1016/j.envsoft.2018.11.012",
+          "venue": "Environmental Modelling & Software",
+          "year": 2018
+        },
+        {
+          "title": "Macro-Fiscal Implications of Adaptation to Climate Change",
+          "link": "https://doi.org/10.5089/9798400201608.066",
+          "venue": "IMF Staff Climate Notes",
+          "year": 2022
+        },
+        {
+          "title": "Cumulative effects assessment: theoretical underpinnings and big problems",
+          "link": "https://doi.org/10.1139/er-2015-0073",
+          "venue": "Environmental Reviews",
+          "year": 2016
+        },
+        {
+          "title": "Circular Economy and Green Chemistry: The Need for Radical Innovative Approaches in the Design for New Products",
+          "link": "https://doi.org/10.3390/en16041752",
+          "venue": "Energies",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/8081/2026/gmd-19-8081-2026-avatar-web.png",
+      "scientific_question": "如何改进综合评估模型以更精准地刻画能源转型、气候影响与适应响应之间的耦合关系（Nexus）？",
+      "contributions_limitations": "该研究发布了AD-MERGE 2.0模型，显著提升了区域分辨率、能源系统表征精度及气候损失与适应的校准，并通过五个政策情景的比较揭示了减缓与适应策略的跨区域权衡与协同，是集成评估方法论的重要迭代。可能的局限包括模型仍偏重经济与能源维度，对生态过程（如土壤碳动态、生物多样性反馈）的显式表达不足，且情景设定可能简化了极端事件与不确定性。",
+      "follow_up_research": "后续方向包括将此类集成评估模型与动态全球植被模型（DGVM）耦合，显式纳入土地利用/放牧场景下的土壤有机碳变化，以评估基于自然的解决方案的减缓和适应双重效益；也可开发模块化接口，使生态学家能输入重野化相关的碳参数，进行跨区域协同效益敏感性分析。",
+      "next_step_perspective": "对你不直接相关但方法上有启发：AD-MERGE 2.0展示了如何在区域尺度上建模减缓-适应交互，你可借鉴其情景比较思路，为欧洲不同重野化场地构建'有/无大型食草动物'的情景，将土壤碳动态作为适应/减缓结果纳入更广的陆地-气候反馈建模中；其校准气候损失的框架也提示需量化重野化碳效益在模型中的不确定性传播。",
+      "why_this_journal": "推测：发表于Geoscientific Model Development因文章聚焦于综合评估模型（IAM）的实质性技术升级（区域细节、能源系统、损失校准），属于模型开发与验证类原创研究，符合该期刊对地球系统模型中方法学进步的定位。",
+      "author_profile": {
+        "name": "Kamyar Amirmoeini",
+        "institution": "HEC Montréal",
+        "intro": "Kamyar Amirmoeini来自蒙特利尔高等商学院（HEC Montréal），其发表记录显示其主要方向为综合评估模型的开发与应用，尤其关注能源转型、气候政策与适应策略的耦合（AD-MERGE系列），近年也涉足氢能在集成模型中的角色综述。其工作偏重社会经济建模，与你的实证生态碳循环研究在工具链上有潜在互补，但其核心兴趣不在生物地球化学过程。",
+        "other_works": [
+          {
+            "title": "AD-MERGE 2.0: an integrated assessment of the Nexus among energy transitions, climate impacts, and adaptation responses",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-8081-2026"
+          },
+          {
+            "title": "AD-MERGE 2.0: An Integrated Assessment of the Nexus Among Energy Transitions, Climate Impacts, and Adaptation Responses",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-6408"
+          },
+          {
+            "title": "The role of hydrogen in integrated assessment models: A review of recent developments",
+            "year": "2025",
+            "journal": "Renewable and Sustainable Energy Reviews",
+            "doi": "10.1016/j.rser.2025.115544"
           }
         ]
       }
