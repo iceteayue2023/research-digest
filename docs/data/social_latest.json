@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-01T15:57:48.012055+00:00",
+  "generated_at": "2026-09-02T03:44:59.007845+00:00",
   "count": 10,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Satellite-based analysis quantifies the impact of road expansion linked to logging and mining on intact forests and aboveground biomass in Siberia from 2000 to 2023\n\nwww.nature.com/articles/s41...",
+      "created_at": "2026-09-01T16:04:29.142Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3muhsdhetzk2h",
+      "external_title": "Fourfold increase in fragmentation from road expansion in Siberian intact forests since 2000 - Nature Ecology & Evolution",
+      "external_description": "Analysing Landsat satellite images between 2000 and 2023, the authors show that road expansion linked to logging and mining in the central-eastern Siberian intact forest landscape has intensified forest fragmentation and contributed to more than 39 megatonnes of aboveground biomass loss.",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03162-7",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifdbezdiowg2teduydwnxxmsln7hudgpkuk4dw2q7ygswxtxq3ej4"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New field experimental study suggests tree diversity and mycorrhizal type are distinct drivers of multitrophic biodiversity, with greater effects belowground.\n\nwww.nature.com/articles/s41...\n\n@eisenhauerlab.bsky.social",
+      "created_at": "2026-09-01T15:58:00.073Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3muhrxudftc2p",
+      "external_title": "Tree diversity and mycorrhizal type independently shape multitrophic biodiversity, with stronger effects belowground than aboveground - Nature Ecology & Evolution",
+      "external_description": "Tree diversity and mycorrhizal dominance are considered major drivers of multitrophic diversity and ecosystem functioning in forests. Here the authors disentangle the effects of these factors on above...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03147-6",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiejjr7ejfjyh7uupr4scmmh4wjp4zuo2wyfk4eiwi3ugzhztxwrnm"
+    },
     {
       "handle": "britishecologicalsociety.org",
       "author_name": "British Ecological Society",
@@ -89,28 +111,6 @@
       "external_description": "Observations from natural volcanic watersheds demonstrate attenuation of alkalinity fluxes along the complete reactive pathways from soil to river that lead to reductions in exported alkalinity, indicating the limiting effects of critical zone processes.",
       "external_uri": "https://go.nature.com/3SW42xS",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidcbl7hcljlo7tlgdp3gqfuhtsa6lfq4qaiditres3qtraysknbtq"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "One of the most-viewed PNAS articles in the last week is “The ecology of Lyme disease: Long-term data, surprises, and a synthesis.” Explore the article here: https://ow.ly/TZCV50ZFWot\n\nFor more trending articles, visit https://ow.ly/4FEI50ZFWow. ",
-      "created_at": "2026-08-29T21:00:14.659424211Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3muarhl6pka2o",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Explore peer-reviewed research in agricultural sciences from PNAS, including food security, precision farming, climate-resilient crops, and more. Discover articles that advance sustainable agriculture, resource management, and food systems: https://ow.ly/xTPR50ZFWkj",
-      "created_at": "2026-08-29T19:00:20.248891943Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3muakr5uyov2v",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
