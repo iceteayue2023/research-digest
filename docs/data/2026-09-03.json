@@ -1,8 +1,91 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T10:27:21.412676+00:00",
-  "count": 5,
+  "generated_at": "2026-09-03T15:40:15.133770+00:00",
+  "count": 7,
   "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-6037-2026",
+      "title": "Ecosystem respiration during snowmelt and soil thaw leads to a rare annual CO2 net loss in a boreal fen",
+      "link": "https://doi.org/10.5194/bg-23-6037-2026",
+      "summary": "Ecosystem respiration during snowmelt and soil thaw leads to a rare annual CO2 net loss in a boreal fen\n                    Karoliina Särkelä, Timo Vesala, Torben R. Christensen, Juval Cohen, Angelika Kübert, Xuefei Li, Hannu Marttila, Jouni Pulliainen, Eeva-Stiina Tuittila, and Efrén López-Blanco\n                        Biogeosciences, 23, 6037–6052, https://doi.org/10.5194/bg-23-6037-2026, 2026\n                        Using a 17-year record of year-round peatland carbon exchange, we found that over half of the carbon sequestrated during summer was released during winter. In one year, CO₂ emissions during snow melt and soil thaw in spring were large enough to shift the peatland from a net carbon sink to a source. These findings demonstrate that winter and early-spring processes have a strong impact over the annual carbon balance of northern peatlands.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-03T13:04:21+02:00",
+      "doi": "10.5194/bg-23-6037-2026",
+      "affiliation": null,
+      "title_zh": "融雪和土壤解冻期间的生态系统呼吸导致北方泥炭沼泽罕见的年度CO₂净损失",
+      "relevance_score": 9,
+      "key_conclusion": "利用17年的全年泥炭地碳交换记录，研究发现夏季固存的碳超过一半在冬季释放。某年春季融雪和解冻期的CO₂排放足够大，使泥炭地从碳汇转变为碳源，表明冬季和早春过程对北方泥炭地年度碳平衡有强烈影响。",
+      "relevance_note": "研究直接涉及陆地生态系统碳循环、碳源碳汇变化及极端气候过程对碳平衡的扰动，研究地点北欧（欧洲），与用户对欧洲碳循环研究的偏好高度契合。",
+      "related_papers": [
+        {
+          "title": "Year-round CH 4 and CO 2 flux dynamics in two contrasting freshwater ecosystems of the subarctic",
+          "link": "https://doi.org/10.5194/bg-14-5189-2017",
+          "venue": "Biogeosciences",
+          "year": 2017
+        },
+        {
+          "title": "Investigating the sensitivity of soil heterotrophic respiration to recent snow cover changes in Alaska using a satellite-based permafrost carbon model",
+          "link": "https://doi.org/10.5194/bg-17-5861-2020",
+          "venue": "Biogeosciences",
+          "year": 2020
+        },
+        {
+          "title": "Functional microbial ecology in arctic soils: the need for a year-round perspective",
+          "link": "https://doi.org/10.1093/femsec/fiac134",
+          "venue": "FEMS Microbiology Ecology",
+          "year": 2022
+        },
+        {
+          "title": "Microbial contribution to post-fire tundra ecosystem recovery over the 21st century",
+          "link": "https://doi.org/10.1038/s43247-022-00356-2",
+          "venue": "Communications Earth & Environment",
+          "year": 2022
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6037/2026/bg-23-6037-2026-avatar-web.png",
+      "scientific_question": "北方泥炭地在冬季和早春季节（融雪和土壤解冻期）的生态系统呼吸过程如何影响其年度碳平衡，以及这些非生长季过程是否可能导致泥炭地从碳汇转变为碳源？",
+      "contributions_limitations": "主要贡献在于利用17年的长期全年碳交换记录，揭示了冬季和早春过程对北方泥炭地年度碳平衡的强烈控制作用，发现某年春季融雪期排放足以逆转年度碳汇状态，挑战了仅关注生长季的碳收支评估范式。研究地点为北方沼泽（芬兰），对用户关注的欧洲地点和极端气候事件扰动碳循环主题高度相关。局限性可能在于单一地点（boreal fen）的结论外推性有限，且对冬季各过程（如微生物活性、物理排放）的机制区分可能不足，基于摘要推测。",
+      "follow_up_research": "后续研究可结合过程模型或控制实验，量化融雪期与土壤解冻期各呼吸组分（自养/异养）的贡献及其温度敏感性；探究冬季增温或雪被变化情景下，此类'碳源年'的发生频率与生态学后果；将冬季过程纳入泥炭地碳循环模型的参数化方案，提升预测北方泥炭地在气候变化下碳汇稳定性的能力。",
+      "next_step_perspective": "这篇文章提供了评估北方泥炭地碳汇稳定性的关键时间尺度视角，提示用户在关注大型食草动物重野化对碳循环影响时，不能忽视非生长季（尤其冰雪覆盖期）的动物活动（如践踏改变雪深和土壤热状态）可能对土壤呼吸及碳平衡的间接调控作用。其17年长期观测数据的分析范式（识别极端年份的驱动因素）也为评估重野化效应的长期时间动态提供了方法学参考。",
+      "why_this_journal": "推测该研究能发表在Biogeosciences，因其基于罕见的长达17年的全年高频碳通量观测数据，提供了关于北方泥炭地冬季碳损失及其对年度碳平衡决定性影响的强有力证据，对改进北方生态系统碳收支估算和模型发展具有重要价值，符合期刊对长期观测和生物地球化学过程机制揭示的定位。",
+      "author_profile": {
+        "name": "Angelika Kübert",
+        "institution": "University of Helsinki",
+        "intro": "Angelika Kübert目前就职于赫尔辛基大学（University of Helsinki）。从其历史作品看，其研究方向集中于生态系统尺度碳、水和能量通量的观测与模拟，涉及泥炭地、干旱草地、CAM植物种植园等多种生态系统，重点关注植被结构与环境因子（如干旱、温度）对温室气体动态的影响。其研究技术与宏观生态系统视角与用户关注的重野化对土壤碳循环的影响有方法上的关联性。",
+        "other_works": [
+          {
+            "title": "Ecosystem respiration during snowmelt and soil thaw leads to a rare annual CO2 net loss in a boreal fen",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6037-2026"
+          },
+          {
+            "title": "Long-term aridity shapes grassland drought resistance and modulates the roles of plant diversity and functional composition",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70384"
+          },
+          {
+            "title": "Vegetation structure drives carbon dioxide and methane dynamics in adjacent boreal fen and bog ecosystems",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-3323"
+          },
+          {
+            "title": "Summer temperatures largely control annual methane budgets of a northern peatland",
+            "year": "2026",
+            "journal": "Agricultural and Forest Meteorology",
+            "doi": "10.1016/j.agrformet.2026.111101"
+          },
+          {
+            "title": "Gas phase in plants: integrating physiology, ecology and environmental sciences",
+            "year": "2026",
+            "journal": "Tree Physiology",
+            "doi": "10.1093/treephys/tpag021"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.nature.com/articles/s41561-026-02095-x",
       "title": "Precipitation and soil phosphorus regulate post-drought resilience in tropical forests",
@@ -100,6 +183,53 @@
       "follow_up_research": "后续研究可探讨沙漠洪水对干旱区植被-土壤碳库的脉冲式影响，特别是洪水后土壤有机碳的再分配与稳定性变化；也可研究重野化大型食草动物对这类极端水文事件下植被恢复的调节作用。",
       "next_step_perspective": "这篇文章提示我关注极端气候事件（如沙漠洪水）对碳循环的扰动机制，可将其作为自然干扰因子纳入我关于放牧强度与土壤碳动态的研究框架中。同时，其指出的适应策略空白也启发我思考rewilding作为基于自然的解决方案在应对此类极端事件中的潜力与局限。",
       "why_this_journal": "推测发表在Science正刊的原因是其提出了一个具有全球普遍意义的政策与科学议题——气候适应策略的盲区，且沙漠洪水与气候变化的关系具有跨学科的重要性和影响力。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03182-3",
+      "title": "Butterfly effects",
+      "link": "https://www.nature.com/articles/s41559-026-03182-3",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 03 September 2026; doi:10.1038/s41559-026-03182-3Recent studies illustrate the pervasive, and growing, impact of climate change on the distribution and abundance of even common species, as well as how conservation policymakers must recalibrate their strategies to account for these shifts.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-03T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03182-3",
+      "affiliation": null,
+      "title_zh": "蝴蝶效应",
+      "relevance_score": 6,
+      "key_conclusion": "近期研究表明，气候变化对即使是常见物种的分布和丰度也产生普遍且日益增长的影响，并指出保护政策制定者必须重新调整策略以应对这些变化。",
+      "relevance_note": "文章关注气候变化对物种分布和丰度的影响及保护策略调整，与用户关注的生态系统对气候变化的响应及生态系统功能恢复主题相关，但未直接涉及碳循环或重野化。",
+      "related_papers": [
+        {
+          "title": "Larval food limitation in butterflies: effects on adult resource allocation and fitness",
+          "link": "https://doi.org/10.1007/s00442-005-0076-6",
+          "venue": "Oecologia",
+          "year": 2005
+        },
+        {
+          "title": "DIRECT AND INDIRECT EFFECTS OF CLIMATE AND HABITAT FACTORS ON BUTTERFLY DIVERSITY",
+          "link": "https://doi.org/10.1890/06-0539",
+          "venue": "Ecology",
+          "year": 2007
+        },
+        {
+          "title": "Butterfly Effects Arising from Starting Materials in Fused-Ring Electron Acceptors",
+          "link": "https://doi.org/10.1021/jacs.0c09800",
+          "venue": "Journal of the American Chemical Society",
+          "year": 2020
+        },
+        {
+          "title": "Fecundity, lifespan and egg mass in butterflies: effects of male‐derived nutrients and female size",
+          "link": "https://doi.org/10.1046/j.1365-2435.1997.00074.x",
+          "venue": "Functional Ecology",
+          "year": 1997
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03182-3/MediaObjects/41559_2026_3182_Figa_HTML.png",
+      "scientific_question": "近期关于气候变化对物种分布和丰度影响的研究进展为何？保护政策制定者应如何重新校准策略以应对这些普遍且日益增长的影响？",
+      "contributions_limitations": "这是一篇编辑评论（或新闻观点类）文章，综合近期研究说明气候变化对即使是常见物种的分布和丰度也具有普遍且增长的影响。其贡献在于为保护生物学领域提供一个整合性的全景视角，强调政策制定需要战略性转变以适应物种快速变迁的现实。局限性在于作为评论文章，缺乏一手数据，具体的管理建议可能不够细化，基于现有信息推测。",
+      "follow_up_research": "可以针对'常见物种'的分布与丰度变化如何影响生态系统功能（如传粉、种子扩散）开展实证研究；探讨如何将动态物种分布预测融入到更广泛的基于自然的解决方案和土地管理规划中，以增强气候适应能力；研究常见物种变化对珍稀物种及食物网稳定性的级联效应。",
+      "next_step_perspective": "此文提示用户，即使关注焦点是大型食草动物和碳循环，但由气候变化驱动的整个生物群落的分布和丰度重塑是影响所有生态系统过程和生态恢复项目（包括重野化）成功与否的背景板。其强调的政策调整视角，可用于思考在气候变化背景下，重野化项目在目标物种选择和引入地适宜性评估中需要更具前瞻性和动态性。",
+      "why_this_journal": "推测作为Nature Ecology & Evolution的编辑评论，旨在快速凝练和传播领域内具有广泛影响力的研究趋势，为生态学和保护生物学界提供及时的前沿视角与政策启示，其定位在于引领学科讨论而非发表具体实验数据。",
       "author_profile": null
     },
     {
