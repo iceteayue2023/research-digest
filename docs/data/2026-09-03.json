@@ -1,8 +1,60 @@
 {
   "date": "2026-09-03",
-  "generated_at": "2026-09-03T03:42:28.350495+00:00",
-  "count": 2,
+  "generated_at": "2026-09-03T10:27:21.412676+00:00",
+  "count": 5,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02095-x",
+      "title": "Precipitation and soil phosphorus regulate post-drought resilience in tropical forests",
+      "link": "https://www.nature.com/articles/s41561-026-02095-x",
+      "summary": "Nature Geoscience, Published online: 03 September 2026; doi:10.1038/s41561-026-02095-xDrought disturbances are reducing the recovery capacity of tropical forests, especially in drier conditions, but soil phosphorus can mitigate this impact, according to a satellite-based analysis of ecosystem resilience.",
+      "journal": "Nature Geoscience",
+      "published": "2026-09-03T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02095-x",
+      "affiliation": null,
+      "title_zh": "降水与土壤磷调控热带森林干旱后的恢复力",
+      "relevance_score": 8,
+      "key_conclusion": "基于卫星的生态系统恢复力分析显示，干旱扰动正在降低热带森林的恢复能力，尤其是在较干燥的条件下，而土壤磷可以缓解这种影响。",
+      "relevance_note": "该文章涉及热带森林退化与恢复中的碳汇变化及极端气候事件（干旱）对碳循环的扰动，属于用户相邻领域（1），且研究地点为热带森林（非欧洲），但主题高度贴合，故给予较高分数。",
+      "related_papers": [
+        {
+          "title": "Regulated deficit irrigation for crop production under drought stress. A review",
+          "link": "https://doi.org/10.1007/s13593-015-0338-6",
+          "venue": "Agronomy for Sustainable Development",
+          "year": 2015
+        },
+        {
+          "title": "Ecological effects of perturbation by drought in flowing waters",
+          "link": "https://doi.org/10.1046/j.1365-2427.2003.01086.x",
+          "venue": "Freshwater Biology",
+          "year": 2003
+        },
+        {
+          "title": "Temporal trade-off between gymnosperm resistance and resilience increases forest sensitivity to extreme drought",
+          "link": "https://doi.org/10.1038/s41559-020-1217-3",
+          "venue": "Nature Ecology & Evolution",
+          "year": 2020
+        },
+        {
+          "title": "A review of environmental droughts: Increased risk under global warming?",
+          "link": "https://doi.org/10.1016/j.earscirev.2019.102953",
+          "venue": "Earth-Science Reviews",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02095-x/MediaObjects/41561_2026_2095_Fig1_HTML.png",
+      "scientific_question": "这篇论文试图回答的核心科学问题是：在热带森林中，干旱干扰后生态系统的恢复能力（resilience）如何受到降水条件和土壤磷含量的调控？",
+      "contributions_limitations": "主要贡献在于利用卫星遥感数据开展大规模分析，揭示了降水条件和土壤磷有效性对热带森林干旱后恢复能力的协同调控作用，为理解气候变化下热带森林的脆弱性和恢复力提供了大尺度观测证据。局限性在于该研究基于卫星指标推断恢复力，缺乏地面实测的植被生理过程和土壤碳动态数据，可能无法完全捕捉恢复力的内在机制；此外，由于未提供详细方法，具体指标定义和区域覆盖范围不清晰。基于现有信息推测，建议查看原文以获取数据和分析细节。",
+      "follow_up_research": "基于该研究，可进一步探究土壤磷调控恢复力的生物地球化学机制——例如磷限制如何影响树木的非结构性碳水化合物（NSC）储存与再分配，从而决定干旱后的碳收支；也可将此类卫星恢复力框架与地面土壤有机碳组分（POM/MAOM）监测相结合，验证恢复力指标是否能预测长期碳汇稳定性。",
+      "next_step_perspective": "该文章提供了将气候胁迫、养分限制与生态系统功能恢复关联起来的分析框架，与您关注的'干旱/极端气候事件对碳循环的扰动'和'C-N-P化学计量与养分循环'高度相关，启示您在研究大型食草动物重野化时，可考虑动物驱动的磷循环如何改变植物群落对干旱等极端事件的恢复力，从而影响土壤有机碳的长期累积。其卫星遥感方法也可启发您在大尺度上评估重野化区域碳循环动态。",
+      "why_this_journal": "推测：该研究发表在Nature Geoscience，因其整合了全球变化生态学、生物地球化学循环和大尺度遥感分析，揭示了养分限制（磷）在气候-植被反馈中的关键调节作用，主题具有重要的地球系统科学交叉意义和现实紧迫性。",
+      "author_profile": {
+        "name": "Bin He",
+        "institution": "Tsinghua University",
+        "intro": "Bin He目前任职于清华大学，从文章标题及发表期刊来看，研究方向为全球变化与生态系统功能，尤其关注气候极端事件（如干旱）和养分循环对植被碳动态的影响。与他研究的关联在于：其聚焦的磷限制-植被恢复力-碳循环关系，可直接延伸至您关心的动物介导养分反馈（zoogeochemistry）对土壤碳稳定的影响机制。",
+        "other_works": []
+      }
+    },
     {
       "id": "https://www.science.org/doi/abs/10.1126/science.aek8173?af=R",
       "title": "Desert flooding highlights a critical gap in climate change adaptation",
@@ -51,6 +103,89 @@
       "author_profile": null
     },
     {
+      "id": "https://www.nature.com/articles/s43017-026-00824-9",
+      "title": "Biochar beyond incrementalism",
+      "link": "https://www.nature.com/articles/s43017-026-00824-9",
+      "summary": "Nature Reviews Earth &amp; Environment, Published online: 03 September 2026; doi:10.1038/s43017-026-00824-9Biochar applications can help mitigate climate change, improve soil health and support a circular economy. Reducing production costs and safety risks, maximizing design and co-benefits, and scaling up to the carbon markets are key priorities in realizing this potential.",
+      "journal": "Nature Reviews Earth & Environment",
+      "published": "2026-09-03T00:00:00+00:00",
+      "doi": "10.1038/s43017-026-00824-9",
+      "affiliation": null,
+      "title_zh": "生物炭：超越渐进式改良",
+      "relevance_score": 5,
+      "key_conclusion": "生物炭应用有助于缓解气候变化、改善土壤健康并支持循环经济。降低生产成本和安全风险、最大化设计及其协同效益、并扩展到碳市场是实现这一潜力的关键优先事项。",
+      "relevance_note": "文章涉及基于自然的解决方案（生物炭）在应对气候变化中的作用，属于用户关注领域（10），但与核心的rewilding或生态系统碳循环机制关联较弱，且为综述类，故给予中等偏高分数。",
+      "related_papers": [
+        {
+          "title": "Beyond the new normal for sustainability: transformative operations and supply chain management for negative emissions",
+          "link": "https://doi.org/10.1108/ijopm-06-2024-0487",
+          "venue": "International Journal of Operations & Production Management",
+          "year": 2024
+        },
+        {
+          "title": "Human Rights and Precautionary Principle: Limits to Geoengineering, SRM, and IPCC Scenarios",
+          "link": "https://doi.org/10.3390/su12218858",
+          "venue": "Sustainability",
+          "year": 2020
+        },
+        {
+          "title": "Characterising policy responses to complex socio-ecological problems: 60 fire management interventions in Indonesian peatlands",
+          "link": "https://doi.org/10.1016/j.gloenvcha.2019.102027",
+          "venue": "Global Environmental Change",
+          "year": 2019
+        },
+        {
+          "title": "Navigating reconfiguration and systems disruption: Decarbonization pathways for UK industrial clusters",
+          "link": "https://doi.org/10.1016/j.energy.2025.136464",
+          "venue": "Energy",
+          "year": 2025
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "这篇综述旨在系统评估生物炭（biochar）在气候变化减缓、土壤健康改善和循环经济方面的应用潜力，并阐明实现其规模化应用的关键挑战与优先研究议题。",
+      "contributions_limitations": "主要贡献在于全面梳理了生物炭技术从'增量式改良'走向系统性变革的路径，涵盖了生产成本、安全性、材料设计与协同效益、碳市场接入等多个维度，为该领域的未来研究方向提供了权威的优先级判断。作为一篇综述，其局限性在于不提供新的实验数据，具体技术方案的可实施性取决于后续研究的验证；摘要内容较概括，细节有限。基于现有信息推测。",
+      "follow_up_research": "针对生物炭对土壤有机碳的长期稳定机制（尤其是对POM与MAOM组分比例的影响）开展田间长期定位试验，评估其与大型食草动物放牧或重野化管理的交互效应；同时探索利用不同生物炭原料（如粪肥、植物残体）作为'动物-土壤-碳'循环中人为干预手段的可行性。",
+      "next_step_perspective": "该综述虽以生物炭为核心，但其'超越增量主义'的系统性视角可启发您思考重野化研究如何避免'仅限于某一种动物或某一类土壤指标'的局限性。它强调'协同效益'和'规模化到碳市场'的观点，提示您可将大型食草动物重野化的碳汇效应与自然解决方案（NbS）政策设计或土壤改良实践（如生物炭添加）结合，探索多种干预措施的叠加与权衡。",
+      "why_this_journal": "推测：该文章发表于Nature Reviews Earth & Environment，因其属于综述类文章且讨论的主题（气候变化减缓、土壤健康、循环经济与碳市场）具有高度的全球影响力和跨学科政策意义，符合该刊'聚焦关键地球系统议题并引领优先研究方向'的定位。",
+      "author_profile": {
+        "name": "Lukas van Zwieten",
+        "institution": "NSW Department of Primary Industries",
+        "intro": "Lukas van Zwieten任职于澳大利亚新南威尔士州初级产业部（NSW Department of Primary Industries），从其发表的多篇论文标题来看，研究方向集中在生物炭对土壤品质和碳组分的影响、缓释肥料磷管理、以及土壤微生物在压实胁迫下的功能恢复力。这些研究涉及土壤有机碳的物理组分（aggregate organic carbon）和养分有效性，与您关注的土壤有机质形成与稳定机制（如POM/MAOM）具有一定的主题关联，但其核心更偏农业土壤管理而非自然生态系统重野化。",
+        "other_works": [
+          {
+            "title": "Biochar beyond incrementalism",
+            "year": "2026",
+            "journal": "Nature Reviews Earth & Environment",
+            "doi": "10.1038/s43017-026-00824-9"
+          },
+          {
+            "title": "Biochar alters soil aggregate organic carbon component distribution and stability under nitrogen fertilization",
+            "year": "2026",
+            "journal": "Farming System",
+            "doi": "10.1016/j.farsys.2026.100261"
+          },
+          {
+            "title": "Sustainable phosphorus delivery using advanced slow-release fertilizers: A review",
+            "year": "2026",
+            "journal": "Journal of Environmental Management",
+            "doi": "10.1016/j.jenvman.2026.130033"
+          },
+          {
+            "title": "Cover cropping and minimum tillage improved microbial functional resilience to compaction stress in an acidic soil",
+            "year": "2026",
+            "journal": "Soil and Tillage Research",
+            "doi": "10.1016/j.still.2025.107031"
+          },
+          {
+            "title": "Mapping the fertosphere's phosphorus availability distribution in a field trial using a novel diffusive gradients in thin-films (fDGT) technique",
+            "year": "2026",
+            "journal": "SOIL",
+            "doi": "10.5194/soil-12-253-2026"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.science.org/doi/abs/10.1126/science.ael8352?af=R",
       "title": "Deadly tick-borne virus gains ground in Europe",
       "link": "https://www.science.org/doi/abs/10.1126/science.ael8352?af=R",
@@ -71,6 +206,89 @@
       "next_step_perspective": "虽然此文与我的核心课题不直接相关，但它提供了气候变化驱动生物互作网络（病原体-媒介-宿主）重组的案例，有助于我理解欧洲生态系统中动植物与微生物互作的环境依赖性。在研究地点位于欧洲的rewilding项目中，可考虑将疾病传播动态作为影响大型食草动物种群恢复的一个潜在因素。",
       "why_this_journal": "推测发表在Science正刊是因为蜱传病毒扩张与全球变化、公共卫生安全的关联具有高度现实意义和跨学科吸引力，文章可能提供了物种分布模型与疾病监测结合的新视角，符合期刊对突破性发现的偏好。",
       "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s43017-026-00825-8",
+      "title": "A biological carbon pump code of practice for high seas fisheries",
+      "link": "https://www.nature.com/articles/s43017-026-00825-8",
+      "summary": "Nature Reviews Earth &amp; Environment, Published online: 03 September 2026; doi:10.1038/s43017-026-00825-8Fishing has long been a concern to ocean ecosystems, but it can also impact the carbon cycle by disturbing the biological carbon pump (BCP). This Comment discusses whether a ‘BCP fisheries code of practice’ could and should be developed to incentivize natural resource management mechanisms that protect the BCP.",
+      "journal": "Nature Reviews Earth & Environment",
+      "published": "2026-09-03T00:00:00+00:00",
+      "doi": "10.1038/s43017-026-00825-8",
+      "affiliation": null,
+      "title_zh": "公海渔业生物碳泵实践规范",
+      "relevance_score": 4,
+      "key_conclusion": "渔业活动可通过干扰生物碳泵（BCP）影响碳循环。这篇评论讨论了是否应开发‘BCP渔业实践规范’，以激励保护生物碳泵的自然资源管理机制。",
+      "relevance_note": "文章涉及海洋碳循环与生物碳泵，属于碳循环相关主题，但聚焦于渔业管理而非陆地生态系统，与用户核心和相邻领域关联较远，故分数不高。",
+      "related_papers": [
+        {
+          "title": "Biological Impacts of Marine Heatwaves",
+          "link": "https://doi.org/10.1146/annurev-marine-032122-121437",
+          "venue": "Annual Review of Marine Science",
+          "year": 2022
+        },
+        {
+          "title": "Sea Level Rise and Implications for Low-Lying Islands, Coasts and Communities",
+          "link": "https://doi.org/10.1017/9781009157964.012",
+          "venue": "Cambridge University Press eBooks",
+          "year": 2022
+        },
+        {
+          "title": "Spatiotemporal patterns of carbon‐13 in the global surface oceans and the oceanic suess effect",
+          "link": "https://doi.org/10.1029/1999gb900019",
+          "venue": "Global Biogeochemical Cycles",
+          "year": 1999
+        },
+        {
+          "title": "Near-island biological hotspots in barren ocean basins",
+          "link": "https://doi.org/10.1038/ncomms10581",
+          "venue": "Nature Communications",
+          "year": 2016
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "这篇评论文章试图探讨的核心问题是：是否应当以及如何制定一项'生物碳泵渔业实践规范'（BCP fisheries code of practice），以激励自然资源管理机制来保护海洋生物碳泵功能？",
+      "contributions_limitations": "主要贡献在于提出将'生物碳泵保护'纳入公海渔业管理的政策框架性思考，并讨论了其必要性和可行性，将渔业资源管理与全球碳循环治理联系起来，填补了该交叉领域的政策讨论空白。局限性在于作为一篇Comment，缺乏实证数据和定量评估，且'实践规范'的具体执行标准和监督机制可能面临多重国际治理挑战；摘要信息不足以支撑深入的方法学评价。基于现有信息推测。",
+      "follow_up_research": "可进一步开展定量研究，估算不同渔业生产方式和捕捞强度对生物碳泵（特别是鱼类垂直迁移碳传输）的具体贡献及其不确定性；亦可借鉴陆地生态系统中'动物介导的碳循环'思路，建立海洋鱼类功能群与碳输出通量的量化关系模型。",
+      "next_step_perspective": "这篇评论为您提供了'动物-碳循环-管理政策'跨界联结的典型案例：它强调动物类群（海洋鱼类）不仅是碳库，更是碳运输的主动调节者（生物碳泵），这直接呼应了您关注的'动物介导的生物地球化学循环'（zoogeochemistry）和'大型动物对碳循环的影响'。它激励您思考陆地大型食草动物重野化过程中'动物行为如何主动改变碳的空间分布'（如粪便迁移、践踏、植被选择性取食），而不仅仅是密度效应；同时还提示碳循环保护可能需要建立类似'实践规范'的管理工具，为重野化的碳效益评估提供政策参考框架。",
+      "why_this_journal": "推测：该Comment发表于Nature Reviews Earth & Environment，因其涉及'渔业-碳循环-全球治理'这一新兴且备受关注的交叉领域，并以前瞻性的政策倡议推动学科范式，符合该期刊发表权威性视角和引领性议题的定位。",
+      "author_profile": {
+        "name": "Emma L. Cavan",
+        "institution": null,
+        "intro": "Emma L. Cavan的相关信息不完整，作者机构未提供。从其发表的其他论文标题来看，主要研究方向为海洋生物碳泵、生物地球化学循环以及海洋渔业和养殖业对碳循环的影响，尤其关注浮游动物、南极磷虾等功能群在碳传输中的作用。这些研究与您所关注的'动物对碳循环的主动调节作用'具有跨生态系统（海洋vs陆地）的类比价值，但其具体的机构信息因未提供而无法确认，不建议额外推断。",
+        "other_works": [
+          {
+            "title": "Experimental insights into the role of running waters in Enhanced Rock Weathering",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-21447"
+          },
+          {
+            "title": "Quantifying the fish contribution to on-shelf carbon sink: a case study of the Irish Sea",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu25-16411"
+          },
+          {
+            "title": "Biogeochemical consequences of marine fisheries and aquaculture",
+            "year": "2025",
+            "journal": "Nature Reviews Earth & Environment",
+            "doi": "10.1038/s43017-024-00633-y"
+          },
+          {
+            "title": "Antarctic krill sequester similar amounts of carbon to key coastal blue carbon habitats",
+            "year": "2024",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-024-52135-6"
+          },
+          {
+            "title": "Author Correction: Uncertain response of ocean biological carbon export in a changing world",
+            "year": "2024",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-024-01516-z"
+          }
+        ]
+      }
     }
   ]
 }

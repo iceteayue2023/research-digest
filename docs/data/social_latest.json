@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-03T03:42:28.350932+00:00",
-  "count": 11,
+  "generated_at": "2026-09-03T10:27:21.413918+00:00",
+  "count": 16,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Smaller nuclear reactors could usher in a new era of low-carbon electrical generation. But safety, waste storage and cost remain hurdles.\n\ngo.nature.com/46CNxKf",
+      "created_at": "2026-09-03T10:20:18.408Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mum7zufetp22",
+      "external_title": "Nuclear power",
+      "external_description": "Smaller reactors could usher in a new era of low-carbon electrical generation. But safety, waste storage and cost remain hurdles.",
+      "external_uri": "https://go.nature.com/46CNxKf",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicrynak4ajufwd754yrne2q4qtb2panwzsa66tkedpskeqadtagty"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "⏰Deadline to submit: 19 October\n\nFind out more here 👇\n",
+      "created_at": "2026-09-03T10:02:09.797704085Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mum6zgee4y2b",
+      "external_title": "Journal of Applied Ecology: Call for Papers - Linking disease ecology to agriculture and public health in a One Health approach",
+      "external_description": "<em>Journal of Applied Ecology</em> publishes impactful research at the intersection of ecological science and the management of biological resources.",
+      "external_uri": "https://f.mtr.cool/afx7hctep8",
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "If you’re interested in advancing disease ecology, agriculture, public health, and multispecies health through a One Health perspective, they'd love to hear from you!🌎",
+      "created_at": "2026-09-03T10:02:00.396957300Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mum6z57tvo2l",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Call for proposals!\n\nJournal of Applied Ecology (@jappliedecology.bsky.social), People and Nature (@peopleandnature.bsky.social), and Journal of Animal Ecology (@animalecology.bsky.social) have just launched a new cross-journal Special Feature 🦠",
+      "created_at": "2026-09-03T10:01:59.377062877Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mum6z4aqqn2f",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Specise Spotlight: Jumping spiders have taught Ximena Nelson that patience can be rewarding.\n\nwww.nature.com/articles/s41...\n\n(Photo by M. Patrick)",
+      "created_at": "2026-09-03T09:36:37.258Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mum5lqissk2y",
+      "external_title": "Jumping spiders (genus Portia) - Nature Ecology & Evolution",
+      "external_description": "Jumping spiders have taught Ximena Nelson that patience can be rewarding.",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03174-3",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifno4vq6t2tqhrkp2mzqtwg43o6ztgvkbjqbbtrwmwsyd2zptud5e"
+    },
     {
       "handle": "science.org",
       "author_name": "Sar Crespi",
@@ -12,6 +67,17 @@
       "external_description": "Climate change and fire suppression are intensifying wildfires, prompting fuel reduction treatments that will generate gigatonnes of waste biomass residues in the near term. We evaluate the potential ...",
       "external_uri": "https://www.science.org/doi/10.1126/sciadv.aee6185",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6owq635evfesb3l6f5uqjj3c/bafkreifjhroi6nwdv6gdu2pve3uqerzxg6svonwwqjoazzomujksw62adu"
+    },
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "ULBRecherche",
+      "text": "🐝 Essentiels à la pollinisation dans les régions tempérées et froides, les bourdons subissent les effets du changement climatique sur leurs habitats.\n\nUne étude publiée dans Nature Climate Change et coordonnée par le Laboratoire d’Épidémiologie Spatiale (SpELL) de l’ULB.",
+      "created_at": "2026-09-02T12:52:38.301Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mujy3damec2n",
+      "external_title": "Les bourdons de nos jardins : petites bestioles, grands enjeux pour notre écosystème - RTBF Actus",
+      "external_description": "Le bourdon passe d’une fleur à l’autre dans votre jardin. Et pour cause, c’est un pollinisateur très important,...",
+      "external_uri": "https://www.rtbf.be/article/les-bourdons-de-nos-jardins-ces-petites-victimes-du-dereglement-climatique-dont-la-perte-nous-impactera-11778368?fbclid=IwY2xjawUE-wdwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMG1ZTkhOSGlCUkd3QUFTREJzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeHheN928pPmGWnYk320lgVLOMsU_A05WzLX7Z0lveTVSadxdj_2ShAghiwJ4_aem_sMjOJ37n3sP7oisRc174tA",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4upwddmqfylqfpvlbjczmfxe/bafkreibndnr7qtckrcu76r763yob3j2fzampikd5lslljzmpgl4x4gy2fy"
     },
     {
       "handle": "natecoevo.nature.com",
@@ -111,17 +177,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Global analysis shows that the sensitivity of birds to deforestation is modulated by their thermal ecology and forest cover effects on microclimate.\n\nwww.nature.com/articles/s41...\n\n@natashagranville.bsky.social \n@imperiallifesci.bsky.social",
-      "created_at": "2026-08-31T08:49:18.675Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3muejkezv3s2k",
-      "external_title": "Temperature mediates variation in avian sensitivity to forest cover - Nature Ecology & Evolution",
-      "external_description": "Land-use and climate change may have synergistic impacts on biodiversity. This global analysis shows that the sensitivity of bird species and populations to deforestation is modulated by their thermal...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03160-9",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihritj7d66pgg6vwgidiwj5g2kj5fpy4vbqayymvkdsorasunh4ya"
     }
   ]
 }
