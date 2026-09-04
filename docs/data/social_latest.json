@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-04T03:44:00.418712+00:00",
-  "count": 19,
+  "generated_at": "2026-09-04T10:14:33.302564+00:00",
+  "count": 22,
   "posts": [
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Follow the link to find out more about the research👇\n",
+      "created_at": "2026-09-04T10:02:35.384876742Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3muopj425zb2v",
+      "external_title": "Insects could face an uphill battle adapting to climate change - British Ecological Society",
+      "external_description": "Lower oxygen levels and air pressure at higher elevations could pose a barrier to insects moving upslope.",
+      "external_uri": "https://www.britishecologicalsociety.org/content/insects-could-face-an-uphill-battle-adapting-to-climate-change/",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreiecmgtohxe66iwsoibjhl2fiern4tl55j62mi7n7pwrwkbszbphca"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Under a warming climate, many species are shifting their range to higher elevations to remain in suitable temperature zones. However, conditions at higher elevations, such as thinner air and less oxygen, pose unique challenges to insects because of their size, lifecycle and way of breathing.",
+      "created_at": "2026-09-04T10:02:29.167927749Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3muopixpaer2s",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Insects could face an uphill battle adapting to climate change.\n\nA new review of research in @funecology.bsky.social found that lower oxygen levels and air pressure at higher elevations could pose a barrier to some insect species moving upslope to escape climate warming.",
+      "created_at": "2026-09-04T10:02:28.559084976Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3muopivjxlb2s",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "This year’s Ig Nobels include a biomechanics prize for creating a precise definition of kissing and a soil-science award for investigating what happens if you bury and then dig up 1,000 pairs of underwear.\n\ngo.nature.com/4zUQyTB",
+      "created_at": "2026-09-04T09:49:55.938Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3muooshonh62u",
+      "external_title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
+      "external_description": "The awards highlight weird, funny and improbable research that also makes you think.",
+      "external_uri": "https://go.nature.com/4zUQyTB",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov76wsy3jfz3t4n77jgjofr6dbhhfqxioqb42ssme7wfgobc6e"
+    },
     {
       "handle": "science.org",
       "author_name": "Sar Crespi",
@@ -199,17 +243,6 @@
       "external_description": "Tree diversity and mycorrhizal dominance are considered major drivers of multitrophic diversity and ecosystem functioning in forests. Here the authors disentangle the effects of these factors on above...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03147-6",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiejjr7ejfjyh7uupr4scmmh4wjp4zuo2wyfk4eiwi3ugzhztxwrnm"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Only three weeks left to apply for BES Fellowship ✍️\n\nIf you, or someone you know, has made an outstanding contribution to the field of ecology, we'd love to hear from you. Join our community of Fellows who are shaping the future of ecology. \n\nApply by 21 September 👇\nhttps://shorturl.at/uNyWV",
-      "created_at": "2026-09-01T10:02:06.890958797Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3muh63iitie2v",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }

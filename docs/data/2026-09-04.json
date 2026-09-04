@@ -1,6 +1,72 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T03:44:00.418493+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-04T10:14:33.302164+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-6073-2026",
+      "title": "Beyond wind-induced upwelling: diverse drivers of future productivity in eastern boundary upwelling systems",
+      "link": "https://doi.org/10.5194/bg-23-6073-2026",
+      "summary": "Beyond wind-induced upwelling: diverse drivers of future productivity in eastern boundary upwelling systems\n                    Erica Cioffi, Laurent Bopp, and Lester Kwiatkowski\n                        Biogeosciences, 23, 6073–6093, https://doi.org/10.5194/bg-23-6073-2026, 2026\n                        Eastern Boundary Upwelling Systems disproportionately contribute to global productivity and fisheries. Using CMIP6 Earth System Models, we assess response of phytoplankton productivity to climate change in these regions and to what extent it is explained by changes in wind-driven upwelling. While this process drives productivity decline across 25% of upwelling systems area, wind curl, geostrophic transport, stratification and subsurface nutrients changes are needed to explain response elsewhere.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-04T08:57:42+02:00",
+      "doi": "10.5194/bg-23-6073-2026",
+      "affiliation": null,
+      "title_zh": "超越风驱动上升流：东边界上升流系统未来生产力的多种驱动因素",
+      "relevance_score": 4,
+      "key_conclusion": "基于CMIP6地球系统模式，研究发现风驱动上升流仅解释了约25%上升流区域的生产力下降，而风应力旋度、地转输运、层化和地下营养盐变化等因素对解释其他区域的生产力响应至关重要。",
+      "relevance_note": "该研究探讨海洋生态系统生产力对气候变化的响应，属于海洋生物地球化学领域，与用户关注的陆地碳循环不直接相关；但涉及生态模型对气候变化的响应机制，对理解生态系统功能恢复有一定参考价值，地点在全球海洋（非欧洲），相关性中等偏低。",
+      "related_papers": [
+        {
+          "title": "Recent trends and drivers of regional sources and sinks of carbon dioxide",
+          "link": "https://doi.org/10.5194/bg-12-653-2015",
+          "venue": "Biogeosciences",
+          "year": 2015
+        },
+        {
+          "title": "Couplings Between Changes in the Climate System and Biogeochemistry",
+          "link": "",
+          "venue": "eScholarship (California Digital Library)",
+          "year": 2007
+        },
+        {
+          "title": "Larval dispersal in a changing ocean with an emphasis on upwelling regions",
+          "link": "https://doi.org/10.1002/ecs2.3015",
+          "venue": "Ecosphere",
+          "year": 2020
+        },
+        {
+          "title": "The Miocene: The Future of the Past",
+          "link": "https://doi.org/10.1029/2020pa004037",
+          "venue": "Paleoceanography and Paleoclimatology",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6073/2026/bg-23-6073-2026-avatar-web.png",
+      "scientific_question": "在气候变化背景下，东边界上升流系统的浮游植物生产力响应是否仅由风驱动的上升流变化主导？其他物理过程（如风应力旋度、地转输运、层化和地下营养盐变化）在多大程度上解释了这些区域未来生产力的空间异质性？",
+      "contributions_limitations": "主要贡献在于利用CMIP6多模式集合，系统揭示了东边界上升流系统未来生产力响应的驱动因子多样性，打破了传统上仅归因于风驱动上升流（Ekman输运）的简化视角。局限性方面，基于摘要推测，研究依赖CMIP6模型输出，模型对沿海上升流过程（如窄尺度锋面动力学）的分辨率有限，且未直接耦合生物地球化学循环变异与渔业响应；此外，研究聚焦于浮游植物生产力而非碳输出通量，对碳循环深层影响的推断有限。",
+      "follow_up_research": "后续可结合高分辨率区域海洋模型与观测数据（如卫星叶绿素和碳通量浮标），检验上述多驱动因子在不同上升流系统（如本格拉、加利福尼亚）的适用性；进一步探究生产力变化如何沿食物网传递至鱼类资源及碳输出效率，并耦合经济评估以支撑适应性管理。",
+      "next_step_perspective": "该研究提供了分解多种物理驱动因子对生态系统生产力的相对贡献的分析框架，可迁移用于解析重野化引起的动物（如大型食草动物）介导的环境变化（如土壤扰动、营养再分配）对土壤碳循环多因素驱动过程的相对重要性。此外，其暴露的'单一驱动假设不足'的教训提示在评估放牧对土壤有机碳影响时，需同时考虑植被-土壤反馈的多重路径。",
+      "why_this_journal": "推测因其利用CMIP6先进地球系统模式开展机制性归因分析，填补了上升流系统生产力预测中多因子协同作用的认识空白，符合Biogeosciences关注生物地球化学过程与气候系统耦合的前沿交叉定位。",
+      "author_profile": {
+        "name": "Erica Cioffi",
+        "institution": "Laboratoire de Météorologie Dynamique",
+        "intro": "Erica Cioffi目前在法国气象动力学实验室（Laboratoire de Météorologie Dynamique）工作，从其在Biogeosciences发表的论文来看，主要研究方向是利用地球系统模式模拟气候变化对海洋生物地球化学和生态系统生产力的影响。该研究与用户关注的陆地碳循环模型改进存在方法论上的可迁移性，特别是在多因子归因和不确定性量化方面。",
+        "other_works": [
+          {
+            "title": "Beyond wind-induced upwelling: diverse drivers of future productivity in eastern boundary upwelling systems",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6073-2026"
+          },
+          {
+            "title": "Beyond wind-induced upwelling: diverse drivers of future productivity in eastern boundary upwelling systems",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5217"
+          }
+        ]
+      }
+    }
+  ]
 }
