@@ -1,8 +1,126 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04T10:14:33.302164+00:00",
-  "count": 1,
+  "generated_at": "2026-09-04T15:38:37.086946+00:00",
+  "count": 3,
   "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-6095-2026",
+      "title": "Direct estimation of wildfire emissions at high latitudes from combined polar orbiter FRP and Sentinel-5P CO data",
+      "link": "https://doi.org/10.5194/bg-23-6095-2026",
+      "summary": "Direct estimation of wildfire emissions at high latitudes from combined polar orbiter FRP and Sentinel-5P CO data\n                    William M. Maslanka, Martin J. Wooster, Zixia Liu, and Jiangping He\n                        Biogeosciences, 23, 6095–6118, https://doi.org/10.5194/bg-23-6095-2026, 2026\n                        We created a new independent method that uses only near real time satellite data to estimate how much carbon is emitted from landscape fires in the high latitudes. Our estimates are similar, but smaller, than estimates using modelled data, based on laboratory experiments and observations of burned area. This provides the first clear picture of fire emissions across high-latitude regions and will help us better understand the role of wildfires in climate change now and in the future.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-04T12:41:55+02:00",
+      "doi": "10.5194/bg-23-6095-2026",
+      "affiliation": null,
+      "title_zh": "结合极地轨道FRP与Sentinel-5P CO数据直接估算高纬度野火排放",
+      "relevance_score": 7,
+      "key_conclusion": "该研究开发了一种仅使用近实时卫星数据的新方法，用于估算高纬度地区景观火灾的碳排放量。估算结果与基于模型的数据相近但更小，提供了高纬度火灾排放的清晰图像，有助于理解野火在气候变化中的作用。",
+      "relevance_note": "文章直接涉及陆地生态系统碳循环中的野火碳排放，与用户关注的极端气候事件扰动及碳源碳汇变化相关。尽管研究地点在高纬度而非欧洲，主题相关性较强，因此给予较高分数。",
+      "related_papers": [
+        {
+          "title": "Hourly biomass burning emissions product from blended geostationary and polar-orbiting satellites for air quality forecasting applications",
+          "link": "https://doi.org/10.1016/j.rse.2022.113237",
+          "venue": "Remote Sensing of Environment",
+          "year": 2022
+        },
+        {
+          "title": "An evaluation of advanced baseline imager fire radiative power based wildfire emissions using carbon monoxide observed by the Tropospheric Monitoring Instrument across the conterminous United States",
+          "link": "https://doi.org/10.1088/1748-9326/ab9d3a",
+          "venue": "Environmental Research Letters",
+          "year": 2020
+        },
+        {
+          "title": "Sentinel-3 SLSTR active fire (AF) detection and FRP daytime product - Algorithm description and global intercomparison to MODIS, VIIRS and landsat AF data",
+          "link": "https://doi.org/10.1016/j.srs.2023.100087",
+          "venue": "Science of Remote Sensing",
+          "year": 2023
+        },
+        {
+          "title": "Three-Dimensional Distribution of Biomass Burning Aerosols from Australian Wildfires Observed by TROPOMI Satellite Observations",
+          "link": "https://doi.org/10.3390/rs14112582",
+          "venue": "Remote Sensing",
+          "year": 2022
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6095/2026/bg-23-6095-2026-avatar-web.png",
+      "scientific_question": "如何在缺乏地面观测数据的高纬度地区，仅利用近实时卫星数据直接估算景观火灾（野火）的碳排放量，并评估其与现有模型估算结果的差异？",
+      "contributions_limitations": "该研究创新性地结合极轨卫星的FRP（火辐射功率）和Sentinel-5P的CO数据，开发了一种独立的、仅依赖卫星数据的火灾碳排放直接估算方法，为高纬度地区提供了清晰的火排放图景，有助于理解野火对气候变化的作用。基于现有信息推测，其局限性可能包括：新方法得出的排放估算值系统性小于基于模型的结果，其不确定性来源（如FRP与燃烧生物量的转换效率、CO柱浓度的垂直整合等）尚需进一步验证；此外，方法对云遮挡和烟雾气溶胶的敏感性可能限制其在高排放事件中的应用。",
+      "follow_up_research": "后续研究可探索将该高分辨率卫星估算方法纳入全球或区域碳循环模型，以量化不同气候情景下高纬度野火排放的时空动态。另一个有前景的方向是结合土壤有机碳数据库和火后植被恢复（包括大型食草动物活动的区域）数据，评估火灾净碳排放（即排放与后续碳汇能力的平衡），从而更全面地评估干扰对区域碳收支的影响。",
+      "next_step_perspective": "此文提供了一种可操作的方法学启发：利用多源卫星遥感数据独立验证或校正过程模型的排放估算。对于我的研究而言，这种方法可借鉴到评估重野化区域土壤碳库变化，例如将遥感驱动的排放或扰动指标与野外土壤碳实测数据结合，作为模型验证和情景分析的工具。该文聚焦高纬度区域，而我的欧洲研究地点在高碳土壤区，此方法有助于识别火灾干扰对碳循环的脉冲式影响，是一个重要的研究空白。",
+      "why_this_journal": "推测：Biogeosciences是欧洲地球科学联盟（EGU）旗下聚焦生物地球化学循环过程的期刊，该文利用先进遥感手段直接估算极地关键温室气体排放，方法新颖且直接关联全球变化和碳循环核心议题，符合期刊对定量方法和系统层面过程理解的偏好。",
+      "author_profile": {
+        "name": "William M. Maslanka",
+        "institution": "King's College London",
+        "intro": "作者William M. Maslanka就职于伦敦国王学院，从其它文献看其主要方向是利用卫星Fire Radiative Energy (FRE/FREM)等手段精确量化野火（如澳洲特大火灾和非洲火灾）的温室气体排放，并关注其大气化学和辐射效应。其研究与我的方向关联在于量化自然干扰对陆地碳循环的影响，虽不直接涉及放牧或土壤有机碳稳定机制，但其排放估算框架可为评估自然生态系统中干扰后碳损失的基准量提供参考。",
+        "other_works": [
+          {
+            "title": "Direct estimation of wildfire emissions at high latitudes from combined polar orbiter FRP and Sentinel-5P CO data",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6095-2026"
+          },
+          {
+            "title": "Quantifying Greenhouse Gas emissions from the Australian Black Summer Megafires using the Fire Radiative Energy Emission (FREM) Approach",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-12220"
+          },
+          {
+            "title": "Using geostationary-satellite-derived sub-daily fire radiative power variability versus prescribed diurnal cycles to assess the impact of African fires on tropospheric ozone",
+            "year": "2025",
+            "journal": "Atmospheric Chemistry and Physics",
+            "doi": "10.5194/acp-25-17501-2025"
+          },
+          {
+            "title": "Direct Estimation of Wildfire Emissions at High Latitudes from Combined Polar Orbiter FRP and Sentinel-5P CO Data",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-4486"
+          },
+          {
+            "title": "Supplementary material to \"Using Geostationary-Derived Sub-Daily FRP Variability vs. Prescribed Diurnal Cycles: Impact of African Fires on Tropospheric Ozone\"",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-2594-supplement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026003248",
+      "title": "OxyPOM: A biogeochemical model for Oxygen and Particulate Organic Matter dynamics with process-specific temperature sensitivity",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026003248?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Ecological Modelling, Volume 522Author(s): Ovidio García-Oliva, Carsten Lemmen",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "OxyPOM：具有过程特异性温度敏感性的氧与颗粒态有机质动态生物地球化学模型",
+      "relevance_score": 7,
+      "key_conclusion": "该文介绍了一个名为OxyPOM的生物地球化学模型，该模型模拟氧气和颗粒态有机质(POM)的动态，并考虑了过程特异性的温度敏感性。",
+      "relevance_note": "该模型聚焦于颗粒态有机质(POM)的动态，与用户关注的土壤有机质形成机制（特别是POM路径）以及生态系统模型改进主题直接相关。虽然未涉及大型食草动物，但模型开发与用户对生态系统模型改进的兴趣高度契合。",
+      "related_papers": [
+        {
+          "title": "OxyPOM: a biogeochemical model for Oxygen and Particulate Organic Matter dynamics with detailed temperature sensitivity",
+          "link": "",
+          "venue": "arXiv (Cornell University)",
+          "year": 2026
+        },
+        {
+          "title": "Disentangling peri-urban river hypoxia",
+          "link": "https://doi.org/10.48550/arxiv.2510.05775",
+          "venue": "arXiv (Cornell University)",
+          "year": 2025
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "生态模型如何同时刻画水体/沉积物中氧气（O2）和颗粒态有机质（POM）的动态循环，并需在模型中体现过程特异性的温度敏感性？",
+      "contributions_limitations": "该研究的核心贡献在于开发了OxyPOM这一生物地球化学模型，明确将不同过程（如呼吸、分解、硝化等）的温度敏感性（如Q10值）差异化地耦合到氧气和POM动态模拟中，从而可能改进生态系统物质循环在不同气候梯度下的预测精度。基于现有信息推测，其局限性可能在于该模型目前是概念性或针对特定生态系统（如水生系统）的应用，其在自然生态系统中与植物-土壤-动物耦合方面的适用性和参数化仍需验证。",
+      "follow_up_research": "后续研究可以将OxyPOM模型耦合到陆地生态系统的垂直结构（如根系深度和凋落物层），以模拟不同放牧强度或大型动物扰动下表层土壤的氧气通量和POM形成/分解的动态平衡。另一个方向是利用该模型的框架，探索将温度敏感性与干湿循环等极端事件结合，预测未来气候情景下土壤有机碳的稳定性和活性碳库的转化速率。",
+      "next_step_perspective": "这篇模型文章恰逢我关注的POM与MAOM形成及稳定机制，为将土壤结构变化和微生物效率纳入模型提供了具体参考。文中强调的'过程特异性温度敏感性'提醒我在评估重野化生态效应时，不能将土壤呼吸或凋落物分解视为单一均质过程，而需区分不同碳库和酶活性的差异化响应。该建模思路可作为基线，用于构建动物介导的土壤碳动态模拟，预测恢复程度对表层与深层碳储的不同影响。",
+      "why_this_journal": "推测：Ecological Modelling是生态建模领域的经典专业期刊，专门发表生态系统过程的数学模拟研究。该文创新点在于设计此类功能模型并整合特异性温度参数，适合该刊强调模型结构发展和机理表达的定位，对单纯生态学或地学期刊则不够聚焦。",
+      "author_profile": null
+    },
     {
       "id": "https://doi.org/10.5194/bg-23-6073-2026",
       "title": "Beyond wind-induced upwelling: diverse drivers of future productivity in eastern boundary upwelling systems",
