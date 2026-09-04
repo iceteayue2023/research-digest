@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-03T15:40:15.135032+00:00",
+  "generated_at": "2026-09-04T03:44:00.418712+00:00",
   "count": 19,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Sar Crespi",
+      "text": "Climate is pushing ticks into new areas of Europe and they're bringing a deadly disease along with them—this week on the @science.org podcast w/ @richardastone.bsky.social \n\nwww.science.org/content/podc...",
+      "created_at": "2026-09-03T19:56:51.355Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3munaasmxf22g",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "This year’s Ig Nobel prizes, awarded on 3 September, include a biomechanics prize for creating a precise definition of kissing and a soil-science award for investigating what happens if you bury and then dig up 1,000 pairs of underwear.\n\ngo.nature.com/3URhWC0",
+      "created_at": "2026-09-03T18:20:40.373Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mun2ut5ywf2n",
+      "external_title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
+      "external_description": "The awards highlight weird, funny and improbable research that also makes you think.",
+      "external_uri": "https://go.nature.com/3URhWC0",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov76wsy3jfz3t4n77jgjofr6dbhhfqxioqb42ssme7wfgobc6e"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "An analysis of 21 years of monitoring across Europe now demonstrates that climate warming is increasingly displacing species from mountaintops, especially those that are close to their lower range margins. \n\nLearn more this week in Science: https://scim.ag/4zYxuUS",
+      "created_at": "2026-09-03T18:05:02.974335739Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mumzyuzvj42f",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Soundscapes of ancient forests are made possible through reconstructions of the sound-producing structures of insects from the Jurassic period. These ancient relatives of today’s katydids lived in what is now Inner Mongolia, China. In PNAS: https://ow.ly/xee550ZISxP",
+      "created_at": "2026-09-03T16:10:38.322Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mumtmcgbyo2h",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -91,17 +135,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:giuwcnh2ks4m5pkgv4v6thec/bafkreifjhroi6nwdv6gdu2pve3uqerzxg6svonwwqjoazzomujksw62adu"
     },
     {
-      "handle": "science.org",
-      "author_name": "Sar Crespi",
-      "text": "More on wood vaulting—burying wood in the right place to capture carbon for low cost—this week in #ScienceAdvances  \"Life cycle emissions modeling indicates that burial is more carbon efficient than decomposition, pile burning, or biochar production\" www.science.org/doi/10.1126/...  @science.org",
-      "created_at": "2026-09-02T14:08:37.582Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3muk4d7ct7k2e",
-      "external_title": "Near-term, geospatial opportunity for biomass carbon storage to address the wildfire and climate crises",
-      "external_description": "Climate change and fire suppression are intensifying wildfires, prompting fuel reduction treatments that will generate gigatonnes of waste biomass residues in the near term. We evaluate the potential ...",
-      "external_uri": "https://www.science.org/doi/10.1126/sciadv.aee6185",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:6owq635evfesb3l6f5uqjj3c/bafkreifjhroi6nwdv6gdu2pve3uqerzxg6svonwwqjoazzomujksw62adu"
-    },
-    {
       "handle": "natclimate.nature.com",
       "author_name": "ULBRecherche",
       "text": "🐝 Essentiels à la pollinisation dans les régions tempérées et froides, les bourdons subissent les effets du changement climatique sur leurs habitats.\n\nUne étude publiée dans Nature Climate Change et coordonnée par le Laboratoire d’Épidémiologie Spatiale (SpELL) de l’ULB.",
@@ -133,17 +166,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Earth will breach a long-standing target before the end of the decade, according to a new UN report.\n\ngo.nature.com/4xAY4Sh",
-      "created_at": "2026-09-02T09:59:41.798Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mujog3mves22",
-      "external_title": "UN finally admits global warming will shoot past 1.5 ºC climate limit",
-      "external_description": "Earth will breach a long-standing target before the end of the decade, report says.",
-      "external_uri": "https://go.nature.com/4xAY4Sh",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiazh3ullwlrjk6u4mcznxc6wt6ybxflvystywq47v5eba3hdqlhym"
     },
     {
       "handle": "natplants.nature.com",
@@ -184,28 +206,6 @@
       "text": "Only three weeks left to apply for BES Fellowship ✍️\n\nIf you, or someone you know, has made an outstanding contribution to the field of ecology, we'd love to hear from you. Join our community of Fellows who are shaping the future of ecology. \n\nApply by 21 September 👇\nhttps://shorturl.at/uNyWV",
       "created_at": "2026-09-01T10:02:06.890958797Z",
       "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3muh63iitie2v",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "A review of antimicrobial resistance calls for AI-powered platforms to support and accelerate drug development alongside a community-driven approach that engages scientists, policymakers, health economists, clinicians, and patients. In PNAS Nexus: https://ow.ly/gwLt50ZHm7z",
-      "created_at": "2026-09-01T02:00:16.349010402Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mugd5ws5yz2r",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Opinion piece: So-called “Hydrogen-ready” #pipelines risk new #carbon lock-in rather than offering a pathway to #decarbonization that helps address #ClimateChange. In PNAS Front Matter: https://ow.ly/Sye950ZFWhl\n\n#hydrogen #CleanEnergy #CO2Emissions #NaturalGas",
-      "created_at": "2026-08-31T17:00:37.748880043Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mufeywxn3g2p",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
