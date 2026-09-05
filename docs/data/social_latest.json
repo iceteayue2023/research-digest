@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T09:42:58.783637+00:00",
-  "count": 23,
+  "generated_at": "2026-09-05T14:25:58.800544+00:00",
+  "count": 20,
   "posts": [
     {
       "handle": "pnas.org",
@@ -221,39 +221,6 @@
       "external_description": "Jumping spiders have taught Ximena Nelson that patience can be rewarding.",
       "external_uri": "https://www.nature.com/articles/s41559-026-03174-3",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifno4vq6t2tqhrkp2mzqtwg43o6ztgvkbjqbbtrwmwsyd2zptud5e"
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "ULBRecherche",
-      "text": "🐝 Essentiels à la pollinisation dans les régions tempérées et froides, les bourdons subissent les effets du changement climatique sur leurs habitats.\n\nUne étude publiée dans Nature Climate Change et coordonnée par le Laboratoire d’Épidémiologie Spatiale (SpELL) de l’ULB.",
-      "created_at": "2026-09-02T12:52:38.301Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mujy3damec2n",
-      "external_title": "Les bourdons de nos jardins : petites bestioles, grands enjeux pour notre écosystème - RTBF Actus",
-      "external_description": "Le bourdon passe d’une fleur à l’autre dans votre jardin. Et pour cause, c’est un pollinisateur très important,...",
-      "external_uri": "https://www.rtbf.be/article/les-bourdons-de-nos-jardins-ces-petites-victimes-du-dereglement-climatique-dont-la-perte-nous-impactera-11778368?fbclid=IwY2xjawUE-wdwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMG1ZTkhOSGlCUkd3QUFTREJzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeHheN928pPmGWnYk320lgVLOMsU_A05WzLX7Z0lveTVSadxdj_2ShAghiwJ4_aem_sMjOJ37n3sP7oisRc174tA",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4upwddmqfylqfpvlbjczmfxe/bafkreibndnr7qtckrcu76r763yob3j2fzampikd5lslljzmpgl4x4gy2fy"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New study quantifies the impact of climate change on North American forest insect & pathogen burden and forecasts potential trends under climate change\n\n@zihuiwang.bsky.social  \n@ubcbiodiversity.bsky.social\n@ubcbotany.bsky.social \n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-09-02T11:12:40.381Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mujsil6nlk24",
-      "external_title": "Spatially explicit forecasts of tree insect and disease incidence across North American forests under future climate scenarios - Nature Ecology & Evolution",
-      "external_description": "Synergies between climate change and natural enemy pressure threaten forests. Here the authors quantify the impact of climate change on North American forest insect and pathogen burden and map potenti...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03163-6",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreih5usbpdyvl3bgrnscwhvulcj4fvvljabpobvji5umex3nxjrtbku"
-    },
-    {
-      "handle": "natplants.nature.com",
-      "author_name": "Nature Plants",
-      "text": "New News & Views: \"Breaking the apomixis trade-off\" rdcu.be/zwkmkDh2S9Ta\n\nA sperm cell-specific TF, HUAXU, can trigger fertilization-independent embryogenesis when coupled with clonal gametogenesis, achieving near-complete clonal seed production in hybrid rice. #PlantScience",
-      "created_at": "2026-09-02T10:24:24.670Z",
-      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mujpsbmjtk2f",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
