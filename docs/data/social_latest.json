@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-04T15:38:37.087897+00:00",
-  "count": 22,
+  "generated_at": "2026-09-05T03:44:07.898442+00:00",
+  "count": 24,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "An analysis of tree-ring data from 1,200 fire-scarred trees suggests that the area of dry-conifer forest in New Mexico’s Jemez Mountains could be halved by 2055—a loss caused by mismanagement and wildfires made more destructive by climate change. In PNAS: https://ow.ly/GWrW50ZJsWv",
+      "created_at": "2026-09-05T01:00:15.308580526Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3muqbobhiga2d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "As the climate changes, some mollusks will shrink to half their current size, while others will grow up to 15% larger, depending on lineage and location. The ecological and social consequences for marine ecosystems could be profound. In PNAS: https://ow.ly/iUo450ZJsTl",
+      "created_at": "2026-09-04T16:02:01.249561839Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mupdltjjnw2h",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Sar Crespi",
+      "text": "What effect will climate change have on animals when temperature influences their sex? —this week on the @science.org podcast w/ Veronika Bókony #ScienceAdvances\n\nwww.science.org/content/podc...",
+      "created_at": "2026-09-04T14:57:27.965Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mup7yeujec2c",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Mathieu Pélissié",
+      "text": "I'm delighted to share our new paper in #ScienceAdvances! @science.org 🔗 doi.org/10.1126/sciadv.aed7911\n\nWe explored the importance of abrupt shifts in marine fish productivity worldwide and identified the main causes and consequences of such overlooked dynamics.\n\nSome key findings below ⬇️",
+      "created_at": "2026-09-04T13:43:28.660Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mup3u37pkc2w",
+      "external_title": "Abrupt declines in fish productivity often precede stock collapses in marine fisheries",
+      "external_description": "Marine life is under multiple pressures, including climate change and overfishing, which can threaten fishery sustainability especially when it results in large, abrupt, and persistent shifts in fish ...",
+      "external_uri": "https://doi.org/10.1126/sciadv.aed7911",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zi2dw2jgx5jk2civq6y6mjux/bafkreiduth4dqyoo62u7ufojdzy3krwmw7yv455wwoz3mkszpjzcjcmmza"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "David Grimm",
+      "text": "This year's silliest science awards--the Ig Nobels--were hosted outside the U.S. for the first time. Amidst the laughter, prize winners discuss some of the serious reasons that motivated the move. Nice story by @hannah-richter.bsky.social for @science.org",
+      "created_at": "2026-09-04T13:40:37.100Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mup3oxm4ic2j",
+      "external_title": "Ig Nobel hosts science’s silliest ceremony outside U.S. for first time",
+      "external_description": "The indefinite move to Europe was a response to travel and safety concerns for winners",
+      "external_uri": "https://www.science.org/content/article/ig-nobel-hosts-science-s-silliest-ceremony-outside-u-s-first-time",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hgexsteyfqqrlucbsvdysyak/bafkreicyplh6e7k7j5dtkdh6mt3e6piz3ogf3esbjhfzatqsrktseau7vq"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Catherine Wolfram",
+      "text": "New paper in @science.org: As of 2025, 80 carbon-pricing instruments were in place across 50 jurisdictions. By coordinating across systems, we can increase emission reductions and avoid trade barriers from a profusion of different border adjustments.\n\nwww.science.org/doi/10.1126/...",
+      "created_at": "2026-09-04T11:45:48.270Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3muovbnvqg22v",
+      "external_title": "Building a scalable climate coalition for heavy industry",
+      "external_description": "Emissions could be reduced, with minimal impact on production, while generating billions in public revenues",
+      "external_uri": "https://www.science.org/doi/10.1126/science.aef7190",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ohhkaqcwtcmvhfhvuqrewo3s/bafkreidv6ovvtavzlvbq3ab25nmf4mbg3uojnpm6brkxh7qgxu3hwc4rwa"
+    },
     {
       "handle": "britishecologicalsociety.org",
       "author_name": "British Ecological Society",
@@ -48,14 +114,14 @@
     },
     {
       "handle": "science.org",
-      "author_name": "Sar Crespi",
-      "text": "Climate is pushing ticks into new areas of Europe and they're bringing a deadly disease along with them—this week on the @science.org podcast w/ @richardastone.bsky.social \n\nwww.science.org/content/podc...",
-      "created_at": "2026-09-03T19:56:51.355Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3munaasmxf22g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
+      "author_name": "Hannah Richter",
+      "text": "Had the famously silly Ig Nobel ceremony not moved outside of the U.S., “I would have thought twice” before attending this year, said one new winner. “The perception I have is that there is not so much of a welcoming culture anymore.” 🔬🏅 \n\nRead more in @science.org: www.science.org/content/arti...",
+      "created_at": "2026-09-03T21:16:09.791Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3muneommuks25",
+      "external_title": "Ig Nobel hosts science’s silliest ceremony outside U.S. for first time",
+      "external_description": "The indefinite move to Europe was a response to travel and safety concerns for winners",
+      "external_uri": "https://www.science.org/content/article/ig-nobel-hosts-science-s-silliest-ceremony-outside-u-s-first-time",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:etkgpjuvhfxgbe55f7kewofu/bafkreiegrkj4cxkogkhrvmn2y6kgjejj3w26onb6e6jh7dhyfdchjem2ti"
     },
     {
       "handle": "nature.com",
@@ -67,17 +133,6 @@
       "external_description": "The awards highlight weird, funny and improbable research that also makes you think.",
       "external_uri": "https://go.nature.com/3URhWC0",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov76wsy3jfz3t4n77jgjofr6dbhhfqxioqb42ssme7wfgobc6e"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "An analysis of 21 years of monitoring across Europe now demonstrates that climate warming is increasingly displacing species from mountaintops, especially those that are close to their lower range margins. \n\nLearn more this week in Science: https://scim.ag/4zYxuUS",
-      "created_at": "2026-09-03T18:05:02.974335739Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mumzyuzvj42f",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     },
     {
       "handle": "pnas.org",
@@ -168,17 +223,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifno4vq6t2tqhrkp2mzqtwg43o6ztgvkbjqbbtrwmwsyd2zptud5e"
     },
     {
-      "handle": "science.org",
-      "author_name": "Leah Clayton",
-      "text": "New paper out now in @science.org #ScienceAdvances ‼️\n\n🔗 Read the open-access publication here: doi.org/10.1126/scia...\n\n🧵See the thread below for key points and takeaways!",
-      "created_at": "2026-09-03T02:32:26.231Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mulfvaj4as2j",
-      "external_title": "Near-term, geospatial opportunity for biomass carbon storage to address the wildfire and climate crises",
-      "external_description": "Climate change and fire suppression are intensifying wildfires, prompting fuel reduction treatments that will generate gigatonnes of waste biomass residues in the near term. We evaluate the potential ...",
-      "external_uri": "https://doi.org/10.1126/sciadv.aee6185",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:giuwcnh2ks4m5pkgv4v6thec/bafkreifjhroi6nwdv6gdu2pve3uqerzxg6svonwwqjoazzomujksw62adu"
-    },
-    {
       "handle": "natclimate.nature.com",
       "author_name": "ULBRecherche",
       "text": "🐝 Essentiels à la pollinisation dans les régions tempérées et froides, les bourdons subissent les effets du changement climatique sur leurs habitats.\n\nUne étude publiée dans Nature Climate Change et coordonnée par le Laboratoire d’Épidémiologie Spatiale (SpELL) de l’ULB.",
@@ -221,28 +265,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Satellite-based analysis quantifies the impact of road expansion linked to logging and mining on intact forests and aboveground biomass in Siberia from 2000 to 2023\n\nwww.nature.com/articles/s41...",
-      "created_at": "2026-09-01T16:04:29.142Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3muhsdhetzk2h",
-      "external_title": "Fourfold increase in fragmentation from road expansion in Siberian intact forests since 2000 - Nature Ecology & Evolution",
-      "external_description": "Analysing Landsat satellite images between 2000 and 2023, the authors show that road expansion linked to logging and mining in the central-eastern Siberian intact forest landscape has intensified forest fragmentation and contributed to more than 39 megatonnes of aboveground biomass loss.",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03162-7",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifdbezdiowg2teduydwnxxmsln7hudgpkuk4dw2q7ygswxtxq3ej4"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New field experimental study suggests tree diversity and mycorrhizal type are distinct drivers of multitrophic biodiversity, with greater effects belowground.\n\nwww.nature.com/articles/s41...\n\n@eisenhauerlab.bsky.social",
-      "created_at": "2026-09-01T15:58:00.073Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3muhrxudftc2p",
-      "external_title": "Tree diversity and mycorrhizal type independently shape multitrophic biodiversity, with stronger effects belowground than aboveground - Nature Ecology & Evolution",
-      "external_description": "Tree diversity and mycorrhizal dominance are considered major drivers of multitrophic diversity and ecosystem functioning in forests. Here the authors disentangle the effects of these factors on above...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03147-6",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiejjr7ejfjyh7uupr4scmmh4wjp4zuo2wyfk4eiwi3ugzhztxwrnm"
     }
   ]
 }
