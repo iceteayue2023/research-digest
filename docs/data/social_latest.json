@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T09:58:29.474017+00:00",
-  "count": 20,
+  "generated_at": "2026-09-06T14:48:06.585472+00:00",
+  "count": 15,
   "posts": [
     {
       "handle": "pnas.org",
@@ -165,61 +165,6 @@
       "external_title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement - Nature",
       "external_description": "The decarboxylative semi-pinacol rearrangement of β-hydroxy carboxylic acids under electrochemical oxidation conditions was first reported in 19601. However, its further development has remained limited owing to stepwise radical and carbocationic pathways that induce side reactions and result in the loss of stereochemical information at the α-carbon. Herein, we demonstrate that this transformation can instead be realized through a concerted mechanism under Pd(II)/Pd(IV) catalysis. The reaction proceeds via the formation of a six-membered Pd(IV) chelate, which undergoes fragmentation accompanied by β-to-α carbon migration and carbon dioxide extrusion, with Pd(IV) serving as the redox center. This closed-shell pathway enables precise stereochemical control: the migrating carbon retains its absolute configuration, while the α-stereocenter undergoes inversion. For unsymmetrical ketones, the reaction displays markedly higher migrating-group selectivity than the classical Tiffeneau–Demjanov2 and Büchner–Curtius–Schlotterbeck reactions3. Broadly applicable to cyclic and acyclic ketones and aldehydes, this method avoids hazardous diazo reagents. Its utility is illustrated by a concise total synthesis of (+)-rupestine D, where the rearrangement serves as a key carbon-skeleton-editing step.",
       "external_uri": "https://go.nature.com/4zVwQHv",
-      "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "*yikes* the heatwave got to us 🔥but good news is that you're getting an extension to enter your photos to Capturing Ecology 📸\n\nNew deadline is 14 September 🎯\n\nDon't leave it to the last minute 😉 Submit now 👇\nhttps://www.britishecologicalsociety.org/content/capturing-ecology-annual-competition/",
-      "created_at": "2026-09-03T12:03:32.215047611Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mumfshaekb2v",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Smaller nuclear reactors could usher in a new era of low-carbon electrical generation. But safety, waste storage and cost remain hurdles.\n\ngo.nature.com/46CNxKf",
-      "created_at": "2026-09-03T10:20:18.408Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mum7zufetp22",
-      "external_title": "Nuclear power",
-      "external_description": "Smaller reactors could usher in a new era of low-carbon electrical generation. But safety, waste storage and cost remain hurdles.",
-      "external_uri": "https://go.nature.com/46CNxKf",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicrynak4ajufwd754yrne2q4qtb2panwzsa66tkedpskeqadtagty"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "⏰Deadline to submit: 19 October\n\nFind out more here 👇\n",
-      "created_at": "2026-09-03T10:02:09.797704085Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mum6zgee4y2b",
-      "external_title": "Journal of Applied Ecology: Call for Papers - Linking disease ecology to agriculture and public health in a One Health approach",
-      "external_description": "<em>Journal of Applied Ecology</em> publishes impactful research at the intersection of ecological science and the management of biological resources.",
-      "external_uri": "https://f.mtr.cool/afx7hctep8",
-      "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "If you’re interested in advancing disease ecology, agriculture, public health, and multispecies health through a One Health perspective, they'd love to hear from you!🌎",
-      "created_at": "2026-09-03T10:02:00.396957300Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mum6z57tvo2l",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Call for proposals!\n\nJournal of Applied Ecology (@jappliedecology.bsky.social), People and Nature (@peopleandnature.bsky.social), and Journal of Animal Ecology (@animalecology.bsky.social) have just launched a new cross-journal Special Feature 🦠",
-      "created_at": "2026-09-03T10:01:59.377062877Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mum6z4aqqn2f",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
       "external_thumb": null
     }
   ]
