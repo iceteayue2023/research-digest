@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T03:45:59.266946+00:00",
-  "count": 21,
+  "generated_at": "2026-09-06T09:58:29.474017+00:00",
+  "count": 20,
   "posts": [
     {
       "handle": "pnas.org",
@@ -221,17 +221,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Specise Spotlight: Jumping spiders have taught Ximena Nelson that patience can be rewarding.\n\nwww.nature.com/articles/s41...\n\n(Photo by M. Patrick)",
-      "created_at": "2026-09-03T09:36:37.258Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mum5lqissk2y",
-      "external_title": "Jumping spiders (genus Portia) - Nature Ecology & Evolution",
-      "external_description": "Jumping spiders have taught Ximena Nelson that patience can be rewarding.",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03174-3",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifno4vq6t2tqhrkp2mzqtwg43o6ztgvkbjqbbtrwmwsyd2zptud5e"
     }
   ]
 }
