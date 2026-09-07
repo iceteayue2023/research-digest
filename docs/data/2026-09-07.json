@@ -1,6 +1,195 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T03:45:15.008745+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-07T11:09:02.868193+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-6149-2026",
+      "title": "Water, carbon, and light use efficiencies in an old hemiboreal coniferous forest: nine-year patterns under hydroclimatic variability",
+      "link": "https://doi.org/10.5194/bg-23-6149-2026",
+      "summary": "Water, carbon, and light use efficiencies in an old hemiboreal coniferous forest: nine-year patterns under hydroclimatic variability\n                    Svyatoslav Rogozin, Alisa Krasnova, Ülo Mander, and Kaido Soosaar\n                        Biogeosciences, 23, 6149–6178, https://doi.org/10.5194/bg-23-6149-2026, 2026\n                        We studied how an old north conifer forest in Estonia uses water, light, and carbon to take up carbon dioxide during nine growing seasons, using continuous eddy covariance measurements. Air became warmer and drier, yet water and light use efficiency stayed stable. Carbon use efficiency was most sensitive to hydroclimatic variability, reflecting the balance between uptake and respiration. This helps predict whether such forests will keep storing carbon as climate dries.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-07T13:03:08+02:00",
+      "doi": "10.5194/bg-23-6149-2026",
+      "affiliation": null,
+      "title_zh": "老龄北方半针叶林的水分、碳和光利用效率：水文气候变异下的九年格局",
+      "relevance_score": 8,
+      "key_conclusion": "通过连续涡度协方差测量，研究爱沙尼亚老龄北方针叶林九个生长季的碳、水和光利用效率，发现尽管空气变暖变干，水分和光利用效率保持稳定，但碳利用效率对水文气候变率最为敏感，反映了光合吸收与呼吸释放的平衡。",
+      "relevance_note": "文章研究欧洲（爱沙尼亚）森林生态系统的碳循环对水文气候变异的响应，涉及植被-土壤反馈和碳汇稳定性，与用户关注的研究地点在欧洲及陆地碳循环主题直接相关，且采用了长期测量数据，相关性较高。",
+      "related_papers": [],
+      "image_url": "https://bg.copernicus.org/articles/23/6149/2026/bg-23-6149-2026-avatar-web.png",
+      "scientific_question": "爱沙尼亚老龄北方针叶林在九个生长季中，其水分、碳和光利用效率如何响应水文气候变率？该森林在气候变暖变干趋势下能否持续作为碳汇？",
+      "contributions_limitations": "该研究基于九年连续涡度协方差数据，揭示了水分和光利用效率在水文气候变率下的稳定性，并识别出碳利用效率是对水文气候波动最敏感的过程，为预测老林碳汇持续性提供了关键的长期观测证据。可能的局限性在于研究仅限于单一林型（爱沙尼亚老龄针叶林）和九个生长季的时间尺度，结论向其他气候区和林型的推广需谨慎。",
+      "follow_up_research": "后续可结合气候情景模型，评估该老林碳利用效率在更长极端干旱事件下的非线性响应；也可将碳利用效率的敏感性参数化，纳入区域碳循环模型；进一步比较不同林龄和管理历史下利用效率的差异，以区分自然演替和气候驱动的效应。",
+      "next_step_perspective": "该研究提供了如何利用长期通量数据分解碳、水、光利用效率的框架，可直接应用于用户关注的生态系统碳循环对极端气候事件响应的分析。其强调碳利用效率（吸收与呼吸平衡）对水文气候敏感性的发现，为评估重野化后植被-土壤系统的碳汇稳定性提供了观测方法借鉴。",
+      "why_this_journal": "推测：该研究基于持续近十年的高质量涡度协方差数据，产出罕见的长时序生态生理响应模式，兼具数据稀缺性和方法严谨性；Biogeosciences作为生物地球化学过程领域的核心期刊，重视此类生态系统通量过程与气候交互的机制性研究。",
+      "author_profile": {
+        "name": "Svyatoslav Rogozin",
+        "institution": "University of Tartu",
+        "intro": "Svyatoslav Rogozin来自爱沙尼亚塔尔图大学（University of Tartu），其历史论文主要围绕爱沙尼亚成熟老龄林和河岸林的长期碳汇功能、热浪韧性以及碳封存模式，研究方向为北方/半北方森林生态系统的碳通量与气候响应。这些研究与用户的碳循环主题高度契合，特别是生态系统碳汇稳定性和气候变化扰动方面的长期观测经验可提供方法参考。",
+        "other_works": [
+          {
+            "title": "Water, carbon, and light use efficiencies in an old hemiboreal coniferous forest: nine-year patterns under hydroclimatic variability",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6149-2026"
+          },
+          {
+            "title": "Water, carbon, and light use efficiencies in an old hemiboreal coniferous forest: nine-year patterns under hydroclimatic variability",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-837"
+          },
+          {
+            "title": "Long-term carbon sequestration and heatwave resilience in an old hemiboreal upland coniferous forest",
+            "year": "2026",
+            "journal": "Agricultural and Forest Meteorology",
+            "doi": "10.1016/j.agrformet.2025.110895"
+          },
+          {
+            "title": "Mature riparian alder forest acts as a strong and consistent carbon sink",
+            "year": "2025",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-22-7089-2025"
+          },
+          {
+            "title": "Mature riparian alder forest acts as a strong and consistent carbon sink",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-1280"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6211-2026",
+      "title": "Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO2 emissions",
+      "link": "https://doi.org/10.5194/bg-23-6211-2026",
+      "summary": "Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO2 emissions\n                    V. Rachel Chimuka and Kirsten Zickfeld\n                        Biogeosciences, 23, 6211–6228, https://doi.org/10.5194/bg-23-6211-2026, 2026\n                        Using Earth system model simulations, we show that carbon cycle feedbacks are asymmetric under positive and negative CO2 emissions due to non-linear responses to CO2 and temperature change, and asymmetric ocean circulation changes. These asymmetries propagate onto the asymmetry in the transient climate response to cumulative emissions. Our work emphasizes the need to evaluate climate and carbon metrics under negative emissions rather than applying metrics from positive emissions scenarios.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-07T13:03:08+02:00",
+      "doi": "10.5194/bg-23-6211-2026",
+      "affiliation": null,
+      "title_zh": "正负CO2排放下碳循环反馈与瞬态气候响应的不对称性",
+      "relevance_score": 7,
+      "key_conclusion": "利用地球系统模型模拟，研究发现碳循环反馈在正负CO2排放情景下是不对称的，源于对CO2和温度变化的非线性响应及海洋环流的不对称变化，这种不对称性传播到瞬态气候响应对累积排放的影响，强调需在负排放情景下评估碳和气候指标。",
+      "relevance_note": "文章直接涉及陆地碳循环反馈机制及气候扰动对碳汇碳源的影响，与用户关注的生态系统碳循环及极端气候扰动主题高度相关，虽未提及重野化但属重要相邻领域。",
+      "related_papers": [
+        {
+          "title": "Climate and carbon cycle changes from 1850 to 2100 in MPI‐ESM simulations for the Coupled Model Intercomparison Project phase 5",
+          "link": "https://doi.org/10.1002/jame.20038",
+          "venue": "Journal of Advances in Modeling Earth Systems",
+          "year": 2013
+        },
+        {
+          "title": "Context for interpreting equilibrium climate sensitivity and transient climate response from the CMIP6 Earth system models",
+          "link": "https://doi.org/10.1126/sciadv.aba1981",
+          "venue": "Science Advances",
+          "year": 2020
+        },
+        {
+          "title": "Climate change projections using the IPSL-CM5 Earth System Model: from CMIP3 to CMIP5",
+          "link": "https://doi.org/10.1007/s00382-012-1636-1",
+          "venue": "Climate Dynamics",
+          "year": 2013
+        },
+        {
+          "title": "Climate and carbon-cycle variability over the last millennium",
+          "link": "https://doi.org/10.5194/cp-6-723-2010",
+          "venue": "Climate of the past",
+          "year": 2010
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6211/2026/bg-23-6211-2026-avatar-web.png",
+      "scientific_question": "地球系统模型中，碳循环反馈和瞬态气候响应在正、负CO2排放情景下是否存在不对称性？负排放情景下常用的碳气候指标是否仍然适用？",
+      "contributions_limitations": "该研究揭示了碳循环反馈在正负CO2排放下因非线性响应和海洋环流不对称变化而产生系统性不对称，并指出该不对称传播至瞬态气候响应指标，强调负排放情景下需重新评估碳气候度量。可能的局限性包括仅基于单一或少数地球系统模型模拟，对模型结构差异的敏感性未充分讨论，且未涵盖土地利用变化等非CO2驱动因素。",
+      "follow_up_research": "后续可开展多模型比对，检验碳循环反馈不对称性的普适性；将分析扩展至非CO2温室气体和土地利用变化的碳循环影响；结合观测数据检验负排放下碳汇恢复的时序特征，以改进地球系统模式对减排路径的预测。",
+      "next_step_perspective": "本文的方法论启发用户关注碳循环响应的非对称性——即生态系统恢复（如重野化带来的碳汇增强）与退化（碳源释放）并非简单可逆过程。这一视角对评估基于自然解决方案的气候变化缓解潜力尤为关键：恢复后碳汇的动态可能不同于退化前的逆过程，需要在模型中显式表征。",
+      "why_this_journal": "推测：该研究聚焦碳循环反馈的气候敏感性核心理论问题，并直接关联负排放这一气候政策关键场景，具备前沿科学意义。Biogeosciences覆盖地球系统碳循环与气候反馈交叉方向，且该文通过地球系统模型模拟将海洋与陆地碳循环耦合的不对称机制做了清晰量化。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6119-2026",
+      "title": "Introducing relative pollen productivity estimates for Iberian taxa: methodological insights and implications for landscape modelling  in the Western Mediterranean",
+      "link": "https://doi.org/10.5194/bg-23-6119-2026",
+      "summary": "Introducing relative pollen productivity estimates for Iberian taxa: methodological insights and implications for landscape modelling  in the Western Mediterranean\n                    Kilian Jungkeit-Milla, Vojtěch Abraham, Miguel Sevilla-Callejo, Xavier Font, Héctor Romanos, Eduardo García-Prieto, Josu Aranbarri, Maria Leunda, Michelle Farrell, Fátima Franco-Múgica, Michela Mariani, Florence Mazier, Helios Sainz-Ollero, Penélope González-Sampériz, and Graciela Gil-Romera\n                        Biogeosciences, 23, 6119–6147, https://doi.org/10.5194/bg-23-6119-2026, 2026\n                        Past land-cover reconstructions are essential for understanding long-term landscape changes. In this study, we present the first relative pollen productivity estimates (RPPs) for 21 plant taxa in Spain, a key parameter for reconstructing past vegetation dynamics. Our results provide a new RPP dataset for the Western Mediterranean, enabling more accurate pollen-based palaeoecological reconstructions in future studies.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-07T13:03:08+02:00",
+      "doi": "10.5194/bg-23-6119-2026",
+      "affiliation": null,
+      "title_zh": "引入伊比利亚类群的相对花粉生产力估算：方法学洞见及对西地中海景观建模的意义",
+      "relevance_score": 5,
+      "key_conclusion": "该研究首次提供了西班牙21个植物类群的相对花粉生产力估算（RPPs），为西地中海地区的古生态重建提供了关键参数，有助于提高花粉驱动的过去植被动态重建的准确性。",
+      "relevance_note": "文章涉及植被重建和古生态方法，研究地点在欧洲（西班牙），虽不直接讨论碳循环或重野化，但与植被动态和生态系统恢复相关，因地理位置特殊性可给予中等相关性分数。",
+      "related_papers": [
+        {
+          "title": "The origin and spread of olive cultivation in the Mediterranean Basin: The fossil pollen evidence",
+          "link": "https://doi.org/10.1177/0959683619826654",
+          "venue": "The Holocene",
+          "year": 2019
+        },
+        {
+          "title": "Introducing relative pollen productivity estimates for Iberian taxa: methodological insights and implications for landscape modelling in the Western Mediterranean",
+          "link": "https://doi.org/10.32942/x2vd3n",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Introducing relative pollen productivity estimates for Iberian taxa: methodological insights and implications for landscape modelling in the Western Mediterranean",
+          "link": "",
+          "venue": "Repository@Nottingham (University of Nottingham)",
+          "year": null
+        },
+        {
+          "title": "Vegetation of Eurasia from the last glacial maximum to present: Key biogeographic patterns",
+          "link": "https://doi.org/10.1016/j.quascirev.2016.11.022",
+          "venue": "Quaternary Science Reviews",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6119/2026/bg-23-6119-2026-avatar-web.png",
+      "scientific_question": "伊比利亚半岛主要植物类群的相对花粉生产力（RPPs）是多少？如何通过这类估算改进西地中海地区的古植被景观重建？",
+      "contributions_limitations": "该研究首次系统提供了西班牙21个植物类群的相对花粉生产力估算，填补了西地中海地区区域性的RPP数据空白，为基于花粉的古植被定量重建提供了关键校准参数。可能的方法局限在于RPP估算依赖现代花粉-植被校准数据集的空间代表性和采样设计，其结果对非目标区域的迁移应用存在不确定性；且摘要未提供方法过程细节。",
+      "follow_up_research": "基于新的RPP数据集，可开展西地中海地区全新世以来植被景观的动态定量重建；进一步将RPP值与气候-土地利用驱动因子关联，反演人类干扰和自然演替的长期交互；将该方法与沉积物DNA等多代理指标整合，提高重建的可靠性和时间分辨率。",
+      "next_step_perspective": "尽管该研究与重野化无直接关联，但其方法论对用户评估欧洲长期植被-土壤反馈和生态系统自然恢复轨迹有参考价值。RPP估算支持重建大型食草动物历史分布区内植被类型的变化背景，可帮助区分重野化引起的植被变化与土地利用遗留效应。此外，该研究地点在西南欧（伊比利亚），属于欧洲地区研究，用户在相关性判断时可给予加分。",
+      "why_this_journal": "推测：相对花粉生产力是古生态学与植被动态研究的关键前沿参数，该文章首次提供区域性高价值的RPP数据集，兼具方法创新和广泛的应用前景。Biogeosciences对反映地表过程与生态系统长期演变的生物地球化学研究具有较强包容性。",
+      "author_profile": {
+        "name": "Kilian Jungkeit-Milla",
+        "institution": "Consejo Superior de Investigaciones Científicas",
+        "intro": "Kilian Jungkeit-Milla来自西班牙国家研究委员会（CSIC），其历史论文集中于伊比利亚和西地中海地区的相对花粉生产力估算、植被定量重建、古气候代用指标（如高山湖泊水温）以及粉尘沉降地球化学指纹，主要方向为古生态与古环境重建。该方向与用户关注的长期植被动态和景观尺度生态系统变化存在一定关联，可为植被恢复的历史基线设定提供方法论基础。",
+        "other_works": [
+          {
+            "title": "Introducing relative pollen productivity estimates for Iberian taxa: methodological insights and implications for landscape modelling in the Western Mediterranean",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6119-2026"
+          },
+          {
+            "title": "Novel relative pollen productivity estimates for Iberian taxa: implications for quantitative reconstruction of past vegetation dynamics in the Western Mediterranean ",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-11013"
+          },
+          {
+            "title": "Reply on RC1",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1136-AC1"
+          },
+          {
+            "title": "Reply on RC2",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1136-AC2"
+          },
+          {
+            "title": "Geochemical fingerprinting and source apportionment of deposited African dust in southwestern Europe using elemental ratios and receptor modelling",
+            "year": "2026",
+            "journal": "Aeolian Research",
+            "doi": "10.1016/j.aeolia.2026.101051"
+          }
+        ]
+      }
+    }
+  ]
 }

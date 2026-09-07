@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T03:45:15.009076+00:00",
-  "count": 11,
+  "generated_at": "2026-09-07T11:09:02.869117+00:00",
+  "count": 7,
   "posts": [
     {
       "handle": "pnas.org",
@@ -78,50 +78,6 @@
       "external_description": "Emissions could be reduced, with minimal impact on production, while generating billions in public revenues",
       "external_uri": "https://www.science.org/doi/10.1126/science.aef7190",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ohhkaqcwtcmvhfhvuqrewo3s/bafkreidv6ovvtavzlvbq3ab25nmf4mbg3uojnpm6brkxh7qgxu3hwc4rwa"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Follow the link to find out more about the research👇\n",
-      "created_at": "2026-09-04T10:02:35.384876742Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3muopj425zb2v",
-      "external_title": "Insects could face an uphill battle adapting to climate change - British Ecological Society",
-      "external_description": "Lower oxygen levels and air pressure at higher elevations could pose a barrier to insects moving upslope.",
-      "external_uri": "https://www.britishecologicalsociety.org/content/insects-could-face-an-uphill-battle-adapting-to-climate-change/",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreiecmgtohxe66iwsoibjhl2fiern4tl55j62mi7n7pwrwkbszbphca"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Under a warming climate, many species are shifting their range to higher elevations to remain in suitable temperature zones. However, conditions at higher elevations, such as thinner air and less oxygen, pose unique challenges to insects because of their size, lifecycle and way of breathing.",
-      "created_at": "2026-09-04T10:02:29.167927749Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3muopixpaer2s",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Insects could face an uphill battle adapting to climate change.\n\nA new review of research in @funecology.bsky.social found that lower oxygen levels and air pressure at higher elevations could pose a barrier to some insect species moving upslope to escape climate warming.",
-      "created_at": "2026-09-04T10:02:28.559084976Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3muopivjxlb2s",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "This year’s Ig Nobels include a biomechanics prize for creating a precise definition of kissing and a soil-science award for investigating what happens if you bury and then dig up 1,000 pairs of underwear.\n\ngo.nature.com/4zUQyTB",
-      "created_at": "2026-09-04T09:49:55.938Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3muooshonh62u",
-      "external_title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-      "external_description": "The awards highlight weird, funny and improbable research that also makes you think.",
-      "external_uri": "https://go.nature.com/4zUQyTB",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov76wsy3jfz3t4n77jgjofr6dbhhfqxioqb42ssme7wfgobc6e"
     }
   ]
 }
