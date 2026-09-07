@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T11:09:02.869117+00:00",
-  "count": 7,
+  "generated_at": "2026-09-07T17:06:00.184800+00:00",
+  "count": 3,
   "posts": [
     {
       "handle": "pnas.org",
@@ -25,59 +25,15 @@
       "external_thumb": null
     },
     {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "As the climate changes, some mollusks will shrink to half their current size, while others will grow up to 15% larger, depending on lineage and location. The ecological and social consequences for marine ecosystems could be profound. In PNAS: https://ow.ly/iUo450ZJsTl",
-      "created_at": "2026-09-04T16:02:01.249561839Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mupdltjjnw2h",
+      "handle": "natecoevo.nature.com",
+      "author_name": "Kexin Song",
+      "text": "Thrilled that our research on Amazon forest resilience is featured on the September cover of @natecoevo.nature.com! 🌳🛰️\n\nWe link satellite resilience signals with hydraulic traits across 110+ Amazon species.\n\ndoi.org/10.1038/s415...\n\n📷 Sérgio Souza · Cover design: Allen Beattie",
+      "created_at": "2026-09-04T17:05:56.928Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3muph64pihs26",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Sar Crespi",
-      "text": "What effect will climate change have on animals when temperature influences their sex? —this week on the @science.org podcast w/ Veronika Bókony #ScienceAdvances\n\nwww.science.org/content/podc...",
-      "created_at": "2026-09-04T14:57:27.965Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mup7yeujec2c",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Mathieu Pélissié",
-      "text": "I'm delighted to share our new paper in #ScienceAdvances! @science.org 🔗 doi.org/10.1126/sciadv.aed7911\n\nWe explored the importance of abrupt shifts in marine fish productivity worldwide and identified the main causes and consequences of such overlooked dynamics.\n\nSome key findings below ⬇️",
-      "created_at": "2026-09-04T13:43:28.660Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mup3u37pkc2w",
-      "external_title": "Abrupt declines in fish productivity often precede stock collapses in marine fisheries",
-      "external_description": "Marine life is under multiple pressures, including climate change and overfishing, which can threaten fishery sustainability especially when it results in large, abrupt, and persistent shifts in fish ...",
-      "external_uri": "https://doi.org/10.1126/sciadv.aed7911",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zi2dw2jgx5jk2civq6y6mjux/bafkreiduth4dqyoo62u7ufojdzy3krwmw7yv455wwoz3mkszpjzcjcmmza"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "David Grimm",
-      "text": "This year's silliest science awards--the Ig Nobels--were hosted outside the U.S. for the first time. Amidst the laughter, prize winners discuss some of the serious reasons that motivated the move. Nice story by @hannah-richter.bsky.social for @science.org",
-      "created_at": "2026-09-04T13:40:37.100Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mup3oxm4ic2j",
-      "external_title": "Ig Nobel hosts science’s silliest ceremony outside U.S. for first time",
-      "external_description": "The indefinite move to Europe was a response to travel and safety concerns for winners",
-      "external_uri": "https://www.science.org/content/article/ig-nobel-hosts-science-s-silliest-ceremony-outside-u-s-first-time",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hgexsteyfqqrlucbsvdysyak/bafkreicyplh6e7k7j5dtkdh6mt3e6piz3ogf3esbjhfzatqsrktseau7vq"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Catherine Wolfram",
-      "text": "New paper in @science.org: As of 2025, 80 carbon-pricing instruments were in place across 50 jurisdictions. By coordinating across systems, we can increase emission reductions and avoid trade barriers from a profusion of different border adjustments.\n\nwww.science.org/doi/10.1126/...",
-      "created_at": "2026-09-04T11:45:48.270Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3muovbnvqg22v",
-      "external_title": "Building a scalable climate coalition for heavy industry",
-      "external_description": "Emissions could be reduced, with minimal impact on production, while generating billions in public revenues",
-      "external_uri": "https://www.science.org/doi/10.1126/science.aef7190",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ohhkaqcwtcmvhfhvuqrewo3s/bafkreidv6ovvtavzlvbq3ab25nmf4mbg3uojnpm6brkxh7qgxu3hwc4rwa"
     }
   ]
 }

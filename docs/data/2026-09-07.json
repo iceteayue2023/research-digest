@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T11:09:02.868193+00:00",
-  "count": 3,
+  "generated_at": "2026-09-07T17:06:00.183878+00:00",
+  "count": 4,
   "articles": [
     {
       "id": "https://doi.org/10.5194/bg-23-6149-2026",
@@ -107,6 +107,83 @@
       "next_step_perspective": "本文的方法论启发用户关注碳循环响应的非对称性——即生态系统恢复（如重野化带来的碳汇增强）与退化（碳源释放）并非简单可逆过程。这一视角对评估基于自然解决方案的气候变化缓解潜力尤为关键：恢复后碳汇的动态可能不同于退化前的逆过程，需要在模型中显式表征。",
       "why_this_journal": "推测：该研究聚焦碳循环反馈的气候敏感性核心理论问题，并直接关联负排放这一气候政策关键场景，具备前沿科学意义。Biogeosciences覆盖地球系统碳循环与气候反馈交叉方向，且该文通过地球系统模型模拟将海洋与陆地碳循环耦合的不对称机制做了清晰量化。",
       "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02761-3",
+      "title": "Author Correction: Tree species richness relates to long-term forest photosynthesis increase",
+      "link": "https://www.nature.com/articles/s41558-026-02761-3",
+      "summary": "Nature Climate Change, Published online: 07 September 2026; doi:10.1038/s41558-026-02761-3Author Correction: Tree species richness relates to long-term forest photosynthesis increase",
+      "journal": "Nature Climate Change",
+      "published": "2026-09-07T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02761-3",
+      "affiliation": null,
+      "title_zh": "作者更正：树种丰富度与森林长期光合作用增加有关",
+      "relevance_score": 6,
+      "key_conclusion": "这是一篇作者更正声明，针对原研究论文进行勘误，并未提供新的科学发现或实验数据。原始研究探讨了树种丰富度与森林长期光合作用增加之间的关系。",
+      "relevance_note": "该文章涉及树种多样性与生态系统功能（光合作用）的联系，与BEF关系主题相关，但作为更正声明缺乏实质性内容，故相关性评分偏低。",
+      "related_papers": [
+        {
+          "title": "Forest microclimates and climate change: Importance, drivers and future research agenda",
+          "link": "https://doi.org/10.1111/gcb.15569",
+          "venue": "Global Change Biology",
+          "year": 2021
+        },
+        {
+          "title": "Seedling root morphology and biomass allocation of 62 tropical tree species in relation to drought‐ and shade‐tolerance",
+          "link": "https://doi.org/10.1111/j.1365-2745.2008.01466.x",
+          "venue": "Journal of Ecology",
+          "year": 2009
+        },
+        {
+          "title": "Terrestrial laser scanning in forest ecology: Expanding the horizon",
+          "link": "https://doi.org/10.1016/j.rse.2020.112102",
+          "venue": "Remote Sensing of Environment",
+          "year": 2020
+        },
+        {
+          "title": "Global effects of non‐native tree species on multiple ecosystem services",
+          "link": "https://doi.org/10.1111/brv.12511",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "这是一篇作者更正声明，基于现有信息无法推断原研究的核心科学问题，但根据标题推测原研究旨在探究树种丰富度与森林长期光合作用增加之间的关系。",
+      "contributions_limitations": "作为作者更正声明，本文的贡献在于纠正原研究中的错误，确保学术记录的准确性，本身不包含新数据或新结论。局限性在于无法提供任何新的科学见解或实证支持。基于现有信息推测，建议查看原始论文以获取实质性内容。",
+      "follow_up_research": "基于此更正声明，有价值的后续方向是查阅原文后，探讨树种丰富度与光合作用长期关系的潜在机制，例如多样性如何通过补偿效应或资源互补影响碳吸收；也可将此类关系纳入森林碳循环模型，检验其在大尺度上的适用性。",
+      "next_step_perspective": "这篇文章本身不提供直接的方法或视角启发，但原始研究主题（树种丰富度与光合作用）与用户的BEF（生物多样性-生态系统功能）研究兴趣高度相关。用户应检索原文，从中获取关于多样性-碳循环关系的时间尺度分析思路，并考虑是否可与大型食草动物介导的植被变化联系起来。",
+      "why_this_journal": "推测：更正声明通常发表在原文所在期刊，以保证读者获取修正信息的连贯性，并不反映新的科学贡献。鉴于原研究发表于Nature Climate Change，其选题可能具有气候变化与生物多样性交叉的前沿性，但本更正本身不具备发表价值判断的依据。",
+      "author_profile": {
+        "name": "Ruochen Cao",
+        "institution": "Nanjing University",
+        "intro": "Ruochen Cao来自南京大学，其历史作品主要聚焦于森林生产力、树种多样性与生态系统碳循环的关系，以及对干旱事件的响应。这些研究方向与用户关注的植被-土壤反馈、碳循环扰动高度契合，尤其是森林边缘效应对碳平衡的影响可能对理解退化生态系统的碳动态有参考价值。",
+        "other_works": [
+          {
+            "title": "Author Correction: Tree species richness relates to long-term forest photosynthesis increase",
+            "year": "2026",
+            "journal": "Nature Climate Change",
+            "doi": "10.1038/s41558-026-02761-3"
+          },
+          {
+            "title": "Tree species richness relates to long-term forest photosynthesis increase",
+            "year": "2026",
+            "journal": "Nature Climate Change",
+            "doi": "10.1038/s41558-026-02698-7"
+          },
+          {
+            "title": "Forest edge effects amplify impacts of 2023-2024 Amazon drought on forest productivity",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-5962"
+          },
+          {
+            "title": "Spatiotemporal variations in the ratio of transpiration to evapotranspiration and its controlling factors across terrestrial biomes",
+            "year": "2022",
+            "journal": "Agricultural and Forest Meteorology",
+            "doi": "10.1016/j.agrformet.2022.108984"
+          }
+        ]
+      }
     },
     {
       "id": "https://doi.org/10.5194/bg-23-6119-2026",
