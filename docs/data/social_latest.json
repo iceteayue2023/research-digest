@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T14:48:06.585472+00:00",
-  "count": 15,
+  "generated_at": "2026-09-07T03:45:15.009076+00:00",
+  "count": 11,
   "posts": [
     {
       "handle": "pnas.org",
@@ -122,50 +122,6 @@
       "external_description": "The awards highlight weird, funny and improbable research that also makes you think.",
       "external_uri": "https://go.nature.com/4zUQyTB",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov76wsy3jfz3t4n77jgjofr6dbhhfqxioqb42ssme7wfgobc6e"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Hannah Richter",
-      "text": "Had the famously silly Ig Nobel ceremony not moved outside of the U.S., “I would have thought twice” before attending this year, said one new winner. “The perception I have is that there is not so much of a welcoming culture anymore.” 🔬🏅 \n\nRead more in @science.org: www.science.org/content/arti...",
-      "created_at": "2026-09-03T21:16:09.791Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3muneommuks25",
-      "external_title": "Ig Nobel hosts science’s silliest ceremony outside U.S. for first time",
-      "external_description": "The indefinite move to Europe was a response to travel and safety concerns for winners",
-      "external_uri": "https://www.science.org/content/article/ig-nobel-hosts-science-s-silliest-ceremony-outside-u-s-first-time",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:etkgpjuvhfxgbe55f7kewofu/bafkreiegrkj4cxkogkhrvmn2y6kgjejj3w26onb6e6jh7dhyfdchjem2ti"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "This year’s Ig Nobel prizes, awarded on 3 September, include a biomechanics prize for creating a precise definition of kissing and a soil-science award for investigating what happens if you bury and then dig up 1,000 pairs of underwear.\n\ngo.nature.com/3URhWC0",
-      "created_at": "2026-09-03T18:20:40.373Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mun2ut5ywf2n",
-      "external_title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
-      "external_description": "The awards highlight weird, funny and improbable research that also makes you think.",
-      "external_uri": "https://go.nature.com/3URhWC0",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigeov76wsy3jfz3t4n77jgjofr6dbhhfqxioqb42ssme7wfgobc6e"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Soundscapes of ancient forests are made possible through reconstructions of the sound-producing structures of insects from the Jurassic period. These ancient relatives of today’s katydids lived in what is now Inner Mongolia, China. In PNAS: https://ow.ly/xee550ZISxP",
-      "created_at": "2026-09-03T16:10:38.322Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mumtmcgbyo2h",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Nature research paper: Ketone homologation via palladium-catalysed decarboxylative rearrangement\n\ngo.nature.com/4zVwQHv",
-      "created_at": "2026-09-03T15:16:39.379Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mumqlroz7w2g",
-      "external_title": "Ketone homologation via palladium-catalysed decarboxylative rearrangement - Nature",
-      "external_description": "The decarboxylative semi-pinacol rearrangement of β-hydroxy carboxylic acids under electrochemical oxidation conditions was first reported in 19601. However, its further development has remained limited owing to stepwise radical and carbocationic pathways that induce side reactions and result in the loss of stereochemical information at the α-carbon. Herein, we demonstrate that this transformation can instead be realized through a concerted mechanism under Pd(II)/Pd(IV) catalysis. The reaction proceeds via the formation of a six-membered Pd(IV) chelate, which undergoes fragmentation accompanied by β-to-α carbon migration and carbon dioxide extrusion, with Pd(IV) serving as the redox center. This closed-shell pathway enables precise stereochemical control: the migrating carbon retains its absolute configuration, while the α-stereocenter undergoes inversion. For unsymmetrical ketones, the reaction displays markedly higher migrating-group selectivity than the classical Tiffeneau–Demjanov2 and Büchner–Curtius–Schlotterbeck reactions3. Broadly applicable to cyclic and acyclic ketones and aldehydes, this method avoids hazardous diazo reagents. Its utility is illustrated by a concise total synthesis of (+)-rupestine D, where the rearrangement serves as a key carbon-skeleton-editing step.",
-      "external_uri": "https://go.nature.com/4zVwQHv",
-      "external_thumb": null
     }
   ]
 }
