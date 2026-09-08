@@ -1,6 +1,131 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08T03:50:06.643436+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-08T10:20:28.213679+00:00",
+  "count": 2,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/gmd-19-8289-2026",
+      "title": "A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model (revision: 974a6b7f)",
+      "link": "https://doi.org/10.5194/gmd-19-8289-2026",
+      "summary": "A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model (revision: 974a6b7f)\n                    Josua Seitz, Midori Yajima, Yu Zhu, Lumnesh Swaroop Kumar Joseph, Jinyan Yang, Fabrice Lacroix, Yunpeng Luo, Andreas Schaumberger, Michael Bahn, Sönke Zaehle, and Silvia Caldararu\n                        Geosci. Model Dev., 19, 8289–8319, https://doi.org/10.5194/gmd-19-8289-2026, 2026\n                        This study presents a new global leaf turnover model for grasslands in the QUINCY (QUantifying Interactions between terrestrial Nutrient CYcles and the climate system) land surface model. Land surface models often struggle to simulate grassland carbon dynamics and phenology accurately. By allowing environmental conditions to directly control leaf senescence we improve its timing as well as the accuracy of whole-season carbon dynamics across a wide range of climates and grassland ecosystems.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-08T09:50:53+02:00",
+      "doi": "10.5194/gmd-19-8289-2026",
+      "affiliation": null,
+      "title_zh": "QUINCY陆面模型中草地叶片更替的通用生理驱动表示",
+      "relevance_score": 8,
+      "key_conclusion": "该研究在QUINCY陆面模型中提出了一个新的全球草地叶片更替模型，通过让环境条件直接控制叶片衰老，改善了对多种气候和草地生态系统下全年碳动态的模拟精度。",
+      "relevance_note": "该文直接涉及陆面模型（DGVM类似）中草地碳动态的改进，属于用户关注的地球系统模式动态植被模块开发与验证主题，研究地点涵盖欧洲（如奥地利），故给高分。",
+      "related_papers": [
+        {
+          "title": "Scripts for 'A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model (revision: 974a6b7f)'",
+          "link": "https://doi.org/10.5281/zenodo.17579253",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        },
+        {
+          "title": "Scripts for 'A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model (revision: 974a6b7f)'",
+          "link": "https://doi.org/10.5281/zenodo.17579252",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Scripts for 'A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model (revision: 974a6b7f)'",
+          "link": "https://doi.org/10.5281/zenodo.18659433",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/8289/2026/gmd-19-8289-2026-avatar-web.png",
+      "scientific_question": "如何在陆面模型中引入一种普遍的、由生理驱动的草地叶片更替（衰老与脱落）机制，以提升模型对草地碳动态和物候的模拟精度？",
+      "contributions_limitations": "主要贡献是在QUINCY陆面模型中开发并验证了一种新的、由环境条件（如生理驱动因子）直接控制叶片衰老的通用草地叶片更替方案，显著改善了跨气候区和多种草地类型下全年碳动态的模拟精度（基于摘要推测）。可能的局限性包括：模型性能可能在极端气候事件下或对特定草地管理方式（如放牧强度）的适用性有限，且研究的验证可能受限于站点数据的分布和代表性。",
+      "follow_up_research": "基于此项工作，可探索将放牧或大型草食动物采食机制显式耦合到该叶片更替模块中，模拟动物移除和粪尿返还对草地碳、氮循环的双重影响；进而利用该改进模型评估不同重野化或放牧管理情景下草地土壤有机碳的动态变化；也可将模型模拟结果与POM/MAOM等土壤有机质组分观测数据结合，检验叶片更替变化对土壤碳稳定机制的预测。",
+      "next_step_perspective": "这篇文章直接为用户提供了将重野化效应参数化进陆面/生态系统模型的切入点，特别是其由环境因子驱动的叶片衰老机制可扩展为受食草动物调节的植被-土壤反馈建模框架。方法上，用户可借鉴其模型开发与基准测试（benchmarking）的严谨流程，用于验证重野化与土壤碳循环关联模型。此外，该研究也揭示了一个研究空白：现有DGVM和陆面模型普遍缺乏动物介导的碳、氮循环过程，用户可在这一方向上做出开创性贡献。",
+      "why_this_journal": "推测：Geoscientific Model Development（GMD）专注于地球系统模型、陆面模型的开发、改进与评估，该研究恰好契合期刊的核心定位。其贡献在于对开源陆面模型框架的实质性改进，且提供了跨站点、跨气候区的系统验证，这种模型方法论上的创新为期刊所重视。",
+      "author_profile": {
+        "name": "Josua Seitz",
+        "institution": "Trinity College Dublin",
+        "intro": "作者Josua Seitz来自都柏林圣三一学院（Trinity College Dublin）。从其历史论文看，其研究方向主要围绕将草地生态系统碳、氮循环过程（如竞争、放牧管理）整合进QUINCY和ORCHIDEE等陆面模型，并强调模型在自然和牧群管理草地中的验证与应用。有趣的是，其早期参与的一项关于长期驯鹿排除对北方森林土壤碳影响的研究，与用户的'大型食草动物-土壤碳'核心方向直接相关，表明其研究兴趣横跨动物-植物-土壤互作和生态系统建模，与用户方向高度契合。",
+        "other_works": [
+          {
+            "title": "Long-Term Reindeer Exclusion Leads to Higher Carbon Storage and Less Recalcitrant Carbon Compounds in Boreal Forest Soils",
+            "year": "2026",
+            "journal": "Ecosystems",
+            "doi": "10.1007/s10021-026-01100-z"
+          },
+          {
+            "title": "A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model (revision: 974a6b7f)",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-8289-2026"
+          },
+          {
+            "title": "Cohort-based water competition in a land surface model to assess grassland responses to drought",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-13512"
+          },
+          {
+            "title": "Forecasting carbon and nitrogen cycling from intensively managed grassland systems using the QUINCY land surface model",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-13743"
+          },
+          {
+            "title": "A general physiologically driven representation of leaf turnover in grasslands in the QUINCY land surface model (revision: 974a6b7f)",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5731"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02794-w",
+      "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
+      "link": "https://www.nature.com/articles/d41586-026-02794-w",
+      "summary": "Nature, Published online: 08 September 2026; doi:10.1038/d41586-026-02794-wNepal disaster is a wake-up call to take compound climate risks seriously",
+      "journal": "Nature",
+      "published": "2026-09-08T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-02794-w",
+      "affiliation": null,
+      "title_zh": "尼泊尔灾难是对复合气候风险严肃对待的警钟",
+      "relevance_score": 6,
+      "key_conclusion": "文章以尼泊尔发生的灾害为例，呼吁人们重视复合气候风险，即多种气候相关灾害同时或相继发生所产生的叠加效应，并强调在风险评估和应对中需系统性考虑此类风险。",
+      "relevance_note": "该文关注极端气候事件及其复合影响，属于用户关注的极端气候对生态系统碳循环扰动相关主题的延伸，且发表于Nature正刊，故给较高分。",
+      "related_papers": [
+        {
+          "title": "Climate Change and Natural Disasters",
+          "link": "https://doi.org/10.4324/9781315081045",
+          "venue": null,
+          "year": 2017
+        },
+        {
+          "title": "A comparison of the governance landscape of earthquake risk reduction in Nepal and the Indian State of Bihar",
+          "link": "https://doi.org/10.1016/j.ijdrr.2015.10.011",
+          "venue": "International Journal of Disaster Risk Reduction",
+          "year": 2015
+        },
+        {
+          "title": "A pediatrician's guide to climate change-informed primary care",
+          "link": "https://doi.org/10.1016/j.cppeds.2021.101027",
+          "venue": "Current problems in pediatric and adolescent health care",
+          "year": 2021
+        },
+        {
+          "title": "Climate Change and Natural Disasters: Transforming Economies and Policies for a Sustainable Future",
+          "link": "https://doi.org/10.4324/9781315081045",
+          "venue": "Econstor (Econstor)",
+          "year": 2017
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "基于尼泊尔近期灾害，人类社会应如何更严肃地认识和应对复合气候风险（compound climate risks）及其灾难性后果？",
+      "contributions_limitations": "主要贡献是以具体灾害实例为警醒，系统性地呼吁将复合气候风险纳入风险评估和决策框架，指出单一风险导向的治理模式的不足（基于标题和摘要推测，摘要信息很简略）。局限性方面，作为一篇评论/观点类文章，其以警示和观点阐述为主，不包含原创的量化风险模型或新数据，具体机制分析可能不深入。",
+      "follow_up_research": "此议题可拓展为对复合极端气候事件（如高温与干旱、极端降水叠加）如何交替影响草地生态系统碳汇功能和重野化恢复成效的定量评估研究；后续可建立同时考虑气候波动与动物干扰（如野火、牲畜/大型动物践踏）双重压制的碳循环风险评估框架。",
+      "next_step_perspective": "虽然本文未直接涉及生态学，但为用户提供了一个宏观视角：在评估重野化对碳循环（如土壤固碳）的效益时，需考虑气候变化带来的复合极端事件如何扰乱或反转这些生态恢复效果。这篇Nature评论加深了用户对'基于自然的解决方案'在气候变化背景下局限性（例如管理失效或干扰加剧）的理解，值得用户在设计长期恢复监测指标体系时予以借鉴。",
+      "why_this_journal": "推测：作为Nature的新闻与观点（News & Comment）栏目文章，其发表原因在于选题具有极高的时效性和全球性的现实警示意义（尼泊尔灾害为重大事件），且议题涉及跨学科的灾害治理与气候行动，符合Nature关注社会现实与科学政策的综合定位。",
+      "author_profile": null
+    }
+  ]
 }

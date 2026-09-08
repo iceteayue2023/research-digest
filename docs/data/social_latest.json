@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-08T03:50:06.643703+00:00",
-  "count": 1,
+  "generated_at": "2026-09-08T10:20:28.214444+00:00",
+  "count": 2,
   "posts": [
+    {
+      "handle": "natplants.nature.com",
+      "author_name": "Nature Plants",
+      "text": "Our editors write:\n\n- Climate change: Routes and rates rdcu.be/gyAhX2fVsrra\n\n- Arabidopsis: Col-0 genetic divergence rdcu.be/f6LHr9wpTXpa\n\n- Maize domestication: Yet another domestication-selected enhancer rdcu.be/nZMHQqeUfaba\n\n #PlantScience",
+      "created_at": "2026-09-08T10:19:37.706Z",
+      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3muysdaplkk2a",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
