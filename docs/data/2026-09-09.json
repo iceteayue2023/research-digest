@@ -1,7 +1,7 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T10:28:56.791970+00:00",
-  "count": 8,
+  "generated_at": "2026-09-09T15:48:02.847645+00:00",
+  "count": 10,
   "articles": [
     {
       "id": "https://doi.org/10.5194/esd-17-1237-2026",
@@ -557,6 +557,86 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03176-1",
+      "title": "Adaptive zones of feliforms and evolutionary regimes within terrestrial mammalian carnivores",
+      "link": "https://www.nature.com/articles/s41559-026-03176-1",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 09 September 2026; doi:10.1038/s41559-026-03176-1The relationship between the form and function of terrestrial carnivore dentition is inconsistent, despite repeated evolution of similar ecomorphologies. Here the authors compile a total-evidence phylogeny to identify three adaptive zones within feliforms and to show that reliable predictions of diet can only be made in hypercarnivores.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-09T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03176-1",
+      "affiliation": null,
+      "title_zh": "猫形类动物的适应性区带与陆生食肉哺乳动物的进化体制",
+      "relevance_score": 5,
+      "key_conclusion": "该研究通过整合系统发育分析，识别出猫形亚目（feliforms）内的三个适应性区带，并表明在超食肉动物中，牙齿形态与食性之间才存在可靠的预测关系。",
+      "relevance_note": "文章涉及陆地食肉哺乳动物的进化生态学，与捕食者-猎物关系间接相关，但未直接聚焦于rewilding、碳循环或欧洲系统，相关性中等。",
+      "related_papers": [],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03176-1/MediaObjects/41559_2026_3176_Fig1_HTML.png",
+      "scientific_question": "该研究试图回答为何陆生食肉动物（特别是猫形亚目）的牙齿形态与食性功能之间的关系在不同类群间不一致，以及能否基于形态可靠地预测食性生态位。",
+      "contributions_limitations": "主要贡献在于通过全证据系统发育分析识别出猫形亚目内三个不同的适应性区带，揭示形态-功能关系在超食肉动物中才具有可靠的预测力，为理解捕食者进化生态位分化提供了框架。局限性可能包括主要聚焦于牙齿形态而忽略其他功能性状（如肢体形态、行为特征等），且对现生与灭绝类群的适应性区带识别可能受化石记录偏差影响（基于摘要信息推测）。",
+      "follow_up_research": "后续研究可探讨已识别的适应性区带如何与现生生态系统中捕食者对猎物群落的调控功能（如营养级联、性状介导效应）相关联；也可将形态空间分析与食物网结构模型结合，预测大型捕食者功能灭绝对生态系统的级联影响。",
+      "next_step_perspective": "该文章提供了将系统发育与形态功能分析相结合来解读捕食者生态位的方法框架，对于理解重野化过程中重新引入的大型捕食者对食物网复杂性和营养级联的影响具有方法论参考价值；也可启发将形态-功能不一致性纳入大型草食动物与捕食者互作关系的研究设计中。",
+      "why_this_journal": "推测该文发表于Nature Ecology & Evolution是因为其结合宏演化视角与功能形态学，解决了捕食者进化生态学中的长期争论，兼具理论新颖性与进化生物学跨学科意义。",
+      "author_profile": {
+        "name": "Paul Z. Barrett",
+        "institution": "National Museum of Nature and Science",
+        "intro": "Paul Z. Barrett主要隶属于日本国立科学博物馆（National Museum of Nature and Science），从其历史论文标题看，其研究方向集中于猫形食肉动物（尤其是剑齿类nimravids）的宏观演化、形态差异与功能形态学，涉及系统发育重建和灭绝类群的进食生态推断。这些研究与用户关注的捕食者-猎物关系及其性状介导效应主题有间接关联，尤其在理解捕食者形态适应如何影响生态功能方面可提供演化深时视角。",
+        "other_works": [
+          {
+            "title": "Adaptive zones of feliforms and evolutionary regimes within terrestrial mammalian carnivores",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03176-1"
+          },
+          {
+            "title": "Mosaic evolution underlies feliform morphological disparity",
+            "year": "2024",
+            "journal": "Proceedings of the Royal Society B: Biological Sciences",
+            "doi": "10.1098/rspb.2024.0756"
+          },
+          {
+            "title": "An early nimravid from California and the rise of hypercarnivorous mammals after the middle Eocene climatic optimum",
+            "year": "2022",
+            "journal": "Biology Letters",
+            "doi": "10.1098/rsbl.2022.0291"
+          },
+          {
+            "title": "The largest hoplophonine and a complex new hypothesis of nimravid evolution",
+            "year": "2021",
+            "journal": "Scientific Reports",
+            "doi": "10.1038/s41598-021-00521-1"
+          },
+          {
+            "title": "How many sabertooths? Reevaluating the number of carnivoran sabertooth lineages with total-evidence Bayesian techniques and a novel origin of the Miocene Nimravidae",
+            "year": "2021",
+            "journal": "Journal of Vertebrate Paleontology",
+            "doi": "10.1080/02724634.2021.1923523"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S1364815226003075",
+      "title": "Integrating MODIS and SMAP Data for Spatially Calibrated SWAT+ Modeling in a Forested Watershed of South Korea",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1364815226003075?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 8 September 2026Source: Environmental Modelling & SoftwareAuthor(s): Wonjin Jang, Yonggwan Lee, Yongwon Kim, Jeehun Chung, Seongjoon Kim",
+      "journal": "Environmental Modelling & Software",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "结合MODIS与SMAP数据对韩国森林流域SWAT+模型进行空间校准",
+      "relevance_score": 4,
+      "key_conclusion": "该研究整合MODIS和SMAP遥感数据，对韩国一个森林流域的SWAT+水文模型进行了空间校准，以提高模拟精度。",
+      "relevance_note": "文章涉及生态系统模型改进和植被-土壤相关的水文模拟，但研究地点在韩国（非欧洲），且未直接涉及碳循环、动物或rewilding，相关性一般。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "该研究试图回答如何通过整合MODIS和SMAP遥感数据对SWAT+水文模型进行空间校准，以提高森林流域水文模拟的精度，特别是关于土壤湿度等关键水文变量。",
+      "contributions_limitations": "主要贡献在于提出了将多种卫星遥感数据源（MODIS和SMAP）整合到SWAT+模型空间校准流程中的方法，改善了对森林流域水文过程的模拟再现能力。局限性可能包括该方法依赖于特定区域条件下遥感数据的可用性与分辨率，且其适用性推广到其他生态系统（如草地、湿地或寒带土壤）仍需验证；此外，该研究针对水文变量而未涉及碳循环模块的耦合（基于摘要信息推测）。",
+      "follow_up_research": "后续研究可探讨将类似的遥感数据空间校准策略扩展到碳-水耦合模型（如Biome-BGC或DGVM），用于改进土壤湿度对土壤有机碳分解速率的驱动参数化；还可将此类校准方法应用于欧洲森林或草地重野化场景，以评估大型草食动物通过影响土壤水分对碳动态的间接作用。",
+      "next_step_perspective": "该研究的方法论示范（多源遥感数据驱动的模型空间校准）可为用户在地球系统模式中动态植被模块（DGVM）开发与验证部分提供参数化优化思路，尤其当需要模拟大型草食动物放牧对土壤湿度和有机碳动态的耦合影响时。同时，该水文建模框架可启发将动物-土壤反馈纳入流域尺度碳循环模拟的集成方法。",
+      "why_this_journal": "推测该文发表于Environmental Modelling & Software是因为其整合不同时空分辨率遥感数据并改进水文模型校准流程具有明确的方法学创新，且SWAT+模型的广泛应用前景符合期刊面向环境建模与软件工具的定位。",
+      "author_profile": null
     }
   ]
 }
