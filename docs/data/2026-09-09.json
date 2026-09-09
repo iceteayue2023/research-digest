@@ -1,8 +1,55 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09T03:55:32.791712+00:00",
-  "count": 5,
+  "generated_at": "2026-09-09T10:28:56.791970+00:00",
+  "count": 8,
   "articles": [
+    {
+      "id": "https://doi.org/10.5194/esd-17-1237-2026",
+      "title": "Land carbon response to positive, zero, and negative CO2 emissions across Earth system models",
+      "link": "https://doi.org/10.5194/esd-17-1237-2026",
+      "summary": "Land carbon response to positive, zero, and negative CO2 emissions across Earth system models\n                    Abigail L. S. Swann, Charles D. Koven, Cristian Proistosecu, Rosie A. Fisher, Benjamin M. Sanderson, Victor Brovkin, Tomohiro Hajima, Chris D. Jones, Nancy Y. Kiang, David M. Lawrence, Spencer Liddicoat, Hannah Liddy, Anastasia Romanou, Roland Séférian, Lori T. Sentman, Norman J. Steinert, Jerry Tjiputra, and Tilo Ziehn\n                        Earth Syst. Dynam., 17, 1237–1275, https://doi.org/10.5194/esd-17-1237-2026, 2026\n                        We analyzed simulations from Earth system models (ESM) with a constant rate of emissions, zero emissions, and negative emissions of CO2 to quantify the response of land carbon sinks. We found that under positive emissions vegetation in the tropics gained carbon. Under zero emissions and negative emissions most ESMs lost carbon from vegetation in the tropics but gained carbon in mid- and high-latitudes, mostly in soils. Our findings imply that tropical carbon is vulnerable under zero emissions.",
+      "journal": "Earth System Dynamics",
+      "published": "2026-09-09T07:41:54+02:00",
+      "doi": "10.5194/esd-17-1237-2026",
+      "affiliation": null,
+      "title_zh": "地球系统模式中陆地碳对正、零和负CO2排放的响应",
+      "relevance_score": 9,
+      "key_conclusion": "分析地球系统模式模拟发现，在正排放下热带植被固碳，但在零排放和负排放下，多数模型中热带植被碳丧失而中高纬度土壤碳增加，说明热带碳在零排放下具有脆弱性。",
+      "relevance_note": "该文直接探讨陆地生态系统对碳循环的响应机制，是用户的'陆地生态系统碳循环'核心范围，且涉及生态系统模型（ESM）的评估与碳源碳汇变化，高度相关。尽管无直接欧洲地点，但地球系统模式研究是用户的明确兴趣点。",
+      "related_papers": [
+        {
+          "title": "Carbon–Concentration and Carbon–Climate Feedbacks in CMIP5 Earth System Models",
+          "link": "https://doi.org/10.1175/jcli-d-12-00494.1",
+          "venue": "Journal of Climate",
+          "year": 2013
+        },
+        {
+          "title": "Development and evaluation of an Earth-System model – HadGEM2",
+          "link": "https://doi.org/10.5194/gmd-4-1051-2011",
+          "venue": "Geoscientific model development",
+          "year": 2011
+        },
+        {
+          "title": "Developments in the MPI‐M Earth System Model version 1.2 (MPI‐ESM1.2) and Its Response to Increasing CO 2",
+          "link": "https://doi.org/10.1029/2018ms001400",
+          "venue": "Journal of Advances in Modeling Earth Systems",
+          "year": 2019
+        },
+        {
+          "title": "Greening of the Earth and its drivers",
+          "link": "https://doi.org/10.1038/nclimate3004",
+          "venue": "Nature Climate Change",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://esd.copernicus.org/articles/17/1237/2026/esd-17-1237-2026-avatar-web.png",
+      "scientific_question": "地球系统模式中，陆地碳汇在正排放、零排放和负排放情景下如何响应？热带和中高纬度地区的碳动态是否存在系统性差异？",
+      "contributions_limitations": "该研究基于多个地球系统模式的模拟，揭示了从正排放转向零排放/负排放时陆地碳汇的空间重分布：热带植被碳由固持转为损失，而中高纬度土壤碳增加。这一发现对碳中和目标下热带碳库的脆弱性提出了警示。局限在于本研究以模型模拟为主，缺乏观测验证；且基于现有摘要，未能区分具体机制（如植被死亡率、土壤微生物响应等）。信息不足部分建议查看原文。",
+      "follow_up_research": "后续可结合观测数据验证零排放情景下热带碳损失的模型预测，或探究热带碳脆弱性的驱动因子（如干旱胁迫、CO2施肥效应减弱）。此外，可将重野化导致的植被-土壤扰动纳入类似模式框架，检验其对碳汇响应方向的影响。",
+      "next_step_perspective": "为用户提供了地球系统模式中评估碳循环响应的方法框架，尤其是情景对比（正/零/负排放）的视角，可迁移至重野化不同强度情景下的碳收支模拟。其强调土壤碳在高纬度积累与热带植被碳损失的对比，提示用户在重野化研究中需区分不同纬度带植被-土壤碳库的响应差异。",
+      "why_this_journal": "该研究跨越多模式比较与全球碳循环热点问题，对理解气候减缓政策下的碳汇动力学具有重要前瞻性，适合Earth System Dynamics聚焦地球系统过程模拟与分析的定位。此为推测。",
+      "author_profile": null
+    },
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2513731123?af=R",
       "title": "Recent high-severity wildfires in a dry-conifer landscape are unprecedented over five centuries and foretell future forest loss",
@@ -222,6 +269,47 @@
       }
     },
     {
+      "id": "https://doi.org/10.5194/gmd-19-8349-2026",
+      "title": "SeapoPym v0.1: implementation of the SEAPODYM low and mid trophic levels in Python with a flexible optimization framework",
+      "link": "https://doi.org/10.5194/gmd-19-8349-2026",
+      "summary": "SeapoPym v0.1: implementation of the SEAPODYM low and mid trophic levels in Python with a flexible optimization framework\n                    Jules Victor Lehodey, Alexandre Mignot, Alexandre Ganachaud, Sarah Albernhe, and Simon Nicol\n                        Geosci. Model Dev., 19, 8349–8366, https://doi.org/10.5194/gmd-19-8349-2026, 2026\n                        Marine zooplankton transfer energy from microscopic algae to fish and larger predators. Understanding their distribution helps predict how oceans respond to climate change. We developed SeapoPym, a freely available model that simulates zooplankton using ocean temperature and plant productivity. This tool lets scientists test biological hypotheses and estimate parameters from observations.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-09T12:10:50+02:00",
+      "doi": "10.5194/gmd-19-8349-2026",
+      "affiliation": null,
+      "title_zh": "SeapoPym v0.1：Python中SEAPODYM低中营养级的实现及灵活优化框架",
+      "relevance_score": 7,
+      "key_conclusion": "该研究开发了开源模型SeapoPym，利用海洋温度和初级生产力模拟浮游动物分布，使科学家能够测试生态假说并从观测数据估计参数，以预测海洋生态系统对气候变化的响应。",
+      "relevance_note": "该文属于生态系统模型开发范畴，直接关联用户关注的'生态系统模型改进'方面，且涉及海洋食物网低营养级，与用户的'食物网复杂性'兴趣相关，但无陆地碳或rewilding内容，故分数较高而非最高。",
+      "related_papers": [
+        {
+          "title": "Reproducibility deposit for SeapoPym v0.1: Implementation of the SEAPODYM low and mid trophic levels in Python with a flexible optimization framework",
+          "link": "https://doi.org/10.5281/zenodo.20305630",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Reproducibility deposit for SeapoPym v0.1: Implementation of the SEAPODYM low and mid trophic levels in Python with a flexible optimization framework",
+          "link": "https://doi.org/10.5281/zenodo.21849337",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "SeapoPym v0.1: Implementation of the SEAPODYM low and mid trophic levels in Python with a flexible optimisation framework",
+          "link": "https://doi.org/10.5194/egusphere-2026-711",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/8349/2026/gmd-19-8349-2026-avatar-web.png",
+      "scientific_question": "如何构建一个灵活、开源的浮游动物种群模型，以便利用海洋温度和初级生产力数据模拟低中营养级生物分布并估计模型参数？",
+      "contributions_limitations": "该研究开发了SeapoPym v0.1，以Python实现SEAPODYM的低中营养级模拟，提供灵活的优化框架供科学家测试生态假说和参数估计。主要贡献在于模型开放性和可扩展性。局限性可能包括模型对高营养级或底栖过程的简化、对生态复杂性的过度抽象；基于摘要无法判断模型验证的具体程度。",
+      "follow_up_research": "后续可将SeapoPym扩展至包含高营养级捕食者或碳循环反馈过程，探索浮游动物-鱼类-碳输出之间的耦合模拟。也可借鉴其参数优化流程来校准陆生生态系统模型中动物功能群参数。",
+      "next_step_perspective": "虽然SeapoPym针对海洋生态系统，但其模型架构与参数优化思路对用户模拟大型食草动物的营养级效应（如通过采食影响植被-土壤碳库）具有方法论借鉴价值。特别是从观测数据反推参数的框架，可启发构建野生动物-土壤碳耦合模型。",
+      "why_this_journal": "文章属于模型开发类研究，提供了完整的方法学描述和开源实现，符合Geoscientific Model Development发表新型建模工具与框架的期刊定位。此为推测。",
+      "author_profile": null
+    },
+    {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2626808123?af=R",
       "title": "Beyond mice and deer: Lyme disease as a community ecology challenge",
       "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2626808123?af=R",
@@ -383,6 +471,89 @@
             "year": "2025",
             "journal": "Science Advances",
             "doi": "10.1126/sciadv.adw7396"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02738-2",
+      "title": "Physiological flexibility in changing climates",
+      "link": "https://www.nature.com/articles/s41558-026-02738-2",
+      "summary": "Nature Climate Change, Published online: 09 September 2026; doi:10.1038/s41558-026-02738-2How much ectothermic animals can rely on plastic adjustments in their physiology remains a central challenge when forecasting climate change impacts. Here, I look back on a 2015 paper that examined the role of physiological plasticity in thermal performance and discuss subsequent research and broader conservation implications.",
+      "journal": "Nature Climate Change",
+      "published": "2026-09-09T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02738-2",
+      "affiliation": null,
+      "title_zh": "变化气候中的生理灵活性",
+      "relevance_score": 5,
+      "key_conclusion": "文章回顾了2015年一篇关于生理可塑性在热性能中作用的研究，并探讨了后续研究及其保护意义，重点关注外温动物在气候变化下依赖生理可塑性调节的程度。",
+      "relevance_note": "该文涉及气候变化对动物生理的影响，与用户研究方向的碳循环和rewilding无直接关联，但提及保护意义，与生态系统恢复领域有微弱交叉，故给予中等分数。",
+      "related_papers": [
+        {
+          "title": "Impacts of climate change on the future of biodiversity",
+          "link": "https://doi.org/10.1111/j.1461-0248.2011.01736.x",
+          "venue": "Ecology Letters",
+          "year": 2012
+        },
+        {
+          "title": "The rise of harmful cyanobacteria blooms: The potential roles of eutrophication and climate change",
+          "link": "https://doi.org/10.1016/j.hal.2011.10.027",
+          "venue": "Harmful Algae",
+          "year": 2011
+        },
+        {
+          "title": "Biodiversity redistribution under climate change: Impacts on ecosystems and human well-being",
+          "link": "https://doi.org/10.1126/science.aai9214",
+          "venue": "Science",
+          "year": 2017
+        },
+        {
+          "title": "Impacts of climate change on fisheries",
+          "link": "https://doi.org/10.1016/j.jmarsys.2008.12.015",
+          "venue": "Journal of Marine Systems",
+          "year": 2009
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02738-2/MediaObjects/41558_2026_2738_Fig1_HTML.png",
+      "scientific_question": "在预测气候变化对物种影响时，外温动物在多大程度上能依赖生理可塑性（而非遗传适应）来应对环境变化？",
+      "contributions_limitations": "作为回顾性观点文章，该文总结了2015年相关论文之后关于生理可塑性对气候响应预测影响的研究进展，并讨论了保护应用。贡献在于为领域提供了持续的综合视角，强调生理灵活性在气候预测模型和保育策略中的地位。局限性可能是缺乏原始数据，且内容面向外温动物，对大型哺乳动物可塑性讨论有限。",
+      "follow_up_research": "后续可探索生理可塑性如何在大型食草动物中通过行为或代谢调节缓冲气候极端事件的影响，并将可塑性参数纳入物种分布模型或生态系统碳循环模型。另可关注可塑性与表型性状介导效应的交互在食物网中的作用。",
+      "next_step_perspective": "此文提示用户关注大型动物生理可塑性作为'延伸表型'的一种形式如何缓冲气候变化效应——这与用户感兴趣的延伸表型主题相通。野外重野化研究中，动物个体表型可塑性可能影响其采食行为与空间利用，从而间接影响植被与土壤碳过程。",
+      "why_this_journal": "刊载于Nature Climate Change，该综述聚焦气候变化下生理生态学的关键前沿问题，兼具学术深度与保育紧迫性，符合该刊对气候变化交叉领域高影响力评论的偏好。此为推测。",
+      "author_profile": {
+        "name": "John S. Terblanche",
+        "institution": "Stellenbosch University",
+        "intro": "John S. Terblanche任职于南非Stellenbosch University，从其历史作品看主要研究入侵昆虫（如果蝇、小蠹虫）的热生理、驯化与生态适应，以及水收支机制对气候变化的响应。其工作聚焦热可塑性的机制与生态后果，与用户关注的动物对气候变化的响应机制具有概念交叉，但研究系统为昆虫而非大型哺乳动物，其方法学可有限借鉴。",
+        "other_works": [
+          {
+            "title": "Evidence for transient deleterious thermal acclimation in field recapture rates of an invasive tropical species, Bactrocera dorsalis (Diptera: Tephritidae)",
+            "year": "2025",
+            "journal": "Insect Science",
+            "doi": "10.1111/1744-7917.13435"
+          },
+          {
+            "title": "Acclimation effects on thermal locomotor performance of the invasive Polyphagous Shot Hole Borer beetle, Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae)",
+            "year": "2025",
+            "journal": "Journal of Thermal Biology",
+            "doi": "10.1016/j.jtherbio.2025.104068"
+          },
+          {
+            "title": "A new genome sequence resource for five invasive fruit flies of agricultural concern: Ceratitis capitata, C. quilicii, C. rosa, Zeugodacus cucurbitae and Bactrocera zonata (Diptera, Tephritidae) [version 1; peer review: 2 approved]",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.12688/f1000research.157946.1"
+          },
+          {
+            "title": "Testing hypotheses of invasion pathways of the ladybird Harmonia axyridis into and across South Africa",
+            "year": "2024",
+            "journal": "Biological Invasions",
+            "doi": "10.1007/s10530-024-03274-w"
+          },
+          {
+            "title": "Integrating water balance mechanisms into predictions of insect responses to climate change",
+            "year": "2024",
+            "journal": "Journal of Experimental Biology",
+            "doi": "10.1242/jeb.247167"
           }
         ]
       }
