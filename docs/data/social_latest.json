@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-09T15:48:02.849620+00:00",
-  "count": 3,
+  "generated_at": "2026-09-10T03:53:53.105676+00:00",
+  "count": 6,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Antarctica may look like a barren wasteland to some, but its soils are home to heterogeneous and diverse microbial communities. A study uncovers how bacteria endemic to the southern continent have adapted to extreme conditions. In PNAS: https://ow.ly/Wszt50ZKHZf",
+      "created_at": "2026-09-10T01:00:13.559061275Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mv4tystk7a2k",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Paul Voosen",
+      "text": "Things I didn't know until now: Good chunks of the U.S. eastern seaboard and southern Europe were once part of Gondwana. \n\nNow a group argues, using dates exhumed from basement granites, that the fabled mega/super continent, always in Pangea's shadow, may have been even larger.",
+      "created_at": "2026-09-09T18:55:11.011Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mv47m2hw722w",
+      "external_title": "Pangaea’s ‘little brother’ may finally qualify as a supercontinent",
+      "external_description": "New evidence suggests Gondwana was far larger than previously thought, challenging models of continental cycling",
+      "external_uri": "https://www.science.org/content/article/pangaea-s-little-brother-may-finally-qualify-supercontinent",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:56yymeubg3r4lxnf7lidri5a/bafkreickqn2c3cd4bkkjex3673gdni3xtel4dyghfuoi77h2agmblpzx2e"
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "From climate-resilient crops to precision agriculture, discover PNAS research on advances in sustainable food production and resource management. Explore the collection: https://ow.ly/YY6W50ZKIUV",
+      "created_at": "2026-09-09T17:00:32.062919655Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mv3z72r46q22",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
