@@ -1,6 +1,189 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-10T03:53:53.105421+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-10T10:19:14.180228+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02082-2",
+      "title": "Multilayer soil moisture deficit amplifies drought impacts on global ecosystems",
+      "link": "https://www.nature.com/articles/s41561-026-02082-2",
+      "summary": "Nature Geoscience, Published online: 10 September 2026; doi:10.1038/s41561-026-02082-2Our global analysis of multi-source, multilayer soil moisture datasets shows that droughts become particularly damaging when moisture deficits occur simultaneously throughout the soil profile, eliminating vertical hydrological buffering. These vertically compound droughts have intensified across much of the globe and pose a growing threat to carbon uptake in forests and croplands.",
+      "journal": "Nature Geoscience",
+      "published": "2026-09-10T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02082-2",
+      "affiliation": null,
+      "title_zh": "多层土壤水分亏缺放大了干旱对全球生态系统的影响",
+      "relevance_score": 6,
+      "key_conclusion": "对多源多层土壤水分数据集的全球分析表明，当整个土壤剖面同时出现水分亏缺、消除垂直水文缓冲时，干旱的破坏性尤为严重；这种垂直复合干旱在全球大部分地区加剧，对森林和农田的碳吸收构成日益增长的威胁。",
+      "relevance_note": "该文直接涉及陆地生态系统碳吸收对干旱的响应，属于用户关注的『极端气候事件对碳循环的扰动』范畴，且涉及土壤水分这一植被-土壤反馈的关键变量。",
+      "related_papers": [
+        {
+          "title": "Challenges in modeling and predicting floods and droughts: A review",
+          "link": "https://doi.org/10.1002/wat2.1520",
+          "venue": "Wiley Interdisciplinary Reviews Water",
+          "year": 2021
+        },
+        {
+          "title": "Global Assessment of the Standardized Evapotranspiration Deficit Index (SEDI) for Drought Analysis and Monitoring",
+          "link": "https://doi.org/10.1175/jcli-d-17-0775.1",
+          "venue": "Journal of Climate",
+          "year": 2018
+        },
+        {
+          "title": "Forest microclimates and climate change: Importance, drivers and future research agenda",
+          "link": "https://doi.org/10.1111/gcb.15569",
+          "venue": "Global Change Biology",
+          "year": 2021
+        },
+        {
+          "title": "Global high-resolution drought indices for 1981–2022",
+          "link": "https://doi.org/10.5194/essd-15-5449-2023",
+          "venue": "Earth system science data",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02082-2/MediaObjects/41561_2026_2082_Fig1_HTML.png",
+      "scientific_question": "全球范围内，当土壤剖面各层同时出现水分亏缺（垂直复合干旱）时，是否会比表层或单一层次干旱对生态系统碳吸收造成更严重的破坏？",
+      "contributions_limitations": "该研究利用多源、多层土壤水分数据集进行全球分析，提出'垂直复合干旱'（vertically compound droughts）这一新概念，并证明其在全球大部分地区加剧，对森林和农田碳吸收威胁日益增大，方法上具有创新性和全球尺度意义。局限性在于摘要未说明其对碳吸收影响的具体量化机制（如是否区分不同植被类型或土壤质地），也未提及是否考虑了大型食草动物或放牧管理等生物因素对土壤水分与碳循环的调节作用。",
+      "follow_up_research": "可进一步研究垂直复合干旱对土壤有机碳组分（如POM与MAOM）的差异化影响；结合放牧或重野化实验，探讨大型食草动物是否通过改变土壤结构和水分入渗来缓冲或放大垂直复合干旱的碳循环效应；在不同气候带重复该分析以验证普适性。",
+      "next_step_perspective": "这篇文章提供了一个重要的水文维度视角：土壤水分在垂直方向上的缓冲能力对碳循环至关重要。对你的研究而言，可启发你思考重野化中大型食草动物改变土壤压实度、孔隙度和水分再分配后，是否会改变土壤剖面的水分缓冲能力，从而影响生态系统对干旱的抵抗力和碳汇稳定性。",
+      "why_this_journal": "推测因其首次在全球尺度上提出并量化了'垂直复合干旱'这一新概念，结合多源遥感与再分析数据，方法新颖且对全球碳循环预测有重要意义，符合Nature Geoscience对地球系统过程创新性研究的定位。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-8447-2026",
+      "title": "Integrating ozone–vegetation damage schemes into SSiB4/TRIFFID: evaluation of six parameterizations and refinement of  ozone decay process across plant functional types",
+      "link": "https://doi.org/10.5194/gmd-19-8447-2026",
+      "summary": "Integrating ozone–vegetation damage schemes into SSiB4/TRIFFID: evaluation of six parameterizations and refinement of  ozone decay process across plant functional types\n                    Lingfeng Li, Bo Qiu, Siwen Zhao, Xin Miao, Chaorong Chen, Jiuyi Chen, Yueyang Ni, Xin Huang, Haishan Chen, and Weidong Guo\n                        Geosci. Model Dev., 19, 8447–8467, https://doi.org/10.5194/gmd-19-8447-2026, 2026\n                        Ground-level ozone can reduce plant growth, but models represent this damage in different ways. We tested six approaches in the same vegetation model for China during the 2010s. They estimated that ozone reduced plant carbon uptake by 17 % to 27 %, averaging about 21 %. Approaches based on broader observations and leaf traits matched measurements more closely, while using leaf lifespan improved how the model represented the accumulation and decline of ozone damage.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-10T11:19:00+02:00",
+      "doi": "10.5194/gmd-19-8447-2026",
+      "affiliation": "Nanjing University (Nanjing, China)",
+      "title_zh": "将臭氧-植被损伤机制整合至SSiB4/TRIFFID：六种参数化方案评估及跨植物功能型的臭氧衰减过程改进",
+      "relevance_score": 6,
+      "key_conclusion": "研究在同一植被模型中测试了六种臭氧损伤参数化方案，估计中国2010年代臭氧使植物碳吸收减少17%–27%（平均约21%）；基于更广泛观测和叶片性状的方案与实测吻合更好，引入叶寿命改善了模型对臭氧损伤积累和衰退的表征。",
+      "relevance_note": "该文属于地球系统模式中动态植被模块(DGVM)的开发与验证，直接回应用户对DGVM改进与生态系统模型开发的研究兴趣，且涉及植物碳吸收过程。",
+      "related_papers": [
+        {
+          "title": "Dataset and Code for publication titled \" Integrating Ozone-vegetation Damage Schemes into SSiB4/TRIFFID: Evaluation of Six Parameterizations and Refinement of Ozone Decay Process Across Plant Functional Types\"",
+          "link": "https://doi.org/10.5281/zenodo.18927710",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Dataset and Code for publication titled \" Integrating Ozone-vegetation Damage Schemes into SSiB4/TRIFFID: Evaluation of Six Parameterizations and Refinement of Ozone Decay Process Across Plant Functional Types\"",
+          "link": "https://doi.org/10.5281/zenodo.19923201",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Dataset and Code for publication titled \" Integrating Ozone-vegetation Damage Schemes into SSiB4/TRIFFID: Evaluation of Six Parameterizations and Refinement of Ozone Decay Process Across Plant Functional Types\"",
+          "link": "https://doi.org/10.5281/zenodo.18927709",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Integrating Ozone–vegetation Damage Schemes into SSiB4/TRIFFID: Evaluation of Six Parameterizations and Refinement of Ozone Decay Process Across Plant Functional Types",
+          "link": "https://doi.org/10.5194/egusphere-2026-1335",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/8447/2026/gmd-19-8447-2026-avatar-web.png",
+      "scientific_question": "在动态植被模型SSiB4/TRIFFID中，不同臭氧-植被损伤参数化方案对植物碳吸收的估计差异有多大，哪种方案更能准确表征臭氧损伤的积累与衰退过程？",
+      "contributions_limitations": "该研究系统比较了六种臭氧损伤参数化方案在同一植被模型中的表现，估算中国2010年代臭氧使植物碳吸收减少17%–27%（平均约21%），并发现基于广泛观测和叶片性状的方案更准确，引入叶寿命改善了损伤积累与衰退的模拟。局限性在于研究区域仅限于中国、时间限于2010年代，未涉及放牧或大型食草动物对植被结构和碳循环的交互影响，也未讨论臭氧与土壤碳过程的耦合。",
+      "follow_up_research": "可将臭氧损伤模块扩展到全球尺度并与其他DGVM比较；结合放牧或重野化情景，研究大型食草动物改变冠层结构后是否改变臭氧沉降与植物损伤的空间格局；探讨臭氧损伤与土壤有机碳输入减少之间的长期反馈。",
+      "next_step_perspective": "这篇文章直接涉及你关注的DGVM开发与验证方向，特别是如何通过参数化和引入植物性状（如叶寿命）来改进模型对植被碳吸收的模拟。你可以借鉴其多方案比较与性状驱动改进的思路，思考在重野化模型中是否也需要引入动物功能性状来改进放牧对碳循环影响的模拟。",
+      "why_this_journal": "推测因Geoscientific Model Development专注于地球系统模型的开发、评估与改进，该文在同一模型框架下系统比较多种参数化方案并给出改进建议，方法严谨且对模型社区有直接应用价值，符合期刊定位。",
+      "author_profile": {
+        "name": "Lingfeng Li",
+        "institution": null,
+        "intro": "Lingfeng Li目前所在机构不详，但从其发表论文标题看，主要研究方向集中在陆地生态系统碳循环、臭氧-植被相互作用、土壤水分-温度耦合以及动态植被模型开发与评估，近期多篇论文围绕SSiB4/TRIFFID模型的参数化改进。这些工作与你关注的DGVM开发验证方向高度相关，其臭氧损伤参数化经验可为你思考如何在模型中表达放牧和大型食草动物对植被-土壤碳循环的影响提供方法参考。",
+        "other_works": [
+          {
+            "title": "Integrating Ozone–vegetation Damage Schemes into SSiB4/TRIFFID: Evaluation of Six Parameterizations and Refinement of Ozone Decay Process Across Plant Functional Types",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1335"
+          },
+          {
+            "title": "Supplementary material to \"Integrating Ozone–vegetation Damage Schemes into SSiB4/TRIFFID: Evaluation of Six Parameterizations and Refinement of Ozone Decay Process Across Plant Functional Types\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1335-supplement"
+          },
+          {
+            "title": "Integrating Ozone–vegetation Damage Schemes into SSiB4/TRIFFID: Evaluation of Six Parameterizations and Refinement of Ozone Decay Process Across Plant Functional Types",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-16938"
+          },
+          {
+            "title": "Shift of soil moisture-temperature coupling exacerbated 2022 compound hot-dry event in eastern China",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu24-1631"
+          },
+          {
+            "title": "Terrestrial Carbon Sink and Clean Air Co‐Benefits From China's Carbon Neutrality Policy",
+            "year": "2024",
+            "journal": "Earth's Future",
+            "doi": "10.1029/2024EF004631"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41558-026-02733-7",
+      "title": "Greening masks stability loss in drylands",
+      "link": "https://www.nature.com/articles/s41558-026-02733-7",
+      "summary": "Nature Climate Change, Published online: 10 September 2026; doi:10.1038/s41558-026-02733-7The authors consider greening trends and interannual variability, linked to ecosystem stability, in dryland ecosystems across 40 years (1982–2020). They show persistent greening yet increased interannual variability, with the latter driven by increasing rainfall sensitivity.",
+      "journal": "Nature Climate Change",
+      "published": "2026-09-10T00:00:00+00:00",
+      "doi": "10.1038/s41558-026-02733-7",
+      "affiliation": null,
+      "title_zh": "绿化的表象掩盖了旱地稳定性的丧失",
+      "relevance_score": 5,
+      "key_conclusion": "基于1982–2020年全球旱地生态系统的分析，研究发现尽管存在持续绿化趋势，但年际变异性增加，且后者由降雨敏感性上升所驱动，表明绿化掩盖了生态系统稳定性的下降。",
+      "relevance_note": "该文涉及陆地生态系统碳循环与生态稳定性对气候变化的响应，属于用户关注的『陆地生态系统碳循环与极端气候扰动』范畴，但未涉及大型食草动物、土壤有机碳或重野化。",
+      "related_papers": [
+        {
+          "title": "Grazing and ecosystem service delivery in global drylands",
+          "link": "https://doi.org/10.1126/science.abq4062",
+          "venue": "Science",
+          "year": 2022
+        },
+        {
+          "title": "Climate change reduces extent of temperate drylands and intensifies drought in deep soils",
+          "link": "https://doi.org/10.1038/ncomms14196",
+          "venue": "Nature Communications",
+          "year": 2017
+        },
+        {
+          "title": "Ultra-fine grain landscape-scale quantification of dryland vegetation structure with drone-acquired structure-from-motion photogrammetry",
+          "link": "https://doi.org/10.1016/j.rse.2016.05.019",
+          "venue": "Remote Sensing of Environment",
+          "year": 2016
+        },
+        {
+          "title": "Drought Research Priorities for the Dryland Tropics",
+          "link": "",
+          "venue": "Open Access Repository of ICRISAT (International Crops Research Institute for the Semi-Arid Tropics)",
+          "year": 1988
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41558-026-02733-7/MediaObjects/41558_2026_2733_Fig1_HTML.png",
+      "scientific_question": "全球旱地生态系统在1982–2020年间，绿化趋势与年际变异性之间的关系如何，变异性增加是否由降雨敏感性上升所驱动，从而掩盖了生态系统稳定性的真实变化？",
+      "contributions_limitations": "该研究利用40年遥感数据揭示旱地生态系统存在持续绿化但年际变异性增加的现象，并指出降雨敏感性上升是驱动因素，提出了'绿化掩盖稳定性下降'的重要观点。局限性在于摘要未说明是否区分不同旱地类型（如草地、灌丛）或是否考虑了放牧压力和大型食草动物对植被结构和稳定性的影响，也未讨论土壤碳储量的响应。",
+      "follow_up_research": "可进一步分析旱地绿化与年际变异性变化对土壤有机碳储量和稳定性的影响；结合放牧强度梯度或重野化实验，探讨大型食草动物是否通过调节植被组成和水分利用来改变降雨敏感性与生态系统稳定性；在区域尺度上验证绿化-稳定性关系是否受管理方式调节。",
+      "next_step_perspective": "这篇文章为你的研究提供了一个关键警示：植被绿化并不等同于生态系统功能改善，稳定性指标（年际变异性、降雨敏感性）同样重要。在评估重野化对土壤有机碳的影响时，你可以借鉴其将'均值变化'与'变异性变化'分开考虑的框架，避免仅凭绿度或碳储量均值来判断重野化成效。",
+      "why_this_journal": "推测因该研究利用40年长时序遥感数据，提出'绿化掩盖稳定性下降'这一反直觉且具有政策意义的核心发现，对理解气候变化下旱地生态系统脆弱性有重要贡献，符合Nature Climate Change对全球变化与生态系统响应前沿研究的定位。",
+      "author_profile": {
+        "name": "Wen Zhang",
+        "institution": null,
+        "intro": "Wen Zhang目前所在机构不详，从已有信息看其关注旱地生态系统动态、植被绿化和生态系统稳定性等方向。该研究与你的关注点（植被-土壤反馈、生态系统功能恢复）有潜在关联，尤其可启发你思考重野化背景下植被恢复是否也伴随着稳定性变化。",
+        "other_works": []
+      }
+    }
+  ]
 }

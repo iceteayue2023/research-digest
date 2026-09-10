@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-10T03:53:53.105676+00:00",
-  "count": 6,
+  "generated_at": "2026-09-10T10:19:14.181249+00:00",
+  "count": 7,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Here the authors compile a total-evidence phylogeny to identify three adaptive zones within feliforms and to show that reliable predictions of diet can only be made in hypercarnivores 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-09-10T09:28:55.899Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mv5qggqivs23",
+      "external_title": "Adaptive zones of feliforms and evolutionary regimes within terrestrial mammalian carnivores - Nature Ecology & Evolution",
+      "external_description": "The relationship between the form and function of terrestrial carnivore dentition is inconsistent, despite repeated evolution of similar ecomorphologies. Here the authors compile a total-evidence phyl...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03176-1",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifpkyjetzt36nzwfu4f6kppyfoqo7a5x3pwro75vula2otv4f64gi"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
