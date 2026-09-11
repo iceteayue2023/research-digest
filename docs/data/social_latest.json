@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-10T15:42:59.224079+00:00",
-  "count": 7,
+  "generated_at": "2026-09-11T03:49:59.199634+00:00",
+  "count": 10,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "One of the most-viewed PNAS articles in the last week is “Recent high-severity wildfires in a dry-conifer landscape are unprecedented over five centuries and foretell future forest loss.” Read now: https://ow.ly/v1oR50ZM4BE\n\nFor more trending articles, visit https://ow.ly/pH5050ZM4Aj. ",
+      "created_at": "2026-09-11T02:00:16.833679665Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mv7ht4vxjq2a",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "On March 10, 2025, a 6.5-magnitude earthquake in the Arctic Ocean triggered a rock avalanche on Jan Mayen Island. A study shows how climate warming may increase the susceptibility of slopes to earthquake-triggered failure in the Arctic. In PNAS: https://ow.ly/Zbmn50ZM4JW",
+      "created_at": "2026-09-11T01:00:13.834346602Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mv7ehqsb6r2g",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "In this issue: Uncovering illegal wildlife trade routes, reconstructing the Jurassic forest soundscape, and exploring the neurobiology of how mice play follow the leader. In PNAS: https://ow.ly/jrS550ZM4rU",
+      "created_at": "2026-09-10T23:00:19.439011472Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mv75rdbprc2g",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
