@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-11T10:18:48.479786+00:00",
+  "generated_at": "2026-09-11T15:44:22.533653+00:00",
   "count": 10,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Evoking emotions is more likely to prompt people to engage with climate efforts than is data alone\n\ngo.nature.com/3T2CGX0",
+      "created_at": "2026-09-11T11:45:19.385Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mvaijarvw22r",
+      "external_title": "El Niño goes viral — and scientists learn what makes people care about the climate",
+      "external_description": "Evoking emotions is more likely to prompt people to engage with climate efforts than is data alone.",
+      "external_uri": "https://go.nature.com/3T2CGX0",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiczltyhzb5v6jyg7wnltehfjiuz7662q67x76ouhhkyji32rahh54"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -96,17 +107,6 @@
       "text": "Opinion piece: So-called “hydrogen-ready” #pipelines risk new #carbon lock-in rather than offering a pathway to #decarbonization that helps address #ClimateChange. In PNAS Front Matter: https://ow.ly/skR150ZKII9\n\n#hydrogen #CleanEnergy #CO2Emissions #NaturalGas",
       "created_at": "2026-09-08T17:00:41.029114982Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3muziqfpcsu2p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natplants.nature.com",
-      "author_name": "Nature Plants",
-      "text": "Our editors write:\n\n- Climate change: Routes and rates rdcu.be/gyAhX2fVsrra\n\n- Arabidopsis: Col-0 genetic divergence rdcu.be/f6LHr9wpTXpa\n\n- Maize domestication: Yet another domestication-selected enhancer rdcu.be/nZMHQqeUfaba\n\n #PlantScience",
-      "created_at": "2026-09-08T10:19:37.706Z",
-      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3muysdaplkk2a",
       "external_title": null,
       "external_description": null,
       "external_uri": null,

@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T10:18:48.477769+00:00",
-  "count": 3,
+  "generated_at": "2026-09-11T15:44:22.532451+00:00",
+  "count": 4,
   "articles": [
     {
       "id": "https://doi.org/10.5194/bg-23-6287-2026",
@@ -215,6 +215,89 @@
       "next_step_perspective": "这篇文章与用户核心方向的直接关联有限，但从相邻领域角度看，如果研究地点在欧洲（作者团队主要来自西班牙），其对森林管理-气候变化-干扰（野火）交互作用的建模思路可能为用户提供借鉴：重野化作为一种'管理措施'，是否也能通过改变植被结构和可燃物动态来影响碳循环和干扰风险？用户可关注其是否涉及碳储量对管理措施的响应，以及是否可类比到放牧管理场景。",
       "why_this_journal": "Ecological Modelling 专注于生态系统的数学建模方法与应用，该文将气候情景、森林管理和野火风险纳入建模框架，属于该期刊典型的'管理导向的生态建模'研究范畴（推测）。",
       "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-8501-2026",
+      "title": "Task aggregation as a strategy to optimize Earth System Model workflows in HPC: assessing real scenarios with EC-Earth",
+      "link": "https://doi.org/10.5194/gmd-19-8501-2026",
+      "summary": "Task aggregation as a strategy to optimize Earth System Model workflows in HPC: assessing real scenarios with EC-Earth\n                    Pablo Goitia, Manuel G. Marciani, Miguel Castrillo, and Mario C. Acosta\n                        Geosci. Model Dev., 19, 8501–8514, https://doi.org/10.5194/gmd-19-8501-2026, 2026\n                        Earth System Model workflows commonly run on highly congested high-performance computing platforms, meaning that each individual workflow task potentially faces lengthy waiting times in the queues of the schedulers. In this work, we evaluate the task aggregation approach in EC-Earth3 workflows to reduce the queue times and, consequently, the total execution time. The results show up to 23% more simulated years over the same time span, with queuing times reduced by up to a factor of 12.33.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-11T12:43:33+02:00",
+      "doi": "10.5194/gmd-19-8501-2026",
+      "affiliation": "Barcelona Supercomputing Center (Barcelona, Spain); Universidad de Cantabria (Santander, Spain)",
+      "title_zh": "任务聚合作为优化高性能计算中地球系统模式工作流的策略：基于EC-Earth的实际情景评估",
+      "relevance_score": 4,
+      "key_conclusion": "通过任务聚合策略优化EC-Earth3工作流，在相同时间跨度内模拟年数最多增加23%，排队时间最多减少12.33倍。",
+      "relevance_note": "该文属于地球系统模式（ESM）的计算工作流优化，与用户关注的地球系统模式中动态植被模块（DGVM）开发与验证同属模式改进范畴，但侧重高性能计算调度而非生态过程，相关性中等偏低；研究机构位于欧洲（西班牙巴塞罗那超算中心），符合用户对欧洲研究地点的偏好。",
+      "related_papers": [
+        {
+          "title": "The EC-Earth3 Earth System Model for the Climate Model Intercomparison Project 6",
+          "link": "https://doi.org/10.5194/gmd-2020-446",
+          "venue": null,
+          "year": 2021
+        },
+        {
+          "title": "Digital Twin: Values, Challenges and Enablers From a Modeling Perspective",
+          "link": "https://doi.org/10.1109/access.2020.2970143",
+          "venue": "IEEE Access",
+          "year": 2020
+        },
+        {
+          "title": "Digital Ecosystems for Developing Digital Twins of the Earth: The Destination Earth Case",
+          "link": "https://doi.org/10.3390/rs13112119",
+          "venue": "Remote Sensing",
+          "year": 2021
+        },
+        {
+          "title": "Smart Sensing with Edge Computing in Precision Agriculture for Soil Assessment and Heavy Metal Monitoring: A Review",
+          "link": "https://doi.org/10.3390/agriculture11060475",
+          "venue": "Agriculture",
+          "year": 2021
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/8501/2026/gmd-19-8501-2026-avatar-web.png",
+      "scientific_question": "如何通过任务聚合（task aggregation）策略减少地球系统模式工作流在高性能计算平台上的排队等待时间，从而提升模拟产出效率？",
+      "contributions_limitations": "贡献在于以EC-Earth3为真实场景验证了任务聚合策略，报告模拟年数最多提升23%、排队时间最多降低12.33倍，对HPC工作流工程有实用价值。局限性是摘要仅涉及计算性能优化，未涉及动态植被模块、碳循环过程或模式物理/生物地球化学的改进，也未说明该策略对其他模式或耦合配置的普适性。",
+      "follow_up_research": "可将该任务聚合策略应用于含动态全球植被模块（DGVM）的陆地碳循环模拟配置，检验在长时间碳循环瞬变模拟中的加速效果；也可进一步评估聚合策略是否影响模式可复现性与中间输出诊断的完整性。",
+      "next_step_perspective": "对用户关注的地球系统模式中动态植被模块开发与验证而言，此文提供的是工程层面的效率工具：若需要长时间尺度的碳循环或放牧/植被动态模拟，工作流优化可显著增加可完成的模拟年数。但文章不触及生态过程本身，建议仅作为提升模拟通量的技术手段参考，而非生态学结论来源。",
+      "why_this_journal": "Geoscientific Model Development专注于地球系统模式开发、工作流与数值方法，此文以真实HPC场景量化工作流优化收益，契合期刊对模式基础设施与可复现性改进的定位（推测）。",
+      "author_profile": {
+        "name": "Pablo Goitia",
+        "institution": "Barcelona Supercomputing Center",
+        "intro": "Pablo Goitia就职于巴塞罗那超级计算中心（Barcelona Supercomputing Center），其历史工作集中在EC-Earth3工作流、Autosubmit调度工具与HPC任务编排优化，属于地球系统模式的计算基础设施方向。这些研究与用户关注的DGVM/生态系统模型改进有间接关联——即模式运行效率与工作流工程，但作者本人并非生态过程或碳循环研究者。",
+        "other_works": [
+          {
+            "title": "Task aggregation as a strategy to optimize Earth System Model workflows in HPC: assessing real scenarios with EC-Earth",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-8501-2026"
+          },
+          {
+            "title": "EC-Earth3 workflow with wrappers in MareNostrum 5",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.48546/workflowhub.workflow.1834.1"
+          },
+          {
+            "title": "Autosubmit wrappers to speed up scientific production",
+            "year": "2024",
+            "journal": null,
+            "doi": null
+          },
+          {
+            "title": "Autosubmit 4.0.100",
+            "year": "2022",
+            "journal": null,
+            "doi": "10.5281/zenodo.10199019"
+          },
+          {
+            "title": "Optimizing the Destination Earth Workflow with in situ HPC Task Orchestration",
+            "year": null,
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-12058"
+          }
+        ]
+      }
     }
   ]
 }
