@@ -1,6 +1,220 @@
 {
   "date": "2026-09-11",
-  "generated_at": "2026-09-11T03:49:59.199295+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-11T10:18:48.477769+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-6287-2026",
+      "title": "Imaging deep carbon stocks with complex electrical conductivity",
+      "link": "https://doi.org/10.5194/bg-23-6287-2026",
+      "summary": "Imaging deep carbon stocks with complex electrical conductivity\n                    Adrián Flores Orozco, Jakob Gallistl, Benjamin S. Gilfedder, Timea Katona, Sven Frei, Peter Strauss, and Gunter Blöschl\n                        Biogeosciences, 23, 6287–6297, https://doi.org/10.5194/bg-23-6287-2026, 2026\n                        Understanding the role of soil in the storage of organic carbon is critical for a large number of environmental processes. Current practices rely on the drilling and analysis of samples, which is expensive, time consuming and destructive. Here we present a technique able to map soil organic carbon variability using measurements of the electrical properties of the subsurface without drilling. Our results advance soil management strategies to enhance carbon sequestration and storage.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-11T10:24:24+02:00",
+      "doi": "10.5194/bg-23-6287-2026",
+      "affiliation": "TU Wien (Vienna, Austria)",
+      "title_zh": "利用复电阻率成像深层碳储量",
+      "relevance_score": 7,
+      "key_conclusion": "提出一种基于地下电学性质测量的非侵入性技术，能够在不钻探的情况下绘制土壤有机碳的空间变异性，有助于改进土壤管理和增强碳封存。",
+      "relevance_note": "该文直接涉及土壤有机碳的监测与空间制图方法，与用户对土壤有机碳形成与稳定机制的研究方向相关，且研究机构位于奥地利（欧洲），符合用户对欧洲研究地点的偏好。虽非重野化主题，但方法学对土壤碳研究有参考价值。",
+      "related_papers": [
+        {
+          "title": "Climate legacies drive global soil carbon stocks in terrestrial ecosystems",
+          "link": "https://doi.org/10.1126/sciadv.1602008",
+          "venue": "Science Advances",
+          "year": 2017
+        },
+        {
+          "title": "A global map of mangrove forest soil carbon at 30 m spatial resolution",
+          "link": "https://doi.org/10.1088/1748-9326/aabe1c",
+          "venue": "Environmental Research Letters",
+          "year": 2018
+        },
+        {
+          "title": "How to study deep roots—and why it matters",
+          "link": "https://doi.org/10.3389/fpls.2013.00299",
+          "venue": "Frontiers in Plant Science",
+          "year": 2013
+        },
+        {
+          "title": "Reorganization of vegetation, hydrology and soil carbon after permafrost degradation across heterogeneous boreal landscapes",
+          "link": "https://doi.org/10.1088/1748-9326/8/3/035017",
+          "venue": "Environmental Research Letters",
+          "year": 2013
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6287/2026/bg-23-6287-2026-avatar-web.png",
+      "scientific_question": "如何利用地下复电导率（complex electrical conductivity）的非侵入性地球物理测量技术，在不进行钻探和破坏性采样的前提下，绘制土壤有机碳（SOC）的空间变异性与深层碳储量分布？",
+      "contributions_limitations": "该研究提出了一种基于电学性质测量的非侵入性方法，能够以较低成本、非破坏性的方式获取土壤有机碳的空间分布信息，为土壤碳管理和碳封存策略提供了新的监测工具。局限性在于：摘要未提供该技术在不同土壤类型、不同深度和不同气候条件下的适用性和精度验证细节，也未说明该方法对有机碳含量较低区域的灵敏度；基于现有信息推测，该技术可能在特定地质或水文条件下效果最佳。",
+      "follow_up_research": "可以将该地球物理方法应用于重野化或放牧管理实验样地，检验其在评估大型食草动物对土壤碳储量空间异质性影响方面的适用性；也可探索将该方法与传统的POM/MAOM分组方法结合，区分不同稳定性碳库的空间分布；进一步可在欧洲不同生态系统（草地、森林、湿地）中开展跨站点验证。",
+      "next_step_perspective": "这篇文章为用户提供了一种潜在的工具视角：如果重野化实验涉及较大空间尺度的土壤碳监测，传统钻探采样成本高且破坏性强，该非侵入性电学成像方法可能作为补充手段，帮助快速评估放牧强度梯度下SOC的空间变异格局。用户可关注该方法是否能区分不同土壤深度层次的碳储量变化，这对于理解深层土壤碳对放牧管理的响应尤为关键。",
+      "why_this_journal": "Biogeosciences 致力于发表生物地球化学过程与地球系统科学交叉的研究，该文将地球物理方法创新性地应用于土壤碳储量的非破坏性监测，方法新颖且具有跨学科意义，符合期刊对新技术在生物地球化学领域应用的定位（推测）。",
+      "author_profile": {
+        "name": "Adrián Flores Orozco",
+        "institution": "TU Wien",
+        "intro": "Adrián Flores Orozco 就职于维也纳工业大学（TU Wien），从其发表历史来看，主要研究方向为近地表地球物理学，包括电阻率成像、电磁感应方法、 peatland 水文地质结构成像以及滑坡地球物理监测等。其研究以地球物理探测技术为核心，与用户关注的土壤有机碳研究有方法学上的交叉——其电学成像技术有潜力用于评估重野化/放牧对土壤碳储量的空间影响，尤其是在欧洲研究站点（如其所在的奥地利阿尔卑斯地区）。",
+        "other_works": [
+          {
+            "title": "Glacial Preconditioning of Alpine Peatland Formation",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-9684"
+          },
+          {
+            "title": "Hydrological links between shallow and deep zones in a flysch landslide revealed by repeated FDEM surveys and 3D AMT imaging",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-13476"
+          },
+          {
+            "title": "Imaging peatland hydrogeological structure using electrical impedance tomography",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-14313"
+          },
+          {
+            "title": "Investigating Landslide Behaviour Under Varying Environmental Pressure: A Multi‑Method Geophysical Approach",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-13360"
+          },
+          {
+            "title": "Understanding the low-frequency electrical properties of ice–water interfaces from laboratory and field experiments",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-14080"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6249-2026",
+      "title": "Evaluation of simulated N cycling using observations from a 15N tracer experiment in a mixed deciduous forest",
+      "link": "https://doi.org/10.5194/bg-23-6249-2026",
+      "summary": "Evaluation of simulated N cycling using observations from a 15N tracer experiment in a mixed deciduous forest\n                    Tea Thum, Christine L. Goodale, Lin Yu, Julia Nabel, and Sönke Zaehle\n                        Biogeosciences, 23, 6249–6266, https://doi.org/10.5194/bg-23-6249-2026, 2026\n                        Nitrogen and carbon cycle have manifold interactions and to be able predict carbon sequestration of terrestrial vegetation, ability to model nitrogen cycle properly is important. 15N tracer experiments can be helpful, as they track the fate where added nitrogen will end up in the ecosystem. We simulated one such experiment with a model containing 15N cycle and found that comparison with data helped to evaluate the model in different aspects.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-11T10:24:24+02:00",
+      "doi": "10.5194/bg-23-6249-2026",
+      "affiliation": "Finnish Meteorological Institute (Helsinki, Finland)",
+      "title_zh": "利用混合落叶林中15N示踪实验观测评估模拟氮循环",
+      "relevance_score": 6,
+      "key_conclusion": "通过15N示踪实验与含15N循环的模型模拟对比，发现数据-模型比较有助于从多个方面评估模型对氮循环的模拟能力。氮碳循环密切互作，正确模拟氮循环对预测陆地植被碳汇至关重要。",
+      "relevance_note": "该文涉及碳氮循环耦合模拟与生态系统模型评估，与用户关注的C-N-P化学计量、养分循环以及DGVM模型改进方向相关。研究地点为混合落叶林（可能位于欧洲），符合用户对欧洲研究地点的兴趣。",
+      "related_papers": [
+        {
+          "title": "Global forest carbon uptake due to nitrogen and phosphorus deposition from 1850 to 2100",
+          "link": "https://doi.org/10.1111/gcb.13766",
+          "venue": "Global Change Biology",
+          "year": 2017
+        },
+        {
+          "title": "Beyond Static Benchmarking: Using Experimental Manipulations to Evaluate Land Model Assumptions",
+          "link": "https://doi.org/10.1029/2018gb006141",
+          "venue": "Global Biogeochemical Cycles",
+          "year": 2019
+        },
+        {
+          "title": "Data for manuscript \"Evaluation of simulated N cycling using observations from a 15N tracer experiment in a mixed deciduous forest\"",
+          "link": "https://doi.org/10.57707/fmi-b2share.16d17c16f1d54f60bb52591a03f1a5be",
+          "venue": "METIS",
+          "year": 2025
+        },
+        {
+          "title": "Tropospheric OH and HO2 radicals: field measurements and model comparisons",
+          "link": "https://doi.org/10.1039/c2cs35140d",
+          "venue": "Chemical Society Reviews",
+          "year": 2012
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6249/2026/bg-23-6249-2026-avatar-web.png",
+      "scientific_question": "如何利用15N示踪实验的观测数据来评估陆面生物地球化学模型对氮循环的模拟能力，特别是在氮碳耦合过程方面，以提高对陆地植被碳汇的预测精度？",
+      "contributions_limitations": "该研究通过将含15N循环的模型模拟与混合落叶林中的15N示踪实验结果进行对比，展示了数据-模型比较在评估和改进氮循环模拟中的价值。贡献在于为DGVM/陆面模型中氮循环模块的验证提供了实验约束方法。局限性在于：摘要未说明模型在哪些具体氮循环过程中表现良好或偏差较大，也未提供碳汇预测改进的定量评估；基于现有信息推测，该研究仅针对单一森林站点，空间代表性有限。",
+      "follow_up_research": "可在草地或放牧生态系统中开展类似的15N示踪-模型对比研究，因为大型食草动物的尿液和粪便输入是草地氮循环的重要驱动力，这对重野化场景下的碳氮耦合模拟尤为关键；也可将15N示踪方法扩展到多站点网络，评估模型在不同生态系统类型中对动物介导氮输入的响应模拟能力。",
+      "next_step_perspective": "这篇文章为用户提供了方法学启示：如果用户关注重野化对土壤碳循环的影响，氮循环的正确模拟是一个不可忽视的环节，因为大型食草动物的养分输入（粪尿）会显著改变土壤氮有效性，进而通过化学计量调控微生物碳利用效率和SOC形成。用户可借鉴其数据-模型融合（15N示踪约束模型）的思路，在重野化实验站点开展碳氮耦合的模型-观测对比研究。",
+      "why_this_journal": "Biogeosciences 专注于生物地球化学循环过程研究，该文结合同位素示踪实验与模型模拟，直接回应了陆地碳氮耦合模拟这一核心挑战，方法上将实验生态学与建模相融合，符合期刊的范围和跨尺度研究定位（推测）。",
+      "author_profile": {
+        "name": "Tea Thum",
+        "institution": null,
+        "intro": "Tea Thum 的研究方向集中在陆地生物圈模型（如QUINCY）的开发与评估，涉及碳氮循环模拟、太阳诱导叶绿素荧光（SIF）的辐射传输方案以及北极苔原碳源汇动态等。其工作与用户关注的地球系统模式中DGVM开发与验证方向直接相关，尤其是在碳氮耦合模拟方面的方法论可以借鉴到重野化场景下的生态系统建模中。",
+        "other_works": [
+          {
+            "title": "Evaluation of simulated N cycling using observations from a 15N tracer experiment in a mixed deciduous forest",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6249-2026"
+          },
+          {
+            "title": "Using different radiative transfer schemes for solar-induced chlorophyll fluorescence (SIF) in evergreen coniferous forests with a terrestrial biosphere model",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-3541-2026"
+          },
+          {
+            "title": "Chlorophyll fluorescence–based assessment of carbon sink–source shifts in Arctic tundra during the growing season",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-2236"
+          },
+          {
+            "title": "Evaluation of simulated N cycling using observations from a 15N tracer experiment in a mixed deciduous forest",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5876"
+          },
+          {
+            "title": "Supplementary material to \"Evaluation of simulated N cycling using observations from a 15N tracer experiment in a mixed deciduous forest\"",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5876-supplement"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026003492",
+      "title": "Evaluating the potential of forest management in mitigating wildfire hazard under climate change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026003492?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Ecological Modelling, Volume 522Author(s): Marcos Rodrigues, María Teresa Lamelas, Pere Gelabert, Raúl Hoffrén, Aitor Ameztegui, Lluis Coll, Juan de la Riva, Cristina Vega-García",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "评估气候变化下森林管理在缓解野火危害方面的潜力",
+      "relevance_score": 4,
+      "key_conclusion": "该文通过生态建模评估了气候变化背景下森林管理措施在降低野火危害方面的潜力（具体结论需查阅全文，摘要信息有限）。",
+      "relevance_note": "该文涉及森林管理与气候变化下的干扰 regime，与用户关注的陆地生态系统碳循环（森林退化与恢复）有间接关联，且研究可能位于欧洲（西班牙作者团队），但主题聚焦野火危害缓解而非碳循环或重野化，相关性中等偏下。",
+      "related_papers": [
+        {
+          "title": "Climate Change 2014 - Synthesis Report",
+          "link": "https://doi.org/10.59327/ipcc/ar5-9789291691432",
+          "venue": null,
+          "year": 2015
+        },
+        {
+          "title": "Strategies for mitigation of climate change: a review",
+          "link": "https://doi.org/10.1007/s10311-020-01059-w",
+          "venue": "Environmental Chemistry Letters",
+          "year": 2020
+        },
+        {
+          "title": "Climate-induced variations in global wildfire danger from 1979 to 2013",
+          "link": "https://doi.org/10.1038/ncomms8537",
+          "venue": "Nature Communications",
+          "year": 2015
+        },
+        {
+          "title": "Adapt to more wildfire in western North American forests as climate changes",
+          "link": "https://doi.org/10.1073/pnas.1617464114",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2017
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "",
+      "contributions_limitations": "基于现有信息推测：该研究可能构建了耦合气候情景与森林管理方案的模拟框架，评估不同管理措施对野火风险的缓解效果。由于标题和期刊目录页信息有限，无法判断其具体模型方法、空间尺度和管理措施类型。可能的局限性包括：摘要信息不足，建议查看原文以确认模型是否考虑了植被动态反馈、管理措施对碳储量的影响等。",
+      "follow_up_research": "基于现有信息推测：可探索将野火风险管理与碳储量评估相结合，因为森林管理措施在降低火灾风险的同时可能影响碳汇功能（如减少生物量积累）；用户可关注大型食草动物（如通过重野化引入的草食动物降低可燃物负荷）作为替代或互补的火灾管理策略的潜力。",
+      "next_step_perspective": "这篇文章与用户核心方向的直接关联有限，但从相邻领域角度看，如果研究地点在欧洲（作者团队主要来自西班牙），其对森林管理-气候变化-干扰（野火）交互作用的建模思路可能为用户提供借鉴：重野化作为一种'管理措施'，是否也能通过改变植被结构和可燃物动态来影响碳循环和干扰风险？用户可关注其是否涉及碳储量对管理措施的响应，以及是否可类比到放牧管理场景。",
+      "why_this_journal": "Ecological Modelling 专注于生态系统的数学建模方法与应用，该文将气候情景、森林管理和野火风险纳入建模框架，属于该期刊典型的'管理导向的生态建模'研究范畴（推测）。",
+      "author_profile": null
+    }
+  ]
 }
