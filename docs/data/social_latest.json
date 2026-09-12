@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T03:52:59.317012+00:00",
-  "count": 11,
+  "generated_at": "2026-09-12T09:51:05.420996+00:00",
+  "count": 10,
   "posts": [
     {
       "handle": "pnas.org",
@@ -111,17 +111,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Flexible use of conserved motifs constrains genome access in cell type evolution 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-09-09T08:22:21.407Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mv34ahtitk2o",
-      "external_title": "Flexible use of conserved motifs constrains genome access in cell type evolution - Nature Ecology & Evolution",
-      "external_description": "Applying deep-learning models to single-nucleus multi-omic sequencing data from flatworms and vertebrates, the authors propose that sets of sequence motifs defining cell type families are evolutionari...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03164-5",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihyltj7knhsecgfx5ob5w5elm6op7q57bwob7h6y6ydnjib5wbcta"
     }
   ]
 }
