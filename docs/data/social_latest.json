@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-11T15:44:22.533653+00:00",
-  "count": 10,
+  "generated_at": "2026-09-12T03:52:59.317012+00:00",
+  "count": 11,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Year-to-year variability in the melting of the surface of the Greenland Ice Sheet may not be a harbinger of ice sheet destabilization, according to a study. Variability in the surface mass balance is an expected response to climate warming. In PNAS: https://ow.ly/2qq250ZMEvb",
+      "created_at": "2026-09-12T01:00:15.376095634Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvbuwpfsbn2v",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "A new #SciencePerspective highlights “blocc” chemistry, a modular approach to building small molecules from standardized chemical building blocks that could make organic synthesis faster, more automated, and accessible to nonspecialists. https://scim.ag/4x6sACB ",
+      "created_at": "2026-09-11T19:33:01.621925174Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mvbcnktnrz2a",
+      "external_title": "Bonding carbons iteratively",
+      "external_description": "A modular synthesis method could broaden the accessibility of chemistry",
+      "external_uri": "https://scim.ag/4x6sACB",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreicresy4jfzxzsud3nldcphcl4l7oaj7372rn2cqlqwjwfujr42tdq"
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "A study using thousands of tree-ring sites around the world suggests that as the climate warms, more trees will experience growth constraints from dryness by 2100, limiting carbon sequestration. In PNAS: https://ow.ly/oI6k50ZMEbn",
+      "created_at": "2026-09-11T16:01:48.239641823Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvawtuxbyp2p",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -69,17 +102,6 @@
       "external_thumb": null
     },
     {
-      "handle": "science.org",
-      "author_name": "Paul Voosen",
-      "text": "Things I didn't know until now: Good chunks of the U.S. eastern seaboard and southern Europe were once part of Gondwana. \n\nNow a group argues, using dates exhumed from basement granites, that the fabled mega/super continent, always in Pangea's shadow, may have been even larger.",
-      "created_at": "2026-09-09T18:55:11.011Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mv47m2hw722w",
-      "external_title": "Pangaea’s ‘little brother’ may finally qualify as a supercontinent",
-      "external_description": "New evidence suggests Gondwana was far larger than previously thought, challenging models of continental cycling",
-      "external_uri": "https://www.science.org/content/article/pangaea-s-little-brother-may-finally-qualify-supercontinent",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:56yymeubg3r4lxnf7lidri5a/bafkreickqn2c3cd4bkkjex3673gdni3xtel4dyghfuoi77h2agmblpzx2e"
-    },
-    {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
       "text": "From climate-resilient crops to precision agriculture, discover PNAS research on advances in sustainable food production and resource management. Explore the collection: https://ow.ly/YY6W50ZKIUV",
@@ -100,17 +122,6 @@
       "external_description": "Applying deep-learning models to single-nucleus multi-omic sequencing data from flatworms and vertebrates, the authors propose that sets of sequence motifs defining cell type families are evolutionari...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03164-5",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihyltj7knhsecgfx5ob5w5elm6op7q57bwob7h6y6ydnjib5wbcta"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Opinion piece: So-called “hydrogen-ready” #pipelines risk new #carbon lock-in rather than offering a pathway to #decarbonization that helps address #ClimateChange. In PNAS Front Matter: https://ow.ly/skR150ZKII9\n\n#hydrogen #CleanEnergy #CO2Emissions #NaturalGas",
-      "created_at": "2026-09-08T17:00:41.029114982Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3muziqfpcsu2p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
