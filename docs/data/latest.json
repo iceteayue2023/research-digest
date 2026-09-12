@@ -1,6 +1,76 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12T09:51:05.420654+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-12T14:52:57.730980+00:00",
+  "count": 2,
+  "articles": [
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026003315",
+      "title": "The human-bear conflict radar: An operational ecological digital twin for forecasting and monitoring conflict between humans and European brown bears (<em>Ursus arctos</em>) in Bulgaria",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026003315?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Ecological Modelling, Volume 522Author(s): Anna Marie Davison, Ilya Acosta, Melanie Arp, Nikola Doykin, Nikola Ganchev, Vladimir Todorov, Koen de Koning",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "人熊冲突雷达：用于预测和监测保加利亚欧洲棕熊（Ursus arctos）人熊冲突的生态数字孪生系统",
+      "relevance_score": 5,
+      "key_conclusion": "该研究开发了一个可操作的生态数字孪生系统，用于预测和监测保加利亚地区欧洲棕熊与人类之间的冲突，整合了生态建模与实时监测数据。",
+      "relevance_note": "研究地点在欧洲（保加利亚），涉及大型动物（棕熊）与人之间的互作，与用户对大型动物和欧洲研究地点的兴趣部分吻合，但不涉及碳循环或土壤过程，属于生态建模应用类研究。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "如何构建一个可操作的生态数字孪生系统，用于预测和监测保加利亚地区欧洲棕熊与人类之间的冲突？",
+      "contributions_limitations": "该研究提出了一个整合生态建模与实时监测数据的数字孪生框架，为大型食肉动物与人类的冲突管理提供了可操作的预测工具，属于方法学和应用层面的创新。局限性在于：基于现有信息推测，该研究聚焦于单一物种（棕熊）在特定国家（保加利亚，欧洲）的冲突预测，其框架的可推广性到其他大型动物或其他地区尚不明确；此外，摘要未提供模型验证精度或实际部署效果的细节，建议查看原文。",
+      "follow_up_research": "可将该数字孪生框架扩展到其他重野化场景中的大型食草动物（如野牛、马、牛等）与人类活动的相互作用监测；也可探索将冲突预测模型与生态系统碳循环或植被动态模型耦合，评估大型动物种群管理对生态系统功能的级联影响。",
+      "next_step_perspective": "该研究提供了一个将生态建模与实时数据流整合的操作化范式，用户可借鉴其数字孪生思路，用于监测重野化过程中大型食草动物的种群动态及其对植被-土壤系统的实时影响。此外，研究地点在欧洲（保加利亚），符合用户对欧洲研究地点的关注。虽然主题是熊-人冲突而非食草动物-碳循环，但其方法论（生态数字孪生）可为用户构建重野化对碳循环影响的预测性监测系统提供技术启发。",
+      "why_this_journal": "推测该文章因将生态建模与数字孪生这一新兴技术框架结合，并应用于具有实际管理需求的野生动物冲突预测问题，符合Ecological Modelling对模型创新与应用生态学的定位。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026003595",
+      "title": "Dispersal-mediated coexistence and extinction dynamics in three archetypal food webs",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026003595?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Ecological Modelling, Volume 522Author(s): Duojie Jiabu, A. Wang",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "三种典型食物网中扩散介导的共存与灭绝动态",
+      "relevance_score": 4,
+      "key_conclusion": "该研究通过生态建模探讨了扩散过程如何影响三种典型食物网结构中的物种共存与灭绝动态，揭示了扩散对食物网稳定性的调节作用。",
+      "relevance_note": "该文属于食物网动态与生态建模研究，与用户关注的食物网复杂性和生态系统模型改进有一定主题关联，但不涉及碳循环、大型食草动物或土壤过程，因此相关性有限。",
+      "related_papers": [
+        {
+          "title": "A process‐based metacommunity framework linking local and regional scale community ecology",
+          "link": "https://doi.org/10.1111/ele.13568",
+          "venue": "Ecology Letters",
+          "year": 2020
+        },
+        {
+          "title": "Dispersal mediated coexistence and extinction dynamics in three archetypal food webs",
+          "link": "https://doi.org/10.5281/zenodo.22020857",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Dispersal mediated coexistence and extinction dynamics in three archetypal food webs",
+          "link": "https://doi.org/10.5281/zenodo.22020858",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Integrating Disturbance, Seasonality, Multi-Year Temporal Dynamics, and Dormancy Into the Dynamics and Conservation of Metacommunities",
+          "link": "https://doi.org/10.3389/fevo.2020.571130",
+          "venue": "Frontiers in Ecology and Evolution",
+          "year": 2020
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "扩散过程如何影响三种典型食物网结构中的物种共存与灭绝动态？",
+      "contributions_limitations": "该研究通过生态建模揭示了扩散对食物网稳定性的调节作用，为理解空间过程在食物网动态中的角色提供了理论贡献。局限性在于：基于现有信息推测，该研究是纯理论建模工作，未涉及具体生态系统或实证数据验证；摘要未说明三种食物网的具体结构差异以及扩散参数设置，建议查看原文。",
+      "follow_up_research": "可将该理论框架应用于具体的重野化场景，探究大型食草动物引入后通过扩散改变食物网连接度对群落稳定性的影响；也可结合经验数据检验模型预测，特别是在欧洲温带生态系统中。",
+      "next_step_perspective": "该研究涉及食物网复杂性与物种共存这一用户关注的BEF相关主题，其理论框架可能为用户理解重野化中大型食草动物引入如何通过改变食物网结构（如植物-食草动物-捕食者连接）进而影响生态系统功能提供建模思路。但该研究与用户核心课题（土壤有机碳、碳循环）的直接关联较弱，属于相邻领域的基础理论工作。",
+      "why_this_journal": "推测该文章因运用数学模型探讨食物网生态学中的经典问题（扩散与共存），在理论生态学层面具有方法学严谨性和一般性意义，符合Ecological Modelling的期刊定位。",
+      "author_profile": null
+    }
+  ]
 }
