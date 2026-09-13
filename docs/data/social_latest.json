@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T14:52:57.731373+00:00",
-  "count": 10,
+  "generated_at": "2026-09-13T04:01:38.987552+00:00",
+  "count": 8,
   "posts": [
     {
       "handle": "pnas.org",
@@ -89,28 +89,6 @@
       "external_description": "The relationship between the form and function of terrestrial carnivore dentition is inconsistent, despite repeated evolution of similar ecomorphologies. Here the authors compile a total-evidence phyl...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03176-1",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifpkyjetzt36nzwfu4f6kppyfoqo7a5x3pwro75vula2otv4f64gi"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Antarctica may look like a barren wasteland to some, but its soils are home to heterogeneous and diverse microbial communities. A study uncovers how bacteria endemic to the southern continent have adapted to extreme conditions. In PNAS: https://ow.ly/Wszt50ZKHZf",
-      "created_at": "2026-09-10T01:00:13.559061275Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mv4tystk7a2k",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "From climate-resilient crops to precision agriculture, discover PNAS research on advances in sustainable food production and resource management. Explore the collection: https://ow.ly/YY6W50ZKIUV",
-      "created_at": "2026-09-09T17:00:32.062919655Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mv3z72r46q22",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
