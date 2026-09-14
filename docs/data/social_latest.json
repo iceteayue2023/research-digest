@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-13T15:29:41.617394+00:00",
-  "count": 7,
+  "generated_at": "2026-09-14T04:09:24.335866+00:00",
+  "count": 5,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "MIT Press",
+      "text": "\"Engaging and hopeful [...] this is an important book, highlighting the need for collective action to reduce carbon emissions for our generation and generations to come.\"\n\n@science.org recommends @leahstokes.bsky.social's new book, \"The Carbon Wave.\"",
+      "created_at": "2026-09-12T21:40:00.714Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mve27lpyma2n",
+      "external_title": "Fall Books 2026",
+      "external_description": "Fields marked with * are required",
+      "external_uri": "https://www.science.org/doi/10.1126/science.ael0869",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7d33vjrei7fz3tlxbrgdnt37/bafkreid5xjh3vog6z3a4zdqysyjskekld3zizq7igv3ts4fcok6bpp3hte"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -45,39 +56,6 @@
       "external_description": "Evoking emotions is more likely to prompt people to engage with climate efforts than is data alone.",
       "external_uri": "https://go.nature.com/3T2CGX0",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiczltyhzb5v6jyg7wnltehfjiuz7662q67x76ouhhkyji32rahh54"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "One of the most-viewed PNAS articles in the last week is “Recent high-severity wildfires in a dry-conifer landscape are unprecedented over five centuries and foretell future forest loss.” Read now: https://ow.ly/v1oR50ZM4BE\n\nFor more trending articles, visit https://ow.ly/pH5050ZM4Aj. ",
-      "created_at": "2026-09-11T02:00:16.833679665Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mv7ht4vxjq2a",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "On March 10, 2025, a 6.5-magnitude earthquake in the Arctic Ocean triggered a rock avalanche on Jan Mayen Island. A study shows how climate warming may increase the susceptibility of slopes to earthquake-triggered failure in the Arctic. In PNAS: https://ow.ly/Zbmn50ZM4JW",
-      "created_at": "2026-09-11T01:00:13.834346602Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mv7ehqsb6r2g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "In this issue: Uncovering illegal wildlife trade routes, reconstructing the Jurassic forest soundscape, and exploring the neurobiology of how mice play follow the leader. In PNAS: https://ow.ly/jrS550ZM4rU",
-      "created_at": "2026-09-10T23:00:19.439011472Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mv75rdbprc2g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
