@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-14T04:09:24.335866+00:00",
-  "count": 5,
+  "generated_at": "2026-09-14T11:20:15.502854+00:00",
+  "count": 8,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The extreme weather of this year’s mega El Niño could look different from past events\n\ngo.nature.com/4yG6xns",
+      "created_at": "2026-09-14T10:03:45.311Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mvhuaffoa32q",
+      "external_title": "The super El Niño is already wreaking havoc: here’s what’s in store",
+      "external_description": "The extreme weather of this year’s mega El Niño could look different from past events.",
+      "external_uri": "https://go.nature.com/4yG6xns",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigvio5jdstvyukewtqxwepl2tu72sotvw23gshy2xyd2nttzs2m6y"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Obituary:\n\nRobert Ricklefs (1943–2026) www.nature.com/articles/s41...\n\nPolymath ecologist whose research and textbooks integrating ecology and evolution have inspired generations of students.\n\nFree to read: rdcu.be/D33fLgYcv4Ba",
+      "created_at": "2026-09-14T08:49:01.807Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvhq2rfmgs2i",
+      "external_title": "Robert Ricklefs (1943–2026) - Nature Ecology & Evolution",
+      "external_description": "Polymath ecologist whose research and textbooks integrating ecology and evolution have inspired generations of students.",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03193-0",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigorjd7txtu7rbpjsqmeg54264brl6cyjqrmdcu6d2eyx2znqs5fm"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Shawan Chowdhury",
+      "text": "Nice editorial from @natecoevo.nature.com featuring several papers recently published on the fate of 🦋 under climate change, including our 🦋 paper. \ndoi.org/10.1038/s415...\n@monashbiol.bsky.social @monashscience.bsky.social",
+      "created_at": "2026-09-14T01:29:50.763Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvgxjh3lz22n",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "science.org",
       "author_name": "MIT Press",

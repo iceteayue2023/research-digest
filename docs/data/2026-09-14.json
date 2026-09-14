@@ -1,8 +1,138 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T04:09:24.335464+00:00",
-  "count": 1,
+  "generated_at": "2026-09-14T11:20:15.502248+00:00",
+  "count": 4,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03190-3",
+      "title": "Ecosystem stability is shaped by resource–trait coordination under multiple interacting global change factors",
+      "link": "https://www.nature.com/articles/s41559-026-03190-3",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 14 September 2026; doi:10.1038/s41559-026-03190-3Ecological communities are increasingly exposed to multiple anthropogenic drivers. Using a 13-year field experiment, the authors show that the effects of up to four interacting global change factors on grassland productivity and stability are dynamically reorganized through time, partly through changes in species asynchrony and trait composition.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-14T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03190-3",
+      "affiliation": null,
+      "title_zh": "多重全球变化因子交互作用下资源-性状协调塑造生态系统稳定性",
+      "relevance_score": 7,
+      "key_conclusion": "通过13年野外实验，研究发现多达四个交互全球变化因子对草地生产力和稳定性的影响随时间动态重组，部分通过物种异步性和性状组成的变化实现。",
+      "relevance_note": "该文涉及生态系统稳定性、群落性状组成与全球变化因子的交互作用，与用户关注的生态系统功能恢复、植被-土壤反馈及BEF关系相关，可为重野化背景下草地生态系统响应提供参考。",
+      "related_papers": [
+        {
+          "title": "The Problem of Pattern and Scale in Ecology: The Robert H. MacArthur Award Lecture",
+          "link": "https://doi.org/10.2307/1941447",
+          "venue": "Ecology",
+          "year": 1992
+        },
+        {
+          "title": "Synchrony matters more than species richness in plant community stability at a global scale",
+          "link": "https://doi.org/10.1073/pnas.1920405117",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2020
+        },
+        {
+          "title": "Life and death in the soil microbiome: how ecological processes influence biogeochemistry",
+          "link": "https://doi.org/10.1038/s41579-022-00695-z",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2022
+        },
+        {
+          "title": "Innovation, entrepreneurial, knowledge, and business ecosystems: Old wine in new bottles?",
+          "link": "https://doi.org/10.1016/j.techfore.2017.09.023",
+          "venue": "Technological Forecasting and Social Change",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03190-3/MediaObjects/41559_2026_3190_Fig1_HTML.png",
+      "scientific_question": "在多个交互全球变化因子（最多四种）长期作用下，草地生产力和生态系统稳定性如何随时间动态变化？物种异步性和性状组成在其中的作用是什么？",
+      "contributions_limitations": "该研究基于13年野外实验，揭示了多重全球变化因子对草地生产力和稳定性的影响并非静态，而是随时间通过物种异步性和性状组成变化动态重组，为理解多重驱动因子的交互效应提供了长期实验证据。局限性可能在于：实验集中于草地生态系统，结论对其他生态系统类型的普适性有待验证；此外，摘要未说明所测试的具体全球变化因子组合及性状调控的因果机制细节。基于现有信息推测，建议查看原文以了解具体因子类型和机制路径。",
+      "follow_up_research": "可进一步探讨大型食草动物（放牧）作为生物驱动因子与气候变化因子交互时，如何通过改变植物性状组成和物种异步性影响草地稳定性；也可将资源-性状协调框架拓展到重野化场景中，检验食草动物介导的性状变化是否重塑稳定性-生产力关系。",
+      "next_step_perspective": "该研究提出的'资源-性状协调'框架可为用户研究大型食草动物如何通过改变植物群落性状组成进而影响土壤碳输入和稳定性提供理论视角；13年长期多因子实验设计也值得借鉴，尤其是考察放牧强度与其他全球变化因子交互时的实验设计思路。此外，性状组成作为稳定性的中介变量这一发现，提示用户在重野化研究中应同时监测植物功能性状和群落异步性。",
+      "why_this_journal": "Nature Ecology & Evolution倾向于发表具有广泛生态学意义、方法严谨且数据时间跨度长的研究。该文13年多因子野外实验在同类研究中较为罕见，且揭示了多重全球变化因子效应的动态重组这一新认识，推测其新颖性和长期数据积累是发表的主要原因。",
+      "author_profile": {
+        "name": "Xiaxia Ding",
+        "institution": "Lakehead University",
+        "intro": "Xiaxia Ding目前就职于Lakehead University。从其发表论文标题看，其研究兴趣涵盖生态系统稳定性、森林多样性与生产力关系、土壤生物群落与养分循环（如杉木人工林与天然次生林的土壤肥力和细根动态），以及亚热带森林土壤微生物多样性与树种组成的关系。这些方向与用户关注的植被-土壤反馈、生态系统功能恢复以及碳氮磷循环有较强关联，特别是其在森林土壤生物群落和细根动态方面的工作可为理解大型食草动物如何通过改变植被结构影响地下碳过程提供参照。",
+        "other_works": [
+          {
+            "title": "Ecosystem stability is shaped by resource–trait coordination under multiple interacting global change factors",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03190-3"
+          },
+          {
+            "title": "Data and code source of \"Ecosystem stability is shaped by resource–trait coordination under multiple interacting global change factors\".",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.6084/m9.figshare.32434434"
+          },
+          {
+            "title": "Long-term stability of productivity increases with tree diversity in Canadian forests",
+            "year": "2024",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2405108121"
+          },
+          {
+            "title": "Natural forest chronosequence maintains better soil fertility indicators and assemblage of total belowground soil biota than Chinese fir monoculture in subtropical ecosystem",
+            "year": "2022",
+            "journal": "Journal of Cleaner Production",
+            "doi": "10.1016/j.jclepro.2021.130228"
+          },
+          {
+            "title": "Fine root biomass and necromass dynamics of Chinese fir plantations and natural secondary forests in subtropical China",
+            "year": "2021",
+            "journal": "Forest Ecology and Management",
+            "doi": "10.1016/j.foreco.2021.119413"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6341-2026",
+      "title": "Dissolved organic carbon-mediated controls dominate soil carbon mineralization in response to freeze-thaw cycles",
+      "link": "https://doi.org/10.5194/bg-23-6341-2026",
+      "summary": "Dissolved organic carbon-mediated controls dominate soil carbon mineralization in response to freeze-thaw cycles\n                    Jiaxin Yan, Jinyang Zheng, Shuai Zhang, Mingming Wang, Ting Sun, Jiajun Mao, and Zhongkui Luo\n                        Biogeosciences, 23, 6341–6357, https://doi.org/10.5194/bg-23-6341-2026, 2026\n                        Freezing and thawing can speed soil carbon loss in cold regions, and climate change is altering how often these events occur. We incubated soils from different depths under freeze–thaw patterns and measured carbon dioxide release and dissolved carbon. Thaw bursts weakened with repeated cycles, yet higher frequency produced more total carbon loss. Dissolved carbon best predicted losses at all depths, while deeper soils relied more on enzymes and surface soils on organic matter protection.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-14T13:19:22+02:00",
+      "doi": "10.5194/bg-23-6341-2026",
+      "affiliation": null,
+      "title_zh": "溶解有机碳介导的控制主导冻融循环下的土壤碳矿化",
+      "relevance_score": 6,
+      "key_conclusion": "冻融循环可加速寒冷地区土壤碳损失，融化脉冲随循环次数减弱但更高频率导致更大的总碳损失；溶解碳在所有深度最能预测碳损失，深层土壤更依赖酶而表层土壤更依赖有机质保护。",
+      "relevance_note": "该文直接研究土壤碳矿化机制及其对冻融循环的响应，与用户关注的土壤有机碳形成与稳定机制、碳循环扰动相关，可为理解土壤碳对气候变化的响应提供参考，但不涉及大型食草动物或重野化。",
+      "related_papers": [
+        {
+          "title": "Nitrous oxide emissions from soils: how well do we understand the processes and their controls?",
+          "link": "https://doi.org/10.1098/rstb.2013.0122",
+          "venue": "Philosophical Transactions of the Royal Society B Biological Sciences",
+          "year": 2013
+        },
+        {
+          "title": "Effects of climate extremes on the terrestrial carbon cycle: concepts, processes and potential future impacts",
+          "link": "https://doi.org/10.1111/gcb.12916",
+          "venue": "Global Change Biology",
+          "year": 2015
+        },
+        {
+          "title": "How biochar works, and when it doesn't: A review of mechanisms controlling soil and plant responses to biochar",
+          "link": "https://doi.org/10.1111/gcbb.12885",
+          "venue": "GCB Bioenergy",
+          "year": 2021
+        },
+        {
+          "title": "A database and synthesis of northern peatland soil properties and Holocene carbon and nitrogen accumulation",
+          "link": "https://doi.org/10.1177/0959683614538073",
+          "venue": "The Holocene",
+          "year": 2014
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6341/2026/bg-23-6341-2026-avatar-web.png",
+      "scientific_question": "冻融循环如何影响不同深度土壤的碳矿化速率？溶解性有机碳（DOC）、酶活性和有机质保护在其中的相对贡献如何随土壤深度变化？",
+      "contributions_limitations": "该研究通过室内培养实验，揭示了冻融循环频率对土壤碳损失的影响：融化脉冲随循环次数减弱但更高频率导致更大总碳损失，且DOC在所有深度最能预测碳损失，深层土壤更依赖酶而表层更依赖有机质保护。贡献在于明确了DOC介导的控制在冻融响应中的主导地位及深度分异。局限性在于：室内培养条件可能无法完全代表野外冻融过程的复杂性（如植被、根系和动物活动的影响未纳入）；摘要未提及研究地点，信息不足，建议查看原文确认土壤来源和气候背景。",
+      "follow_up_research": "可研究在放牧或重野化管理的草地上，动物活动（如踩踏、粪尿输入）改变土壤孔隙结构和DOC供应后，冻融循环对碳矿化的影响是否被放大或缓冲；也可在不同管理强度的草地中比较DOC介导与非DOC介导的碳损失路径的相对重要性，特别是在欧洲温带或寒温带地区，冻融事件频率正在变化。",
+      "next_step_perspective": "该文提出的DOC介导控制框架可为用户研究大型食草动物如何通过改变土壤DOC通量（如根系分泌物、粪便溶解有机碳）间接影响土壤碳矿化提供机制视角；深层与表层土壤控制因子不同的发现，提示在重野化研究中应考虑土壤深度分层采样和分析，而非仅关注表层。此外，冻融作为气候极端事件的一种，与用户关注的极端气候扰动对碳循环的影响直接相关。",
+      "why_this_journal": "Biogeosciences专注于生物地球化学循环过程研究，该文通过控制实验量化了冻融循环对土壤碳矿化的影响机制并区分了不同深度的控制因子，方法清晰且属于该期刊的核心主题范畴。推测其发表主要基于对冻融-碳矿化机制的量化贡献和深度分异的新发现。",
+      "author_profile": null
+    },
     {
       "id": "https://www.nature.com/articles/d41586-026-02826-5",
       "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
@@ -30,6 +160,41 @@
       "follow_up_research": "可进一步研究超强厄尔尼诺引发的极端干旱/降水如何影响陆地生态系统碳汇与碳源转换；也可探讨此类极端事件对土壤有机碳稳定性、植被恢复力及大型食草动物栖息地的级联效应。",
       "next_step_perspective": "该文提示用户关注极端气候事件对碳循环扰动的非线性特征，可将其作为研究放牧/重野化系统在极端气候下的碳响应背景；若研究地点在欧洲，需注意厄尔尼诺对欧洲的间接遥相关影响，这可能为跨区域比较提供切入点。",
       "why_this_journal": "推测因Nature关注全球性重大环境事件，超强厄尔尼诺具有广泛的生态、气候与社会影响，符合其新闻与评述类文章的选题标准。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6317-2026",
+      "title": "A boost on the final stretch: intense river metabolism and wetland discharge increase aquatic CO2 dynamics in the Danube Delta",
+      "link": "https://doi.org/10.5194/bg-23-6317-2026",
+      "summary": "A boost on the final stretch: intense river metabolism and wetland discharge increase aquatic CO2 dynamics in the Danube Delta\n                    Marie-Sophie Maier, Bernhard Wehrli, and Cristian R. Teodoru\n                        Biogeosciences, 23, 6317–6339, https://doi.org/10.5194/bg-23-6317-2026, 2026\n                        Monitoring stations in the Danube Delta revealed two orders of magnitude difference in the intensity of oxygen and carbon dioxide cycles. Biological processes were driving more intense day-night cycles in delta channels compared to river reaches and were mainly controlled by changes in temperature and cloud cover. Wetland discharge added dissolved CO2 from anaerobic processes and caused higher emission rates in delta channels and downstream river reaches.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-14T13:19:22+02:00",
+      "doi": "10.5194/bg-23-6317-2026",
+      "affiliation": "ETH Zurich (Zurich, Switzerland)",
+      "title_zh": "最后冲刺的助推：强烈的河流代谢与湿地排放增加多瑙河三角洲水生CO2动态",
+      "relevance_score": 4,
+      "key_conclusion": "多瑙河三角洲监测站发现氧气和二氧化碳循环强度相差两个数量级，三角洲河道中生物过程驱动的昼夜循环比河流段更强烈，主要受温度和云量控制；湿地排放向河道和下游添加厌氧过程产生的溶解CO2，导致更高排放速率。",
+      "relevance_note": "该文研究欧洲（多瑙河三角洲）湿地-河流系统的碳动态，涉及水生CO2排放与湿地碳过程，与用户的碳循环关注有一定关联，但侧重水生系统而非陆地土壤碳或大型食草动物效应。",
+      "related_papers": [
+        {
+          "title": "bernhardwehrli/CO2-O2-stat: CO2 dynamics in the Danube Delta",
+          "link": "https://doi.org/10.5281/zenodo.21456490",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "bernhardwehrli/CO2-O2-stat: CO2 dynamics in the Danube Delta",
+          "link": "https://doi.org/10.5281/zenodo.21456491",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6317/2026/bg-23-6317-2026-avatar-web.png",
+      "scientific_question": "多瑙河三角洲河道和河流段的溶解氧与二氧化碳昼夜循环强度差异有多大？生物过程、温度、云量及湿地排放如何控制这些动态？",
+      "contributions_limitations": "该研究通过多站点监测揭示了三角洲河道与河流段之间O2和CO2循环强度相差两个数量级，并指出生物过程驱动的昼夜循环受温度和云量控制，湿地排放向河道添加厌氧过程产生的CO2从而提高排放速率。贡献在于量化了三角洲内部水生碳动态的空间异质性及其驱动因素。局限性在于：研究聚焦水生系统，与用户核心关注的陆地土壤有机碳和大型食草动物重野化关联较弱；摘要未说明监测时间跨度和是否考虑季节性变化，信息不足，建议查看原文。",
+      "follow_up_research": "可探讨湿地大型食草动物（如河狸、大型有蹄类）如何通过改变湿地水文和植被结构影响DOC输出和CO2排放；也可将三角洲湿地作为基于自然的解决方案案例，评估其在碳汇功能上的有效性与局限。",
+      "next_step_perspective": "该文虽以水生碳循环为核心，但其中湿地排放贡献溶解CO2的机制可为用户理解陆地-水体碳耦合提供参考，特别是重野化恢复湿地或河岸带后，大型食草动物改变植被和土壤过程如何影响DOC输出和水体碳排放。研究地点在欧洲（多瑙河三角洲），与用户对欧洲研究地点的偏好一致。方法上，高频监测昼夜循环的设计思路可借鉴到草地生态系统碳通量研究中。",
+      "why_this_journal": "Biogeosciences适合发表水生生态系统中碳循环过程的野外观测研究。该文在多瑙河三角洲这一具有重要生态意义的欧洲湿地系统中，通过多站点监测揭示了O2和CO2循环的空间异质性及驱动机制，推测其区域代表性和过程机制的清晰刻画是发表的主要原因。",
       "author_profile": null
     }
   ]
