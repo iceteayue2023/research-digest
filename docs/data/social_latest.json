@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-14T11:20:15.502854+00:00",
-  "count": 8,
+  "generated_at": "2026-09-14T17:29:29.648599+00:00",
+  "count": 11,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Can adding #seaweed to #cow feed have a big impact on worldwide #methane #emissions? In PNAS Front Matter: https://ow.ly/o7eg50ZNtso\n\n#GreenhouseGas #MethaneEmissions #farming #clouds #microbiology #ClimateChange",
+      "created_at": "2026-09-14T17:10:23.382131709Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvim3brsi42g",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Only a week left ⏰\n\nIf you or someone you know has made a significant contribution to the field of ecology, in research or practice, we encourage you to apply!\n\nApplications close on 21 September.\n\nhttps://www.britishecologicalsociety.org/content/become-a-fellow/",
+      "created_at": "2026-09-14T16:26:00.390878593Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvijlvwz452a",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Denisovans from southwestern China and their subsistence strategies\n\ngo.nature.com/4r3QFIC",
+      "created_at": "2026-09-14T14:06:01.947Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mvibrmhono2w",
+      "external_title": "Denisovans from southwestern China and their subsistence strategies - Nature",
+      "external_description": "Evidence from Bianfu Cave shows specialized hunting, expedient stone-tool production and extensive bone use of Denisovans, providing new insights into their ecology, behaviour and cultural legacy in eastern Asia.",
+      "external_uri": "https://go.nature.com/4r3QFIC",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreialwf5le4gzutmegqrkvr4yw7hxqvgadcrpzu7ume6jnsdt6v6igy"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "James Dinneen",
+      "text": "Latest for @nature.com: The extreme weather of this El Niño could look different from past events, making impacts less predicable. Not only is it super strong, its influence is 'stacked' on global warming, magnifying effects in some places and shifting them in others.\nwww.nature.com/articles/d41...",
+      "created_at": "2026-09-14T13:20:27.884Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mvi7a5tx5u24",
+      "external_title": "The super El Niño is already wreaking havoc: here’s what’s in store",
+      "external_description": "The extreme weather of this year’s mega El Niño could look different from past events.",
+      "external_uri": "https://www.nature.com/articles/d41586-026-02826-5",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i2dmfuqk3wklvyvl77cc66cx/bafkreidbz5dt5wggxxitvyzyck6lqueyt33bwhrrtmjiwkxmwfavvsqfmu"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -12,6 +56,17 @@
       "external_description": "The extreme weather of this year’s mega El Niño could look different from past events.",
       "external_uri": "https://go.nature.com/4yG6xns",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigvio5jdstvyukewtqxwepl2tu72sotvw23gshy2xyd2nttzs2m6y"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Obituary:\n\nRobert Ricklefs (1943–2026) www.nature.com/articles/s41...\n\nPolymath ecologist whose research and textbooks integrating ecology and evolution have inspired generations of students.\n\nFree to read: rdcu.be/D33fLgYcv4Ba",
+      "created_at": "2026-09-14T08:49:01.807Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvhq2rfmgs2i",
+      "external_title": "Robert Ricklefs (1943–2026) - Nature Ecology & Evolution",
+      "external_description": "Polymath ecologist whose research and textbooks integrating ecology and evolution have inspired generations of students.",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03193-0",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigorjd7txtu7rbpjsqmeg54264brl6cyjqrmdcu6d2eyx2znqs5fm"
     },
     {
       "handle": "natecoevo.nature.com",
@@ -67,28 +122,6 @@
       "external_description": "A modular synthesis method could broaden the accessibility of chemistry",
       "external_uri": "https://scim.ag/4x6sACB",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreicresy4jfzxzsud3nldcphcl4l7oaj7372rn2cqlqwjwfujr42tdq"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "A study using thousands of tree-ring sites around the world suggests that as the climate warms, more trees will experience growth constraints from dryness by 2100, limiting carbon sequestration. In PNAS: https://ow.ly/oI6k50ZMEbn",
-      "created_at": "2026-09-11T16:01:48.239641823Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mvawtuxbyp2p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Evoking emotions is more likely to prompt people to engage with climate efforts than is data alone\n\ngo.nature.com/3T2CGX0",
-      "created_at": "2026-09-11T11:45:19.385Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mvaijarvw22r",
-      "external_title": "El Niño goes viral — and scientists learn what makes people care about the climate",
-      "external_description": "Evoking emotions is more likely to prompt people to engage with climate efforts than is data alone.",
-      "external_uri": "https://go.nature.com/3T2CGX0",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiczltyhzb5v6jyg7wnltehfjiuz7662q67x76ouhhkyji32rahh54"
     }
   ]
 }

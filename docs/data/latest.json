@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
-  "generated_at": "2026-09-14T11:20:15.502248+00:00",
-  "count": 4,
+  "generated_at": "2026-09-14T17:29:29.647609+00:00",
+  "count": 5,
   "articles": [
     {
       "id": "https://www.nature.com/articles/s41559-026-03190-3",
@@ -85,6 +85,28 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02847-0",
+      "title": "How is climate change affecting conifers and their ability to sequester carbon?",
+      "link": "https://www.nature.com/articles/d41586-026-02847-0",
+      "summary": "Nature, Published online: 14 September 2026; doi:10.1038/d41586-026-02847-0Fresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow.",
+      "journal": "Nature",
+      "published": "2026-09-14T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-02847-0",
+      "affiliation": null,
+      "title_zh": "气候变化如何影响针叶树及其固碳能力？",
+      "relevance_score": 7,
+      "key_conclusion": "新证据表明，多种因素的相互作用可能影响针叶树的生长及其固碳能力。",
+      "relevance_note": "文章关注气候变化对针叶树碳汇能力的影响，直接关联用户关注的陆地生态系统碳循环及极端气候事件对碳循环的扰动方向；且发表于Nature正刊，主题涉及生态学，按用户偏好应给予较高分数。",
+      "related_papers": [],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02847-0/d41586-026-02847-0_53690528.jpg",
+      "scientific_question": "气候变化通过哪些因素的相互作用影响针叶树的生长及其固碳能力？",
+      "contributions_limitations": "基于现有信息推测，这是一篇Nature的新闻/研究亮点类短文，综合最新证据指出多种因素（如温度、水分、病虫害等）的交互作用可能削弱针叶树的碳汇功能。局限性在于摘要极短，未提供具体数据、研究地点或机制细节，难以判断其证据强度和适用范围，建议查看原文及相关研究论文。",
+      "follow_up_research": "可进一步探究气候变化下针叶林碳汇功能的临界阈值，以及不同区域（尤其是欧洲温带与北方森林）针叶树固碳能力的变化差异。也可结合大型食草动物重野化，研究其对针叶林更新和土壤碳储量的潜在调节作用。",
+      "next_step_perspective": "该文提示用户在评估生态系统碳循环时需关注多因子交互效应，而非单一驱动因素。若研究欧洲重野化地点涉及针叶林，可将气候胁迫与放牧/大型食草动物影响耦合分析，探讨二者对植被-土壤碳反馈的联合作用。",
+      "why_this_journal": "推测因其发表于Nature，且主题涉及气候变化与森林碳汇这一全球关注的热点，具有广泛的生态学与气候政策意义，符合Nature对高影响力、跨学科环境议题的定位。",
+      "author_profile": null
     },
     {
       "id": "https://doi.org/10.5194/bg-23-6341-2026",
