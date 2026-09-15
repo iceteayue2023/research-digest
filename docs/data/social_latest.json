@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-14T17:29:29.648599+00:00",
-  "count": 11,
+  "generated_at": "2026-09-15T04:08:39.086374+00:00",
+  "count": 12,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Identifying sources of methane is key to mitigating climate change because methane is a potent greenhouse gas. Deep learning approaches for analyzing data from the International Space Station can identify previously undetected methane plumes. In PNAS: https://ow.ly/cwv550ZNz1G",
+      "created_at": "2026-09-15T01:00:14.687493057Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvjgdh4uuu22",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Indigenous food trees into landscape restoration could support both biodiversity and nutrition. Researchers identify opportunities and challenges for integrating these trees in Malawi.\n\nIn PNAS Nexus: https://ow.ly/yIy850ZNzgi\n \nIn Mongabay: https://ow.ly/A95V50ZNzho",
+      "created_at": "2026-09-15T00:00:25.461006959Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvjcyincpn2t",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Read highlights in this week’s issue of PNAS: We explore the recovery of grasslands, analyze magnetism in the Solar System’s protoplanetary disk, and examine visual acuity across bee species. https://ow.ly/Muu950ZNtu4",
+      "created_at": "2026-09-14T23:00:17.398012834Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvj7mxabkz2d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -100,28 +133,6 @@
       "external_description": "Fields marked with * are required",
       "external_uri": "https://www.science.org/doi/10.1126/science.ael0869",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7d33vjrei7fz3tlxbrgdnt37/bafkreid5xjh3vog6z3a4zdqysyjskekld3zizq7igv3ts4fcok6bpp3hte"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Year-to-year variability in the melting of the surface of the Greenland Ice Sheet may not be a harbinger of ice sheet destabilization, according to a study. Variability in the surface mass balance is an expected response to climate warming. In PNAS: https://ow.ly/2qq250ZMEvb",
-      "created_at": "2026-09-12T01:00:15.376095634Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mvbuwpfsbn2v",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "A new #SciencePerspective highlights “blocc” chemistry, a modular approach to building small molecules from standardized chemical building blocks that could make organic synthesis faster, more automated, and accessible to nonspecialists. https://scim.ag/4x6sACB ",
-      "created_at": "2026-09-11T19:33:01.621925174Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mvbcnktnrz2a",
-      "external_title": "Bonding carbons iteratively",
-      "external_description": "A modular synthesis method could broaden the accessibility of chemistry",
-      "external_uri": "https://scim.ag/4x6sACB",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreicresy4jfzxzsud3nldcphcl4l7oaj7372rn2cqlqwjwfujr42tdq"
     }
   ]
 }
