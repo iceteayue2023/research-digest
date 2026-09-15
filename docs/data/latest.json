@@ -1,6 +1,339 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-15T04:08:39.086046+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-15T10:45:01.331442+00:00",
+  "count": 4,
+  "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41477-026-02407-4",
+      "title": "Overcompensation of vegetation productivity after late-spring frost in the Northern Hemisphere",
+      "link": "https://www.nature.com/articles/s41477-026-02407-4",
+      "summary": "Nature Plants, Published online: 15 September 2026; doi:10.1038/s41477-026-02407-4Following late-spring frost, vegetation often overcompensates through reduced damage and enhanced regrowth. This response is strengthening under climate warming and increasingly buffers the global terrestrial carbon sink.",
+      "journal": "Nature Plants",
+      "published": "2026-09-15T00:00:00+00:00",
+      "doi": "10.1038/s41477-026-02407-4",
+      "affiliation": null,
+      "title_zh": "北半球晚春霜冻后植被生产力的过度补偿",
+      "relevance_score": 7,
+      "key_conclusion": "晚春霜冻后植被常通过减少损伤和增强再生长实现生产力过度补偿，且该响应在气候变暖下正在加强，日益缓冲全球陆地碳汇。",
+      "relevance_note": "该文直接涉及极端气候事件（霜冻）对陆地生态系统碳循环（碳汇）的影响，属于用户关注方向(1)的核心议题。研究覆盖北半球，虽非欧洲专属，但对理解碳循环扰动机制有重要价值。",
+      "related_papers": [
+        {
+          "title": "Supplementary materials for Overcompensation of vegetation productivity after late spring frost in the Northern Hemisphere",
+          "link": "https://doi.org/10.6084/m9.figshare.30868394.v2",
+          "venue": "Figshare",
+          "year": 2025
+        },
+        {
+          "title": "Supplementary materials for Overcompensation of vegetation productivity after late spring frost in the Northern Hemisphere",
+          "link": "https://doi.org/10.6084/m9.figshare.30868394",
+          "venue": "Figshare",
+          "year": 2025
+        },
+        {
+          "title": "Supplementary materials for Overcompensation of vegetation productivity after late spring frost in the Northern Hemisphere",
+          "link": "https://doi.org/10.6084/m9.figshare.30868394.v4",
+          "venue": "Figshare",
+          "year": 2025
+        },
+        {
+          "title": "Supplementary materials for Overcompensation of vegetation productivity after late spring frost in the Northern Hemisphere",
+          "link": "https://doi.org/10.6084/m9.figshare.30868394.v3",
+          "venue": "Figshare",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41477-026-02407-4/MediaObjects/41477_2026_2407_Fig1_HTML.png",
+      "scientific_question": "晚春霜冻后北半球植被生产力是否会出现过度补偿，以及这种补偿效应在气候变暖背景下如何变化并影响全球陆地碳汇？",
+      "contributions_limitations": "该研究揭示了晚春霜冻后植被通过减少损伤和增强再生长实现生产力过度补偿的现象，并指出该响应在气候变暖下正在加强，进而缓冲全球陆地碳汇，对理解极端气候事件与碳循环的交互具有重要价值。局限性可能在于：基于现有摘要推测，研究主要关注生产力总量的补偿效应，对补偿机制（如物种组成变化、养分限制、土壤碳响应）的解析可能有限；此外，过度补偿是否具有长期持续性以及是否受水分或氮限制尚不清楚。",
+      "follow_up_research": "可进一步研究晚春霜冻过度补偿效应的生物机制，例如不同植物功能型（草本 vs. 木本、一年生 vs. 多年生）的补偿能力差异。还可探究该补偿效应对土壤有机碳积累的长期影响，以及在未来霜冻格局变化（霜冻频率降低但极端霜冻事件可能增加）下碳汇功能的可持续性。",
+      "next_step_perspective": "该研究直接涉及极端气候事件对陆地碳循环的扰动这一用户关注主题，提醒用户在评估重野化对碳汇的影响时，需要考虑气候极端事件（如霜冻）的短期扰动与植被恢复力的交互。过度补偿概念也可启发用户思考大型食草动物移除后植被恢复过程中是否存在类似的补偿性生长动态。",
+      "why_this_journal": "Nature Plants 作为植物科学顶级期刊，该研究以半球尺度分析揭示了极端气候事件与全球碳汇之间的新机制，具有显著的跨尺度整合意义和气候变化的现实相关性，推测其因此被接收。",
+      "author_profile": {
+        "name": "Haoyu Qiu",
+        "institution": null,
+        "intro": "Haoyu Qiu 的研究方向集中于气候变暖与季节性温度变化对北半球植被物候、生长和碳动态的影响，包括霜冻事件对森林生长和物候的效应、季节性变暖对秋季落叶的相反作用等。这些研究与用户关注的气候极端事件对碳循环的扰动、植被-土壤反馈和生态系统碳循环有较强关联，尤其在理解温带/北方森林碳源汇变化方面可为用户提供参考。",
+        "other_works": [
+          {
+            "title": "Climate warming shortens mast intervals by accelerating resource accumulation in the Northern Hemisphere",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-10602930/v1"
+          },
+          {
+            "title": "Spring and autumn warming drive opposing phenological memories in forests",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-9908764/v1"
+          },
+          {
+            "title": "Reversing effects of seasonal warming on autumn leaf senescence across the Northern Hemisphere",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-8335006/v1"
+          },
+          {
+            "title": "Continuous frost causes a greater reduction in forest growth than isolated frost in the Northern Hemisphere",
+            "year": "2025",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-025-67861-8"
+          },
+          {
+            "title": "Climate-driven divergence between leaf and stem phenology constrains carbon dynamics in trees",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-7912136/v1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6409-2026",
+      "title": "Biome classification across global vegetation models reveals consistent biome shifts under future climate change",
+      "link": "https://doi.org/10.5194/bg-23-6409-2026",
+      "summary": "Biome classification across global vegetation models reveals consistent biome shifts under future climate change\n                    Simon Scheiter, Jinfeng Chang, Philippe Ciais, Marie Dury, Louis Francois, Matthew Forrest, Alexandra Henrot, Christopher P. O. Reyer, Sonia Seneviratne, Jörg Steinkamp, Wim Thiery, Wenfang Xu, and Thomas Hickler\n                        Biogeosciences, 23, 6409–6430, https://doi.org/10.5194/bg-23-6409-2026, 2026\n                        We show how climate change may reshape the world's major biomes, such as forests, grasslands, and tundra. Therefore, we combined dynamic vegetation models, machine learning and observation-based biome maps. We found that many biomes are likely to shift polewards as temperatures rise. Even under low-emission scenarios, large areas could change. These results help identify regions most susceptible to climate change and support global efforts to protect and manage natural ecosystems in the future.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-15T11:44:47+02:00",
+      "doi": "10.5194/bg-23-6409-2026",
+      "affiliation": "Senckenberg Biodiversity and Climate Research Centre (Frankfurt am Main, Germany); Goethe University Frankfurt (Frankfurt am Main, Germany)",
+      "title_zh": "全球植被模型的生物群区分类揭示未来气候变化下一致的生物群区迁移",
+      "relevance_score": 7,
+      "key_conclusion": "结合动态植被模型、机器学习和观测生物群区图发现，许多生物群区在升温下可能向极地迁移，即使在低排放情景下大片区域也可能发生变化。",
+      "relevance_note": "该文直接涉及地球系统模式中动态植被模型（DGVM）的开发与应用，属于用户关注方向(5)的核心议题。研究还揭示了气候变化下生物群区（森林、草地、苔原）的迁移，与碳循环和生态系统功能恢复密切相关。",
+      "related_papers": [
+        {
+          "title": "Plant phenology and global climate change: Current progresses and challenges",
+          "link": "https://doi.org/10.1111/gcb.14619",
+          "venue": "Global Change Biology",
+          "year": 2019
+        },
+        {
+          "title": "Plant functional trait change across a warming tundra biome",
+          "link": "https://doi.org/10.1038/s41586-018-0563-7",
+          "venue": "Nature",
+          "year": 2018
+        },
+        {
+          "title": "Climate change and disruptions to global fire activity",
+          "link": "https://doi.org/10.1890/es11-00345.1",
+          "venue": "Ecosphere",
+          "year": 2012
+        },
+        {
+          "title": "Climate-induced variations in global wildfire danger from 1979 to 2013",
+          "link": "https://doi.org/10.1038/ncomms8537",
+          "venue": "Nature Communications",
+          "year": 2015
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6409/2026/bg-23-6409-2026-avatar-web.png",
+      "scientific_question": "在全球植被模型中，未来气候变化将如何一致地改变世界主要生物群区（如森林、草地、苔原）的分布格局？",
+      "contributions_limitations": "该研究结合多种动态植被模型、机器学习和观测生物群区图，发现许多生物群区在升温下可能向极地迁移，即使低排放情景下大片区域也可能发生变化，为识别气候变化敏感区域提供了重要依据。局限性可能在于：基于现有摘要推测，模型间的一致性和不确定性分析可能仍有限，生物群区分类方法可能简化了物种组成变化，且未充分考虑动物活动（如大型食草动物）对植被分布的调节作用。",
+      "follow_up_research": "可将大型食草动物的分布与活动纳入动态植被模型，评估重野化对生物群区迁移方向和速率的调节效应。还可研究生物群区迁移过程中土壤碳储量的变化，特别是冻土区碳释放与植被碳获取之间的净平衡。",
+      "next_step_perspective": "该研究属于地球系统模式中动态植被模块（DGVM）开发与验证这一用户关注领域，其将机器学习与DGVM结合的方法论可供用户借鉴。研究结果也为用户在欧洲地区评估重野化对生物群区稳定性和碳循环影响提供了背景框架。",
+      "why_this_journal": "Biogeosciences 专注于生物地球科学交叉研究，该文章整合多模型、多方法和多尺度数据来预测全球生物群区变化，方法学综合性强且与全球变化生态学核心问题高度契合，推测因此被接收。",
+      "author_profile": {
+        "name": "Simon Scheiter",
+        "institution": "Senckenberg Biodiversity and Climate Research Centre (SBiK-F)",
+        "intro": "Simon Scheiter 就职于德国 Senckenberg 生物多样性与气候研究中心（SBiK-F），主要从事动态全球植被模型（如aDGVM）开发、生物群区分类及全球变化对植被影响的模拟研究。其工作与用户关注的地球系统模式中DGVM开发和验证方向高度相关，可为用户在模型中整合食草动物效应提供方法论基础。",
+        "other_works": [
+          {
+            "title": "Biome classification across global vegetation models reveals consistent biome shifts under future climate change",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6409-2026"
+          },
+          {
+            "title": "Attribution of aDGVM mismatches in biomass and tree cover across Africa",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-3495"
+          },
+          {
+            "title": "Supplementary material to \"Attribution of aDGVM mismatches in biomass and tree cover across Africa\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-3495-supplement"
+          },
+          {
+            "title": "The Effects of Biome Stability During the Quaternary on Plant Diversity",
+            "year": "2026",
+            "journal": "Ecology and Evolution",
+            "doi": "10.1002/ece3.73884"
+          },
+          {
+            "title": "Objective biome classification across global vegetation models reveals consistent biome shifts under future climate change",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-221"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6359-2026",
+      "title": "Exploring alternative SMAP Level-4 carbon model formulations for the North American Arctic–Subarctic growing season",
+      "link": "https://doi.org/10.5194/bg-23-6359-2026",
+      "summary": "Exploring alternative SMAP Level-4 carbon model formulations for the North American Arctic–Subarctic growing season\n                    Rémi Madelon, K. Arthur Endsley, John S. Kimball, Gabriëlle J. M. De Lannoy, Oliver Sonnentag, Haley Alcock, Alex Mavrovic, Scott N. Williamson, Vincent Maire, Arnaud Mialon, and Alexandre Roy\n                        Biogeosciences, 23, 6359–6407, https://doi.org/10.5194/bg-23-6359-2026, 2026\n                        This study aims to improve estimates of carbon dioxide release and uptake in the North American Arctic and subarctic regions. Several modeling approaches were tested, showing that a better representation of sunlight and temperature effects on ecosystems leads to improved estimates. This work provides new perspectives to better assess whether these regions act as sources or sinks of greenhouse gases and how they may influence the climate system by amplifying or slowing global warming.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-15T11:44:47+02:00",
+      "doi": "10.5194/bg-23-6359-2026",
+      "affiliation": "Université du Québec à Trois-Rivières (Trois-Rivières, Canada); Centre d'Études Spatiales de la Biosphère (Toulouse, France)",
+      "title_zh": "探索北美北极-亚北极生长季SMAP Level-4碳模型的替代公式",
+      "relevance_score": 5,
+      "key_conclusion": "通过改进模型对光照和温度效应的表征，能够提升北美北极和亚北极地区二氧化碳释放与吸收的估算精度，有助于更好评估这些区域作为温室气体源或汇的作用。",
+      "relevance_note": "该文关注陆地生态系统碳循环模型改进，与用户关注方向(1)和(5)有一定关联。研究地点在北美北极-亚北极而非欧洲，但模型方法学对碳循环研究有参考价值。",
+      "related_papers": [
+        {
+          "title": "Satellite and In Situ Observations for Advancing Global Earth Surface Modelling: A Review",
+          "link": "https://doi.org/10.3390/rs10122038",
+          "venue": "Remote Sensing",
+          "year": 2018
+        },
+        {
+          "title": "Multi-Source Remote Sensing Based Modeling of Vegetation Productivity in the Boreal: Issues & Opportunities",
+          "link": "https://doi.org/10.1080/07038992.2023.2256895",
+          "venue": "Canadian Journal of Remote Sensing",
+          "year": 2023
+        },
+        {
+          "title": "Closing the Gaps in Our Knowledge of the Hydrological Cycle over Land: Conceptual Problems",
+          "link": "https://doi.org/10.1007/s10712-013-9221-7",
+          "venue": "Surveys in Geophysics",
+          "year": 2013
+        },
+        {
+          "title": "Wideband Radiometry From P to S Band for Monitoring Polar Regions",
+          "link": "https://doi.org/10.1109/jproc.2026.3653571",
+          "venue": "Proceedings of the IEEE",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6359/2026/bg-23-6359-2026-avatar-web.png",
+      "scientific_question": "如何改进SMAP Level-4碳模型公式以更准确地估算北美北极-亚北极地区生长季的二氧化碳释放与吸收？",
+      "contributions_limitations": "该研究测试了多种建模方法，发现改进模型对光照和温度效应的表征能提升CO2通量估算精度，为评估北极-亚北极区域作为温室气体源/汇的角色提供了新工具。局限性可能在于：基于现有摘要推测，研究区域局限于北美北极-亚北极，模型改进是否适用于其他生物群区有待验证；且该区域植被结构简单，未涉及大型食草动物对碳通量的调控。",
+      "follow_up_research": "可将改进后的模型框架拓展至其他高纬度或温带生态系统，验证其普适性。还可探究北极地区大型食草动物（如驯鹿、麝牛）放牧对碳通量的影响，将动物介导的生物地球化学循环纳入模型。",
+      "next_step_perspective": "该研究属于生态系统模型改进领域，其强调光照和温度效应表征的思路可启发用户在构建重野化-碳循环模型时重视关键环境驱动因子的准确表达。虽然研究地点不在欧洲，但其方法论对用户开发包含动物效应的碳模型有参考价值。",
+      "why_this_journal": "Biogeosciences 重视生物地球化学循环的模型发展和验证研究，该文章聚焦遥感数据（SMAP）与碳模型的结合以改进北极碳通量估算，具有明确的方法学创新和区域气候意义，推测因此被接收。",
+      "author_profile": {
+        "name": "Alexandre Roy",
+        "institution": null,
+        "intro": "Alexandre Roy 的研究方向集中于利用遥感（SAR、RPAS）和建模手段监测北极和寒区环境的冻融循环、雪盖、CO2通量等过程。其工作与用户关注的生态系统模型改进和碳循环研究相关，尤其在寒区碳动态的遥感-模型融合方法上可为用户提供技术参考。",
+        "other_works": [
+          {
+            "title": "Remotely Piloted Aircraft Systems (RPAS) for Monitoring Archaeological Sites in Nunavik in the Face of a Changing Climate",
+            "year": "2026",
+            "journal": "Canadian Journal of Remote Sensing",
+            "doi": "10.1080/07038992.2025.2600120"
+          },
+          {
+            "title": "High temporal resolution in-situ measurement of CO2 fluxes through Arctic shrub-tundra snowpacks",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-3835"
+          },
+          {
+            "title": "A multisensor C-band synthetic aperture radar (SAR) approach to retrieve freeze/thaw cycles: a case study for a low Arctic environment",
+            "year": "2026",
+            "journal": "The Cryosphere",
+            "doi": "10.5194/tc-20-3369-2026"
+          },
+          {
+            "title": "Soil microwave background retrieval and snow sensitivity from multi-frequency SAR observations over an agro-forested environment in northern Ontario",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-656"
+          },
+          {
+            "title": "Improving the CLASSIC (v1.8) Snow Model to Better Simulate Arctic Snowpacks",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-492"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-8535-2026",
+      "title": "Km-scale regional coupled system in the Northwest European shelf for weather and climate applications: RCS-UKC4",
+      "link": "https://doi.org/10.5194/gmd-19-8535-2026",
+      "summary": "Km-scale regional coupled system in the Northwest European shelf for weather and climate applications: RCS-UKC4\n                    Ségolène Berthou, Juan Manuel Castillo, Vivian Fraser-Leonhardt, Sana Mahmood, Nefeli Makrygianni, Alex Arnold, Claudio Sanchez, Huw W. Lewis, Dale Partridge, Martin Best, Lucy Bricheno, Helen Davies, Douglas B. Clark, James R. Clark, Jeff A. Polton, Andrew Saulter, Chris J. Short, Jonathan Tinker, Simon Tucker, and Maisie Wright\n                        Geosci. Model Dev., 19, 8535–8564, https://doi.org/10.5194/gmd-19-8535-2026, 2026\n                        The UK’s new RCS-UKC4 (Regional Coupled Suite – UK Coupled domain version 4) system combines atmosphere, ocean, waves, land, rivers, and biogeochemistry models to improve coastal weather and climate predictions. It offers better storm wave predictions, more accurate river flows, and captures rapid sea-level changes. These advances help predict multiple hazards more reliably, supporting safer communities and helping better planning.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-15T09:40:41+02:00",
+      "doi": "10.5194/gmd-19-8535-2026",
+      "affiliation": "Met Office (Exeter, United Kingdom)",
+      "title_zh": "面向天气与气候应用的西北欧陆架公里级区域耦合系统：RCS-UKC4",
+      "relevance_score": 4,
+      "key_conclusion": "英国新开发的RCS-UKC4区域耦合系统整合了大气、海洋、波浪、陆地、河流和生物地球化学模型，提高了海岸带天气与气候预测能力，包括风暴波浪、河流流量和海平面变化。",
+      "relevance_note": "该文属于地球系统模式开发，涉及陆面模型（land model）和生物地球化学模块的耦合，与用户关注方向(5)（地球系统模式中动态植被模块的开发与验证、生态系统模型改进）有一定关联，且研究地点在欧洲（西北欧陆架）。",
+      "related_papers": [
+        {
+          "title": "Km-scale regional coupled system for the Northwest European shelf for weather and climate applications: RCS-UKC4",
+          "link": "https://doi.org/10.5194/egusphere-2025-6216",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "RCS-UKC4 configuration paper data and code",
+          "link": "https://doi.org/10.5281/zenodo.17957426",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        },
+        {
+          "title": "RCS-UKC4 configuration paper data and code",
+          "link": "https://doi.org/10.5281/zenodo.17957427",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        },
+        {
+          "title": "RCS-UKC4 configuration paper data and code",
+          "link": "https://doi.org/10.5281/zenodo.22286990",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/8535/2026/gmd-19-8535-2026-avatar-web.png",
+      "scientific_question": "如何在西北欧陆架海域构建公里级区域耦合系统（RCS-UKC4）以改进海岸带天气与气候预测？",
+      "contributions_limitations": "该研究开发了RCS-UKC4系统，整合大气、海洋、波浪、陆地、河流和生物地球化学模型，提升了风暴波浪、河流流量和海平面变化的预测能力，对多灾种预测有重要应用价值。局限性可能在于：基于现有摘要推测，该系统聚焦于物理气候预测，陆地生物地球化学过程的整合深度可能有限，且未涉及陆地生态系统内部过程（如植被动态、土壤碳）。",
+      "follow_up_research": "可探索在该耦合系统中进一步整合陆地动态植被模块和土壤碳循环过程，评估气候变化下海岸带陆地-海洋碳交换的变化。也可将大型食草动物管理情景纳入陆地模块，研究其对区域碳收支的影响。",
+      "next_step_perspective": "该研究虽以物理气候预测为核心，但其公里级耦合系统框架对用户思考生态系统碳循环如何嵌入区域气候模型有方法论启发。研究区域位于欧洲西北部，其高分辨率耦合方法可能为用户在欧洲开展重野化-碳循环的区域模拟提供技术参照。",
+      "why_this_journal": "Geoscientific Model Development 专注于地球系统模型的开发与评估，该文章展示了一个多圈层耦合的新系统及其预测能力提升，方法学复杂度高且应用前景明确，推测因此被接收。",
+      "author_profile": {
+        "name": "Ségolène Berthou",
+        "institution": null,
+        "intro": "Ségolène Berthou 的研究方向集中于公里级区域耦合模拟、极端天气事件（如海洋热浪、温带气旋）及其多灾种影响。其工作与用户的核心方向关联度较低，但其在高分辨率地球系统耦合模拟方面的技术积累，可能为用户在区域尺度上整合碳循环模块提供方法论参考。",
+        "other_works": [
+          {
+            "title": "Km-scale regional coupled system in the Northwest European shelf for weather and climate applications: RCS-UKC4",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-8535-2026"
+          },
+          {
+            "title": "Marine heatwave amplifies extreme multi-hazards of extratropical cyclone Babet",
+            "year": "2026",
+            "journal": "Natural Hazards and Earth System Sciences",
+            "doi": "10.5194/nhess-26-3213-2026"
+          },
+          {
+            "title": "Representation of meteotsunamis in km-scale regional simulations coupled at high frequency",
+            "year": "2026",
+            "journal": "Natural Hazards and Earth System Sciences",
+            "doi": "10.5194/nhess-26-3185-2026"
+          },
+          {
+            "title": "State of the UK Climate in 2025",
+            "year": "2026",
+            "journal": "International Journal of Climatology",
+            "doi": "10.1002/joc.70470"
+          },
+          {
+            "title": "Marine heat waves endanger the rebuilding of marine life",
+            "year": "2026",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ae6d17"
+          }
+        ]
+      }
+    }
+  ]
 }

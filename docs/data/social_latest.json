@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-15T04:08:39.086374+00:00",
-  "count": 12,
+  "generated_at": "2026-09-15T10:45:01.332832+00:00",
+  "count": 13,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Using a 13-year field experiment, the authors show that the effects of up to four interacting global change factors on grassland productivity and stability are dynamically reorganized through time, partly through changes in species asynchrony and trait composition 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-09-15T08:30:20.817Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvk7ibsgo22d",
+      "external_title": "Ecosystem stability is shaped by resource–trait coordination under multiple interacting global change factors - Nature Ecology & Evolution",
+      "external_description": "Ecological communities are increasingly exposed to multiple anthropogenic drivers. Using a 13-year field experiment, the authors show that the effects of up to four interacting global change factors o...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03190-3",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic7d6fdsgu42fswgztawrodgwv43bt4fbw2hmbyxpcdmpfhwd2ph4"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
