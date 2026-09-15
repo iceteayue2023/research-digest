@@ -1,7 +1,73 @@
 {
-  "generated_at": "2026-09-15T10:45:01.332832+00:00",
-  "count": 13,
+  "generated_at": "2026-09-15T16:05:34.482800+00:00",
+  "count": 19,
   "posts": [
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "From biological science and biodiversity to climate and nature finance, these speakers bring a breadth of expertise you won't want to miss.\n\nGet your tickets to the Annual Meeting today 👇\n",
+      "created_at": "2026-09-15T15:44:57.724726219Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvkxrgt5js2y",
+      "external_title": "BES Annual Meeting 2026 - British Ecological Society",
+      "external_description": "This year's BES Annual Meeting will take place in Birmingham - 14-17 Dec. Find out about key dates for registration and abstract submission",
+      "external_uri": "https://www.britishecologicalsociety.org/content/bes-annual-meeting-2026/",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreifflisabquo5fga5qopny3utv2ohs5od2wishxezx4bda7cmuv4li"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "⭐Gretta Pecl - Marine ecologist at the Institute for Marine and Antarctic Studies and Director of the Centre for Marine Socioecology at the University of Tasmania.",
+      "created_at": "2026-09-15T15:44:52.782813275Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvkxrc4crm2x",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "⭐Mahesh Sankaran - Professor of Ecology at the National Centre for Biological Sciences, TIFR.",
+      "created_at": "2026-09-15T15:44:50.941909417Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvkxrae5sv2a",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "⭐E.J. Milner-Gulland - Professor of Biodiversity at the University of Oxford and Director of the Interdisciplinary Centre for Conservation Science in the Department of Biology.",
+      "created_at": "2026-09-15T15:44:42.933791447Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvkxqypu4b2l",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "For farmers and consumers to reap the benefits, guidelines for farming gene-edited plants must be implemented with careful thought, says plant geneticist and agronomist Nico De Storme.\n\ngo.nature.com/4gUoqsD",
+      "created_at": "2026-09-15T14:14:00.971Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mvksosqzwu2w",
+      "external_title": "CRISPR crops are coming to Europe — why bolder would be better",
+      "external_description": "For farmers and consumers to reap the benefits, guidelines for farming gene-edited plants must be implemented with careful thought.",
+      "external_uri": "https://go.nature.com/4gUoqsD",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifjipwrwn3mkgj26lqaybt4bodky33v5ctre5lhlpeu6gkbomifdy"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Using a 13-year field experiment, the authors show that the effects of up to four interacting global change factors on grassland productivity and stability are dynamically reorganized through time, partly through changes in species asynchrony and trait composition 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-09-15T08:30:20.817Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvk7ibsgo22d",
+      "external_title": "Ecosystem stability is shaped by resource–trait coordination under multiple interacting global change factors - Nature Ecology & Evolution",
+      "external_description": "Ecological communities are increasingly exposed to multiple anthropogenic drivers. Using a 13-year field experiment, the authors show that the effects of up to four interacting global change factors o...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03190-3",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic7d6fdsgu42fswgztawrodgwv43bt4fbw2hmbyxpcdmpfhwd2ph4"
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
