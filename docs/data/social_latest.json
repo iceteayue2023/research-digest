@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-16T10:33:07.832107+00:00",
-  "count": 19,
+  "generated_at": "2026-09-16T15:58:51.946887+00:00",
+  "count": 17,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New Comment 👇\n\n\"Spaceborne and airborne scanning technologies are revolutionizing the study of tropical forest understories. As these datasets rapidly expand, we argue for systematic ethical consideration of whether and how to reveal the information they contain\": www.nature.com/articles/s41...",
+      "created_at": "2026-09-16T14:37:10.984Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvneh5s7e22y",
+      "external_title": "The ethical costs of remotely sensing tropical forest understories - Nature Ecology & Evolution",
+      "external_description": "Spaceborne and airborne scanning technologies are revolutionizing the study of tropical forest understories. As these datasets rapidly expand, we argue for systematic ethical consideration of whether ...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03187-y",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiafww7g4bk4xxcmjkhsosbadxnhpdsnwri6kzrdglgnprda3ql33m"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -144,39 +155,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Nature research paper: Denisovans from southwestern China and their subsistence strategies\n\ngo.nature.com/4r3QFIC",
-      "created_at": "2026-09-14T14:06:01.947Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mvibrmhono2w",
-      "external_title": "Denisovans from southwestern China and their subsistence strategies - Nature",
-      "external_description": "Evidence from Bianfu Cave shows specialized hunting, expedient stone-tool production and extensive bone use of Denisovans, providing new insights into their ecology, behaviour and cultural legacy in eastern Asia.",
-      "external_uri": "https://go.nature.com/4r3QFIC",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreialwf5le4gzutmegqrkvr4yw7hxqvgadcrpzu7ume6jnsdt6v6igy"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "James Dinneen",
-      "text": "Latest for @nature.com: The extreme weather of this El Niño could look different from past events, making impacts less predicable. Not only is it super strong, its influence is 'stacked' on global warming, magnifying effects in some places and shifting them in others.\nwww.nature.com/articles/d41...",
-      "created_at": "2026-09-14T13:20:27.884Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mvi7a5tx5u24",
-      "external_title": "The super El Niño is already wreaking havoc: here’s what’s in store",
-      "external_description": "The extreme weather of this year’s mega El Niño could look different from past events.",
-      "external_uri": "https://www.nature.com/articles/d41586-026-02826-5",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i2dmfuqk3wklvyvl77cc66cx/bafkreidbz5dt5wggxxitvyzyck6lqueyt33bwhrrtmjiwkxmwfavvsqfmu"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "The extreme weather of this year’s mega El Niño could look different from past events\n\ngo.nature.com/4yG6xns",
-      "created_at": "2026-09-14T10:03:45.311Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mvhuaffoa32q",
-      "external_title": "The super El Niño is already wreaking havoc: here’s what’s in store",
-      "external_description": "The extreme weather of this year’s mega El Niño could look different from past events.",
-      "external_uri": "https://go.nature.com/4yG6xns",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreigvio5jdstvyukewtqxwepl2tu72sotvw23gshy2xyd2nttzs2m6y"
     },
     {
       "handle": "natecoevo.nature.com",

@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T10:33:07.831418+00:00",
-  "count": 5,
+  "generated_at": "2026-09-16T15:58:51.884339+00:00",
+  "count": 6,
   "articles": [
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2530363123?af=R",
@@ -226,6 +226,53 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026003649",
+      "title": "Simulating European spruce bark beetle outbreaks in boreal forests using iLand: model evaluation, development, and testing",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026003649?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Ecological Modelling, Volume 522Author(s): Diana-Cristina Şimon, Katharina Albrich, Veli-Pekka Ikonen, Päivi Lyytikäinen-Saarenmaa, Olli-Pekka Tikkanen, Juha Honkaniemi, Heli Peltola",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "利用iLand模拟北方森林中欧洲云杉树皮甲虫的爆发：模型评估、开发与测试",
+      "relevance_score": 4,
+      "key_conclusion": "摘要信息不足，无法提取具体结论。文章报道了在iLand模型中开发并测试云杉树皮甲虫爆发模拟模块，用于模拟北方森林中甲虫干扰动态。",
+      "relevance_note": "该文属于生态系统模型（iLand）的改进与验证，研究地点在欧洲（北方森林），涉及树皮甲虫干扰与森林动态模拟。与用户的DGVM/生态系统模型改进方向有间接关联，但主题聚焦于病虫害干扰而非碳循环或大型食草动物重野化，故相关性中等偏低。",
+      "related_papers": [
+        {
+          "title": "Do bark beetle outbreaks amplify or dampen future bark beetle disturbances in Central Europe?",
+          "link": "https://doi.org/10.1111/1365-2745.13502",
+          "venue": "Journal of Ecology",
+          "year": 2020
+        },
+        {
+          "title": "Contrasting vulnerability of monospecific and species‐diverse forests to wind and bark beetle disturbance: The role of management",
+          "link": "https://doi.org/10.1002/ece3.6854",
+          "venue": "Ecology and Evolution",
+          "year": 2020
+        },
+        {
+          "title": "The increasing role of drought as an inciting factor of bark beetle outbreaks can cause large-scale transformation of Central European forests",
+          "link": "https://doi.org/10.1007/s10980-025-02125-w",
+          "venue": "Landscape Ecology",
+          "year": 2025
+        },
+        {
+          "title": "The individual-based forest landscape and disturbance model iLand: Overview, progress, and outlook",
+          "link": "https://doi.org/10.1016/j.ecolmodel.2024.110785",
+          "venue": "Ecological Modelling",
+          "year": 2024
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何在iLand森林景观模型中开发并验证云杉树皮甲虫爆发模拟模块，以再现北方森林中甲虫干扰的时空动态？",
+      "contributions_limitations": "该研究的主要贡献是在iLand模型中开发并测试了树皮甲虫爆发模拟模块，为模拟北方森林中生物干扰驱动的森林动态提供了工具。可能的局限性在于摘要信息不足，模型的验证范围、数据来源和适用范围需查看原文确认。此外，该模块聚焦于树皮甲虫干扰，可能未涵盖其他干扰因子的交互作用。",
+      "follow_up_research": "可以进一步将树皮甲虫干扰模块与其他森林干扰（如风倒、火灾）耦合，评估多重干扰对森林碳循环的复合效应。也可将该模块应用于欧洲不同气候情景下，探讨气候变化对甲虫爆发频率和强度的潜在影响。",
+      "next_step_perspective": "该研究为用户提供了森林干扰模拟的方法学参考：如果用户关注大型食草动物对森林碳循环的影响，iLand这类过程模型的思想可借鉴用于将放牧/啃食干扰纳入动态植被模型。树皮甲虫干扰模块的开发流程（评估-开发-测试）也为将动物介导的干扰过程整合进DGVM提供了范式。",
+      "why_this_journal": "Ecological Modelling专注于生态学过程模型的开发与应用，该文章在成熟的iLand模型框架中新增树皮甲虫干扰模块，属于模型开发与验证的典型工作，符合期刊定位。推测其新颖性在于将生物干扰过程更精细地纳入景观尺度森林动态模拟。",
+      "author_profile": null
     }
   ]
 }
