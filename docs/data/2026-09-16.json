@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
-  "generated_at": "2026-09-16T04:05:31.021533+00:00",
-  "count": 4,
+  "generated_at": "2026-09-16T10:33:07.831418+00:00",
+  "count": 5,
   "articles": [
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2530363123?af=R",
@@ -133,6 +133,53 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41477-026-02406-5",
+      "title": "Vegetation overcompensation after late-spring frost is widespread across terrestrial ecosystems",
+      "link": "https://www.nature.com/articles/s41477-026-02406-5",
+      "summary": "Nature Plants, Published online: 16 September 2026; doi:10.1038/s41477-026-02406-5Terrestrial vegetation can recover from late-spring frost and even compensate for frost-induced productivity losses. We show that reduced damage and enhanced regrowth jointly drive this overcompensation, a widespread phenomenon that is predicted to become more prevalent with climate warming.",
+      "journal": "Nature Plants",
+      "published": "2026-09-16T00:00:00+00:00",
+      "doi": "10.1038/s41477-026-02406-5",
+      "affiliation": null,
+      "title_zh": "晚春霜冻后植被的过度补偿在陆地生态系统中普遍存在",
+      "relevance_score": 6,
+      "key_conclusion": "陆地植被能够从晚春霜冻中恢复，甚至可以补偿霜冻造成的生产力损失。研究表明，损害减轻与再生增强共同驱动了这种过度补偿，且该现象预计随气候变暖而更加普遍。",
+      "relevance_note": "该文关注极端气候事件（晚春霜冻）对陆地植被生产力的扰动与恢复，属于用户所列‘极端气候事件对碳循环的扰动’及生态系统功能恢复主题，对理解植被-碳反馈有参考价值。",
+      "related_papers": [
+        {
+          "title": "Five decades of terrestrial and freshwater research at Ny-Ålesund, Svalbard",
+          "link": "https://doi.org/10.33265/polar.v41.6310",
+          "venue": "Polar Research",
+          "year": 2022
+        },
+        {
+          "title": "Critical role of water conditions in the responses of autumn phenology of marsh wetlands to climate change on the Tibetan Plateau",
+          "link": "https://doi.org/10.1111/gcb.17097",
+          "venue": "Global Change Biology",
+          "year": 2023
+        },
+        {
+          "title": "Reduced diurnal temperature range does not change warming impacts on ecosystem carbon balance of Mediterranean grassland mesocosms",
+          "link": "https://doi.org/10.1111/j.1365-2486.2011.02483.x",
+          "venue": "Global Change Biology",
+          "year": 2011
+        },
+        {
+          "title": "Changes in Vegetation Resistance and Resilience under Different Drought Disturbances Based on NDVI and SPEI Time Series Data in Jilin Province, China",
+          "link": "https://doi.org/10.3390/rs15133280",
+          "venue": "Remote Sensing",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41477-026-02406-5/MediaObjects/41477_2026_2406_Fig1_HTML.png",
+      "scientific_question": "陆地植被在晚春霜冻事件后能否恢复甚至超额补偿生产力损失？这种过度补偿现象在多大空间尺度上普遍存在，其驱动机制是什么？",
+      "contributions_limitations": "该研究揭示了晚春霜冻后植被的过度补偿现象具有广泛的生态系统中普遍性，并指出损害减轻与再生增强是共同驱动机制，为极端气候事件后碳循环响应的理解提供了新视角。局限性在于摘要未说明具体研究方法（遥感、通量塔还是模型）、未量化过度补偿的碳汇意义，也未讨论不同植被类型或纬度带的差异，建议查看原文。",
+      "follow_up_research": "可进一步研究过度补偿对年尺度净碳收支的贡献，尤其是在高纬度或高山地区；结合放牧或大型食草动物管理，探讨动物取食是否会通过改变物候或再生能力来调节霜冻后的过度补偿效应；在DGVM中检验当前模型是否能再现这一现象。",
+      "next_step_perspective": "该文直接关联用户关注的极端气候事件对碳循环的扰动这一主题。若过度补偿普遍存在，意味着极端事件后生态系统的碳汇功能可能被低估，这启示用户在评估重野化对土壤有机碳的影响时，需考虑极端气候与放牧/食草动物互作对植被恢复力的调节作用；同时可借鉴其将损害程度与再生能力分离分析的思路。",
+      "why_this_journal": "Nature Plants作为植物科学顶刊，偏好发表具有广泛生态学意义且跨尺度验证的研究。该文通过大尺度分析揭示一个普遍性生态现象并给出机制解释，符合期刊对新颖性与普适性的要求（推测）。",
+      "author_profile": null
     },
     {
       "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2613665123?af=R",
