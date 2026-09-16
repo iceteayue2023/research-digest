@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-15T16:05:34.482800+00:00",
+  "generated_at": "2026-09-16T04:05:31.022193+00:00",
   "count": 19,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "True or false: Soil must be opaque.\n\nFalse! Researchers have developed a transparent, soil-like material that allows them to observe microbial communities around plant roots. Dig into the science in the latest PNAS Science Sessions: https://ow.ly/7V4L50ZNWfx",
+      "created_at": "2026-09-15T17:00:42.233354961Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvl3yv3eq32p",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "britishecologicalsociety.org",
       "author_name": "British Ecological Society",
@@ -199,17 +210,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "MIT Press",
-      "text": "\"Engaging and hopeful [...] this is an important book, highlighting the need for collective action to reduce carbon emissions for our generation and generations to come.\"\n\n@science.org recommends @leahstokes.bsky.social's new book, \"The Carbon Wave.\"",
-      "created_at": "2026-09-12T21:40:00.714Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mve27lpyma2n",
-      "external_title": "Fall Books 2026",
-      "external_description": "Fields marked with * are required",
-      "external_uri": "https://www.science.org/doi/10.1126/science.ael0869",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:7d33vjrei7fz3tlxbrgdnt37/bafkreid5xjh3vog6z3a4zdqysyjskekld3zizq7igv3ts4fcok6bpp3hte"
     }
   ]
 }
