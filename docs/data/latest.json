@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T10:43:15.262224+00:00",
-  "count": 3,
+  "generated_at": "2026-09-17T16:05:20.871084+00:00",
+  "count": 4,
   "articles": [
     {
       "id": "https://doi.org/10.5194/bg-23-6491-2026",
@@ -148,6 +148,53 @@
       "follow_up_research": "可将该小波框架应用于有不同放牧或重野化历史的森林，检验大型食草动物是否改变碳吸收的季节动态和长期趋势；也可将该方法从GPP拓展到土壤呼吸或SOC储量的时间序列分析，以评估放牧管理对地下碳过程的长期影响。",
       "next_step_perspective": "该文的小波分析工具可帮助用户在重野化研究中分离出管理措施（如放牧强度变化）对碳通量季节信号的干扰，从而更精确地量化大型食草动物对生态系统碳循环的影响。同时，管理林与老龄林碳汇趋势的差异提示用户关注重野化中林分年龄结构对碳汇功能的调节作用。",
       "why_this_journal": "Biogeosciences关注生态系统碳循环过程，该文以方法创新（小波分析应用于长期碳通量数据）为核心，结合三站点比较分析，符合期刊对方法论和生物地球化学动态研究的偏好。推测因其新分析工具和长期趋势发现而发表。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41477-026-02414-5",
+      "title": "Engineering resilient forests",
+      "link": "https://www.nature.com/articles/s41477-026-02414-5",
+      "summary": "Nature Plants, Published online: 17 September 2026; doi:10.1038/s41477-026-02414-5Climate change leads to changes in precipitation distribution and the frequency of extreme weather conditions. For temperate forests to survive this may require a targeted forest engineering approach.",
+      "journal": "Nature Plants",
+      "published": "2026-09-17T00:00:00+00:00",
+      "doi": "10.1038/s41477-026-02414-5",
+      "affiliation": null,
+      "title_zh": "工程化韧性森林",
+      "relevance_score": 4,
+      "key_conclusion": "气候变化导致降水分布和极端天气频率变化，温带森林的存续可能需要有针对性的森林工程方法。",
+      "relevance_note": "该文讨论气候变化下森林的适应策略，与用户关注的陆地生态系统碳循环及极端气候扰动有一定关联，但未涉及食草动物重野化或土壤有机碳机制，研究地点也未明确为欧洲。",
+      "related_papers": [
+        {
+          "title": "Impact of anthropogenic climate change on wildfire across western US forests",
+          "link": "https://doi.org/10.1073/pnas.1607171113",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2016
+        },
+        {
+          "title": "Chemical engineering progress",
+          "link": "https://doi.org/10.1016/0166-9834(88)80018-6",
+          "venue": "Applied Catalysis",
+          "year": 1988
+        },
+        {
+          "title": "Global water resources and the role of groundwater in a resilient water future",
+          "link": "https://doi.org/10.1038/s43017-022-00378-6",
+          "venue": "Nature Reviews Earth & Environment",
+          "year": 2023
+        },
+        {
+          "title": "Measuring vulnerability to natural hazards: towards disaster resilient societies",
+          "link": "https://doi.org/10.5860/choice.45-0295",
+          "venue": "Choice Reviews Online",
+          "year": 2007
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在气候变化导致降水分布改变和极端天气频率增加的背景下，温带森林应如何通过有针对性的森林工程手段来维持其生存与恢复力？",
+      "contributions_limitations": "基于现有信息推测，该文可能是一篇观点/评论类文章，提出'森林工程'作为应对气候变化下温带森林衰退的策略框架。由于摘要极短（仅标题和一句话概述），缺乏具体方法、数据或案例支撑，无法判断其论证深度与适用范围。可能的局限在于'工程化'路径与自然恢复/rewilding理念之间存在潜在张力，且未提及对土壤碳库的影响。",
+      "follow_up_research": "可进一步探讨森林工程措施（如辅助迁移、树种选择、水分管理）与大型食草动物重野化之间的协同或冲突关系；也可研究工程化森林管理对土壤有机碳截留的长期效应，尤其是在欧洲温带森林中的实证验证。",
+      "next_step_perspective": "该文提示了一个重要视角：气候变化下森林恢复不应仅依赖被动保护，可能需要主动干预。对于关注重野化对碳循环影响的研究者，这引出一个关键问题——在极端气候频发的背景下，大型食草动物的作用是否会被森林工程措施所替代或增强？建议关注文中是否讨论了动物-植被-土壤反馈在森林恢复力中的角色。",
+      "why_this_journal": "推测Nature Plants作为植物科学领域高影响力期刊，倾向于发表具有跨学科意义和前瞻性的观点文章，该文以气候变化下温带森林存续为主题，涉及生态学、林学和气候适应策略的交叉，符合期刊对全球变化生物学议题的关注。",
       "author_profile": null
     }
   ]
