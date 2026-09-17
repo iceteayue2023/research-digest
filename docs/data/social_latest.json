@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T04:12:24.245568+00:00",
-  "count": 17,
+  "generated_at": "2026-09-17T10:43:15.263028+00:00",
+  "count": 16,
   "posts": [
     {
       "handle": "natclimate.nature.com",
@@ -12,6 +12,17 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "New Comment 👇\n\n\"Spaceborne and airborne scanning technologies are revolutionizing the study of tropical forest understories. As these datasets rapidly expand, we argue for systematic ethical consideration of whether and how to reveal the information they contain\": www.nature.com/articles/s41...",
+      "created_at": "2026-09-16T14:37:10.984Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvneh5s7e22y",
+      "external_title": "The ethical costs of remotely sensing tropical forest understories - Nature Ecology & Evolution",
+      "external_description": "Spaceborne and airborne scanning technologies are revolutionizing the study of tropical forest understories. As these datasets rapidly expand, we argue for systematic ethical consideration of whether ...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03187-y",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiafww7g4bk4xxcmjkhsosbadxnhpdsnwri6kzrdglgnprda3ql33m"
     },
     {
       "handle": "natecoevo.nature.com",
@@ -166,28 +177,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Obituary:\n\nRobert Ricklefs (1943–2026) www.nature.com/articles/s41...\n\nPolymath ecologist whose research and textbooks integrating ecology and evolution have inspired generations of students.\n\nFree to read: rdcu.be/D33fLgYcv4Ba",
-      "created_at": "2026-09-14T08:49:01.807Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvhq2rfmgs2i",
-      "external_title": "Robert Ricklefs (1943–2026) - Nature Ecology & Evolution",
-      "external_description": "Polymath ecologist whose research and textbooks integrating ecology and evolution have inspired generations of students.",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03193-0",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigorjd7txtu7rbpjsqmeg54264brl6cyjqrmdcu6d2eyx2znqs5fm"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Obituary:\n\nRobert Ricklefs (1943–2026) www.nature.com/articles/s41...\n\nPolymath ecologist whose research and textbooks integrating ecology and evolution have inspired generations of students.\n\nFree to read: rdcu.be/D33fLgYcv4Ba",
-      "created_at": "2026-09-14T08:49:01.807Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvhq2rfmgs2i",
-      "external_title": "Robert Ricklefs (1943–2026) - Nature Ecology & Evolution",
-      "external_description": "Polymath ecologist whose research and textbooks integrating ecology and evolution have inspired generations of students.",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03193-0",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigorjd7txtu7rbpjsqmeg54264brl6cyjqrmdcu6d2eyx2znqs5fm"
     }
   ]
 }

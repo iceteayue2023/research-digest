@@ -1,6 +1,154 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T04:12:24.245282+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-17T10:43:15.262224+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-6491-2026",
+      "title": "How beech ecophysiology shapes temperate forest gross primary productivity – Part 2: Identifying critical timeframes across phenological stages",
+      "link": "https://doi.org/10.5194/bg-23-6491-2026",
+      "summary": "How beech ecophysiology shapes temperate forest gross primary productivity – Part 2: Identifying critical timeframes across phenological stages\n                    Jonathan Bitton, Bernard Heinesch, Catherine Charles, and Bernard Longdoz\n                        Biogeosciences, 23, 6491–6520, https://doi.org/10.5194/bg-23-6491-2026, 2026\n                        We studied 24 years of carbon exchange in a beech forest to understand why its productivity rises, peaks and declines each at different times of the year. We mapped climate effects onto short biological windows and found that stored carbon supports early growth, a one‑week bud formation period can set next year’s peak and bursts of dry air drive mid‑summer drops. Hot summers even raised productivity when water was available. These insights help anticipate forest responses to heat and drought.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-17T12:37:15+02:00",
+      "doi": "10.5194/bg-23-6491-2026",
+      "affiliation": null,
+      "title_zh": "山毛榉生态生理如何塑造温带森林总初级生产力——第2部分：识别各物候阶段的关键时间窗口",
+      "relevance_score": 8,
+      "key_conclusion": "基于24年碳交换数据，发现储存碳支撑早期生长，为期一周的芽形成期可决定次年峰值，干空气爆发导致仲夏生产力下降，而水分充足时炎热夏季反而提高生产力。",
+      "relevance_note": "该文研究欧洲山毛榉林碳交换的物候驱动机制，涉及植物碳分配（储存碳利用，方向3）和极端气候对碳循环的影响（方向1），且研究地点在欧洲，与用户多个关注方向相关。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"How beech ecophysiology shapes temperate forest gross primary productivity – Part 2: Identifying critical timeframes across phenological stages\"",
+          "link": "https://doi.org/10.5194/egusphere-2026-1674-supplement",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Shaping future forests: how can ecophysiology support climate‐smart forest management?",
+          "link": "https://doi.org/10.1111/nph.71007",
+          "venue": "New Phytologist",
+          "year": 2026
+        },
+        {
+          "title": "Non‐stationary forest responses to hotter droughts: a temporal perspective considering the role of past legacies",
+          "link": "https://doi.org/10.1002/ecog.07740",
+          "venue": "Ecography",
+          "year": 2025
+        },
+        {
+          "title": "Beyond productivity- Effects of extreme weather events on ecosystem processes and biotic interactions",
+          "link": "",
+          "venue": "EPub Bayreuth (University of Bayreuth)",
+          "year": 2012
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6491/2026/bg-23-6491-2026-avatar-web.png",
+      "scientific_question": "温带山毛榉林的碳交换在一年中不同物候阶段为何呈现不同的上升、峰值和下降模式？气候变量如何通过特定的短生物学时间窗口影响总初级生产力（GPP）？",
+      "contributions_limitations": "该研究基于24年的涡度协方差碳交换数据，识别出储存碳支撑早春生长、一周芽形成期决定次年生产力峰值、干空气爆发导致仲夏生产力下降等关键时间窗口，并发现水分充足时炎热夏季反而提高生产力。局限性在于研究仅针对单一树种的温带森林，结论向其他生态系统或大型食草动物管理系统的推广需谨慎；摘要未提及土壤碳过程。",
+      "follow_up_research": "可将该物候-气候响应框架拓展到受放牧或重野化管理的系统中，检验大型食草动物是否通过改变林下植被或土壤水分条件来调节这些关键时间窗口；也可将储存碳动态与NSC（非结构性碳水化合物）的分配策略研究结合，探讨放牧压力如何改变树木碳储备与生长的权衡。",
+      "next_step_perspective": "该文提供的物候阶段划分思路可启发用户在重野化研究中区分不同季节的碳通量响应，例如放牧强度是否在不同物候窗口对GPP产生差异化影响。其“储存碳支撑早期生长”的发现与用户关注的植物碳分配策略（NSC）直接相关，提示在大型食草动物管理下需关注碳储备的季节动态。",
+      "why_this_journal": "Biogeosciences专注于生物地球化学循环过程研究，该文利用24年长期通量观测数据并结合物候学框架，具有方法创新性和长期数据价值，符合期刊对生态系统碳循环过程机制的关注。推测其因长时间序列和物候窗口识别的新颖性而发表。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-8651-2026",
+      "title": "Beyond behavioural models: equifinality and overparameterisation undermine confidence in predictions by soil organic matter models",
+      "link": "https://doi.org/10.5194/gmd-19-8651-2026",
+      "summary": "Beyond behavioural models: equifinality and overparameterisation undermine confidence in predictions by soil organic matter models\n                    Marijn Van de Broek and Johan Six\n                        Geosci. Model Dev., 19, 8651–8672, https://doi.org/10.5194/gmd-19-8651-2026, 2026\n                        Soil organic matter models are characterised by equifinality, the phenomenon whereby multiple parameter sets yield similar results. This study shows that the number of identifiable parameters that can be optimised together is limited, even under data-rich conditions. As a result, overparameterised models show a large variability when simulating future changes. Optimising only identifiable model parameters is therefore necessary to avoid this hidden uncertainty in soil organic matter models.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-17T11:36:44+02:00",
+      "doi": "10.5194/gmd-19-8651-2026",
+      "affiliation": "ETH Zurich (Zurich, Switzerland)",
+      "title_zh": "超越行为模型：等终性与过参数化削弱了土壤有机质模型预测的可信度",
+      "relevance_score": 7,
+      "key_conclusion": "土壤有机质模型存在等终性问题，即多组参数集可产生相似结果；可同时优化的可识别参数数量有限，过参数化的模型在模拟未来变化时表现出很大不确定性，因此仅优化可识别参数是必要的。",
+      "relevance_note": "该研究直接关注土壤有机质模型的预测不确定性，与用户核心方向中土壤有机碳及生态系统模型改进（DGVM开发与验证）高度相关；作者来自ETH Zurich（欧洲），符合用户对欧洲研究地点的偏好。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"Beyond behavioural models: equifinality and overparameterisation undermine confidence in predictions by soil organic matter models\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-6297-supplement",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/8651/2026/gmd-19-8651-2026-avatar-web.png",
+      "scientific_question": "土壤有机质（SOM）模型中广泛存在的等终性（equifinality）和过参数化问题如何影响模型对未来变化预测的可靠性？在数据丰富的条件下，有多少参数是可同时识别的？",
+      "contributions_limitations": "该研究揭示了SOM模型即使在数据充足条件下，可同时优化识别的参数数量也非常有限，过参数化导致模拟未来变化时产生巨大的隐藏不确定性。贡献在于为SOM建模社区敲响警钟并提出应仅优化可识别参数。局限性是摘要未说明其验证是否涵盖不同气候区或管理类型（如放牧系统），也未涉及具体模型如RothC或Century的对比。",
+      "follow_up_research": "可将该等终性分析框架应用于重野化或放牧管理情景下的土壤碳模型（如RothC、LPJ-GUESS中的土壤模块），检验在模拟大型食草动物对SOC影响的模型中是否存在类似过参数化问题；也可探索将微生物过程或颗粒态/矿物结合态有机质（POM/MAOM）分层结构纳入模型后，可识别参数数量是否改变。",
+      "next_step_perspective": "这篇文章对用户有重要的方法论警示：在设计或评估模拟放牧/重野化对SOC影响的模型时，需先进行参数可识别性分析，避免因过参数化而得出不可靠的预测。这为用户的模型改进方向（DGVM中的土壤碳模块）提供了直接的批判性视角。",
+      "why_this_journal": "Geoscientific Model Development专注于地球系统模型的开发、评估与改进，该文针对SOM模型的结构性问题（等终性、过参数化）提出方法论批判和改进建议，符合期刊对模型方法论严谨性的要求。推测因其对模型不确定性问题的系统性分析而发表。",
+      "author_profile": {
+        "name": "Marijn Van de Broek",
+        "institution": "ETH Zurich",
+        "intro": "Marijn Van de Broek就职于ETH Zurich，其历史论文涉及土壤碳周转的pH敏感性、矿物学代理对碳周转的约束以及土壤有机质模型的等终性问题。其研究方向集中于土壤碳建模与矿物-有机质相互作用，与用户关注的土壤有机质形成与稳定机制（POM/MAOM）、以及生态系统模型改进（DGVM）高度相关，尤其能为用户提供SOC建模中不确定性的方法论工具。",
+        "other_works": [
+          {
+            "title": "Beyond climate: Modelling the distinct pH sensitivities of radiocarbon-based turnover across forest soil carbon fractions",
+            "year": "2026",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2026.110306"
+          },
+          {
+            "title": "Beyond behavioural models: equifinality and overparameterisation undermine confidence in predictions by soil organic matter models",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-8651-2026"
+          },
+          {
+            "title": "Equifinality and overparameterisation undermine confidence in predictions by soil organic matter models",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-14121"
+          },
+          {
+            "title": "Mineralogical Proxies Constrain Turnover and Warming Responses at Regional Scale",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-8277"
+          },
+          {
+            "title": "Beyond behavioural models: equifinality and overparameterisation undermine confidence in predictions by soil organic matter models",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-6297"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6465-2026",
+      "title": "How beech ecophysiology shapes temperate forest gross primary productivity – Part 1: A wavelet-based framework for extracting seasonal dynamics",
+      "link": "https://doi.org/10.5194/bg-23-6465-2026",
+      "summary": "How beech ecophysiology shapes temperate forest gross primary productivity – Part 1: A wavelet-based framework for extracting seasonal dynamics\n                    Jonathan Bitton, Catherine Charles, Bernard Longdoz, and Bernard Heinesch\n                        Biogeosciences, 23, 6465–6489, https://doi.org/10.5194/bg-23-6465-2026, 2026\n                        Seasonal changes in forest behavior are often hard to detect in carbon data. We developed a wavelet‑based approach to uncover how three beech forests grow and absorb carbon through seasons. The forests showed distinct spring growth, summer slowdowns and long‑term trends. All forests were carbon sinks with managed forests strengthening over time while the old forest weakened. We show how seasonal dynamics explain long‑term changes and offer a new tool for tracking forest responses to climate.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-17T12:37:15+02:00",
+      "doi": "10.5194/bg-23-6465-2026",
+      "affiliation": null,
+      "title_zh": "山毛榉生态生理如何塑造温带森林总初级生产力——第1部分：提取季节动态的小波分析框架",
+      "relevance_score": 7,
+      "key_conclusion": "开发了基于小波的方法来揭示三片山毛榉森林的季节生长和碳吸收动态，发现各森林表现出明显的春季生长、夏季减缓和长期趋势；所有森林均为碳汇，管理林碳汇随时间增强而老龄林减弱。",
+      "relevance_note": "该文研究欧洲温带森林（山毛榉）的碳吸收季节动态与长期趋势，属于陆地生态系统碳循环范畴，与用户关注方向(1)高度契合；研究地点在欧洲，符合用户偏好的加分条件。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"How beech ecophysiology shapes temperate forest gross primary productivity – Part 1: A wavelet-based framework for extracting seasonal dynamics\"",
+          "link": "https://doi.org/10.5194/egusphere-2026-1670-supplement",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "How beech ecophysiology shapes temperate forest gross primary productivity – Part 2: Identifying critical timeframes across phenological stages",
+          "link": "https://doi.org/10.5194/egusphere-2026-1674",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6465/2026/bg-23-6465-2026-avatar-web.png",
+      "scientific_question": "如何利用基于小波的方法从涡度协方差碳交换数据中提取森林的季节动态，并揭示三片山毛榉林在碳吸收上的季节模式和长期趋势差异？",
+      "contributions_limitations": "该研究开发了一种小波分析框架，成功从碳通量数据中分离出季节信号，发现管理林碳汇增强而老龄林碳汇减弱。贡献在于提供了追踪森林气候响应的新工具。局限性是仅针对三片山毛榉林，样本量有限，且未涉及土壤碳储量变化或地下碳过程，也未考虑动物介导的扰动。",
+      "follow_up_research": "可将该小波框架应用于有不同放牧或重野化历史的森林，检验大型食草动物是否改变碳吸收的季节动态和长期趋势；也可将该方法从GPP拓展到土壤呼吸或SOC储量的时间序列分析，以评估放牧管理对地下碳过程的长期影响。",
+      "next_step_perspective": "该文的小波分析工具可帮助用户在重野化研究中分离出管理措施（如放牧强度变化）对碳通量季节信号的干扰，从而更精确地量化大型食草动物对生态系统碳循环的影响。同时，管理林与老龄林碳汇趋势的差异提示用户关注重野化中林分年龄结构对碳汇功能的调节作用。",
+      "why_this_journal": "Biogeosciences关注生态系统碳循环过程，该文以方法创新（小波分析应用于长期碳通量数据）为核心，结合三站点比较分析，符合期刊对方法论和生物地球化学动态研究的偏好。推测因其新分析工具和长期趋势发现而发表。",
+      "author_profile": null
+    }
+  ]
 }
