@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-16T15:58:51.946887+00:00",
+  "generated_at": "2026-09-17T04:12:24.245568+00:00",
   "count": 17,
   "posts": [
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "Center for Advanced Study in the Behavioral Sciences, Stanford",
+      "text": "NEW ARTICLE @natclimate.nature.com by CASBS fellow @climatefran.bsky.social & collaborators, \"New Labour and Agricultural Damages Improve Climate Cost Estimates,\" quantifies the cost of heat stress on global labor. \n\nAccess the paper and read Fran's detailed explanatory thread below ⬇️",
+      "created_at": "2026-09-16T23:24:12.279Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mvobvk7m7c2x",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -177,17 +188,6 @@
       "external_description": "Polymath ecologist whose research and textbooks integrating ecology and evolution have inspired generations of students.",
       "external_uri": "https://www.nature.com/articles/s41559-026-03193-0",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigorjd7txtu7rbpjsqmeg54264brl6cyjqrmdcu6d2eyx2znqs5fm"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Shawan Chowdhury",
-      "text": "Nice editorial from @natecoevo.nature.com featuring several papers recently published on the fate of 🦋 under climate change, including our 🦋 paper. \ndoi.org/10.1038/s415...\n@monashbiol.bsky.social @monashscience.bsky.social",
-      "created_at": "2026-09-14T01:29:50.763Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvgxjh3lz22n",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
