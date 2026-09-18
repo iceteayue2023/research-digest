@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-09-17T16:05:20.872103+00:00",
-  "count": 15,
+  "generated_at": "2026-09-18T03:57:09.062481+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "In this issue: The impact of global trade on biodiversity, brain activity patterns behind silent speech, and the effects of spikes in gang violence in Mexico. In PNAS: https://ow.ly/mcX950ZOPFB",
+      "created_at": "2026-09-17T21:00:26.581624806Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvqkdge24a2d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Stone sickles in Neolithic North China were used not only for harvesting grain, but for cutting thick-stemmed weeds and fiber-yielding plants to clear vegetation and make ropes, nets, mats, and early textiles. In PNAS: https://ow.ly/4Kbb50ZOPBa",
+      "created_at": "2026-09-17T19:00:41.566426686Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvqdncghxm2a",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Alexander Lees",
+      "text": "Our new paper led by Leo Miranda in @science.org - \n\nComparing #Amazon protection strategies reveals that avoiding deforestation is most cost-effective for carbon storage, while avoiding forest disturbance yields the highest benefits for #biodiversity 🌎🪶🌴🧪\n\nwww.science.org/doi/10.1126/...",
+      "created_at": "2026-09-17T18:50:07.688Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mvqd2ev7e224",
+      "external_title": "Protecting tropical forests is more cost-effective for biodiversity and climate than restoration",
+      "external_description": "Halting deforestation and promoting restoration are at the core of strategies to confront the biodiversity and climate crises in tropical forests. Avoiding forest disturbances is also critically important but has received far less attention, and there is ...",
+      "external_uri": "https://www.science.org/doi/10.1126/science.adx9928",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sdtiecb2gwh7rvre33iwlt7j/bafkreibsh546doiyc4v5bclnqa2abz3ui6bmhmynde4cpjudqxy66564ii"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Sar Crespi",
+      "text": "As forests burn, can we replant trees ready for a warmer world? --This week on the @science.org podcast, w/ Katie Langin www.science.org/content/podc...",
+      "created_at": "2026-09-17T18:35:19.989Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mvqc7wcrsc26",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "natclimate.nature.com",
       "author_name": "Center for Advanced Study in the Behavioral Sciences, Stanford",
@@ -111,61 +155,6 @@
       "external_description": "Ecological communities are increasingly exposed to multiple anthropogenic drivers. Using a 13-year field experiment, the authors show that the effects of up to four interacting global change factors o...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03190-3",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreic7d6fdsgu42fswgztawrodgwv43bt4fbw2hmbyxpcdmpfhwd2ph4"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Identifying sources of methane is key to mitigating climate change because methane is a potent greenhouse gas. Deep learning approaches for analyzing data from the International Space Station can identify previously undetected methane plumes. In PNAS: https://ow.ly/cwv550ZNz1G",
-      "created_at": "2026-09-15T01:00:14.687493057Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mvjgdh4uuu22",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Indigenous food trees into landscape restoration could support both biodiversity and nutrition. Researchers identify opportunities and challenges for integrating these trees in Malawi.\n\nIn PNAS Nexus: https://ow.ly/yIy850ZNzgi\n \nIn Mongabay: https://ow.ly/A95V50ZNzho",
-      "created_at": "2026-09-15T00:00:25.461006959Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mvjcyincpn2t",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Read highlights in this week’s issue of PNAS: We explore the recovery of grasslands, analyze magnetism in the Solar System’s protoplanetary disk, and examine visual acuity across bee species. https://ow.ly/Muu950ZNtu4",
-      "created_at": "2026-09-14T23:00:17.398012834Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mvj7mxabkz2d",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Can adding #seaweed to #cow feed have a big impact on worldwide #methane #emissions? In PNAS Front Matter: https://ow.ly/o7eg50ZNtso\n\n#GreenhouseGas #MethaneEmissions #farming #clouds #microbiology #ClimateChange",
-      "created_at": "2026-09-14T17:10:23.382131709Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mvim3brsi42g",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "Only a week left ⏰\n\nIf you or someone you know has made a significant contribution to the field of ecology, in research or practice, we encourage you to apply!\n\nApplications close on 21 September.\n\nhttps://www.britishecologicalsociety.org/content/become-a-fellow/",
-      "created_at": "2026-09-14T16:26:00.390878593Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvijlvwz452a",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
