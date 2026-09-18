@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T10:18:42.521724+00:00",
-  "count": 3,
+  "generated_at": "2026-09-18T15:41:30.026114+00:00",
+  "count": 4,
   "articles": [
     {
       "id": "https://www.nature.com/articles/s41559-026-03183-2",
@@ -220,6 +220,53 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S0304380026003625",
+      "title": "Sensitivity of the RothC to carbon inputs and evapotranspiration estimates across a gradient of data availability",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0304380026003625?dgcid=rss_sd_all",
+      "summary": "Publication date: December 2026Source: Ecological Modelling, Volume 522Author(s): Brendan McGoldrick, Donal O’Brien, Rowan Fealy",
+      "journal": "Ecological Modelling",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "RothC模型对碳输入和蒸散估计的敏感性：跨数据可用性梯度的评估",
+      "relevance_score": 6,
+      "key_conclusion": "研究评估了RothC土壤碳模型在不同数据可用性条件下对碳输入量和蒸散估算值的敏感性，揭示了数据质量与可得性对模型模拟结果的影响。",
+      "relevance_note": "该文涉及土壤有机碳模型（RothC）的改进与验证，与用户关注的土壤有机碳动态及生态系统模型开发方向相关，且作者来自欧洲机构、研究地点很可能在欧洲，但其核心并非大型食草动物重野化或碳循环机制本身，故给予中等偏上分数。",
+      "related_papers": [
+        {
+          "title": "Projected loss of soil organic carbon in temperate agricultural soils in the 21st century: effects of climate change and carbon input trends",
+          "link": "https://doi.org/10.1038/srep32525",
+          "venue": "Scientific Reports",
+          "year": 2016
+        },
+        {
+          "title": "Spatial distribution of soil organic carbon stocks in France",
+          "link": "https://doi.org/10.5194/bg-8-1053-2011",
+          "venue": "Biogeosciences",
+          "year": 2011
+        },
+        {
+          "title": "Direct soil moisture controls of future global soil carbon changes: An important source of uncertainty",
+          "link": "https://doi.org/10.1029/2010gb003938",
+          "venue": "Global Biogeochemical Cycles",
+          "year": 2011
+        },
+        {
+          "title": "Changes in soil carbon with stand age – an evaluation of a modelling method with empirical data",
+          "link": "https://doi.org/10.1111/j.1365-2486.2004.00881.x",
+          "venue": "Global Change Biology",
+          "year": 2004
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在不同的数据可用性条件下，RothC土壤有机碳模型对碳输入量和蒸散估算值的敏感性如何？数据质量与可得性如何影响模型模拟结果的准确性？",
+      "contributions_limitations": "该研究系统评估了RothC模型在不同数据条件下的敏感性，为模型使用者提供了关于数据需求优先级的参考，有助于在数据匮乏地区合理评估模拟不确定性。局限性在于摘要信息有限，未说明具体的研究地点、验证数据来源以及敏感性分析的量化方法；此外，RothC是经典的周转率驱动模型，其对微生物过程、矿物结合态有机质（MAOM）形成等机制的简化可能限制其在更精细尺度上的适用性（基于现有信息推测，建议查看原文）。",
+      "follow_up_research": "可将该敏感性分析框架扩展到放牧管理情景下，评估大型食草动物改变碳输入量和蒸散格局时RothC模拟的响应与不确定性。此外，可对比RothC与其他含微生物过程的土壤碳模型（如MIMICS、CORPSE）在数据稀缺条件下的表现差异，探讨模型结构对碳输入变化响应的鲁棒性。",
+      "next_step_perspective": "该研究为在重野化或放牧管理研究中应用RothC模型提供了数据需求方面的参考：如果用户打算模拟大型食草动物对土壤有机碳的影响，需要特别关注碳输入量数据的质量，因为这可能是模型敏感性的关键驱动因子。同时，蒸散估算的不确定性提示在气候变化情景下评估放牧对SOC影响时需纳入水分循环的耦合分析。",
+      "why_this_journal": "Ecological Modelling专注于生态学模型的开发、评估与应用，该研究对经典土壤碳模型进行系统性敏感性分析，符合期刊对模型验证与不确定性量化方向的定位（推测）。",
+      "author_profile": null
     }
   ]
 }

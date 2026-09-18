@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-18T10:18:42.522703+00:00",
-  "count": 12,
+  "generated_at": "2026-09-18T15:41:30.027059+00:00",
+  "count": 15,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "As the planet warms and forests burn, can we replant them with new trees that will thrive in the decades ahead? https://scim.ag/4hunVpf",
+      "created_at": "2026-09-18T13:25:02.554105102Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mvsbdyta6s24",
+      "external_title": "As forests burn, can we replant trees ready for a warmer world?",
+      "external_description": "Ecologists testing “assisted migration” are pushing seedlings to the limits—and finding that location matters",
+      "external_uri": "https://scim.ag/4hunVpf",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreiefzo2m6wtm4yfe5xfdzudtq5dyme3pmeemfjzosqkom6vy5k4nce"
+    },
+    {
+      "handle": "natplants.nature.com",
+      "author_name": "Nature Plants",
+      "text": "New Editorial: \"Engineering resilient forests\" rdcu.be/9VhEudRpKxCa\n\nClimate change leads to changes in precipitation distribution and the frequency of extreme weather conditions. For temperate forests to survive this may require a targeted forest engineering approach. #PlantScience",
+      "created_at": "2026-09-18T10:48:34.806Z",
+      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mvrym7x6bk2s",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natplants.nature.com",
+      "author_name": "Nature Plants",
+      "text": "New Article: \"Overcompensation of vegetation productivity after late-spring frost in the Northern Hemisphere\" rdcu.be/hPE75sdFpLTa\n\nWith Research Briefing: \"Vegetation overcompensation after late-spring frost is widespread across terrestrial ecosystems\" rdcu.be/8Kot7saaUrpa\n#PlantScience",
+      "created_at": "2026-09-18T10:38:19.609Z",
+      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mvrxzvatxc2s",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
