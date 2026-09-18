@@ -1,6 +1,225 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-18T03:57:09.062162+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-18T10:18:42.521724+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03183-2",
+      "title": "Afforestation and reforestation support coupled gains in soil life and carbon storage worldwide",
+      "link": "https://www.nature.com/articles/s41559-026-03183-2",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 18 September 2026; doi:10.1038/s41559-026-03183-2Planting trees on non-forest land and re-establishing lost forest cover may have different ecological effects. Here the authors quantify long-term responses of soil carbon and microbial biomass following afforestation and reforestation, and predict potential long-term dynamics globally.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-18T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03183-2",
+      "affiliation": null,
+      "title_zh": "全球范围内造林与再造林支持土壤生物与碳储量的协同增益",
+      "relevance_score": 8,
+      "key_conclusion": "在非林地上植树与恢复已丧失的森林覆盖可能产生不同的生态效应，造林和再造林后土壤碳与微生物生物量均呈长期增长响应，并预测了全球尺度的潜在长期动态。",
+      "relevance_note": "该文直接涉及土壤有机碳动态与土壤微生物生物量对植被恢复的响应，属于用户关注的陆地生态系统碳循环与土壤有机质形成机制，且涉及植被-土壤反馈，主题高度契合。",
+      "related_papers": [
+        {
+          "title": "Soil carbon 4 per mille",
+          "link": "https://doi.org/10.1016/j.geoderma.2017.01.002",
+          "venue": "Geoderma",
+          "year": 2017
+        },
+        {
+          "title": "Negative emissions—Part 2: Costs, potentials and side effects",
+          "link": "https://doi.org/10.1088/1748-9326/aabf9f",
+          "venue": "Environmental Research Letters",
+          "year": 2018
+        },
+        {
+          "title": "Possibilities for carbon sequestration in tropical and subtropical soils",
+          "link": "https://doi.org/10.1046/j.1365-2486.1997.00062.x",
+          "venue": "Global Change Biology",
+          "year": 1997
+        },
+        {
+          "title": "Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics",
+          "link": "https://doi.org/10.1126/sciadv.1501639",
+          "venue": "Science Advances",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03183-2/MediaObjects/41559_2026_3183_Fig1_HTML.png",
+      "scientific_question": "造林（在非林地上植树）与再造林（恢复已丧失的森林覆盖）对土壤碳储量和土壤微生物生物量在长期尺度上有何不同响应，以及全球尺度的潜在动态如何？",
+      "contributions_limitations": "该研究通过整合长期数据，量化了造林和再造林后土壤碳与微生物生物量的长期增长响应，并进行了全球预测，为森林恢复的碳汇功能提供了重要的综合证据。局限性在于摘要未说明是否区分了不同气候带、树种和土壤类型的响应差异，也未讨论微生物生物量增加是否必然转化为稳定的土壤有机碳（如MAOM vs POM的分配），这些细节需查看原文。",
+      "follow_up_research": "可进一步研究造林/再造林后土壤碳增长的稳定性——即新固定的碳有多少进入矿物结合态有机质（MAOM）等长期碳库，多少以颗粒态有机质（POM）形式存在而可能被扰动释放。此外，可将大型食草动物的引入（重野化）作为造林后管理变量，探究动物介导的养分循环如何调节土壤碳积累速率。",
+      "next_step_perspective": "该研究为理解植被恢复对土壤碳的长期影响提供了全球综合证据，可作为用户研究重野化背景下土壤碳动态的基线对照。特别值得注意的是微生物生物量与土壤碳的耦合响应，这提示在重野化研究中应同时监测微生物群落功能（而非仅多样性）以解释碳积累机制。Manuel Delgado-Baquerizo团队在土壤微生物与碳循环方面的深厚积累，可为用户提供土壤微生物功能与碳稳定化路径的方法框架。",
+      "why_this_journal": "推测该文能发表于Nature Ecology & Evolution，因其在全球尺度上综合了造林 vs 再造林对土壤碳和微生物生物量的差异化长期响应，兼具大尺度数据整合的新颖性和对全球碳汇政策的直接意义。",
+      "author_profile": {
+        "name": "Manuel Delgado-Baquerizo",
+        "institution": "Instituto de Recursos Naturales y Agrobiología de Sevilla",
+        "intro": "Manuel Delgado-Baquerizo就职于西班牙塞维利亚自然资源与农业生物学研究所（IRNAS-CSIC），是土壤微生物生态学与全球变化领域的知名学者。从其历史论文看，他长期关注土壤生物多样性对生态系统多功能性的贡献、土壤碳氮磷养分循环、微生物群落与碳循环的关联，以及极端环境土壤功能。这些研究方向与用户关注的土壤有机质形成机制、微生物群落功能对碳循环的影响高度相关，其方法学（如全球尺度土壤微生物数据集构建）可为用户研究重野化对土壤碳的影响提供重要参考。",
+        "other_works": [
+          {
+            "title": "Contrasting contributions of plant and soil biodiversity to multifunctionality in a subtropical forest decades after restoration",
+            "year": "2026",
+            "journal": "Forest Ecology and Management",
+            "doi": "10.1016/j.foreco.2026.123890"
+          },
+          {
+            "title": "Soil management and minerals drive organic carbon, nutrients and total soil element concentrations in rainfed cereal soils of Spain",
+            "year": "2026",
+            "journal": "Agriculture Ecosystems & Environment",
+            "doi": "10.1016/j.agee.2026.110522"
+          },
+          {
+            "title": "Microbial diversity loss constrains plastic degradation in marine sediments",
+            "year": "2026",
+            "journal": "Environmental Pollution",
+            "doi": "10.1016/j.envpol.2026.128440"
+          },
+          {
+            "title": "Moss biocrusts sustain snowpack and soil function in cold deserts",
+            "year": "2026",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-026-02056-4"
+          },
+          {
+            "title": "Carbohydrate-active enzymes of soil prophages enhance global carbon cycling potential",
+            "year": "2026",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-026-75907-8"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6521-2026",
+      "title": "Introducing shrubs enhances the representation of high-latitude vegetation and carbon cycling in the ORCHIDEE land surface model",
+      "link": "https://doi.org/10.5194/bg-23-6521-2026",
+      "summary": "Introducing shrubs enhances the representation of high-latitude vegetation and carbon cycling in the ORCHIDEE land surface model\n                    Anna Kirchner, Efrén López-Blanco, Vladislav Bastrikov, Sebastiaan Luyssaert, Philippe Peylin, and Anne Sofie Lansø\n                        Biogeosciences, 23, 6521–6555, https://doi.org/10.5194/bg-23-6521-2026, 2026\n                        Shrubs need to be represented in climate models, because they shape the response of high-latitude regions to climate change. We added three shrub types to the ORCHIDEE (Organising Carbon and Hydrology In Dynamic Ecosystems) land surface model using Arctic observations. Including shrubs reduces simulated biomass and carbon uptake, improving model agreement with measurements. This is a simple, observation-based approach and an important step towards better representations of shrubs and their climate change response in models.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-18T09:16:23+02:00",
+      "doi": "10.5194/bg-23-6521-2026",
+      "affiliation": "Aarhus University (Aarhus, Denmark)",
+      "title_zh": "引入灌木改善了ORCHIDEE陆面模型对高纬度植被与碳循环的模拟",
+      "relevance_score": 6,
+      "key_conclusion": "灌木需要被纳入气候模型，因为它们决定了高纬度地区对气候变化的响应。研究在ORCHIDEE模型中添加了三种灌木类型，纳入灌木后模拟生物量和碳吸收降低，改善了模型与观测的一致性。",
+      "relevance_note": "该文涉及陆面模型（ORCHIDEE）中植被功能型与碳循环的改进，属于用户关注的DGVM开发与生态系统模型改进方向，但研究聚焦高纬度灌木而非大型食草动物或土壤有机碳机制。",
+      "related_papers": [
+        {
+          "title": "ORCHIDEE-MICT (v8.4.1), a land surface model for the high latitudes: model description and validation",
+          "link": "https://doi.org/10.5194/gmd-11-121-2018",
+          "venue": "Geoscientific model development",
+          "year": 2018
+        },
+        {
+          "title": "Global Carbon Budget 2023",
+          "link": "https://doi.org/10.5194/essd-15-5301-2023",
+          "venue": "Earth system science data",
+          "year": 2023
+        },
+        {
+          "title": "Carbon cycling under 300 years of land use change: Importance of the secondary vegetation sink",
+          "link": "https://doi.org/10.1029/2007gb003176",
+          "venue": "Global Biogeochemical Cycles",
+          "year": 2009
+        },
+        {
+          "title": "Carbon–concentration and carbon–climate feedbacks in CMIP6 models and their comparison to CMIP5 models",
+          "link": "https://doi.org/10.5194/bg-17-4173-2020",
+          "venue": "Biogeosciences",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6521/2026/bg-23-6521-2026-avatar-web.png",
+      "scientific_question": "如何在ORCHIDEE陆地表面模型中引入灌木功能型，以更准确地表征高纬度地区的植被组成及其对碳循环的模拟？",
+      "contributions_limitations": "该研究在ORCHIDEE模型中新增了三种基于北极观测的灌木类型，发现纳入灌木后模拟的生物量和碳吸收降低，改善了模型与观测的一致性，为高纬度植被-碳循环建模提供了简洁的观测驱动方案。局限性在于摘要未说明该方案是否适用于其他灌木类型或区域，也未讨论灌木扩张与气候变暖之间的反馈机制在模型中的表征是否充分。",
+      "follow_up_research": "可进一步将此灌木模块耦合到动态植被模型中模拟灌木扩张对高纬度土壤碳储量的长期影响，特别是冻土碳的响应。此外，可探索将大型食草动物对灌木的啃食压力纳入模型，因为重野化中大型食草动物可通过抑制灌木扩张来改变植被组成和碳循环。",
+      "next_step_perspective": "该研究直接关联用户的兴趣点(5)——DGVM的开发与验证。具体启发在于：如果用户希望模拟重野化（如大型食草动物引入）对生态系统碳循环的影响，就需要DGVM能够表征灌木/草本/乔木的功能型竞争，而这篇文章提供了一个将观测数据转化为模型参数的可操作范例。此外，高纬度地区的灌木动态与大型食草动物的互作（如放牧抑制灌木扩张）是一个值得在模型中探索的研究空白。",
+      "why_this_journal": "推测该文能发表于Biogeosciences，因其直接回应了陆地表面模型中高纬度植被表征不足这一关键模型偏差问题，方法简洁（基于观测添加功能型）且改进了模拟精度，符合该期刊聚焦生物地球化学循环建模的定位。",
+      "author_profile": {
+        "name": "Anna Kirchner",
+        "institution": null,
+        "intro": "Anna Kirchner的具体机构信息在提供的数据中未给出。从摘要和合作者（如Sebastiaan Luyssaert、Philippe Peylin等ORCHIDEE模型核心开发者）推测，她可能隶属于欧洲从事陆地表面模型开发的团队。由于缺乏详细的其他论文列表，无法进一步分析其研究方向。建议用户关注其后续工作，特别是灌木动态与碳循环建模的关联。",
+        "other_works": []
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6557-2026",
+      "title": "Evaluating vegetation indices for monitoring drought and post-drought declines in European forest productivity",
+      "link": "https://doi.org/10.5194/bg-23-6557-2026",
+      "summary": "Evaluating vegetation indices for monitoring drought and post-drought declines in European forest productivity\n                    Julia Kelly, Tim Schacherl, Lars Eklundh, Hongxiao Jin, Anne Klosterhalfen, Alexander Knohl, and Natascha Kljun\n                        Biogeosciences, 23, 6557–6582, https://doi.org/10.5194/bg-23-6557-2026, 2026\n                        It is vital to monitor drought-related reductions in forest productivity over large areas. We tested the ability of 12 satellite variables to capture negative drought impacts on forest productivity across 18 European forest sites. Surface temperature worked best across all forest sites and droughts. After drought, forest productivity recovered faster than some commonly-used satellite variables, meaning use of these variables may underestimate forests’ resilience to drought.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-18T09:16:23+02:00",
+      "doi": "10.5194/bg-23-6557-2026",
+      "affiliation": "Lund University (Lund, Sweden)",
+      "title_zh": "评估植被指数用于监测欧洲森林生产力的干旱与干旱后下降",
+      "relevance_score": 6,
+      "key_conclusion": "研究测试了12个卫星变量在18个欧洲森林站点捕捉干旱对森林生产力负面影响的能力，地表温度在所有森林站点和干旱事件中表现最佳。干旱后森林生产力恢复速度快于某些常用卫星变量，使用这些变量可能低估森林对干旱的恢复力。",
+      "relevance_note": "该文研究极端干旱事件对欧洲森林生产力的影响及恢复，属于用户关注的极端气候事件对碳循环的扰动方向，且研究地点在欧洲（明确加分），与陆地生态系统碳循环相关。",
+      "related_papers": [
+        {
+          "title": "A review of environmental droughts: Increased risk under global warming?",
+          "link": "https://doi.org/10.1016/j.earscirev.2019.102953",
+          "venue": "Earth-Science Reviews",
+          "year": 2019
+        },
+        {
+          "title": "Evaluating theories of drought‐induced vegetation mortality using a multimodel–experiment framework",
+          "link": "https://doi.org/10.1111/nph.12465",
+          "venue": "New Phytologist",
+          "year": 2013
+        },
+        {
+          "title": "A Remotely Sensed Global Terrestrial Drought Severity Index",
+          "link": "https://doi.org/10.1175/bams-d-11-00213.1",
+          "venue": "Bulletin of the American Meteorological Society",
+          "year": 2012
+        },
+        {
+          "title": "Seasonal Drought Prediction: Advances, Challenges, and Future Prospects",
+          "link": "https://doi.org/10.1002/2016rg000549",
+          "venue": "Reviews of Geophysics",
+          "year": 2018
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6557/2026/bg-23-6557-2026-avatar-web.png",
+      "scientific_question": "哪些卫星植被指数能最有效地监测欧洲森林生产力对干旱及干旱后恢复的响应？",
+      "contributions_limitations": "该研究在18个欧洲森林站点系统评估了12种卫星变量对干旱导致的生产力下降的捕捉能力，发现地表温度表现最佳，并揭示干旱后森林生产力恢复速度快于某些常用卫星指数，意味着这些指数可能低估森林恢复力。局限性在于摘要未说明研究是否涵盖了不同森林类型（如针叶林 vs 阔叶林）和管理方式的差异，样本站点空间分布的代表性也需查看原文评估。",
+      "follow_up_research": "可进一步研究极端干旱事件（如连续多年干旱）后森林生产力的恢复轨迹是否呈非线性，以及哪些生态系统属性（如物种组成、土壤水分条件）决定了恢复速度。此外，可探索将卫星监测与地面碳通量数据结合，建立干旱后碳源/碳汇转换的早期预警指标。",
+      "next_step_perspective": "该研究对用户的兴趣点(1)——极端气候事件对碳循环的扰动——提供了直接方法参考：如果用户关注重野化生态系统在干旱后的恢复力，可以借鉴其多卫星变量比较框架。特别值得注意的是，地表温度优于传统植被指数这一发现，提示用户在监测放牧/重野化对生态系统生产力和恢复力的影响时，不应仅依赖NDVI等植被指数，而应纳入热红外信息。此外，其欧洲森林站点的研究地点符合用户对欧洲研究的偏好。",
+      "why_this_journal": "推测该文能发表于Biogeosciences，因其系统评估了多种卫星变量在监测干旱对森林生产力影响中的适用性，对生态遥感和碳循环监测具有直接方法学意义，且覆盖18个欧洲站点增强了结论的稳健性。",
+      "author_profile": {
+        "name": "Julia Kelly",
+        "institution": "Lund University",
+        "intro": "Julia Kelly就职于瑞典隆德大学（Lund University），主要利用遥感手段研究森林生态系统对气候变化的响应。从其发表论文看，她关注森林生产力监测、干旱影响评估、生物源挥发性有机物排放以及森林管理的社会生态维度。这些研究与用户关注的极端气候事件对碳循环的扰动（兴趣点1）以及欧洲研究地点（兴趣点6）直接相关，其遥感方法框架可应用于重野化背景下生态系统恢复力的监测。",
+        "other_works": [
+          {
+            "title": "Evaluating vegetation indices for monitoring drought and post-drought declines in European forest productivity",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6557-2026"
+          },
+          {
+            "title": "Biogenic volatile organic compound (BVOC) emissions from boreal forest floors during the first years after wildfire: effects of stand age and management",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-5083"
+          },
+          {
+            "title": "Supplementary material to \"Biogenic volatile organic compound (BVOC) emissions from boreal forest floors during the first years after wildfire: effects of stand age and management\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-5083-supplement"
+          },
+          {
+            "title": "Socio-ecological knowledge increases support for selective logging after forest fire in Sweden",
+            "year": "2026",
+            "journal": "Fire Ecology",
+            "doi": "10.1186/s42408-026-00559-4"
+          },
+          {
+            "title": "Evaluating vegetation indices for monitoring drought and post-drought declines in European forest productivity",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1822"
+          }
+        ]
+      }
+    }
+  ]
 }
