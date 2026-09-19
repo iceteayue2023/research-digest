@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T10:00:38.160788+00:00",
-  "count": 13,
+  "generated_at": "2026-09-19T15:13:20.270412+00:00",
+  "count": 11,
   "posts": [
     {
       "handle": "pnas.org",
@@ -122,28 +122,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New Comment 👇\n\n\"Spaceborne and airborne scanning technologies are revolutionizing the study of tropical forest understories. As these datasets rapidly expand, we argue for systematic ethical consideration of whether and how to reveal the information they contain\": www.nature.com/articles/s41...",
-      "created_at": "2026-09-16T14:37:10.984Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvneh5s7e22y",
-      "external_title": "The ethical costs of remotely sensing tropical forest understories - Nature Ecology & Evolution",
-      "external_description": "Spaceborne and airborne scanning technologies are revolutionizing the study of tropical forest understories. As these datasets rapidly expand, we argue for systematic ethical consideration of whether ...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03187-y",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiafww7g4bk4xxcmjkhsosbadxnhpdsnwri6kzrdglgnprda3ql33m"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "New Comment 👇\n\n\"Spaceborne and airborne scanning technologies are revolutionizing the study of tropical forest understories. As these datasets rapidly expand, we argue for systematic ethical consideration of whether and how to reveal the information they contain\": www.nature.com/articles/s41...",
-      "created_at": "2026-09-16T14:37:10.984Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mvneh5s7e22y",
-      "external_title": "The ethical costs of remotely sensing tropical forest understories - Nature Ecology & Evolution",
-      "external_description": "Spaceborne and airborne scanning technologies are revolutionizing the study of tropical forest understories. As these datasets rapidly expand, we argue for systematic ethical consideration of whether ...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03187-y",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiafww7g4bk4xxcmjkhsosbadxnhpdsnwri6kzrdglgnprda3ql33m"
     }
   ]
 }
