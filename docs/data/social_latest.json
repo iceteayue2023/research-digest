@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-18T15:41:30.027059+00:00",
-  "count": 15,
+  "generated_at": "2026-09-19T03:54:15.879963+00:00",
+  "count": 13,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "The Atlantic Meridional Overturning Circulation (AMOC) shapes the Earth’s climate, but climate warming is weakening it. Marine sediments show that an AMOC slowdown during the last glacial period increased sediment discharge from South America. In PNAS: https://ow.ly/svNJ50ZP8IG",
+      "created_at": "2026-09-19T01:00:13.354809475Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvti73ogog2t",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Can a simple #geoengineering approach restore dwindling #Arctic #ice? Promising early studies face challenges related to scale, funding, and oversight. In PNAS Front Matter: https://ow.ly/jLSN50ZP9rU\n\n#ClimateChange #seawater #clouds #energy",
+      "created_at": "2026-09-18T17:00:47.822249977Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mvsnft2ehc2p",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The EU is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations\n\ngo.nature.com/4rteUQH",
+      "created_at": "2026-09-18T16:25:54.551Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mvslhgbege27",
+      "external_title": "Europe pushes for space independence amid geopolitical rifts",
+      "external_description": "The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.",
+      "external_uri": "https://go.nature.com/4rteUQH",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicthxzdo7gfgzkxbnf3xyy6lv4wv6xohace5tehuccojintbh6hri"
+    },
     {
       "handle": "science.org",
       "author_name": "Science Magazine",
@@ -111,61 +144,6 @@
       "external_description": "Spaceborne and airborne scanning technologies are revolutionizing the study of tropical forest understories. As these datasets rapidly expand, we argue for systematic ethical consideration of whether ...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03187-y",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiafww7g4bk4xxcmjkhsosbadxnhpdsnwri6kzrdglgnprda3ql33m"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "True or false: Soil must be opaque.\n\nFalse! Researchers have developed a transparent, soil-like material that allows them to observe microbial communities around plant roots. Dig into the science in the latest PNAS Science Sessions: https://ow.ly/7V4L50ZNWfx",
-      "created_at": "2026-09-15T17:00:42.233354961Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mvl3yv3eq32p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "From biological science and biodiversity to climate and nature finance, these speakers bring a breadth of expertise you won't want to miss.\n\nGet your tickets to the Annual Meeting today 👇\n",
-      "created_at": "2026-09-15T15:44:57.724726219Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvkxrgt5js2y",
-      "external_title": "BES Annual Meeting 2026 - British Ecological Society",
-      "external_description": "This year's BES Annual Meeting will take place in Birmingham - 14-17 Dec. Find out about key dates for registration and abstract submission",
-      "external_uri": "https://www.britishecologicalsociety.org/content/bes-annual-meeting-2026/",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreifflisabquo5fga5qopny3utv2ohs5od2wishxezx4bda7cmuv4li"
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "⭐Gretta Pecl - Marine ecologist at the Institute for Marine and Antarctic Studies and Director of the Centre for Marine Socioecology at the University of Tasmania.",
-      "created_at": "2026-09-15T15:44:52.782813275Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvkxrc4crm2x",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "⭐Mahesh Sankaran - Professor of Ecology at the National Centre for Biological Sciences, TIFR.",
-      "created_at": "2026-09-15T15:44:50.941909417Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvkxrae5sv2a",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "britishecologicalsociety.org",
-      "author_name": "British Ecological Society",
-      "text": "⭐E.J. Milner-Gulland - Professor of Biodiversity at the University of Oxford and Director of the Interdisciplinary Centre for Conservation Science in the Department of Biology.",
-      "created_at": "2026-09-15T15:44:42.933791447Z",
-      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mvkxqypu4b2l",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
