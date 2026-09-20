@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-19T15:13:20.270412+00:00",
+  "generated_at": "2026-09-20T04:11:24.327858+00:00",
   "count": 11,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "A 2021 analysis of the bones of Pompeii victims reveals residents scarfed a lot of seafood and olive oil, confirming historians’ estimates that average Romans consumed 20 liters (more than 5 gallons) of the oil each year. https://scim.ag/4hc21Wi #ScienceMagArchives",
+      "created_at": "2026-09-19T20:01:01.604249493Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mvvhwyom6e26",
+      "external_title": "Ancient Roman vacationers consumed gobs of olive oil and fish, volcano victims reveal",
+      "external_description": "Remains from Herculaneum hold dietary surprises",
+      "external_uri": "https://scim.ag/4hc21Wi",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreifzq3ghf7yjd7atoefgee3vdfwpyomjmweri3opcgx4xlyrqpsddu"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -107,17 +118,6 @@
       "text": "As forests burn, can we replant trees ready for a warmer world? --This week on the @science.org podcast, w/ Katie Langin www.science.org/content/podc...",
       "created_at": "2026-09-17T18:35:19.989Z",
       "post_link": "https://bsky.app/profile/science.org/post/3mvqc7wcrsc26",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natclimate.nature.com",
-      "author_name": "Center for Advanced Study in the Behavioral Sciences, Stanford",
-      "text": "NEW ARTICLE @natclimate.nature.com by CASBS fellow @climatefran.bsky.social & collaborators, \"New Labour and Agricultural Damages Improve Climate Cost Estimates,\" quantifies the cost of heat stress on global labor. \n\nAccess the paper and read Fran's detailed explanatory thread below ⬇️",
-      "created_at": "2026-09-16T23:24:12.279Z",
-      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mvobvk7m7c2x",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
