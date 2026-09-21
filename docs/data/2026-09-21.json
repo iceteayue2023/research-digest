@@ -1,6 +1,207 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T04:09:03.196724+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-21T11:33:33.694808+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/gmd-19-8815-2026",
+      "title": "Evaluation of the LandscapeDNDC model for drained peatland forest managements, LDNDC v1.35.2 (revision 11434)",
+      "link": "https://doi.org/10.5194/gmd-19-8815-2026",
+      "summary": "Evaluation of the LandscapeDNDC model for drained peatland forest managements, LDNDC v1.35.2 (revision 11434)\n                    Ahmed Hasan Shahriyer, David Kraus, Tiina Markkanen, Mika Korkiakoski, Helena Rautakoski, Suvi Orttenvuori, Yao Gao, Henri Kajasilta, Rüdiger Grote, Annalea Lohila, and Tuula Aalto\n                        Geosci. Model Dev., 19, 8815–8838, https://doi.org/10.5194/gmd-19-8815-2026, 2026\n                        Using the process-based model LandscapeDNDC, we successfully simulated the hydrological and carbon-cycle responses of a drained peatland ecosystem under control, rotational forestry and continuous cover forestry management. The developed framework provides a valuable tool for evaluating future management scenarios and supporting the development of forest management strategies aimed at achieving climate neutrality in peatland ecosystems.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-21T13:05:04+02:00",
+      "doi": "10.5194/gmd-19-8815-2026",
+      "affiliation": "Finnish Meteorological Institute (Helsinki, Finland)",
+      "title_zh": "对排水泥炭地森林管理的LandscapeDNDC模型评估，LDNDC v1.35.2（修订版11434）",
+      "relevance_score": 6,
+      "key_conclusion": "使用过程模型LandscapeDNDC成功模拟了排水泥炭地生态系统在对照、轮伐林业和连续覆盖林业管理下的水文与碳循环响应，为评估未来管理情景和支持泥炭地气候中性森林管理策略提供了工具。",
+      "relevance_note": "该文涉及陆地生态系统碳循环的过程模型开发与验证（泥炭地碳循环对管理措施的响应），与用户关注的生态系统模型改进和碳循环主题相关；研究地点在芬兰（欧洲），但未涉及大型食草动物或重野化。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"Evaluation of the LandscapeDNDC model for drained peatland forest managements, LDNDC v1.35.2 (revision 11434)\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-5197-supplement",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/8815/2026/gmd-19-8815-2026-avatar-web.png",
+      "scientific_question": "LandscapeDNDC过程模型能否准确模拟排水泥炭地森林在对照、轮伐林业和连续覆盖林业三种管理方式下的水文过程与碳循环响应？",
+      "contributions_limitations": "该研究成功开发并验证了LandscapeDNDC在排水泥炭地森林管理情景下的模拟框架，为评估气候中性森林管理策略提供了工具，这是其核心贡献。可能的局限性在于：模型验证依赖于单一或有限站点的观测数据（芬兰站点），外推到其他泥炭地类型的适用性未知；此外摘要未说明模拟的不确定性范围及对关键参数的敏感性分析。基于现有信息推测，建议查看原文确认模型在不同气候区和泥炭地类型下的可移植性。",
+      "follow_up_research": "可进一步将LandscapeDNDC与其他陆面模型（如JSBACH-HIMMELI）在相同站点进行对比验证，评估不同过程表达对碳收支模拟的差异；也可将模型扩展到湿地恢复（rewetting）情景，模拟停止排水后碳循环的长期恢复轨迹；此外可引入放牧等生物扰动因子，检验大型食草动物对排水泥炭地碳动态的调控作用。",
+      "next_step_perspective": "这篇工作为用户提供了将过程模型应用于泥炭地管理情景的范例，尤其是连续覆盖林业（CCF）与轮伐林业对比的设计思路可启发rewilding研究中不同放牧/管理强度情景的碳循环模拟。用户若关注大型食草动物对土壤碳的影响，可考虑在DGVM中耦合食草动物模块或利用类似框架检验管理（如再野化）情景下泥炭地SOC的响应。此外，该模型对水文过程的详细刻画提示用户在rewilding研究中不可忽视土壤水分动态对碳循环的调控。",
+      "why_this_journal": "Geoscientific Model Development专注于模型开发、评估与改进，本文通过系统评估LandscapeDNDC在管理情景下的表现并公开模型版本号，符合该期刊对模型可重复性和方法透明性的要求。推测其能发表的原因在于提供了泥炭地森林管理这一相对空白的模型应用场景及清晰的评估流程。",
+      "author_profile": {
+        "name": "Tuula Aalto",
+        "institution": null,
+        "intro": "Tuula Aalto任职于芬兰气象研究所（Finnish Meteorological Institute），从历史论文看主要从事北方泥炭地和高纬度湿地生态系统碳通量（CO2和CH4）的模型模拟与大气反演研究，涉及JSBACH-HIMMELI等模型。其研究方向与用户关注的大型食草动物重野化对碳循环影响有间接关联：泥炭地作为重要的碳库，其管理（包括排水、恢复、放牧）对SOC的影响机制可为rewilding研究提供关键背景，但Aalto的工作目前不涉及动物介导过程。",
+        "other_works": [
+          {
+            "title": "The air-sea CO2 fluxes and ship CO2 emissions in the Baltic Sea during 2019–2021, using in-situ and inversion methods",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-5442"
+          },
+          {
+            "title": "Melt period methane emissions in northern high latitude wetlands are governed by the length of the period and presence of permafrost",
+            "year": "2026",
+            "journal": "Atmospheric Chemistry and Physics",
+            "doi": "10.5194/acp-26-7555-2026"
+          },
+          {
+            "title": "Ecosystem dynamics in boreal cutover peatlands restored and reused for photovoltaic production",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-11142"
+          },
+          {
+            "title": "Soil-atmosphere CH4 and CO2 fluxes of multiple peatland forests simulated with JSBACH-HIMMELI model ",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-13560"
+          },
+          {
+            "title": "Understanding how snow cover controls methane emissions in high-latitude peatlands through ecosystem modeling",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-12456"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-8801-2026",
+      "title": "Parameter estimation for land-surface models using Neural Physics",
+      "link": "https://doi.org/10.5194/gmd-19-8801-2026",
+      "summary": "Parameter estimation for land-surface models using Neural Physics\n                    Ruiyue Huang, Claire E. Heaney, and Maarten van Reeuwijk\n                        Geosci. Model Dev., 19, 8801–8814, https://doi.org/10.5194/gmd-19-8801-2026, 2026\n                        This paper uses the Neural Physics approach to determine parameters of a simple land-surface model. We show that we can only obtain a reliable parameter estimation using soil temperature measurements at more than one depth, and that latent and sensible heat fluxes cannot be differentiated. We then apply the inverse model to real urban flux tower data and show that parameters, as well as various heat fluxes, can be reliably estimated using an observed value for the effective surface albedo.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-21T13:05:04+02:00",
+      "doi": "10.5194/gmd-19-8801-2026",
+      "affiliation": "Imperial College London (London, United Kingdom)",
+      "title_zh": "利用神经物理方法进行陆面模型参数估计",
+      "relevance_score": 4,
+      "key_conclusion": "研究采用神经物理方法估计简单陆面模型的参数，发现仅用单一深度的土壤温度测量无法可靠估计参数，潜热和感热通量也无法区分；将反演模型应用于真实城市通量塔数据后，利用有效表面反照率观测值可可靠估计参数及各种热通量。",
+      "relevance_note": "该文属于陆面模型参数估计的方法学开发，与用户关注的地球系统模式/DGVM开发有间接的方法学关联，但不涉及植被碳分配、土壤有机碳或生态过程。研究机构位于英国伦敦（欧洲）。",
+      "related_papers": [
+        {
+          "title": "Climatologies at high resolution for the earth’s land surface areas",
+          "link": "https://doi.org/10.5167/uzh-139381",
+          "venue": "Zurich Open Repository and Archive (University of Zurich)",
+          "year": 2017
+        },
+        {
+          "title": "Satellite-derived land surface temperature: Current status and perspectives",
+          "link": "https://doi.org/10.1016/j.rse.2012.12.008",
+          "venue": "Remote Sensing of Environment",
+          "year": 2013
+        },
+        {
+          "title": "SWAT: Model Use, Calibration, and Validation",
+          "link": "https://doi.org/10.13031/2013.42256",
+          "venue": "Transactions of the ASABE",
+          "year": 2012
+        },
+        {
+          "title": "Non-Parametric Estimation of a Multivariate Probability Density",
+          "link": "https://doi.org/10.1137/1114019",
+          "venue": "Theory of Probability and Its Applications",
+          "year": 1969
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/8801/2026/gmd-19-8801-2026-avatar-web.png",
+      "scientific_question": "能否利用Neural Physics（神经物理）方法从有限的观测数据中可靠地估计陆面模型参数，以及哪些观测变量对参数可辨识性至关重要？",
+      "contributions_limitations": "该研究展示了Neural Physics在陆面模型参数估计中的应用，明确指出了一个重要限制：仅用单一深度的土壤温度无法可靠估计参数，且潜热和感热通量不可区分，这对模型标定实践有警示意义。将其成功应用于真实城市通量塔数据并借助有效表面反照率实现可靠估计，是方法上的贡献。局限性在于所用陆面模型较简单，外推到复杂DGVM（如含碳氮循环的模型）时的适用性未知；此外城市地表与自然生态系统的差异可能限制结论的可推广性。基于现有信息推测。",
+      "follow_up_research": "可将Neural Physics方法扩展到更复杂的陆面/生态系统模型（如含植被动态和碳循环的DGVM），检验在参数空间更大时方法的可扩展性；也可探索将土壤有机碳分层观测数据作为约束条件来估计碳循环相关参数；此外可研究在多站点（跨气候区）联合约束下参数的可辨识性是否提高。",
+      "next_step_perspective": "用户若在DGVM中开发或验证大型食草动物模块，将面临新增参数（如放牧强度、采食速率、凋落物输入改变等）的标定问题。这篇文章的核心启示是：参数估计需要多深度/多变量的观测约束，仅靠单一变量（如仅SOC总量）可能无法可靠区分多个参数的贡献。用户在设计rewilding模型的参数化方案和验证策略时，应提前考虑需要哪些配套观测（如多深度SOC、土壤呼吸、植被生物量等）来约束模型。",
+      "why_this_journal": "GMD欢迎将新兴机器学习方法与地球系统模型相结合的方法学论文，本文提出Neural Physics用于陆面模型参数估计属于方法创新，且明确报告了方法的适用边界（而非仅展示成功案例），符合该期刊对方法学严谨性和透明度的要求。推测其新颖性在于将物理约束融入神经网络进行参数反演。",
+      "author_profile": {
+        "name": "Maarten van Reeuwijk",
+        "institution": "Imperial College London",
+        "intro": "Maarten van Reeuwijk任职于帝国理工学院（Imperial College London），从历史论文看主要研究方向为城市边界层流体力学、城市冠层模型参数化、大涡模拟及污染物扩散，近期也涉及机器学习（U-Net）在城市风场预测中的应用。其研究聚焦于城市微气象和流体力学，与用户关注的生态系统碳循环和rewilding关联较弱，但在模型参数估计方法论上有可借鉴之处。",
+        "other_works": [
+          {
+            "title": "Parameter estimation for land-surface models using Neural Physics",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-8801-2026"
+          },
+          {
+            "title": "Multi‐scale flow analysis for scale‐aware urban canopy models",
+            "year": "2026",
+            "journal": "Quarterly Journal of the Royal Meteorological Society",
+            "doi": "10.1002/qj.70305"
+          },
+          {
+            "title": "Parameter investigation for urban surface‐energy balance: A large‐eddy simulation study",
+            "year": "2026",
+            "journal": "Quarterly Journal of the Royal Meteorological Society",
+            "doi": "10.1002/qj.70154"
+          },
+          {
+            "title": "Three-dimensional pollutant dispersion in tree-lined urban canyons: Combined wind-tunnel and LES analysis",
+            "year": "2026",
+            "journal": "Atmospheric Environment",
+            "doi": "10.1016/j.atmosenv.2025.121748"
+          },
+          {
+            "title": "Hydrodynamic coupling and retention time of inertial spheres crossing and bouncing at density interfaces",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.2139/ssrn.6447074"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6583-2026",
+      "title": "Natural wetland methane emissions simulated by ICON-XPP",
+      "link": "https://doi.org/10.5194/bg-23-6583-2026",
+      "summary": "Natural wetland methane emissions simulated by ICON-XPP\n                    Stiig Wilkenskjeld, Thomas Kleinen, Tobias Stacke, and Victor Brovkin\n                        Biogeosciences, 23, 6583–6598, https://doi.org/10.5194/bg-23-6583-2026, 2026\n                        Methane is the second most important greenhouse gas with high potential for short term reductions of human induced global warming. We model methane emissions from the most important and most uncertain natural source: wetlands. We investigate how a number of assumptions, including human impact on natural wetlands, influences the wetlands and their methane emissions. Of the tested influences we find the most important to be how humans are altering the soil surface.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-21T12:21:46+02:00",
+      "doi": "10.5194/bg-23-6583-2026",
+      "affiliation": "Max Planck Institute for Meteorology (Hamburg, Germany)",
+      "title_zh": "ICON-XPP模拟的天然湿地甲烷排放",
+      "relevance_score": 4,
+      "key_conclusion": "研究模拟了最重要且最不确定的天然甲烷来源——湿地的排放，发现所测试的影响因素中，人类如何改变土壤表面是最重要的因素。",
+      "relevance_note": "该文涉及陆地生态系统温室气体（甲烷）排放的模型模拟与人类活动影响，与用户关注的陆地碳循环有部分关联，但不涉及土壤有机碳、食草动物或重野化。团队位于德国汉堡（欧洲）。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"Natural wetland methane emissions simulated by ICON-XPP\"",
+          "link": "https://doi.org/10.5194/egusphere-2025-3601-supplement",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "Comment on egusphere-2025-3601",
+          "link": "https://doi.org/10.5194/egusphere-2025-3601-rc1",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "Comment on egusphere-2025-3601",
+          "link": "https://doi.org/10.5194/egusphere-2025-3601-rc2",
+          "venue": null,
+          "year": 2025
+        },
+        {
+          "title": "Reply on RC2",
+          "link": "https://doi.org/10.5194/egusphere-2025-3601-ac2",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6583/2026/bg-23-6583-2026-avatar-web.png",
+      "scientific_question": "ICON-XPP地球系统模型能否合理模拟全球天然湿地甲烷排放，以及包括人类活动对湿地土壤表面的改变在内的多种假设如何影响模拟结果？",
+      "contributions_limitations": "该研究利用ICON-XPP模型模拟了全球天然湿地甲烷排放，并系统检验了多种假设对结果的影响，发现人类对土壤表面的改变是最重要的影响因素，这一发现对理解人为活动与自然源温室气体排放的交互有重要贡献。局限性可能在于：摘要未说明模型验证的观测数据来源和时空覆盖度；湿地甲烷排放的模拟本身不确定性很大，模型间差异显著；此外‘人类改变土壤表面’的具体机制和参数化方式摘要未详述。基于现有信息推测，建议查看原文。",
+      "follow_up_research": "可进一步量化大型食草动物通过踩踏、粪便输入和植被改变对湿地土壤表面性质及甲烷排放的影响，将动物介导过程纳入湿地甲烷模型；也可将模型应用于欧洲温带湿地的恢复情景，评估rewetting和放牧管理对甲烷与CO2收支的净效应；此外可结合多模型比较（如与JSBACH-HIMMELI对比）来缩小湿地甲烷排放估算的不确定性。",
+      "next_step_perspective": "该研究提示用户在rewilding研究中不能只关注CO2/SOC，还需考虑CH4等非CO2温室气体的反馈，尤其是在湿地和泥炭地生态系统中引入大型食草动物可能改变土壤表面状态（如践踏导致土壤压实、改变水位），进而影响甲烷排放。用户可将‘动物如何改变土壤表面’作为一个关键机制变量纳入碳循环评估框架，这既是一个研究空白也是与zoogeochemistry领域的交叉点。",
+      "why_this_journal": "Biogeosciences专注于生物地球化学循环过程的研究，本文利用地球系统模型研究全球湿地甲烷排放这一重要且不确定的自然源，并检验人类影响因素的相对重要性，符合该期刊对全球尺度生物地球化学过程研究的定位。推测其发表原因在于提供了对湿地甲烷模拟不确定性的系统评估。",
+      "author_profile": {
+        "name": "Stiig Wilkenskjeld",
+        "institution": "Max Planck Institute for Meteorology",
+        "intro": "Stiig Wilkenskjeld任职于马克斯·普朗克气象研究所（Max Planck Institute for Meteorology），主要从事地球系统模型中的湿地甲烷排放模拟。其研究方向与用户关注的碳循环和生态系统功能有交集，尤其是在湿地碳动态模拟方面，但目前未涉及大型食草动物或rewilding主题。",
+        "other_works": []
+      }
+    }
+  ]
 }
