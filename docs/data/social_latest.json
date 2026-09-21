@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-21T11:33:33.695713+00:00",
-  "count": 5,
+  "generated_at": "2026-09-21T17:43:12.923816+00:00",
+  "count": 3,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose, says Manasi Kumar\n\ngo.nature.com/4cWRHQT",
+      "created_at": "2026-09-21T11:52:01.507Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mvznkguse72k",
+      "external_title": "Losing your way of life to climate change matters — and we need a way to measure it",
+      "external_description": "Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose.",
+      "external_uri": "https://go.nature.com/4cWRHQT",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifnisr4d5g7tugtkwvhtiwhc4noveu2b3axikxf26fbbomrpin6ta"
+    },
     {
       "handle": "science.org",
       "author_name": "Science Magazine",
@@ -23,39 +34,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Can a simple #geoengineering approach restore dwindling #Arctic #ice? Promising early studies face challenges related to scale, funding, and oversight. In PNAS Front Matter: https://ow.ly/jLSN50ZP9rU\n\n#ClimateChange #seawater #clouds #energy",
-      "created_at": "2026-09-18T17:00:47.822249977Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mvsnft2ehc2p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "The EU is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations\n\ngo.nature.com/4rteUQH",
-      "created_at": "2026-09-18T16:25:54.551Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mvslhgbege27",
-      "external_title": "Europe pushes for space independence amid geopolitical rifts",
-      "external_description": "The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations.",
-      "external_uri": "https://go.nature.com/4rteUQH",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicthxzdo7gfgzkxbnf3xyy6lv4wv6xohace5tehuccojintbh6hri"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "As the planet warms and forests burn, can we replant them with new trees that will thrive in the decades ahead? https://scim.ag/4hunVpf",
-      "created_at": "2026-09-18T13:25:02.554105102Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mvsbdyta6s24",
-      "external_title": "As forests burn, can we replant trees ready for a warmer world?",
-      "external_description": "Ecologists testing “assisted migration” are pushing seedlings to the limits—and finding that location matters",
-      "external_uri": "https://scim.ag/4hunVpf",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreiefzo2m6wtm4yfe5xfdzudtq5dyme3pmeemfjzosqkom6vy5k4nce"
     }
   ]
 }

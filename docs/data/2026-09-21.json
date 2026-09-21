@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
-  "generated_at": "2026-09-21T11:33:33.694808+00:00",
-  "count": 3,
+  "generated_at": "2026-09-21T17:43:12.922787+00:00",
+  "count": 4,
   "articles": [
     {
       "id": "https://doi.org/10.5194/gmd-19-8815-2026",
@@ -64,6 +64,89 @@
             "year": "2026",
             "journal": null,
             "doi": "10.5194/egusphere-egu26-12456"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6639-2026",
+      "title": "Plant belowground traits indicate increased plant-mediated methane transport along a peatland permafrost thaw gradient",
+      "link": "https://doi.org/10.5194/bg-23-6639-2026",
+      "summary": "Plant belowground traits indicate increased plant-mediated methane transport along a peatland permafrost thaw gradient\n                    Tiia M. Määttä, Samantha H. Bosman, Jeffrey P. Chanton, Patrick Crill, Suzanne B. Hodgkins, Jalisha Theanutti Kallingal, Rachel M. Wilson, Ruth Varner, and Avni Malhotra\n                        Biogeosciences, 23, 6639–6670, https://doi.org/10.5194/bg-23-6639-2026, 2026\n                        Permafrost thaw can lead to vegetation shifts and higher methane (CH4) emissions in peatlands. However, plant belowground controls of these emissions are uncertain. We investigated how plant roots and rhizomes contribute to CH4 emissions along a peatland permafrost thaw gradient. We found that low herbaceous plant root tissue density and high rhizome surface area were associated with higher CH4 emissions. This indicated increased plant-mediated CH4 transport with thaw.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-21T14:21:29+02:00",
+      "doi": "10.5194/bg-23-6639-2026",
+      "affiliation": "University of Zurich (Zurich, Switzerland)",
+      "title_zh": "植物地下性状指示泥炭地永久冻土融化梯度上植物介导的甲烷传输增加",
+      "relevance_score": 6,
+      "key_conclusion": "在泥炭地永久冻土融化梯度上，低草本植物根系组织密度和高根状茎表面积与更高的甲烷排放相关，表明冻土融化后植物介导的甲烷传输增强。",
+      "relevance_note": "该研究涉及陆地生态系统碳循环（甲烷排放）和植物-土壤反馈，与用户关注的植被-土壤相互作用及碳循环有一定关联；研究地点在欧洲（瑞士团队，样地应在北极/亚北极泥炭地），但核心聚焦甲烷而非土壤有机碳或大型食草动物，故给中等分数。",
+      "related_papers": [
+        {
+          "title": "Hydrological feedbacks in northern peatlands",
+          "link": "https://doi.org/10.1002/eco.1493",
+          "venue": "Ecohydrology",
+          "year": 2014
+        },
+        {
+          "title": "The unseen iceberg: plant roots in arctic tundra",
+          "link": "https://doi.org/10.1111/nph.13003",
+          "venue": "New Phytologist",
+          "year": 2014
+        },
+        {
+          "title": "Peatland vascular plant functional types affect methane dynamics by altering microbial community structure",
+          "link": "https://doi.org/10.1111/1365-2745.12413",
+          "venue": "Journal of Ecology",
+          "year": 2015
+        },
+        {
+          "title": "Impacts of climate-induced permafrost degradation on vegetation: A review",
+          "link": "https://doi.org/10.1016/j.accre.2020.07.002",
+          "venue": "Advances in Climate Change Research",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6639/2026/bg-23-6639-2026-avatar-web.png",
+      "scientific_question": "在泥炭地永久冻土融化梯度上，植物地下性状（根系组织密度、根状茎表面积等）如何调控植物介导的甲烷传输，进而影响甲烷排放？",
+      "contributions_limitations": "该研究将植物地下功能性状与生态系统尺度的甲烷排放联系起来，揭示了冻土融化过程中植被变化对CH4传输的潜在调控机制，为理解冻土碳循环反馈提供了新视角。局限性可能在于：仅沿单一冻土融化梯度开展研究，样本量和空间代表性有限；植物介导传输与微生物产生CH4的相对贡献可能未被完全解耦；基于现有摘要信息推测，具体的方法细节和统计控制变量尚不明确，建议查看原文。",
+      "follow_up_research": "可在更多泥炭地类型和更广泛的冻土融化阶段验证根系性状-CH4传输关系的普适性；结合同位素标记或根系排除实验定量区分植物传输与微生物产生的贡献；将地下性状纳入地球系统模式中的湿地CH4模块以改进排放预测。",
+      "next_step_perspective": "虽然该研究聚焦CH4而非SOC，但植物地下性状（根系组织密度、根状茎表面积）调控土壤气体传输和根际过程的思路可类比到重野化场景中：大型食草动物改变植被群落结构后，新优势植物的地下性状如何影响土壤碳过程值得借鉴。此外，该研究来自欧洲（瑞典Stordalen泥炭地）且涉及冻土融化这一极端气候扰动对碳循环的影响，与用户关注的碳循环扰动主题相关。",
+      "why_this_journal": "Biogeosciences专注于生物地球化学过程研究，该文将植物功能性状与温室气体排放机制耦合，符合期刊对跨尺度生物-地球化学交互研究的定位。推测其因方法整合性强（性状测量+通量观测）和冻土碳反馈这一热点议题而获发表。",
+      "author_profile": {
+        "name": "Tiia M. Määttä",
+        "institution": "Finnish Meteorological Institute",
+        "intro": "Tiia M. Määttä目前就职于芬兰气象研究所（Finnish Meteorological Institute），从历史论文标题看，其研究主要聚焦泥炭地/湿地生态系统的甲烷通量、植物根系性状对碳气体传输的调控以及冻土融化对碳循环的影响。这些方向与用户关注的生态系统碳循环及极端气候扰动对碳过程的影响有交集，尤其在植物-土壤反馈调控碳气体交换的机制层面具有参考价值。",
+        "other_works": [
+          {
+            "title": "Plant belowground traits indicate increased plant-mediated methane transport along a peatland permafrost thaw gradient",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6639-2026"
+          },
+          {
+            "title": "A cross-site comparison of ecosystem- and plot-scale methane fluxes across multiple timescales",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-4379-2026"
+          },
+          {
+            "title": "Plant belowground traits reflect increased plant-mediated methane transport along a peatland permafrost thaw gradient",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-17197"
+          },
+          {
+            "title": "Plant belowground traits indicate increased plant-mediated methane transport along a peatland permafrost thaw gradient",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-467"
+          },
+          {
+            "title": "A cross-site comparison of ecosystem- and plot-scale methane fluxes from wetlands and uplands",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-5023"
           }
         ]
       }
