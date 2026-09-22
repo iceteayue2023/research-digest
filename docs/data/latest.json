@@ -1,6 +1,84 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T04:05:50.115570+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-22T10:39:34.891153+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41477-026-02418-1",
+      "title": "Long-term biomass growth unimpeded by short-term photosynthetic decoupling",
+      "link": "https://www.nature.com/articles/s41477-026-02418-1",
+      "summary": "Nature Plants, Published online: 22 September 2026; doi:10.1038/s41477-026-02418-1Using long-term observations and global vegetation models, Nguyen et al. show that the decoupling between photosynthesis and plant wood growth reported in recent studies neither implies sink limitation nor constrains long-term biomass growth.",
+      "journal": "Nature Plants",
+      "published": "2026-09-22T00:00:00+00:00",
+      "doi": "10.1038/s41477-026-02418-1",
+      "affiliation": null,
+      "title_zh": "长期生物量生长不受短期光合作用解耦的阻碍",
+      "relevance_score": 7,
+      "key_conclusion": "利用长期观测和全球植被模型，Nguyen等人表明近期研究中报道的光合作用与木材生长之间的短期解耦既不意味着库限制，也不制约长期生物量增长。",
+      "relevance_note": "该文涉及植物碳分配与碳循环过程，与用户关注的植物碳分配策略及碳循环主题相关，尤其是光合产物向生物量分配的长期动态。",
+      "related_papers": [
+        {
+          "title": "Daily stem diameter variations can predict the canopy water status of mature temperate trees",
+          "link": "https://doi.org/10.1093/treephys/tpy023",
+          "venue": "Tree Physiology",
+          "year": 2018
+        },
+        {
+          "title": "Ionizing Radiation and Life",
+          "link": "https://doi.org/10.1089/ast.2010.0528",
+          "venue": "Astrobiology",
+          "year": 2011
+        },
+        {
+          "title": "Landscape-Scale Variability in the Composition, Growth and Pattern of Alpine Treeline Vegetation",
+          "link": "",
+          "venue": "QSpace (Queen's University Library)",
+          "year": 2017
+        },
+        {
+          "title": "Climate Warming Alters Nutrient Storage in Seasonally Dry Forests: Insights From a 2,300 m Elevation Gradient",
+          "link": "https://doi.org/10.1029/2022gb007429",
+          "venue": "Global Biogeochemical Cycles",
+          "year": 2022
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41477-026-02418-1/MediaObjects/41477_2026_2418_Fig1_HTML.png",
+      "scientific_question": "近期研究报告的光合作用与木质生长之间的短期解耦，是否意味着汇限制（sink limitation）或会制约长期的生物量增长？",
+      "contributions_limitations": "该研究利用长期观测和全球植被模型，论证短期解耦不意味着库限制、也不阻碍长期生物量增长，为碳循环-植被生长耦合关系提供了重要的大尺度证据。基于现有信息推测：摘要未列出具体数据或观测时长，且全球植被模型自身的结构不确定性可能影响结论的稳健性，建议查看原文核实模型与观测的匹配度。",
+      "follow_up_research": "可进一步探究不同气候带、不同生活型（尤其草地与大型食草动物主导的生态系统）中光合-生长解耦的时间尺度差异；并检验土壤碳输入（如根系分泌物、凋落物）与木质生长速率是否同步，以连接植被-土壤碳反馈。",
+      "next_step_perspective": "该文为用户提供了评估大型食草动物重野化后植被碳获取是否受库限制的理论框架——若长期生物量增长不受短期光合解耦制约，则重野化导致的放牧压力变化可能通过改变碳分配（而非总光合）影响土壤碳。方法上，其长期观测+全球植被模型结合的策略可启发用户将DGVM与草地放牧情景耦合来验证碳循环响应。",
+      "why_this_journal": "推测：Nature Plants偏好具有领域广泛意义的植物-全球变化耦合研究，该文挑战了近期关于光合-生长解耦的主流担忧，结合长期观测与多模型验证，具备范式修正潜力。",
+      "author_profile": {
+        "name": "Ngoc B. Nguyen",
+        "institution": "University of California, Berkeley",
+        "intro": "Ngoc B. Nguyen就职于加州大学伯克利分校，从历史论文看主要关注陆地碳循环与植被-气候反馈，如干旱区土壤碳排放、植被碳利用效率、茎呼吸的热驯化等，均以涡度协方差和模型为工具。这些工作与用户关注的生态系统碳循环、DGVM开发验证高度相关，其方法可借鉴到重野化对碳通量影响的研究中。",
+        "other_works": [
+          {
+            "title": "Long-term biomass growth unimpeded by short-term photosynthetic decoupling",
+            "year": "2026",
+            "journal": "Nature Plants",
+            "doi": "10.1038/s41477-026-02418-1"
+          },
+          {
+            "title": "Widespread underestimation of rain-induced soil carbon emissions from global drylands",
+            "year": "2025",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-025-01754-9"
+          },
+          {
+            "title": "Global variation in vegetation carbon use efficiency inferred from eddy covariance observations",
+            "year": "2025",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-025-02753-0"
+          },
+          {
+            "title": "Thermal acclimation of stem respiration implies a weaker carbon-climate feedback",
+            "year": "2025",
+            "journal": "Science",
+            "doi": "10.1126/science.adr9978"
+          }
+        ]
+      }
+    }
+  ]
 }

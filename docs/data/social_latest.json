@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-22T04:05:50.115910+00:00",
-  "count": 4,
+  "generated_at": "2026-09-22T10:39:34.891547+00:00",
+  "count": 5,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Planting trees on non-forest land and re-establishing lost forest cover may have different ecological effects. Here the authors quantify long-term responses of soil carbon and microbial biomass following afforestation and reforestation, and predict long-term dynamics 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-09-22T08:09:41.250Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mw3rlrv3zc2t",
+      "external_title": "Afforestation and reforestation support coupled gains in soil life and carbon storage worldwide - Nature Ecology & Evolution",
+      "external_description": "Planting trees on non-forest land and re-establishing lost forest cover may have different ecological effects. Here the authors quantify long-term responses of soil carbon and microbial biomass follow...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03183-2",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihwvj6cvxvgwytski6prbmoylev4bne5ippde7qaijrfrbeadh4me"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
