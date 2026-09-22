@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-21T17:43:12.923816+00:00",
-  "count": 3,
+  "generated_at": "2026-09-22T04:05:50.115910+00:00",
+  "count": 4,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Read highlights in this week’s issue of PNAS: We explore peptide structure in Venus-like conditions, analyze heel-strike biomechanics in humans and chimpanzees, and examine bacteria endemic to Antarctic soils. https://ow.ly/fymh50ZPKev",
+      "created_at": "2026-09-21T23:00:18.905824742Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mw2svh77ut2x",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Explore The Ecology of Segregation in Cities Special Feature to see how redlining and other forms of urban segregation have shaped city ecologies, including studies on tree canopy, flood exposure, biodiversity, and infrastructure resilience. In PNAS: https://ow.ly/XYYh50ZPHNs",
+      "created_at": "2026-09-21T19:00:29.822776609Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mw2fimxa672k",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -23,17 +45,6 @@
       "external_description": "Remains from Herculaneum hold dietary surprises",
       "external_uri": "https://scim.ag/4hc21Wi",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreifzq3ghf7yjd7atoefgee3vdfwpyomjmweri3opcgx4xlyrqpsddu"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "The Atlantic Meridional Overturning Circulation (AMOC) shapes the Earth’s climate, but climate warming is weakening it. Marine sediments show that an AMOC slowdown during the last glacial period increased sediment discharge from South America. In PNAS: https://ow.ly/svNJ50ZP8IG",
-      "created_at": "2026-09-19T01:00:13.354809475Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mvti73ogog2t",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
