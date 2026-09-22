@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
-  "generated_at": "2026-09-22T10:39:34.891153+00:00",
-  "count": 1,
+  "generated_at": "2026-09-22T16:08:25.189361+00:00",
+  "count": 3,
   "articles": [
     {
       "id": "https://www.nature.com/articles/s41477-026-02418-1",
@@ -79,6 +79,100 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03203-1",
+      "title": "Aurochs admixture",
+      "link": "https://www.nature.com/articles/s41559-026-03203-1",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 22 September 2026; doi:10.1038/s41559-026-03203-1Aurochs admixture",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-22T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03203-1",
+      "affiliation": null,
+      "title_zh": "原牛基因渗入",
+      "relevance_score": 6,
+      "key_conclusion": "该文标题和摘要信息有限，仅提示涉及原牛（Aurochs）的基因渗入研究。",
+      "relevance_note": "原牛是大型食草动物重野化的重要目标物种，其遗传学和种群历史与大型食草动物重野化主题相关；但摘要信息过于简略，无法判断是否涉及土壤碳或生态系统功能。",
+      "related_papers": [
+        {
+          "title": "Genetic origin, admixture and population history of aurochs (Bos primigenius) and primitive European cattle",
+          "link": "https://doi.org/10.1038/hdy.2016.79",
+          "venue": "Heredity",
+          "year": 2016
+        },
+        {
+          "title": "Worldwide Patterns of Ancestry, Divergence, and Admixture in Domesticated Cattle",
+          "link": "https://doi.org/10.1371/journal.pgen.1004254",
+          "venue": "PLoS Genetics",
+          "year": 2014
+        },
+        {
+          "title": "Cattle Genomics: Aurochs Admixture in East Asia",
+          "link": "https://doi.org/10.1002/aro2.102",
+          "venue": "Animal Research and One Health",
+          "year": 2025
+        },
+        {
+          "title": "Genome sequencing of the extinct Eurasian wild aurochs, Bos primigenius, illuminates the phylogeography and evolution of cattle",
+          "link": "https://doi.org/10.1186/s13059-015-0790-2",
+          "venue": "Genome biology",
+          "year": 2015
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "原牛（Aurochs，已灭绝的野牛祖先）的基因渗入在其现存近缘家牛或相关种群中的分布与程度如何，可能揭示了怎样的进化与驯化历史？",
+      "contributions_limitations": "基于现有信息推测，该研究可能通过古DNA或基因组数据揭示原牛与其他牛类之间的基因流动，对理解重野化中'原牛替代'（如Heck牛）的遗传基础有参考价值。但摘要仅显示标题，无法判断其是否涉及生态功能、土壤碳或欧洲具体地点，信息严重不足，建议查看原文。",
+      "follow_up_research": "可进一步研究原牛基因渗入是否影响了家牛或重野化牛群的放牧行为、食性选择及对植被-土壤碳循环的差异化影响。也可结合古生态数据，评估原牛灭绝前后欧洲草原生态系统碳储量的变化。",
+      "next_step_perspective": "若原牛基因渗入与放牧性状相关，可为重野化中选用何种牛种（如遗传上更接近原牛的品系）提供依据，进而影响放牧强度对土壤有机碳的效应。这提示在重野化实验中应关注大型食草动物的遗传背景对生态系统功能的潜在调控。",
+      "why_this_journal": "Nature Ecology & Evolution 偏好发表具有广泛进化生物学或生态学意义的基因组学研究，推测该文因结合古DNA与进化适应，对理解灭绝物种的遗传遗产有新颖性。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41579-026-01378-9",
+      "title": "After the rain in biocrusts",
+      "link": "https://www.nature.com/articles/s41579-026-01378-9",
+      "summary": "Nature Reviews Microbiology, Published online: 22 September 2026; doi:10.1038/s41579-026-01378-9This study shows that rewetting activates a small, distinct subset of dryland biocrust bacteria, with mature communities showing greater microbial activity independent of light conditions.",
+      "journal": "Nature Reviews Microbiology",
+      "published": "2026-09-22T00:00:00+00:00",
+      "doi": "10.1038/s41579-026-01378-9",
+      "affiliation": null,
+      "title_zh": "生物结皮在雨后",
+      "relevance_score": 5,
+      "key_conclusion": "研究表明，重新湿润会激活旱地生物结皮中一小部分独特的细菌类群，成熟群落在不依赖光照条件下表现出更高的微生物活性。",
+      "relevance_note": "该文涉及土壤微生物群落对水分变化的响应，与用户关注的土壤有机质形成机制、微生物群落结构对生态系统功能的影响有一定关联，但研究系统为旱地生物结皮而非大型食草动物或土壤碳循环。",
+      "related_papers": [
+        {
+          "title": "Effects of biocrust on soil erosion and organic carbon losses under natural rainfall",
+          "link": "https://doi.org/10.1016/j.catena.2016.06.017",
+          "venue": "CATENA",
+          "year": 2016
+        },
+        {
+          "title": "What is a biocrust? A refined, contemporary definition for a broadening research community",
+          "link": "https://doi.org/10.1111/brv.12862",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2022
+        },
+        {
+          "title": "Biocrusts positively affect the soil water balance in semiarid ecosystems",
+          "link": "https://doi.org/10.1002/eco.1719",
+          "venue": "Ecohydrology",
+          "year": 2015
+        },
+        {
+          "title": "Dynamics of organic carbon losses by water erosion after biocrust removal",
+          "link": "https://doi.org/10.2478/johh-2014-0033",
+          "venue": "Journal of Hydrology and Hydromechanics",
+          "year": 2014
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41579-026-01378-9/MediaObjects/41579_2026_1378_Figa_HTML.png",
+      "scientific_question": "在干旱生态系统中，重新湿润（如降雨事件）如何影响生物结皮中细菌群落的活性，以及成熟群落与早期群落在响应机制上有何差异？",
+      "contributions_limitations": "该研究揭示了旱地生物结皮对水分脉冲的微生物响应，并强调成熟群落在无光条件下仍保持较高活性，这对理解干旱区碳循环的微生物驱动有贡献。局限性在于摘要未提及土壤有机碳或放牧影响，且生物结皮与大型食草动物重野化的直接关联尚不明确。",
+      "follow_up_research": "可探究大型食草动物（如重野化引入的牛、马）的践踏与啃食如何改变生物结皮的成熟度及微生物群落对湿润事件的响应。进一步可量化这些微生物活性变化对土壤有机碳积累或释放的影响。",
+      "next_step_perspective": "该文提示在重野化对土壤碳循环的影响中，应关注生物结皮这一常被忽视的组分；放牧强度可能通过破坏结皮成熟度来改变微生物对降水的响应，从而间接影响碳通量。方法上，可借鉴其湿润实验与微生物活性测定来设计野外原位模拟降雨实验。",
+      "why_this_journal": "Nature Reviews Microbiology 通常发表领域内高影响力的综述或亮点评论，推测该文作为研究亮点被推荐，因其揭示了旱地微生物对气候脉冲的快速响应机制，具有广谱生态学意义。",
+      "author_profile": null
     }
   ]
 }
