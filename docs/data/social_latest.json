@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-22T16:08:25.189967+00:00",
+  "generated_at": "2026-09-23T04:02:09.452686+00:00",
   "count": 7,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Environmental, social, and governance (ESG) ratings fail to systematically penalize companies for deforestation. Incorporating quantifiable spatial deforestation data—such as data from remote sensing—into assessments could help inform ratings. In PNAS: https://ow.ly/rW0550ZPSs9",
+      "created_at": "2026-09-22T19:00:26.034426794Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mw4vxgllpv2p",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -67,17 +78,6 @@
       "external_description": "Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose.",
       "external_uri": "https://go.nature.com/4cWRHQT",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifnisr4d5g7tugtkwvhtiwhc4noveu2b3axikxf26fbbomrpin6ta"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "A 2021 analysis of the bones of Pompeii victims reveals residents scarfed a lot of seafood and olive oil, confirming historians’ estimates that average Romans consumed 20 liters (more than 5 gallons) of the oil each year. https://scim.ag/4hc21Wi #ScienceMagArchives",
-      "created_at": "2026-09-19T20:01:01.604249493Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mvvhwyom6e26",
-      "external_title": "Ancient Roman vacationers consumed gobs of olive oil and fish, volcano victims reveal",
-      "external_description": "Remains from Herculaneum hold dietary surprises",
-      "external_uri": "https://scim.ag/4hc21Wi",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreifzq3ghf7yjd7atoefgee3vdfwpyomjmweri3opcgx4xlyrqpsddu"
     }
   ]
 }
