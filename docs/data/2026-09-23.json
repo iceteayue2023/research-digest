@@ -1,6 +1,29 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T04:02:09.452353+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-23T10:31:36.211971+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/bg-23-6671-2026",
+      "title": "Profile-wide desalinization is associated with increased deep-soil microbial biomass and reduced iron-bound carbon in coastal wetland restoration",
+      "link": "https://doi.org/10.5194/bg-23-6671-2026",
+      "summary": "Profile-wide desalinization is associated with increased deep-soil microbial biomass and reduced iron-bound carbon in coastal wetland restoration\n                    Jingwen Gao, Pengcheng Jiang, Xiaofei Ye, Xingna Lin, Xuexin Shao, Ming Wu, and Niu Li\n                        Biogeosciences, 23, 6671–6685, https://doi.org/10.5194/bg-23-6671-2026, 2026\n                        Coastal wetland restoration often removes invasive plants, but its effects on deep soil carbon are uncertain. We compared plastic mulching and deep tillage for eighteen months in an invaded wetland. Mulching reduced soil salt, increased microbial biomass in deep soil, and coincided with lower carbon and iron-bound carbon through one metre of soil. These results show that restoration methods can affect hidden deep soil carbon, so monitoring should include the whole soil profile.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-23T07:19:11+02:00",
+      "doi": "10.5194/bg-23-6671-2026",
+      "affiliation": "Chinese Academy of Forestry (Beijing, China)",
+      "title_zh": "全剖面脱盐与沿海湿地恢复中深层土壤微生物生物量增加及铁结合碳减少相关",
+      "relevance_score": 6,
+      "key_conclusion": "沿海湿地恢复中，覆膜处理降低了土壤盐分，增加了深层土壤微生物生物量，同时整个一米剖面的碳和铁结合碳降低。恢复方法可影响深层土壤碳，监测应涵盖整个土壤剖面。",
+      "relevance_note": "该文涉及土壤碳（铁结合碳）、微生物生物量与湿地恢复，与用户关注的土壤有机质形成与稳定机制及生态系统恢复有相关性，但研究地点在中国而非欧洲，且未涉及大型食草动物。",
+      "related_papers": [],
+      "image_url": "https://bg.copernicus.org/articles/23/6671/2026/bg-23-6671-2026-avatar-web.png",
+      "scientific_question": "在沿海湿地恢复过程中（清除入侵植物后），不同恢复方式（覆膜 vs 深翻）如何通过改变土壤盐分剖面，进而影响深层土壤微生物生物量、铁结合碳及整体土壤碳库？",
+      "contributions_limitations": "该研究通过对入侵湿地18个月的覆膜与深翻对比实验，揭示了剖面尺度脱盐与深层土壤微生物生物量增加及铁结合碳减少之间的关联，强调恢复方法会影响深层土壤碳，并呼吁将监测扩展到整个土壤剖面。局限性在于：实验周期仅18个月，长期碳库稳定性尚不明确；仅涉及沿海湿地单一类型，向其他生态系统（如草地、森林）的外推需谨慎；摘要未说明碳降低究竟意味着碳损失还是碳形态转化，建议查看原文。",
+      "follow_up_research": "可进一步探究：深层土壤碳降低是微生物矿化增强导致的净碳损失，还是碳向下迁移后以其他形态（如溶解有机碳）输出？延长监测时间以评估深层碳库的长期命运；比较不同脱盐路径（覆膜 vs 深翻）对铁结合碳稳定机制的差异化影响；将剖面尺度碳-盐-微生物耦合关系纳入碳循环模型。",
+      "next_step_perspective": "该研究提示：在评估重野化或恢复对土壤有机碳的影响时，不能仅关注表层，必须纳入深层土壤（乃至一米以下）的碳动态。这与用户关注的放牧/大型食草动物重野化场景类似——大型动物的踩踏、粪尿输入可能改变土壤盐分与水分剖面，进而影响深层微生物与铁结合碳，值得作为新的监测维度。铁结合碳这一碳组分与矿物结合态有机质（MAOM）概念相关，可为用户提供区分POM/MAOM形成路径的新视角。",
+      "why_this_journal": "推测：Biogeosciences聚焦生物地球化学过程，该研究将湿地恢复、土壤盐分、微生物生物量与铁结合碳等跨尺度过程整合，具备过程机制层面的新颖性，且剖面尺度的视角对碳循环监测有方法学意义，符合该期刊对元素循环与生态系统功能的定位。",
+      "author_profile": null
+    }
+  ]
 }
