@@ -1,7 +1,7 @@
 {
   "date": "2026-09-23",
-  "generated_at": "2026-09-23T10:31:36.211971+00:00",
-  "count": 1,
+  "generated_at": "2026-09-23T15:57:49.544378+00:00",
+  "count": 2,
   "articles": [
     {
       "id": "https://doi.org/10.5194/bg-23-6671-2026",
@@ -24,6 +24,64 @@
       "next_step_perspective": "该研究提示：在评估重野化或恢复对土壤有机碳的影响时，不能仅关注表层，必须纳入深层土壤（乃至一米以下）的碳动态。这与用户关注的放牧/大型食草动物重野化场景类似——大型动物的踩踏、粪尿输入可能改变土壤盐分与水分剖面，进而影响深层微生物与铁结合碳，值得作为新的监测维度。铁结合碳这一碳组分与矿物结合态有机质（MAOM）概念相关，可为用户提供区分POM/MAOM形成路径的新视角。",
       "why_this_journal": "推测：Biogeosciences聚焦生物地球化学过程，该研究将湿地恢复、土壤盐分、微生物生物量与铁结合碳等跨尺度过程整合，具备过程机制层面的新颖性，且剖面尺度的视角对碳循环监测有方法学意义，符合该期刊对元素循环与生态系统功能的定位。",
       "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6687-2026",
+      "title": "Using deep learning to assimilate sun-induced fluorescence satellite observations in the ISBA land surface model",
+      "link": "https://doi.org/10.5194/bg-23-6687-2026",
+      "summary": "Using deep learning to assimilate sun-induced fluorescence satellite observations in the ISBA land surface model\n                    Pierre Vanderbecken, Jasmin Vural, Oscar Rojas-Muñoz, Sébastien Garrigues, Bertrand Bonan, Cédric Bacour, Uwe Rascher, Bastian Siegmann, Patricia de Rosnay, and Jean-Christophe Calvet\n                        Biogeosciences, 23, 6687–6703, https://doi.org/10.5194/bg-23-6687-2026, 2026\n                        New satellite observations are used to improve our understanding of regional-scale vegetation. Innovative artificial intelligence methods are employed to combine the available information. The effectiveness of this approach is evaluated using independent observations. The results show that agricultural practices such as irrigation can be modelled more accurately.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-23T16:07:52+02:00",
+      "doi": "10.5194/bg-23-6687-2026",
+      "affiliation": "Météo-France (Toulouse, France); Centre National de la Recherche Scientifique (Paris, France); Université de Toulouse (Toulouse, France)",
+      "title_zh": "利用深度学习在ISBA陆面模型中同化日光诱导荧光卫星观测",
+      "relevance_score": 6,
+      "key_conclusion": "研究利用深度学习将日光诱导荧光卫星观测同化进ISBA陆面模型，改善了区域尺度植被的理解与模拟，结果表明灌溉等农业管理措施可以被更准确地模拟。",
+      "relevance_note": "该研究涉及陆面模型改进与植被遥感数据同化，与用户关注的地球系统模式中动态植被模块开发与验证、生态系统模型改进方向相关；但未涉及土壤有机碳、重野化或大型食草动物，且研究团队虽为法国机构，研究地点属性不够明确，故给予中等相关性分数。",
+      "related_papers": [],
+      "image_url": "https://bg.copernicus.org/articles/23/6687/2026/bg-23-6687-2026-avatar-web.png",
+      "scientific_question": "如何利用深度学习方法将日光诱导荧光（SIF）卫星观测同化进ISBA陆面模型，以改善区域尺度植被动态（包括灌溉等农业管理措施）的模拟精度？",
+      "contributions_limitations": "该研究提出了一种创新性的深度学习同化框架，将SIF卫星观测融入陆面模型，并利用独立观测验证了其有效性，证明灌溉等农业实践可以被更准确模拟。局限性在于：摘要未说明该方法在非农业生态系统（如草地、森林）中的适用性，也未讨论深度学习模型的可解释性和在不同气候区的泛化能力，建议查看原文了解具体误差指标和验证尺度。",
+      "follow_up_research": "可探索将SIF同化框架扩展到放牧草地生态系统的碳通量模拟，评估大型食草动物活动对SIF信号和植被生产力的影响；也可将此方法应用于欧洲典型rewilding站点，检验模型对植被恢复过程中碳循环动态的捕捉能力。",
+      "next_step_perspective": "该研究展示了将遥感观测与深度学习结合来改进陆面模型的技术路线，对用户关注的DGVM开发和验证有直接方法论启发——可借鉴其同化策略来改进模型中植被-土壤碳反馈的模拟精度。此外，研究地点在欧洲（法国Météo-France团队，ISBA模型主要面向欧洲），与用户对欧洲研究地点的偏好契合。",
+      "why_this_journal": "Biogeosciences专注于生物地球化学过程的跨尺度研究，该文将AI方法、卫星遥感与陆面模型交叉融合，方法新颖且具有区域到全球尺度的应用潜力，符合期刊对方法论创新和跨学科整合的定位（推测）。",
+      "author_profile": {
+        "name": "Pierre Vanderbecken",
+        "institution": "Météo-France",
+        "intro": "Pierre Vanderbecken任职于法国Météo-France，主要从事陆面模型数据同化研究，尤其是将卫星观测（如SIF、叶面积指数）融入ISBA/LDAS-Monde系统。其工作聚焦于利用AI和遥感改进区域尺度植被与干旱监测，与用户关注的DGVM开发、生态系统模型改进以及欧洲研究地点高度相关。",
+        "other_works": [
+          {
+            "title": "Regional land surface variable reanalysis: LDAS-ARRA",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/ems2026-238"
+          },
+          {
+            "title": "Towards near-real-time Leaf Area Index assimilation in LDAS-Monde",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/ems2026-239"
+          },
+          {
+            "title": "Supplementary material to \"Using artificial intelligence to monitor live fuel moisture content across France, based on a high-resolution land surface analysis\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1247-supplement"
+          },
+          {
+            "title": "Using artificial intelligence to monitor live fuel moisture content across France, based on a high-resolution land surface analysis",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1247"
+          },
+          {
+            "title": "Assimilation of solar‐induced fluorescence satellite observations in the European Centre for Medium‐Range Weather Forecasts integrated forecast system",
+            "year": "2026",
+            "journal": "Quarterly Journal of the Royal Meteorological Society",
+            "doi": "10.1002/qj.70111"
+          }
+        ]
+      }
     }
   ]
 }

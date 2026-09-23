@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-23T10:31:36.212403+00:00",
-  "count": 7,
+  "generated_at": "2026-09-23T15:57:49.545239+00:00",
+  "count": 8,
   "posts": [
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Call for abstracts for the Resilient Landscapes and Seas symposium is now open 📃\n\nReturning for the second year, we are working with the Ecology Continuity Trust to bring together experts interested in large-scale land, freshwater, coastal and marine transformation.",
+      "created_at": "2026-09-23T12:03:41.535377629Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mw6p55epde23",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nepal has applied for US$20 million, to help pay for some of the costs of immediate recovery and to help prepare for future climate events\n\ngo.nature.com/3UWGNoh",
+      "created_at": "2026-09-23T11:03:59.392Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mw6lsf7ji724",
+      "external_title": "Nepal floods pose biggest test yet for UN climate loss and damage fund",
+      "external_description": "Countries should not have to wait months to receive relatively small grants for responding to the immediate impact of extreme weather.",
+      "external_uri": "https://go.nature.com/3UWGNoh",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicckkjbuyoud6exy4ex3vkj22ju5hggw7fovb4dzpap265qvczow4"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -67,17 +89,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose, says Manasi Kumar\n\ngo.nature.com/4cWRHQT",
-      "created_at": "2026-09-21T11:52:01.507Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mvznkguse72k",
-      "external_title": "Losing your way of life to climate change matters — and we need a way to measure it",
-      "external_description": "Climate losses extend beyond property and income. Policymakers need ways to assess what people value, experience and ultimately stand to lose.",
-      "external_uri": "https://go.nature.com/4cWRHQT",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifnisr4d5g7tugtkwvhtiwhc4noveu2b3axikxf26fbbomrpin6ta"
     }
   ]
 }
