@@ -1,8 +1,91 @@
 {
   "date": "2026-09-24",
-  "generated_at": "2026-09-24T03:58:22.019276+00:00",
-  "count": 2,
+  "generated_at": "2026-09-24T10:49:20.727328+00:00",
+  "count": 5,
   "articles": [
+    {
+      "id": "https://doi.org/10.5194/esd-17-1315-2026",
+      "title": "Ocean dynamics amplify remote warming effects of reforestation",
+      "link": "https://doi.org/10.5194/esd-17-1315-2026",
+      "summary": "Ocean dynamics amplify remote warming effects of reforestation\n                    Pierre Etienne Banville, Alexander J. MacIsaac, and Kirsten Zickfeld\n                        Earth Syst. Dynam., 17, 1315–1339, https://doi.org/10.5194/esd-17-1315-2026, 2026\n                        Reforestation is a key strategy for tackling climate change, but forests influence climate beyond carbon storage, and some effects can cause warming in distant regions, offsetting their cooling benefits. Using a global climate model, we studied how oceans mediate these distant effects over centuries. We found that ocean processes amplify the warming in distant regions, particularly at high latitudes, highlighting the importance of considering the full long-term climate response of reforestation.",
+      "journal": "Earth System Dynamics",
+      "published": "2026-09-24T11:16:32+02:00",
+      "doi": "10.5194/esd-17-1315-2026",
+      "affiliation": "Simon Fraser University (Burnaby, Canada)",
+      "title_zh": "海洋动力学放大了再造林远程增温效应",
+      "relevance_score": 6,
+      "key_conclusion": "再造林虽是应对气候变化的关键策略，但森林除碳储存外还通过生物物理过程影响气候，某些效应可在遥远地区造成增温从而抵消其降温效益；全球气候模型模拟表明，海洋过程放大了遥远地区（尤其高纬度）的增温效应，凸显了考虑再造林全长期气候响应的必要性。",
+      "relevance_note": "该文涉及造林/再造林对气候系统的远程生物物理效应和碳-气候反馈，与用户关注的陆地生态系统碳循环及植被-气候互作相关，但未涉及重野化或放牧-土壤碳机制。",
+      "related_papers": [
+        {
+          "title": "Remote Sensing of Mangrove Ecosystems: A Review",
+          "link": "https://doi.org/10.3390/rs3050878",
+          "venue": "Remote Sensing",
+          "year": 2011
+        },
+        {
+          "title": "Climate change, reforestation/afforestation, and urbanization impacts on evapotranspiration and streamflow in Europe",
+          "link": "https://doi.org/10.5194/hess-23-3631-2019",
+          "venue": "Hydrology and earth system sciences",
+          "year": 2019
+        },
+        {
+          "title": "Enhanced weathering strategies for stabilizing climate and averting ocean acidification",
+          "link": "https://doi.org/10.1038/nclimate2882",
+          "venue": "Nature Climate Change",
+          "year": 2015
+        },
+        {
+          "title": "The Unseen Effects of Deforestation: Biophysical Effects on Climate",
+          "link": "https://doi.org/10.3389/ffgc.2022.756115",
+          "venue": "Frontiers in Forests and Global Change",
+          "year": 2022
+        }
+      ],
+      "image_url": "https://esd.copernicus.org/articles/17/1315/2026/esd-17-1315-2026-avatar-web.png",
+      "scientific_question": "再造林通过生物物理过程（如反照率改变、蒸散变化）在遥远地区产生的增温效应，如何被海洋动力学过程调节和放大？",
+      "contributions_limitations": "该研究利用全球气候模型，揭示了海洋过程对再造林远程增温效应的放大机制，特别是高纬度地区的增温。贡献在于强调了再造林气候效应的时空非局部性和长期性。局限性在于这是一项建模研究，其结果依赖于模型对海洋-大气耦合过程的参数化精度；且概要未提及是否考虑了不同造林情景或物种组成的影响，基于现有信息推测。",
+      "follow_up_research": "未来可将海洋介导的远程效应对不同再造林策略（如原生林恢复 vs. 人工林）进行区分评估；也可将生物物理效应与碳储存效益进行更精细的空间权衡分析，特别是在欧洲温带和北方森林区域。",
+      "next_step_perspective": "这篇研究提醒用户：在评估重野化对碳循环和气候的影响时，不能仅关注局地碳收支，还需考虑植被变化通过大气和海洋环流产生的远程生物物理效应。方法上，其全球气候模型框架可为用户思考大型食草动物改变植被结构后如何级联影响区域气候提供类比思路。",
+      "why_this_journal": "Earth System Dynamics专注于地球系统各圈层相互作用的研究，该文探讨了海洋-大气-陆地植被的跨圈层耦合效应，具有明显的跨学科性和地球系统科学意义，符合期刊定位。",
+      "author_profile": {
+        "name": "Kirsten Zickfeld",
+        "institution": null,
+        "intro": "Kirsten Zickfeld就职于加拿大西蒙弗雷泽大学（Simon Fraser University），其研究聚焦于气候-碳循环反馈、CO2移除的气候响应以及造林/再造林的气候效应。从历史论文看，她擅长利用地球系统模型评估大规模植被变化对气候的长期影响，这与用户关注的陆地生态系统碳循环及基于自然的解决方案的气候效应评估高度相关。",
+        "other_works": [
+          {
+            "title": "Ocean dynamics amplify remote warming effects of reforestation",
+            "year": "2026",
+            "journal": "Earth System Dynamics",
+            "doi": "10.5194/esd-17-1315-2026"
+          },
+          {
+            "title": "Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO2 emissions",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6211-2026"
+          },
+          {
+            "title": "Scenario dependence of biogeochemical and biogeophysical effects of reforestation",
+            "year": "2026",
+            "journal": "Environmental Research: Climate",
+            "doi": "10.1088/2752-5295/ae7201"
+          },
+          {
+            "title": "Irreversible climate changes driven by degree-years of temperature overshoot",
+            "year": "2026",
+            "journal": "Communications Earth & Environment",
+            "doi": "10.1038/s43247-026-03761-z"
+          },
+          {
+            "title": "Global and Regional Hydroclimatic Responses to Alternative Global Reforestation Pathways",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-2620"
+          }
+        ]
+      }
+    },
     {
       "id": "https://www.nature.com/articles/s41586-026-11040-2",
       "title": "Agricultural liming is a carbon sink in the Mississippi River Basin",
@@ -168,6 +251,100 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6741-2026",
+      "title": "Balancing nitrogen use efficiency, losses and soil nitrogen depletion to evaluate national scale agri-environmental performance over 40 years",
+      "link": "https://doi.org/10.5194/bg-23-6741-2026",
+      "summary": "Balancing nitrogen use efficiency, losses and soil nitrogen depletion to evaluate national scale agri-environmental performance over 40 years\n                    Jize Jiang, Lenny H. E. Winkel, Chloé Wüst-Galley, Daniel Bretscher, Magdalena Necpalova, Andrea Stenke, and Johan Six\n                        Biogeosciences, 23, 6741–6761, https://doi.org/10.5194/bg-23-6741-2026, 2026\n                        We studied nitrogen use in Swiss agriculture for four decades using detailed data and modelling. We found that nitrogen use efficiency improved, while nitrogen losses decreased. Yet, modelling results suggested that cropland soils may lose nitrogen. The results show that policies implementation benefited productivity and reduced pollution. On the other hand, soil nitrogen balance should also be monitored, underscoring the need for integrated nitrogen management.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-24T12:20:35+02:00",
+      "doi": "10.5194/bg-23-6741-2026",
+      "affiliation": null,
+      "title_zh": "平衡氮利用效率、损失与土壤氮耗竭以评估40年国家尺度农业环境表现",
+      "relevance_score": 5,
+      "key_conclusion": "基于瑞士农业四十年详细数据和建模研究发现，氮利用效率提高、氮损失减少，但模型结果显示农田土壤可能正在损失氮；政策实施有利于生产力和减少污染，但土壤氮平衡也需监测，强调综合氮管理的必要性。",
+      "relevance_note": "该文研究农业生态系统中的氮循环与土壤养分平衡，地点在欧洲（瑞士），与用户关注的碳氮磷化学计量与养分循环主题有一定关联，但不涉及重野化、土壤有机碳或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Improving Nitrogen Use Efficiency in Crops for Sustainable Agriculture",
+          "link": "https://doi.org/10.3390/su3091452",
+          "venue": "Sustainability",
+          "year": 2011
+        },
+        {
+          "title": "Nitrogen use efficiency in rapeseed. A review",
+          "link": "https://doi.org/10.1007/s13593-016-0371-0",
+          "venue": "Agronomy for Sustainable Development",
+          "year": 2016
+        },
+        {
+          "title": "Using the USLE: Chances, challenges and limitations of soil erosion modelling",
+          "link": "https://doi.org/10.1016/j.iswcr.2019.05.004",
+          "venue": "International Soil and Water Conservation Research",
+          "year": 2019
+        },
+        {
+          "title": "Effects of global change during the 21st century on the nitrogen cycle",
+          "link": "https://doi.org/10.5194/acp-15-13849-2015",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2015
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6741/2026/bg-23-6741-2026-avatar-web.png",
+      "scientific_question": "在过去四十年中，瑞士农业的氮利用效率、氮损失和土壤氮耗竭之间的平衡如何演变？国家尺度的农业环境政策在提升生产力和减少污染方面效果如何？",
+      "contributions_limitations": "该研究整合四十年详细农业数据和模型，发现氮利用效率提升且氮损失下降，但同时揭示农田土壤可能存在氮耗竭风险。贡献在于长时序、国家尺度的综合评估框架和对土壤氮平衡的警示。局限性在于氮循环模型的不确定性较大，且概要未说明是否考虑了牲畜养殖和放牧系统在氮循环中的角色，信息不足，建议查看原文。",
+      "follow_up_research": "可进一步研究不同农业管理方式（如放牧 vs. 集约化种植）对土壤氮库长期动态的差异影响；也可将土壤氮耗竭与土壤有机碳变化耦合分析，探讨C-N耦合计量比对土壤有机质稳定性的影响。",
+      "next_step_perspective": "该文的氮平衡评估框架可为用户提供借鉴：在研究大型食草动物重野化对土壤碳的影响时，氮循环的同步变化（如放牧导致的氮再分配、氮损失途径改变）是不可忽视的耦合过程。特别是在欧洲研究地点，农业历史和氮沉降背景是理解土壤碳响应的重要上下文。",
+      "why_this_journal": "Biogeosciences关注生物地球化学循环的跨尺度研究，该文以长时序国家尺度数据结合模型评估氮循环，方法综合性强，对农业环境政策有直接指导意义，符合期刊对生物地球化学过程及其环境效应的关注。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-9063-2026",
+      "title": "Natural methane emissions feedbacks in MAGICC v. 7.6",
+      "link": "https://doi.org/10.5194/gmd-19-9063-2026",
+      "summary": "Natural methane emissions feedbacks in MAGICC v. 7.6\n                    Trevor Sloughter, Zebedee Nicholls, Gang Tang, Thomas Kleinen, Zhen Zhang, and Joeri Rogelj\n                        Geosci. Model Dev., 19, 9063–9076, https://doi.org/10.5194/gmd-19-9063-2026, 2026\n                        High resolution models of the earth system exhibit some disagreement and uncertainty on future methane emissions from natural sources, in particular wetlands, with some studies predicting wetlands alone could be very significant sources over the 21st century. Modelling these emissions as a response to global temperature is one option for simple models to approximate the climate impact of wetlands. The effect is a small increase in overall temperatures and a widening of the uncertainty range.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-24T12:44:26+02:00",
+      "doi": "10.5194/gmd-19-9063-2026",
+      "affiliation": null,
+      "title_zh": "MAGICC v7.6中的自然甲烷排放反馈",
+      "relevance_score": 4,
+      "key_conclusion": "高分辨率地球系统模型对自然来源（尤其是湿地）未来甲烷排放存在分歧和不确定性；在简单气候模型MAGICC中将自然甲烷排放建模为对全球温度的响应，会导致总体温度略微升高并扩大不确定性范围。",
+      "relevance_note": "该文涉及地球系统模型中温室气体反馈的简化建模，与用户关注的DGVM开发和生态系统模型改进有方法论上的间接联系，但不涉及碳循环、重野化或土壤有机碳。",
+      "related_papers": [
+        {
+          "title": "Global Methane Budget 2000–2020",
+          "link": "https://doi.org/10.5194/essd-17-1873-2025",
+          "venue": "Earth system science data",
+          "year": 2025
+        },
+        {
+          "title": "Analysis of present day and future OH and methane lifetime in the ACCMIP simulations",
+          "link": "https://doi.org/10.5194/acp-13-2563-2013",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2013
+        },
+        {
+          "title": "The shared socio-economic pathway (SSP) greenhouse gas concentrations and their extensions to 2500",
+          "link": "https://doi.org/10.5194/gmd-13-3571-2020",
+          "venue": "Geoscientific model development",
+          "year": 2020
+        },
+        {
+          "title": "Desert Dust, Industrialization, and Agricultural Fires: Health Impacts of Outdoor Air Pollution in Africa",
+          "link": "https://doi.org/10.1029/2018jd029336",
+          "venue": "Journal of Geophysical Research Atmospheres",
+          "year": 2019
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/9063/2026/gmd-19-9063-2026-avatar-web.png",
+      "scientific_question": "如何在简单气候模型MAGICC中表示自然甲烷排放（尤其是湿地）对全球温度的反馈，以及这一反馈对气候预估意味着什么？",
+      "contributions_limitations": "该研究在MAGICC v7.6中引入了自然甲烷排放对温度的响应机制，发现该反馈导致总体温度略微升高且不确定性范围扩大。贡献在于改进了简单气候模型中此前缺失的自然甲烷反馈模块。局限性在于湿地甲烷排放的参数化仍存在较大不确定性，且该模块可能未充分考虑植被、水文和微生物过程的复杂互作，基于现有信息推测。",
+      "follow_up_research": "未来可将动态植被模块中湿地面积和甲烷排放的模拟与DGVM更紧密耦合，特别是在大型食草动物改变湿地植被和土壤水分条件下，评估其对甲烷通量的影响。",
+      "next_step_perspective": "该文为用户提供了一个模型改进的思路：在地球系统模式中，自然温室气体排放反馈的准确表达对评估生态系统管理策略（如重野化）的气候效应至关重要。如果重野化改变湿地范围和土壤水分，这会通过甲烷反馈影响气候，用户可在DGVM开发中关注此类耦合。",
+      "why_this_journal": "Geoscientific Model Development专门发表地球系统模型的开发、评估和改进工作，该文对MAGICC模型的甲烷反馈模块进行了代码层面的改进和验证，符合期刊对模型方法学贡献的要求。",
+      "author_profile": null
     }
   ]
 }

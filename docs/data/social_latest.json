@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-09-24T03:58:22.020463+00:00",
-  "count": 10,
+  "generated_at": "2026-09-24T10:49:20.728632+00:00",
+  "count": 13,
   "posts": [
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Marsh Award for Climate Change Research - Mike Morecroft, @naturalengland.bsky.social",
+      "created_at": "2026-09-24T10:27:41.306553846Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwb2afgaha2u",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Marsh Award for Ecology - Michelle Jackson, @ox.ac.uk",
+      "created_at": "2026-09-24T10:27:39.350100981Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwb2adkjkk23",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "A study of daily activity of Drosophila species under naturalistic conditions shows that sociosexual interactions, via dopamine signalling, expand their temporal niche in a species-specific way according to their sensory ecology 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-09-24T08:07:53.899Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwasgggjzs2p",
+      "external_title": "Mating imperatives drive plasticity of the daily temporal niche in fruit flies - Nature Ecology & Evolution",
+      "external_description": "A study of daily activity of Drosophila species under naturalistic conditions shows that sociosexual interactions, via dopamine signalling, expand their temporal niche in a species-specific way accord...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03175-2",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreif25qrky4phnnbothucysxbnii3xaesevfr2nlsjagdbdjd576jke"
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Geoscience",
