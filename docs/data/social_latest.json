@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-24T16:21:21.391514+00:00",
-  "count": 14,
+  "generated_at": "2026-09-25T04:11:52.076121+00:00",
+  "count": 13,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "A global analysis of food system resilience shows that nations can do much to protect their citizens from undernourishment due to shocks such as climate extremes, conflicts, pandemics, and economic upheaval. In PNAS: https://ow.ly/sxL050ZR67G",
+      "created_at": "2026-09-24T19:00:32.862266963Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mwbwvi4ca42j",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Anya Hess",
+      "text": "Very excited to announce our paper is out in Science Advances @science.org! Our reconstructions show Pacific Walker Circulation was stronger during the Little Ice Age, consistent with projections of weakening with future warming\n\nwww.science.org/doi/10.1126/...\n@whoi.edu @rutgersupress.bsky.social",
+      "created_at": "2026-09-24T15:55:44.069Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mwbmkya5gc26",
+      "external_title": "A strong Pacific Walker Circulation during the Little Ice Age",
+      "external_description": "Reconstructions of climate over the past millennium provide context for disentangling anthropogenic forcing from natural multidecadal variability. However, the strength of the east-west tropical Pacif...",
+      "external_uri": "https://www.science.org/doi/10.1126/sciadv.aee8322",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mktolc6maypqoywh5gha2nom/bafkreihzqoo4j5r34gamtshmrm7bjfijobui5ds7utl3hrwqjzo3widgdu"
+    },
     {
       "handle": "britishecologicalsociety.org",
       "author_name": "Mike Morecroft",
@@ -80,17 +102,6 @@
       "external_thumb": null
     },
     {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Nepal has applied for US$20 million, to help pay for some of the costs of immediate recovery and to help prepare for future climate events\n\ngo.nature.com/3UWGNoh",
-      "created_at": "2026-09-23T11:03:59.392Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mw6lsf7ji724",
-      "external_title": "Nepal floods pose biggest test yet for UN climate loss and damage fund",
-      "external_description": "Countries should not have to wait months to receive relatively small grants for responding to the immediate impact of extreme weather.",
-      "external_uri": "https://go.nature.com/3UWGNoh",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicckkjbuyoud6exy4ex3vkj22ju5hggw7fovb4dzpap265qvczow4"
-    },
-    {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
       "text": "Environmental, social, and governance (ESG) ratings fail to systematically penalize companies for deforestation. Incorporating quantifiable spatial deforestation data—such as data from remote sensing—into assessments could help inform ratings. In PNAS: https://ow.ly/rW0550ZPSs9",
@@ -133,28 +144,6 @@
       "external_description": "Planting trees on non-forest land and re-establishing lost forest cover may have different ecological effects. Here the authors quantify long-term responses of soil carbon and microbial biomass follow...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03183-2",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihwvj6cvxvgwytski6prbmoylev4bne5ippde7qaijrfrbeadh4me"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Read highlights in this week’s issue of PNAS: We explore peptide structure in Venus-like conditions, analyze heel-strike biomechanics in humans and chimpanzees, and examine bacteria endemic to Antarctic soils. https://ow.ly/fymh50ZPKev",
-      "created_at": "2026-09-21T23:00:18.905824742Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mw2svh77ut2x",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Explore The Ecology of Segregation in Cities Special Feature to see how redlining and other forms of urban segregation have shaped city ecologies, including studies on tree canopy, flood exposure, biodiversity, and infrastructure resilience. In PNAS: https://ow.ly/XYYh50ZPHNs",
-      "created_at": "2026-09-21T19:00:29.822776609Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mw2fimxa672k",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
