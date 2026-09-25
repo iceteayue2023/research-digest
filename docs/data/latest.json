@@ -1,6 +1,29 @@
 {
   "date": "2026-09-25",
-  "generated_at": "2026-09-25T10:52:54.843685+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-25T16:22:01.782139+00:00",
+  "count": 1,
+  "articles": [
+    {
+      "id": "https://www.sciencedirect.com/science/article/pii/S1364815226003300",
+      "title": "FIALab: an application for analyzing, mapping, and modeling forest attributes from the U.S. Forest Inventory and Analysis database",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1364815226003300?dgcid=rss_sd_all",
+      "summary": "Publication date: Available online 24 September 2026Source: Environmental Modelling & SoftwareAuthor(s): Jianheng Zhao, Xinyuan Wei, Daniel Hayes, Adam Daigneault, Aaron Weiskittel",
+      "journal": "Environmental Modelling & Software",
+      "published": null,
+      "doi": null,
+      "affiliation": null,
+      "title_zh": "FIALab：用于分析、制图和建模美国森林调查与分析数据库森林属性的应用程序",
+      "relevance_score": 4,
+      "key_conclusion": "该文介绍FIALab这一应用程序，可从美国森林调查与分析数据库中分析、制图和建模森林属性。",
+      "relevance_note": "该文属于森林资源清查与生态系统建模工具开发，与用户关注的生态系统模型改进(DGVM)有一定间接关联，但聚焦美国森林而非欧洲，且不涉及碳循环机制或rewilding核心主题，相关性有限。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "如何开发一个集成化应用程序，用于从美国森林调查与分析（FIA）数据库中高效地分析、制图和建模森林属性？",
+      "contributions_limitations": "该文主要贡献是推出FIALab这一工具，降低FIA数据的使用门槛，整合分析、制图与建模功能。局限性在于摘要信息不足，未说明其支持的具体森林属性、建模方法、是否包含碳库估计或验证结果，建议查看原文。此外，FIA数据局限于美国，对用户关注的欧洲研究地点适用性有限。",
+      "follow_up_research": "可考虑将FIALab的框架思路拓展到欧洲国家森林调查数据（如NFI），并整合土壤有机碳库估算模块；也可探索将该类工具与动态植被模型（DGVM）耦合，用于评估大型食草动物管理下的碳循环变化。",
+      "next_step_perspective": "虽然该文不直接涉及rewilding或土壤碳，但其工具化思路对用户有方法启发：用户若需在景观尺度上评估放牧强度对森林碳的影响，可借鉴此类基于国家调查数据的自动化分析流程。研究空白在于现有工具多聚焦地上森林属性，地下土壤碳与动物介导的生物地球化学循环模块仍缺乏集成。",
+      "why_this_journal": "推测因Environmental Modelling & Software专注于环境建模软件与工具开发，FIALab作为可复用的开源或应用工具，符合该期刊对方法创新和实用性的定位。",
+      "author_profile": null
+    }
+  ]
 }
