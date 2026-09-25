@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-25T04:11:52.076121+00:00",
-  "count": 13,
+  "generated_at": "2026-09-25T10:52:54.984570+00:00",
+  "count": 17,
   "posts": [
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "🗣️OECMs in Practice: Ecology, Implementation, and Monitoring\n\nSophie Elliot and Thomas Pienkowski will discuss different experiences in identifying, developing, and evaluating OECMs across marine and terrestrial ecosystems.",
+      "created_at": "2026-09-25T10:03:16.164779673Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwdjdnmltz2u",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "🗣️ Seeing Further: Innovations in Camera Trap Ecology \n\n Organised by Fabiola Innarilli and Chris Sutherland, the session will explore emerging tools, their opportunities and limitations for effective ecological monitoring.",
+      "created_at": "2026-09-25T10:03:14.940122590Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwdjdmhawv2x",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "🗣️Beyond Forests\n\nKimberley Simpson, Jon Millett, Jess Rickenback & Elizabeth Telford will address escalating threats to open ecosystems and opportunities for resilience building and the need to prioritise it in the global environmental agenda.",
+      "created_at": "2026-09-25T10:03:13.671762099Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwdjdlbgr72q",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "🗣️ Bridging ecosystems across space\n\nOrganised by Alain Danet and Isamel Lajaaiti, the talk will explore how new developments such as food-web models, meta-ecosystem theory, and biodiversity data to understand ecosystems push ecology toward a more integrative, spatially explicit science.",
+      "created_at": "2026-09-25T10:03:08.646515411Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwdjdgh3to2m",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Thematic sessions are a core part of the BES Annual Meeting, providing a space to explore critical questions facing ecology today. \n\nThis year’s programme features exciting talks and discussions on ecological research and practice. Scroll to learn more 👇",
+      "created_at": "2026-09-25T10:03:05.529755894Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwdjddi3if2x",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -70,6 +125,17 @@
     },
     {
       "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "A study of daily activity of Drosophila species under naturalistic conditions shows that sociosexual interactions, via dopamine signalling, expand their temporal niche in a species-specific way according to their sensory ecology 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-09-24T08:07:53.899Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwasgggjzs2p",
+      "external_title": "Mating imperatives drive plasticity of the daily temporal niche in fruit flies - Nature Ecology & Evolution",
+      "external_description": "A study of daily activity of Drosophila species under naturalistic conditions shows that sociosexual interactions, via dopamine signalling, expand their temporal niche in a species-specific way accord...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03175-2",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreif25qrky4phnnbothucysxbnii3xaesevfr2nlsjagdbdjd576jke"
+    },
+    {
+      "handle": "natecoevo.nature.com",
       "author_name": "Nature Geoscience",
       "text": "September issue: A Focus on forests in a warming world alongside content on rainfall, soil carbon, Himalayan dynamics, and more \n\nwww.nature.com/ngeo/volumes...",
       "created_at": "2026-09-23T16:22:13.069Z",
@@ -122,28 +188,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Planting trees on non-forest land and re-establishing lost forest cover may have different ecological effects. Here the authors quantify long-term responses of soil carbon and microbial biomass following afforestation and reforestation, and predict long-term dynamics 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-09-22T08:09:41.250Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mw3rlrv3zc2t",
-      "external_title": "Afforestation and reforestation support coupled gains in soil life and carbon storage worldwide - Nature Ecology & Evolution",
-      "external_description": "Planting trees on non-forest land and re-establishing lost forest cover may have different ecological effects. Here the authors quantify long-term responses of soil carbon and microbial biomass follow...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03183-2",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihwvj6cvxvgwytski6prbmoylev4bne5ippde7qaijrfrbeadh4me"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Planting trees on non-forest land and re-establishing lost forest cover may have different ecological effects. Here the authors quantify long-term responses of soil carbon and microbial biomass following afforestation and reforestation, and predict long-term dynamics 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-09-22T08:09:41.250Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mw3rlrv3zc2t",
-      "external_title": "Afforestation and reforestation support coupled gains in soil life and carbon storage worldwide - Nature Ecology & Evolution",
-      "external_description": "Planting trees on non-forest land and re-establishing lost forest cover may have different ecological effects. Here the authors quantify long-term responses of soil carbon and microbial biomass follow...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03183-2",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreihwvj6cvxvgwytski6prbmoylev4bne5ippde7qaijrfrbeadh4me"
     }
   ]
 }
