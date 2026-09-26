@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-09-25T16:22:01.782773+00:00",
-  "count": 17,
+  "generated_at": "2026-09-26T04:16:32.165765+00:00",
+  "count": 21,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Katie Langin",
+      "text": "\"Should we start hedging our bets?\"\n\nA rare feature story for @science.org written by me—about research near my home in Colorado examining how to plant forests that will thrive in a world with more extreme fires and a changing climate.  \nwww.science.org/content/arti...",
+      "created_at": "2026-09-25T18:30:52.100Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mwefpcjnck2w",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Japan’s 2025 bear crisis, which produced 232 casualties, has been widely attributed to rapid population growth, but a new #ScienceAdvances study shows that a compounding breakdown of the forest’s food supply drove the surge in bear attacks. https://scim.ag/46HG5xB ",
+      "created_at": "2026-09-25T18:20:02.567907047Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mwef3x3rdg2r",
+      "external_title": "Compound food failure on a deteriorated mast system drives Japan’s bear conflict crisis",
+      "external_description": "Climate change is recognized as a key amplifier of human-wildlife conflict, yet the underlying mechanism remains poorly understood. Japan’s 2025 bear crisis, which produced 232 casualties, has been wi...",
+      "external_uri": "https://scim.ag/46HG5xB",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreicvq45svn4u7ssgx3gyyowyvjxhtllu2jri7fiegxn3a4jpvuz3py"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "An analysis of 1.3 million chemical reactions listed in patents over four decades has shown that chemists still depend heavily on hazardous solvents\n\ngo.nature.com/4rAYLsG",
+      "created_at": "2026-09-25T17:56:32.058Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mwedrw43lo25",
+      "external_title": "Chemists struggle to ditch hazardous solvents — even after decades of ‘green’ efforts",
+      "external_description": "Laboratories are still using dangerous and carbon-intensive liquids much more often than environmentally friendly ones, according to a 40-year survey of patents.",
+      "external_uri": "https://go.nature.com/4rAYLsG",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreicm5p3vbizif5sbb6vkscpwggp6wfmvbpyeomm55ilvjqr2v3uw5e"
+    },
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "Nature Climate Change",
+      "text": "Check out Nature Climate Change Sept issue\n\nContent includes\n🔍novel ecosystems \n🚆connectivity equals resilience for urban mobility\n🧪Arctic Ocean acidification and negative emissions\n🌲effect of tree hydraulic properties on range shifts\n\n& much more www.nature.com/nclimate/vol...",
+      "created_at": "2026-09-25T16:27:14.960Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mwe6sayfls2q",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Climate Change",
+      "text": "Check out Nature Climate Change Sept issue\n\nContent includes\n🔍novel ecosystems \n🚆connectivity equals resilience for urban mobility\n🧪Arctic Ocean acidification and negative emissions\n🌲effect of tree hydraulic properties on range shifts\n\n& much more www.nature.com/nclimate/vol...",
+      "created_at": "2026-09-25T16:27:14.960Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwe6sayfls2q",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -173,17 +228,6 @@
       "text": "Call for abstracts for the Resilient Landscapes and Seas symposium is now open 📃\n\nReturning for the second year, we are working with the Ecology Continuity Trust to bring together experts interested in large-scale land, freshwater, coastal and marine transformation.",
       "created_at": "2026-09-23T12:03:41.535377629Z",
       "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mw6p55epde23",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Environmental, social, and governance (ESG) ratings fail to systematically penalize companies for deforestation. Incorporating quantifiable spatial deforestation data—such as data from remote sensing—into assessments could help inform ratings. In PNAS: https://ow.ly/rW0550ZPSs9",
-      "created_at": "2026-09-22T19:00:26.034426794Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mw4vxgllpv2p",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
