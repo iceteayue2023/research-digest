@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T11:05:35.139264+00:00",
-  "count": 15,
+  "generated_at": "2026-09-27T16:15:27.586378+00:00",
+  "count": 14,
   "posts": [
     {
       "handle": "pnas.org",
@@ -155,17 +155,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Anya Hess",
-      "text": "Very excited to announce our paper is out in Science Advances @science.org! Our reconstructions show Pacific Walker Circulation was stronger during the Little Ice Age, consistent with projections of weakening with future warming\n\nwww.science.org/doi/10.1126/...\n@whoi.edu @rutgersupress.bsky.social",
-      "created_at": "2026-09-24T15:55:44.069Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mwbmkya5gc26",
-      "external_title": "A strong Pacific Walker Circulation during the Little Ice Age",
-      "external_description": "Reconstructions of climate over the past millennium provide context for disentangling anthropogenic forcing from natural multidecadal variability. However, the strength of the east-west tropical Pacif...",
-      "external_uri": "https://www.science.org/doi/10.1126/sciadv.aee8322",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mktolc6maypqoywh5gha2nom/bafkreihzqoo4j5r34gamtshmrm7bjfijobui5ds7utl3hrwqjzo3widgdu"
     }
   ]
 }
