@@ -1,8 +1,91 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T12:28:05.061615+00:00",
-  "count": 2,
+  "generated_at": "2026-09-28T19:08:26.499549+00:00",
+  "count": 4,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02103-0",
+      "title": "Microbial extracellular residues are a major source of mineral-associated soil carbon",
+      "link": "https://www.nature.com/articles/s41561-026-02103-0",
+      "summary": "Nature Geoscience, Published online: 28 September 2026; doi:10.1038/s41561-026-02103-0Microbes store carbon in soils not only through their dead cells but also through the mucus-like substances they release while alive, a previously underappreciated pathway emerging from soil surveys across China and laboratory microcosm experiments.",
+      "journal": "Nature Geoscience",
+      "published": "2026-09-28T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02103-0",
+      "affiliation": null,
+      "title_zh": "微生物胞外残留物是矿物结合态土壤碳的主要来源",
+      "relevance_score": 9,
+      "key_conclusion": "微生物不仅通过死亡细胞，还通过活着时释放的黏液状物质在土壤中储存碳，这条此前被低估的途径通过中国土壤调查和实验室微宇宙实验得到证实。",
+      "relevance_note": "该文直接涉及土壤有机质形成与稳定机制，特别是矿物结合态有机质（MAOM）的形成路径以及微生物对土壤碳储存的贡献，与用户核心研究方向（土壤有机碳）及相邻领域（土壤有机质形成与稳定机制、微生物群落对生态系统功能的影响）高度相关。",
+      "related_papers": [
+        {
+          "title": "Microbial control over carbon cycling in soil",
+          "link": "https://doi.org/10.3389/fmicb.2012.00348",
+          "venue": "Frontiers in Microbiology",
+          "year": 2012
+        },
+        {
+          "title": "Soil Microorganisms Mediating Phosphorus Availability Update on Microbial Phosphorus",
+          "link": "https://doi.org/10.1104/pp.111.175448",
+          "venue": "PLANT PHYSIOLOGY",
+          "year": 2011
+        },
+        {
+          "title": "Microbial Extracellular Polymeric Substances: Ecological Function and Impact on Soil Aggregation",
+          "link": "https://doi.org/10.3389/fmicb.2018.01636",
+          "venue": "Frontiers in Microbiology",
+          "year": 2018
+        },
+        {
+          "title": "The M icrobial E fficiency‐ M atrix S tabilization ( MEMS ) framework integrates plant litter decomposition with soil organic matter stabilization: do labile plant inputs form stable soil organic matter?",
+          "link": "https://doi.org/10.1111/gcb.12113",
+          "venue": "Global Change Biology",
+          "year": 2012
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02103-0/MediaObjects/41561_2026_2103_Fig1_HTML.png",
+      "scientific_question": "土壤中矿物结合态有机碳（MAOM）的主要来源是什么？微生物活着时释放的胞外黏液状物质（extracellular residues）相对于死亡细胞残体，对MAOM的贡献有多大？",
+      "contributions_limitations": "该研究结合中国大尺度土壤调查与实验室微宇宙实验，提出微生物胞外分泌物（黏液状物质）是MAOM一条此前被低估的重要来源，挑战了以微生物坏死体（necromass）为主导的传统认识。局限在于摘要未说明调查的空间代表性、胞外残余物与necromass在化学上的可区分性，以及不同土壤类型/气候带下的普适性，建议查看原文确认定量结果。",
+      "follow_up_research": "可进一步研究放牧等大型食草动物活动如何通过改变微生物群落组成和活性，影响胞外残余物向MAOM的转化效率；也可在不同管理强度（放牧梯度）下量化胞外来源碳与necromass来源碳的比例差异，并结合同位素示踪方法。",
+      "next_step_perspective": "MAOM形成路径是用户关注的核心机制之一，该文提示除微生物死亡残体外应重视活体分泌物的贡献。在rewilding或放牧强度研究中，可将微生物胞外残余物作为土壤碳固存的一个新解释变量，重新审视草食动物-微生物-土壤碳反馈链中的关键环节。",
+      "why_this_journal": "推测因其结合大尺度野外调查与受控实验，提出了对土壤碳固存机制具有普遍意义的修正性发现，符合Nature Geoscience对地球表层过程机制性突破的定位。",
+      "author_profile": {
+        "name": "Peng Cai",
+        "institution": "Huazhong Agricutural University",
+        "intro": "彭才（Peng Cai）就职于华中农业大学，从历史论文标题看主要研究土壤细菌生物膜、胞外聚合物（EPS）、种间互作及重金属/纳米颗粒对微生物附着的影响。其专长在微生物-矿物界面过程，与用户关注的土壤有机质形成与稳定机制（MAOM路径、微生物群落对碳循环的影响）高度相关，可为理解动物介导的生物地球化学循环提供微生物机制层面的支撑。",
+        "other_works": [
+          {
+            "title": "Outer Membrane C-Type Cytochromes OmcA and MtrC Play Distinct Roles in Enhancing the Attachment of Shewanella Oneidensis MR-1 Cells to Goethite.",
+            "year": "2020",
+            "journal": "Applied and environmental microbiology",
+            "doi": "10.1128/AEM.01941-20"
+          },
+          {
+            "title": "The Initial Inoculation Ratio Regulates Bacterial Coculture Interactions and Metabolic Capacity",
+            "year": "2020",
+            "journal": "The ISME Journal",
+            "doi": "10.1038/s41396-020-00751-7"
+          },
+          {
+            "title": "The Exopolysaccharide-eDNA Interaction Modulates 3D Architecture of Bacillus Subtilis Biofilm",
+            "year": "2020",
+            "journal": "Bmc Microbiology",
+            "doi": "10.1186/s12866-020-01789-5"
+          },
+          {
+            "title": "Towards a Better Understanding of Pseudomonas Putida Biofilm Formation in the Presence of ZnO Nanoparticles (NPs): Role of NP Concentration",
+            "year": "2020",
+            "journal": "Environment International",
+            "doi": "10.1016/j.envint.2020.105485"
+          },
+          {
+            "title": "Interspecific Interactions in Dual-Species Biofilms of Soil Bacteria: Effects of Fertilization Practices",
+            "year": "2020",
+            "journal": "Journal of Soils and Sediments",
+            "doi": "10.1007/s11368-019-02500-6"
+          }
+        ]
+      }
+    },
     {
       "id": "https://doi.org/10.5194/gmd-19-9131-2026",
       "title": "The NASA-GISS ModelE2.1-CC2 ESM: development and evaluation",
@@ -115,6 +198,89 @@
             "year": "2026",
             "journal": "Nature Communications",
             "doi": "10.1038/s41467-026-74381-6"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03181-4",
+      "title": "Global sea-level rise will create a new biological invasion front",
+      "link": "https://www.nature.com/articles/s41559-026-03181-4",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 28 September 2026; doi:10.1038/s41559-026-03181-4Sea-level rise may create a new front for the landward expansion of marine invaders into inundated areas. The authors explore the probability of this, projecting that more than two-thirds of inundated land areas would be suitable for 122 non-native animals already established in adjacent marine ecoregions under future sea-level-rise scenarios.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-28T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03181-4",
+      "affiliation": null,
+      "title_zh": "全球海平面上升将制造新的生物入侵前沿",
+      "relevance_score": 4,
+      "key_conclusion": "海平面上升可能导致海洋入侵物种向被淹没的陆地扩张，在未来的海平面上升情景下，超过三分之二的被淹没陆地区域适合已在邻近海洋生态区定殖的122种非本地动物生存。",
+      "relevance_note": "该文涉及生物入侵与气候变化的关系，与用户关注的基于自然的解决方案的负面效应（如对生物入侵的影响）有一定关联，但研究聚焦于海洋入侵物种随海平面上升的陆向扩张，与用户核心方向（大型食草动物重野化对土壤碳的影响）及主要相邻领域（陆地碳循环、土壤有机质、植物碳分配等）关系较远，故给予中等偏低分数。",
+      "related_papers": [
+        {
+          "title": "Impacts of biological invasions: what's what and the way forward",
+          "link": "https://doi.org/10.1016/j.tree.2012.07.013",
+          "venue": "Trends in Ecology & Evolution",
+          "year": 2012
+        },
+        {
+          "title": "Sea Level Rise and Implications for Low-Lying Islands, Coasts and Communities",
+          "link": "https://doi.org/10.1017/9781009157964.012",
+          "venue": "Cambridge University Press eBooks",
+          "year": 2022
+        },
+        {
+          "title": "Seabird conservation status, threats and priority actions: a global assessment",
+          "link": "https://doi.org/10.1017/s0959270912000020",
+          "venue": "Bird Conservation International",
+          "year": 2012
+        },
+        {
+          "title": "Sea Level Rise and Implications for Low-Lying Islands, Coasts and Communities",
+          "link": "https://doi.org/10.1017/9781009157964.006",
+          "venue": "Cambridge University Press eBooks",
+          "year": 2022
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03181-4/MediaObjects/41559_2026_3181_Fig1_HTML.png",
+      "scientific_question": "海平面上升是否会在被淹没的陆地区域形成新的生物入侵前沿，使已在邻近海洋生态区定殖的非本地海洋动物向陆地扩张？",
+      "contributions_limitations": "研究通过情景模拟，预测未来海平面上升情景下超过三分之二的被淹没陆地区域可能适合122种非本地动物生存，提出了气候变化与生物入侵交互作用的新视角。局限在于摘要未说明物种扩散能力、定殖可行性验证及陆地-海洋过渡带的生态过程细节，模型预测的生态现实性需进一步实证。",
+      "follow_up_research": "可进一步研究这些新入侵前沿对沿海湿地和陆地生态系统碳循环的潜在影响，特别是入侵物种是否改变土壤有机碳储量与温室气体通量；也可探究基于自然的解决方案（如滨海湿地恢复）在应对入侵与碳汇之间的权衡。",
+      "next_step_perspective": "虽然该文核心是海洋入侵，但契合用户对基于自然解决方案潜在负面效应（如对生物入侵的影响）的关注，提示在评估rewilding或生态恢复的气候效益时需要考虑气候变化驱动的物种重新分布与入侵风险这一隐藏变量。",
+      "why_this_journal": "推测因其将气候变化情景与生物入侵风险跨学科整合，具有全球尺度上的保护生物学与政策意义，符合Nature Ecology & Evolution对宏观生态学与全球变化交叉议题的偏好。",
+      "author_profile": {
+        "name": "Zhixin Zhang",
+        "institution": "Hokkaido University",
+        "intro": "张智鑫（Zhixin Zhang）就职于北海道大学，从历史论文看主要研究海洋物种分布建模（SDM）、系统地理学、海藻与海洋鱼类的保护与气候变化响应。其研究聚焦气候变化下海洋物种分布与保护，与本用户核心的陆地碳循环课题关联较弱，但其SDM与全球变化情景方法可为评估rewilding区域物种分布变化提供方法借鉴。",
+        "other_works": [
+          {
+            "title": "Global sea-level rise will create a new biological invasion front",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03181-4"
+          },
+          {
+            "title": "Incorporating Phylogeography and SDM Projection to Inform Conservation Efforts of the Foundation Seaweed Gloiopeltis furcata sensu lato in the North Pacific Under Climate Change",
+            "year": "2026",
+            "journal": "Evolutionary Applications",
+            "doi": "10.1111/eva.70323"
+          },
+          {
+            "title": "Projected Range Shift and Genetic Diversity Loss of Cold‐Temperate Kelps in the Northeast Versus the Northwest Atlantic Under Climate Change",
+            "year": "2026",
+            "journal": "Journal of Biogeography",
+            "doi": "10.1111/jbi.70368"
+          },
+          {
+            "title": "New Record of Pipefish from the Coast of Mainland China with Phylogeography and Conservation Insights",
+            "year": "2026",
+            "journal": "Animals",
+            "doi": "10.3390/ani16081161"
+          },
+          {
+            "title": "Integrating expert range maps and opportunistic occurrence records of marine fish species in range estimates",
+            "year": "2026",
+            "journal": "Conservation Biology",
+            "doi": "10.1111/cobi.70154"
           }
         ]
       }
