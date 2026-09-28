@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-27T16:15:27.586378+00:00",
+  "generated_at": "2026-09-28T04:34:01.290626+00:00",
   "count": 14,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "As the planet warms and forests burn, can we replant them with new trees that will thrive in the decades ahead?\n\nLearn more: https://scim.ag/3TPgT5p",
+      "created_at": "2026-09-27T22:00:06.323233594Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mwjsdc3ymo2j",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -140,17 +151,6 @@
       "text": "Thematic sessions are a core part of the BES Annual Meeting, providing a space to explore critical questions facing ecology today. \n\nThis year’s programme features exciting talks and discussions on ecological research and practice. Scroll to learn more 👇",
       "created_at": "2026-09-25T10:03:05.529755894Z",
       "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwdjddi3if2x",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "A global analysis of food system resilience shows that nations can do much to protect their citizens from undernourishment due to shocks such as climate extremes, conflicts, pandemics, and economic upheaval. In PNAS: https://ow.ly/sxL050ZR67G",
-      "created_at": "2026-09-24T19:00:32.862266963Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mwbwvi4ca42j",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
