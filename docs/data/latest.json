@@ -1,6 +1,123 @@
 {
   "date": "2026-09-28",
-  "generated_at": "2026-09-28T04:34:01.290336+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-28T12:28:05.061615+00:00",
+  "count": 2,
+  "articles": [
+    {
+      "id": "https://doi.org/10.5194/gmd-19-9131-2026",
+      "title": "The NASA-GISS ModelE2.1-CC2 ESM: development and evaluation",
+      "link": "https://doi.org/10.5194/gmd-19-9131-2026",
+      "summary": "The NASA-GISS ModelE2.1-CC2 ESM: development and evaluation\n                    Anastasia Romanou, Paul Lerner, Joy Romanski, Nancy Y. Kiang, Igor Aleinov, Maxwell Kelley, Roland L. Miller, Gary Russell, Reto Ruedy, Gavin A. Schmidt, Maria Z. Hakuba, and Ou Wang\n                        Geosci. Model Dev., 19, 9131–9176, https://doi.org/10.5194/gmd-19-9131-2026, 2026\n                        This paper describes simulations of the present climate using the NASA Goddard Institute for Space Studies Earth System model. Major highlight is the capability to include complex interactions of the different components of the Earth System, including biology, and compare well with a wide variety of observations. We demonstrate that this model can be used to address present, past and future changes in the Earth system and their impacts and interactions with ecosystems.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-28T14:24:21+02:00",
+      "doi": "10.5194/gmd-19-9131-2026",
+      "affiliation": "Goddard Institute for Space Studies (New York, United States of America); Columbia University (New York, United States of America)",
+      "title_zh": "NASA-GISS ModelE2.1-CC2地球系统模式：开发与评估",
+      "relevance_score": 5,
+      "key_conclusion": "该文描述了NASA GISS地球系统模式对当前气候的模拟能力，其亮点在于能够纳入包括生物学在内的地球系统各组分之间的复杂相互作用，并与多种观测数据吻合良好，可用于研究地球系统的过去、现在和未来变化及其与生态系统的交互影响。",
+      "relevance_note": "该文属于地球系统模式开发与评估，与用户关注的DGVM开发和生态系统模型改进方向相关，但未专门涉及动态植被模块或放牧/重野化过程的具体描述，相关性中等。",
+      "related_papers": [],
+      "image_url": "https://gmd.copernicus.org/articles/19/9131/2026/gmd-19-9131-2026-avatar-web.png",
+      "scientific_question": "NASA-GISS ModelE2.1-CC2地球系统模式能否在纳入包括生物学在内的多圈层复杂相互作用的前提下，合理再现当前气候并与多种观测数据吻合，从而支撑过去、现在和未来地球系统变化及其与生态系统交互影响的研究？",
+      "contributions_limitations": "该文的主要贡献是展示了一个能够整合生物圈与气候系统复杂相互作用的新一代地球系统模式，并对其当前气候模拟进行了多观测约束的系统评估，为生态系统-气候交互研究提供了模式平台。局限性在于摘要信息不足，未说明该模式对碳循环关键过程（如植被动态、土壤碳周转、动态植被模块DGVM）的具体表征精度与偏差，也未说明是否针对大型食草动物或放牧过程有任何参数化，基于现有信息推测其生态过程模块相对简化，建议查看原文确认。",
+      "follow_up_research": "未来研究可利用该模式开展不同CO2浓度路径与气候情景下生态系统生产力和碳储量的敏感性试验；也可以将其动态植被与碳循环模块与更精细的土壤有机质模型（区分POM/MAOM）耦合，评估土壤碳对气候变化的响应；还可探索在该类ESM框架中引入大型食草动物或放牧扰动过程的可行性与参数化路径。",
+      "next_step_perspective": "这篇模式开发与评估文章为用户提供了一个了解当前地球系统模式中生物学与碳循环耦合实现方式的窗口，有助于用户在申请或使用ESM进行重野化/放牧碳效应模拟时，判断现有模式是否具备刻画植被-土壤反馈和动物介导过程的粒度，也可作为论证'在DGVM中增加大型食草动物模块'必要性的模式现状依据。",
+      "why_this_journal": "Geoscientific Model Development专门发表地球系统模式开发、评估与基准测试类论文，该文报告了一个完整ESM的新版本并进行了多观测对比评估，符合期刊对模式方法学、可复用性和评估严谨性的定位。以上为推测。",
+      "author_profile": {
+        "name": "Anastasia Romanou",
+        "institution": "Goddard Institute for Space Studies",
+        "intro": "Anastasia Romanou就职于NASA Goddard Institute for Space Studies，长期参与NASA-GISS ModelE系列地球系统模式的开发与评估，其研究涵盖海洋碳循环、海岸带碳输出、AMOC变率与气候反馈等。她的工作集中在海洋与气候系统的模式表征，与用户关注的陆地土壤有机碳和大型食草动物重野化关联有限，但其模式开发经验可为用户理解ESM碳循环模块构建和DGVM耦合提供方法论参考。",
+        "other_works": [
+          {
+            "title": "The NASA-GISS ModelE2.1-CC2 ESM: development and evaluation",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-9131-2026"
+          },
+          {
+            "title": "Net lateral carbon export from eroding United States Atlantic and Gulf Coast marshes",
+            "year": "2026",
+            "journal": "Communications Earth & Environment",
+            "doi": "10.1038/s43247-026-03911-3"
+          },
+          {
+            "title": "TIPMIP-OCEAN experimental protocol phase 1: Tipping dynamics of the AMOC",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-1698"
+          },
+          {
+            "title": "Nonlinear Interactions of Timing and Amplitude Biases in Modeled Southern Ocean pCO2: The Roles of Dissolved Inorganic Carbon, Total Alkalinity, and Sea Surface Temperature",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-19010"
+          },
+          {
+            "title": "Understanding Drought Risk in the Northern Hemisphere under AMOC weakening",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-20190"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/esd-17-1381-2026",
+      "title": "Regional contrasts of ecosystem productivity sensitivity to atmospheric CO2 growth across East Asia",
+      "link": "https://doi.org/10.5194/esd-17-1381-2026",
+      "summary": "Regional contrasts of ecosystem productivity sensitivity to atmospheric CO2 growth across East Asia\n                    Yun-Soo Na, Sang-Wook Yeh, Jong-Seong Kug, and Young-Min Yang\n                        Earth Syst. Dynam., 17, 1381–1394, https://doi.org/10.5194/esd-17-1381-2026, 2026\n                        Terrestrial ecosystems in East Asia play a significant role in carbon dioxide uptake, but their response remains uncertain. We demonstrate that ecosystem productivity sensitivity to carbon dioxide has decreased since the late 1990s. This reduction is mainly driven by soil moisture sensitivity in non-monsoon region and decreased photosynthetically active radiation in monsoon region, emphasizing the need to consider regional climate and vegetation differences when predicting future carbon cycles.",
+      "journal": "Earth System Dynamics",
+      "published": "2026-09-28T09:13:21+02:00",
+      "doi": "10.5194/esd-17-1381-2026",
+      "affiliation": "Ewha Womans University (Seoul, Korea, Republic of)",
+      "title_zh": "东亚地区生态系统生产力对大气CO2增长敏感性的区域差异",
+      "relevance_score": 5,
+      "key_conclusion": "东亚陆地生态系统生产力对CO2的敏感性自1990年代末以来有所下降，这一下降主要由非季风区的土壤湿度敏感性和季风区光合有效辐射减少所驱动，强调预测未来碳循环时需考虑区域气候和植被差异。",
+      "relevance_note": "该文研究陆地生态系统碳吸收对CO2的响应及区域差异，属于用户关注的陆地生态系统碳循环范畴，但研究区域为东亚而非欧洲，且未涉及放牧、重野化或土壤有机质形成机制，相关性中等。",
+      "related_papers": [],
+      "image_url": "https://esd.copernicus.org/articles/17/1381/2026/esd-17-1381-2026-avatar-web.png",
+      "scientific_question": "东亚陆地生态系统生产力对大气CO2增长的敏感性自1990年代末以来发生了怎样的变化，以及区域气候和植被差异（如季风区与非季风区的土壤湿度和光合有效辐射）如何驱动这种敏感性变化？",
+      "contributions_limitations": "该文的主要贡献是揭示了东亚生态系统生产力对CO2敏感性自1990年代末下降的现象，并区分了非季风区土壤湿度驱动与季风区光合有效辐射驱动的不同机制，强调了区域异质性在碳循环预测中的重要性。局限性在于摘要未说明其使用的数据（遥感、通量站还是模式）、时间跨度细节和不确定性量化，且研究区域限于东亚而非欧洲，与用户核心研究地点偏好不符，结论向其他区域的推广需谨慎，基于现有信息推测，建议查看原文。",
+      "follow_up_research": "未来可在其他区域（尤其是欧洲温带草地和森林）重复类似的CO2敏感性归因分析，检验土壤水分与辐射驱动的普适性；也可将该敏感性框架与放牧或大型食草动物管理情景结合，探讨动物活动是否会调节生态系统对CO2的响应强度；此外可检验极端气候事件（干旱、热浪）对CO2敏感性长期趋势的非线性扰动。",
+      "next_step_perspective": "这篇文章提示用户在评估重野化对碳循环的影响时，不能忽视背景气候变量（土壤湿度、辐射）对生态系统生产力-碳吸收关系的调制作用，即放牧/重野化效应可能在不同水分和辐射条件下表现迥异。同时其将CO2敏感性拆解为不同区域驱动因子的思路，可启发用户在分析放牧强度对土壤有机碳影响时，纳入土壤水分和植被结构作为交互调节变量。",
+      "why_this_journal": "Earth System Dynamics关注地球系统各组分的相互作用与反馈机制，该文将大气CO2增长、区域气候变量和生态系统生产力敏感性联系起来，体现了跨圈层交互和区域对比的视角，符合期刊定位。以上为推测。",
+      "author_profile": {
+        "name": "Jong-Seong Kug",
+        "institution": "Seoul National University",
+        "intro": "Jong-Seong Kug就职于首尔国立大学，研究集中在气候动力学、ENSO变率、极端事件与碳循环的相互作用等领域，近期发表涉及多年冻土碳循环对土壤湿度的响应、CO2移除情景下的复合极端事件恢复等。他的研究方向偏向气候-碳循环耦合的大尺度分析，与用户在陆地生态系统碳循环和极端气候扰动方面的关注有一定交集，但其研究较少涉及土壤有机质形成机制或大型食草动物效应。",
+        "other_works": [
+          {
+            "title": "Incomplete recovery in compound extreme events under a CO2 removal scenario",
+            "year": "2026",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/aea34e"
+          },
+          {
+            "title": "Regional contrasts of ecosystem productivity sensitivity to atmospheric CO2 growth across East Asia",
+            "year": "2026",
+            "journal": "Earth System Dynamics",
+            "doi": "10.5194/esd-17-1381-2026"
+          },
+          {
+            "title": "Enhanced carbon loss in the Southern Ocean under mitigation scenarios",
+            "year": "2026",
+            "journal": "Science Advances",
+            "doi": "10.1126/sciadv.aee9228"
+          },
+          {
+            "title": "Asymmetry of El Niño and La Niña precipitation diversity",
+            "year": "2026",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ae84ec"
+          },
+          {
+            "title": "Changes in El Niño–Southern Oscillation and global frequency entrainment",
+            "year": "2026",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-026-74381-6"
+          }
+        ]
+      }
+    }
+  ]
 }
