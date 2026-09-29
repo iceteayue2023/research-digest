@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-29T05:10:37.928920+00:00",
-  "count": 7,
+  "generated_at": "2026-09-29T11:53:01.742759+00:00",
+  "count": 9,
   "posts": [
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Sea-level rise may create a new front for the landward expansion of marine invaders into inundated areas. The authors project that more than two-thirds of inundated land areas would be suitable for 122 non-native animals under future sea-level-rise scenarios 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-09-29T08:52:42.943Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwnhb67fks2m",
+      "external_title": "Global sea-level rise will create a new biological invasion front - Nature Ecology & Evolution",
+      "external_description": "Sea-level rise may create a new front for the landward expansion of marine invaders into inundated areas. The authors explore the probability of this, projecting that more than two-thirds of inundated...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03181-4",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreid65kdlgpfaatnfjux473f4ue3plddjnr73yod6g7jf7n6fa6twem"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Agricultural liming is a carbon sink in the Mississippi River Basin\n\ngo.nature.com/3VeBalg",
+      "created_at": "2026-09-29T08:20:01.408Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mwnfgpqqzc25",
+      "external_title": "Agricultural liming is a carbon sink in the Mississippi River Basin - Nature",
+      "external_description": "Century-scale records of agricultural liming and anthropogenic acidity inputs for the Mississippi River Basin show that agricultural liming has acted as a net carbon sink over the past century.",
+      "external_uri": "https://go.nature.com/3VeBalg",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifuak54bwizsiwf6rxvs3snlq3plw7rsol5dvqx6zjv3of23pc4dy"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",

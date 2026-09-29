@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T05:10:37.916701+00:00",
-  "count": 67,
+  "generated_at": "2026-09-29T11:53:01.728974+00:00",
+  "count": 77,
   "articles": [
     {
       "id": "10.1002/pan3.70402",
@@ -82,6 +82,64 @@
             "year": "2022",
             "journal": "Scientific Reports",
             "doi": "10.1038/s41598-022-20095-w"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6763-2026",
+      "title": "Tree-microbe-soil interactions affecting soil organic carbon fractions in Mediterranean forest soils",
+      "link": "https://doi.org/10.5194/bg-23-6763-2026",
+      "summary": "Tree-microbe-soil interactions affecting soil organic carbon fractions in Mediterranean forest soils\n                    Stav Livne-Luzon, Assaf Yaakobi, David Yalin, Dagan Sade, Efrat Dener, Yaara Oppenheimer-Shaanan, and Tamir Klein\n                        Biogeosciences, 23, 6763–6779, https://doi.org/10.5194/bg-23-6763-2026, 2026\n                        We studied how tree species and local soil conditions shape carbon storage in Mediterranean forest soils. By comparing mixed and single-species stands and sampling beneath trees and in nearby open gaps, we found that soils under canopies held much more carbon. Mixed stands stored extra carbon mainly in faster-cycling forms, while longer-lasting carbon was limited mostly by soil texture. This shows that forest structure can influence carbon storage in a warming, drier climate.",
+      "journal": "Biogeosciences",
+      "published": "2026-09-29T07:20:37+02:00",
+      "doi": "10.5194/bg-23-6763-2026",
+      "affiliation": "Weizmann Institute of Science (Rehovot, Israel)",
+      "title_zh": "树木-微生物-土壤相互作用对地中海森林土壤有机碳组分的影响",
+      "relevance_score": 9,
+      "key_conclusion": "树冠下土壤碳储量显著高于林窗，混交林的额外碳主要储存在周转较快的碳组分中，而长效碳更多受土壤质地限制；森林结构可影响气候变暖变干背景下的碳储存。",
+      "relevance_note": "该文直接研究树木-微生物-土壤互作对土壤有机碳组分（POM/MAOM）的影响，与用户核心关注土壤有机质形成机制、植物-微生物互作及碳循环高度契合；研究地点为地中海森林（欧洲/地中海区域），符合用户对欧洲研究地点的偏好。",
+      "related_papers": [],
+      "image_url": "https://bg.copernicus.org/articles/23/6763/2026/bg-23-6763-2026-avatar-web.png",
+      "scientific_question": "树种组成（混交 vs. 纯林）和局部土壤条件如何影响地中海森林土壤有机碳各组分的储量与稳定性？",
+      "contributions_limitations": "该研究通过对比混交林与纯林、林冠下与林窗的采样设计，区分了快周转碳组分与长效碳组分的差异控制因子，发现林冠下碳储量更高，混交林的额外碳多储存在快周转组分中，而长效碳主要受土壤质地限制。局限性在于研究限于地中海森林单一气候区，采样为空间代时间设计，未直接追踪碳周转动态；碳组分的分离方法（如POM/MAOM）细节未在摘要中给出，需查看原文确认。",
+      "follow_up_research": "可在其他气候区（如温带、热带）验证'混交林额外碳储存在快周转组分'这一模式是否普适；结合同位素示踪或长期监测量化快、慢碳组分的实际周转速率；进一步探究树木-微生物互作如何调控POM向MAOM的转化路径。",
+      "next_step_perspective": "该文直接涉及土壤有机碳组分（快/慢周转，类似POM与MAOM的区分）、植物-微生物-土壤反馈，与用户核心方向高度契合。其'林冠下vs.林窗'的对比设计可为重野化中大型食草动物改变植被结构后如何影响SOC组分提供方法借鉴。土壤质地限制长效碳的结论提示：在重野化试验中需将土壤母质/质地作为协变量纳入分析，而非仅关注放牧强度。",
+      "why_this_journal": "Biogeosciences专注于生物地球化学过程研究，该文结合了森林生态学、微生物生态学和土壤碳循环，属于其典型的跨尺度生物地球化学研究范畴。推测其因揭示森林结构对SOC组分的差异控制机制而获发表。",
+      "author_profile": {
+        "name": "Stav Livne-Luzon",
+        "institution": null,
+        "intro": "Stav Livne-Luzon，机构未在摘要中提供（推测为以色列相关机构，因研究区域为地中海森林且合作者Tamir Klein位于魏茨曼科学研究所）。从其发表记录看，主要研究方向为树木-微生物-土壤互作、土壤真菌群落沿干旱梯度的变化、以及地下碳转移。这些研究方向与用户关注的植被-土壤反馈、土壤微生物对碳循环的调控高度相关，尤其其关于干旱梯度下真菌群落的工作可为理解气候变化背景下重野化对土壤碳的影响提供微生物视角。",
+        "other_works": [
+          {
+            "title": "Tree-microbe-soil interactions affecting soil organic carbon fractions in Mediterranean forest soils",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6763-2026"
+          },
+          {
+            "title": "Richness, community structure and distance decay of soil fungi along a sharp aridity gradient in monodominant pine forests",
+            "year": "2026",
+            "journal": "Plant and Soil",
+            "doi": "10.1007/s11104-026-08556-x"
+          },
+          {
+            "title": "Supplementary material to \"Tree-microbe-soil interactions affecting soil organic carbon fractions in Mediterranean forest soils\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-2099-supplement"
+          },
+          {
+            "title": "Tree-microbe-soil interactions affecting soil organic carbon fractions in Mediterranean forest soils",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-2099"
+          },
+          {
+            "title": "Richness, community structure and distance decay of soil fungi along a sharp aridity gradient in monodominant pine forests",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-21365"
           }
         ]
       }
@@ -922,6 +980,86 @@
             "year": "2024",
             "journal": "Agile Initiative, Oxford Martin School",
             "doi": "10.5287/ORA-J5DK9WVZG"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71110",
+      "title": "Responses of Soil Organic Matter and Minerals to Winter and Growing Season Climate Change",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71110?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-09-28T07:44:12-07:00",
+      "doi": "10.1111/gcb.71110",
+      "affiliation": "Department of Biological Sciences Dartmouth College  Hanover New Hampshire USA; Environmental Molecular Sciences Division Pacific Northwest National Laboratory  Richland Washington USA; Department of Earth Sciences Dartmouth College  Hanover New Hampshire USA",
+      "title_zh": "土壤有机质与矿物对冬季和生长季气候变化的响应",
+      "relevance_score": 7,
+      "key_conclusion": "研究评估了冬季与生长季气候变化如何影响土壤有机质和矿物，揭示不同季节气候变暖对土壤碳稳定性的差异影响。",
+      "relevance_note": "该文直接关注土壤有机质形成与稳定机制以及气候变化对土壤碳的影响，与用户关于土壤有机碳和碳循环的核心研究方向高度契合，尤其涉及矿物结合态有机质的稳定机制。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "冬季和生长季的气候变化（推测为增温或降水改变）如何分别影响土壤有机质的稳定性及矿物-有机质关联？",
+      "contributions_limitations": "基于现有信息推测：该研究可能通过季节对比实验揭示了冬季与生长季气候变暖对土壤有机质-矿物结合的不同影响机制，强调了非生长季过程在土壤碳稳定性中的重要性。但摘要仅提供了期刊目录页信息，缺乏具体数据、研究地点和方法，无法判断其结论的普适性和局限性，建议查看原文。",
+      "follow_up_research": "可探究冬季气候变化对矿物结合态有机质（MAOM）形成与分解的独立贡献，尤其是在中高纬度或高山地区；结合分子级别表征技术（如FT-ICR-MS、NEXAFS）追踪矿物-有机质关联的季节动态；将季节不对称性纳入土壤碳模型以改进碳储量预测。",
+      "next_step_perspective": "该文关注矿物-有机质关联对气候变化的响应，直接关系到用户感兴趣的MAOM形成与稳定机制。其季节视角提示：在评估重野化对土壤碳的影响时，应区分生长季与非生长季过程——大型食草动物在冬季的践踏、采食和粪便输入可能对土壤碳有不同于生长季的效应，这是一个值得关注的研究空白。研究地点是否在欧洲需查看原文确认。",
+      "why_this_journal": "Global Change Biology以发表全球变化对生态系统影响的高影响力研究著称。推测该文因揭示季节维度上气候变化对土壤碳稳定性的差异化影响而获发表，符合期刊对全球变化多维度效应研究的一贯定位。",
+      "author_profile": {
+        "name": "Genevieve Goebel",
+        "institution": "Dartmouth College",
+        "intro": "Genevieve Goebel，Dartmouth College。从其发表记录看，曾研究氧化还原活跃的山地洪泛平原沉积物中矿物-有机质关联的分子特征，说明其专长在于土壤矿物与有机质的相互作用机制。这与用户关注的MAOM形成路径和土壤碳稳定机制直接相关，其研究方法（分子级别表征）可为用户提供技术借鉴。",
+        "other_works": [
+          {
+            "title": "Molecular Nature of Mineral-Organic Associations within Redox-Active Mountainous Floodplain Sediments",
+            "year": "2023",
+            "journal": "ACS Earth and Space Chemistry",
+            "doi": "10.1021/acsearthspacechem.3c00037"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71119",
+      "title": "Previously Unrecognized Land‐Use Control on Deep Soil CO2 Sink",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71119?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-09-28T07:42:17-07:00",
+      "doi": "10.1111/gcb.71119",
+      "affiliation": "Institute of Earth System Sciences, Section Soil Science Leibniz University Hannover  Hannover Germany",
+      "title_zh": "此前未被认识到的土地利用对深层土壤CO2汇的控制",
+      "relevance_score": 7,
+      "key_conclusion": "研究发现土地利用方式对深层土壤CO2汇具有此前未被识别的控制作用。",
+      "relevance_note": "该文关注土地利用对土壤碳汇的影响，与用户关于生态系统碳循环和土壤有机碳的研究方向相关；研究机构位于德国，属于欧洲研究地点，可适当提高相关性。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "土地利用方式如何控制深层土壤的CO2汇，以及这一控制作用此前为何未被识别？",
+      "contributions_limitations": "基于现有信息推测：该研究可能通过跨土地利用类型的深层土壤剖面采样或模型分析，揭示了土地利用对深层土壤CO2吸收/储存的显著影响，并指出以往研究多关注表层土壤而忽略了深层过程。但摘要信息极为有限，具体研究地点、方法和数据均不清楚，建议查看原文。",
+      "follow_up_research": "可量化不同放牧强度/重野化情景下深层土壤CO2通量的变化，特别是大型食草动物对深层土壤碳过程的间接影响；结合同位素和微生物组学解析深层土壤CO2汇的生物与非生物机制；评估深层土壤碳汇在土地利用变化下的可持续性。",
+      "next_step_perspective": "该文提示深层土壤碳过程受土地利用控制，这对用户的重野化研究是一个重要提醒：大型食草动物不仅影响表层土壤碳，还可能通过改变根系分布、水分入渗和微生物活动影响深层土壤CO2动态。用户在评估重野化的碳汇效应时，应考虑纳入深层土壤（>30 cm）的采样和分析，避免仅关注表层而低估或误判碳汇潜力。",
+      "why_this_journal": "Global Change Biology关注全球变化驱动因子（包括土地利用变化）对生态系统功能的影响。推测该文因首次识别土地利用对深层土壤CO2汇的控制作用，具有新颖性和对碳循环认知的推进意义而获发表。",
+      "author_profile": {
+        "name": "Kenneth Tetteh",
+        "institution": "Leibniz University Hannover",
+        "intro": "Kenneth Tetteh，Leibniz University Hannover。从其发表记录看，涉及根石化石形成机制模型、方解石对生物源CO2的敏感性及土壤CO2通量分割等方向，说明其专长在于土壤碳酸盐化学和CO2通量的机制建模。这与用户关注的土壤碳循环和生态系统模型改进方向有交集，尤其是其CO2通量分割方法可能为区分重野化下根系呼吸与微生物呼吸提供工具。",
+        "other_works": [
+          {
+            "title": "Previously Unrecognized Land‐Use Control on Deep Soil CO2 Sink",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71119"
+          },
+          {
+            "title": "Mechanistic models for rhizolith formation and their implications for paleoenvironmental reconstructions",
+            "year": "2026",
+            "journal": "Quaternary research",
+            "doi": "10.1017/qua.2025.10021"
+          },
+          {
+            "title": "Modeling Calcite’s Sensitivity to Biogenic CO2 Production: A Pathway to Soil CO2 Efflux Partitioning",
+            "year": "2025",
+            "journal": "Environmental Science & Technology",
+            "doi": "10.1021/acs.est.5c07428"
           }
         ]
       }
@@ -1786,6 +1924,64 @@
             "year": "2011",
             "journal": "Oecologia",
             "doi": "10.1007/s00442-011-2107-9"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71125",
+      "title": "Temporal Pattern and Metabolic Mechanisms of Ecosystem Carbon Fluxes Under Decadal‐Long Nitrogen Enrichment in an Alpine Grassland",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71125?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-09-28T07:44:13-07:00",
+      "doi": "10.1111/gcb.71125",
+      "affiliation": "State Key Laboratory of Forage Breeding‐by‐Design and Utilization, Key Laboratory of Vegetation and Environmental Change, Institute of Botany Chinese Academy of Sciences  Beijing China; China National Botanical Garden  Beijing China; Key Laboratory of Farmland Eco‐Environment of Hebei, College of Resources and Environmental Sciences Hebei Agricultural University  Baoding China",
+      "title_zh": "高寒草地十年氮富集下生态系统碳通量的时间格局与代谢机制",
+      "relevance_score": 6,
+      "key_conclusion": "文章揭示了高寒草地生态系统碳通量在长期氮富集下的时间变化格局及其代谢机制。",
+      "relevance_note": "该文直接涉及草地生态系统碳循环与养分（氮）富集对碳通量的影响，与用户关注的陆地生态系统碳循环和C-N-P化学计量主题相关，但未涉及大型食草动物或重野化。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "长期（十年尺度）氮富集如何改变高寒草地生态系统碳通量的时间动态格局，其背后的代谢机制是什么？",
+      "contributions_limitations": "基于现有信息推测：该研究利用长期氮添加实验平台，揭示了高寒草地碳通量对持续氮输入的阶段性响应模式，并从微生物代谢或植物生理角度阐释了机制。其贡献在于时间尺度和机制深度，但摘要信息有限，具体通量组分（GPP、NEP、Rh等）的变化方向和幅度不明，建议查看原文。",
+      "follow_up_research": "可探讨大型食草动物（如牦牛）放牧与氮沉降的交互作用如何影响草地碳通量；将氮富集实验中的代谢机制（如微生物碳利用效率变化）引入重野化情景下的土壤碳动态模拟；研究停止氮输入后碳通量能否恢复及其滞后时间。",
+      "next_step_perspective": "该文涉及草地生态系统碳通量、氮富集对碳循环的长期影响及代谢机制，与用户关注的放牧强度、养分循环和生态系统碳循环相关。特别值得借鉴的是其'十年尺度'的时间视角——重野化研究往往缺乏长期监测数据，该文的阶段性响应分析框架可帮助预判重野化不同阶段碳通量的可能变化轨迹。",
+      "why_this_journal": "Global Change Biology重视长期实验和全球变化因子（如氮沉降）对生态系统功能的影响研究。推测该文因十年尺度氮富集实验的稀有性和对碳通量代谢机制的深入解析而获发表。",
+      "author_profile": {
+        "name": "Xuning Liu",
+        "institution": null,
+        "intro": "Xuning Liu，机构未提供。从其发表记录看，主要研究热喀斯特湖中的化能自养碳固定、病毒-宿主互作对原核群落的影响、草地退化对生物多样性-多功能性关系的影响等，说明其研究兴趣涵盖微生物生态学和生态系统功能。这与用户关注的土壤微生物群落对生态系统功能的影响及碳循环有交集，但其主要研究系统（热喀斯特湖）与用户的草地/重野化方向差异较大。",
+        "other_works": [
+          {
+            "title": "Chemoautotrophic carbon fixation in thermokarst lakes on the Tibetan Plateau",
+            "year": "2025",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-025-67478-x"
+          },
+          {
+            "title": "Grassland degradation alters plant and soil biodiversity–multifunctionality relationships",
+            "year": "2025",
+            "journal": "Nature Plants",
+            "doi": "10.1038/s41477-025-02147-x"
+          },
+          {
+            "title": "Virus-host interactions and their effects on the prokaryotic community in thermokarst lakes",
+            "year": "2025",
+            "journal": "Science Bulletin",
+            "doi": "10.1016/j.scib.2025.03.046"
+          },
+          {
+            "title": "Patterns and drivers of prokaryotic communities in thermokarst lake water across Northern Hemisphere",
+            "year": "2023",
+            "journal": "Global Ecology and Biogeography",
+            "doi": "10.1111/geb.13764"
+          },
+          {
+            "title": "Accelerated organic matter decomposition in thermokarst lakes upon carbon and phosphorus inputs",
+            "year": "2023",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.16938"
           }
         ]
       }
@@ -2962,6 +3158,205 @@
             "year": "2020",
             "journal": "BioRxiv",
             "doi": "10.1101/2020.11.03.367011"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2745.70452",
+      "title": "Stability of monodominant and mixed tropical forests: Implications from a biomass‐based competition model",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70452?af=R",
+      "summary": "Journal of Ecology, Volume 114, Issue 9, September 2026.",
+      "journal": "Journal of Ecology",
+      "published": "2026-09-28T00:00:00-07:00",
+      "doi": "10.1111/1365-2745.70452",
+      "affiliation": "Faculty of Environmental Earth Science Hokkaido University  Sapporo Japan; Center for Southeast Asian Studies Kyoto University  Kyoto Japan; Faculty of Forestry University of Toronto  Toronto Canada",
+      "title_zh": "单优与混交热带森林的稳定性：基于生物量竞争模型的启示",
+      "relevance_score": 5,
+      "key_conclusion": "基于生物量的竞争模型揭示了单优林与混交热带森林在稳定性上的差异及其机制。",
+      "relevance_note": "该文涉及热带森林生物量动态与群落稳定性，与用户关注的森林碳循环和生物多样性-生态系统功能关系有一定关联，但未涉及土壤碳、动物互作或重野化，故中等相关。",
+      "related_papers": [
+        {
+          "title": "Bird and bat predation services in tropical forests and agroforestry landscapes",
+          "link": "https://doi.org/10.1111/brv.12211",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2015
+        },
+        {
+          "title": "Forest resilience and tipping points at different spatio‐temporal scales: approaches and challenges",
+          "link": "https://doi.org/10.1111/1365-2745.12337",
+          "venue": "Journal of Ecology",
+          "year": 2015
+        },
+        {
+          "title": "The tropical mountain forest",
+          "link": "https://doi.org/10.17875/gup2008-702",
+          "venue": "Biodiversity and ecology series",
+          "year": 2008
+        },
+        {
+          "title": "Large‐sized rare tree species contribute disproportionately to functional diversity in resource acquisition in African tropical forest",
+          "link": "https://doi.org/10.1002/ece3.4836",
+          "venue": "Ecology and Evolution",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "该研究试图通过基于生物量的竞争模型，回答单优热带林与混交热带林在群落稳定性上为何存在差异，以及驱动这种差异的竞争机制是什么。",
+      "contributions_limitations": "贡献在于用简化的生物量竞争模型统一解释了单优林与混交林稳定性差异，可能为理解热带森林物种共存与生态系统功能提供机制性框架。局限性在于这是模型研究，摘要信息极不完整，模型是否纳入土壤反馈、草食动物作用或碳分配等过程不明，基于现有信息推测其结论对真实森林的适用性需实证检验。",
+      "follow_up_research": "可将模型扩展至包含大型食草动物干扰或土壤碳反馈的版本，检验动物介导的养分循环如何改变单优/混交林的稳定性与碳储量。也可用长期森林动态样地数据验证模型预测的稳定性差异。",
+      "next_step_perspective": "该文提醒用户：植被群落稳定性与竞争结构可能间接调控土壤有机碳的长期积累路径。若用户研究重野化后植被恢复对SOC的影响，可借鉴其生物量竞争建模思路，将大型食草动物的选择性取食视为改变竞争不对称性的因子。",
+      "why_this_journal": "Journal of Ecology 偏好群落生态学与理论模型结合的工作，该文以机制模型解释热带森林多样性与稳定性，符合期刊对生态学普适性理论的追求。推测其新颖性在于用简约模型统一解释两类森林格局。",
+      "author_profile": {
+        "name": "Takashi S. Kohyama",
+        "institution": "Hokkaido University",
+        "intro": "Takashi S. Kohyama 任职于北海道大学，长期从事热带森林群落生态学与竞争模型研究，代表作聚焦热带树木多样性、物种共存与群落生产力的竞争解释。其研究方向与用户关注的植被-土壤反馈及生态系统功能恢复有间接关联，尤其在理解植被结构如何影响碳循环方面可提供建模视角。",
+        "other_works": [
+          {
+            "title": "Stability of monodominant and mixed tropical forests: Implications from a biomass‐based competition model",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70452"
+          },
+          {
+            "title": "A simple competition model can predict rainforest tree diversity, species abundance and ecosystem functions",
+            "year": "2025",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.14485"
+          },
+          {
+            "title": "Competition explains tropical tree species coexistence and abundance",
+            "year": "2023",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-3362067/v1"
+          },
+          {
+            "title": "Contribution of tree community structure to forest productivity across a thermal gradient in eastern Asia",
+            "year": "2023",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-023-36671-1"
+          },
+          {
+            "title": "Trade‐off between standing biomass and productivity in species‐rich tropical forest: Evidence, explanations and implications",
+            "year": "2020",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.13485"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2656.70360",
+      "title": "Modelling the effect of temperature on species coexistence",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70360?af=R",
+      "summary": "Journal of Animal Ecology, EarlyView.",
+      "journal": "Journal of Animal Ecology",
+      "published": "2026-09-28T06:13:19-07:00",
+      "doi": "10.1111/1365-2656.70360",
+      "affiliation": "Department of Civil and Environmental Engineering MIT  Cambridge Massachusetts USA; Santa Fe Institute  Santa Fe New Mexico USA",
+      "title_zh": "建模温度对物种共存的影响",
+      "relevance_score": 5,
+      "key_conclusion": "通过模型分析表明，温度变化可通过改变物种间的竞争互动来影响物种共存，为理解气候变化对群落结构的影响提供了机制性见解。",
+      "relevance_note": "该文探讨温度对物种共存的机制影响，与用户对食物网复杂性和BEF的关注相关，也涉及生态系统模型改进，但未直接涉及碳循环或重野化。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "该研究试图回答温度变化如何通过改变物种间的竞争互动来影响物种共存，其核心是温度对共存机制的直接与间接效应。",
+      "contributions_limitations": "贡献在于将温度作为影响竞争系数的因子纳入共存模型，为气候变化下群落结构变化提供机制性预测框架。局限性在于摘要信息严重不足，模型是否基于特定类群、是否考虑性状可塑性或捕食者-猎物互动均不明确，基于现有信息推测其结论的普适性有待检验。",
+      "follow_up_research": "可将温度依赖的共存模型应用到大型食草动物与植物群落的互作系统中，检验变暖如何改变放牧压力与植被恢复轨迹。也可结合性状介导效应，探讨人类活动导致的性状变化如何改变温度-共存关系。",
+      "next_step_perspective": "用户可借鉴其将环境因子（温度）显式纳入物种互作网络的方法，思考重野化场景中放牧强度如何作为“互动修饰因子”改变植物-土壤反馈的稳定性。该文也提示气候变化可能通过改变竞争共存而间接影响生态系统碳循环。",
+      "why_this_journal": "Journal of Animal Ecology 关注动物种群与群落层面的生态学机制，该文以模型整合温度与物种共存，兼具理论深度与气候变化意义，符合期刊对机制性生态学研究的定位。推测其新颖性在于将热生态学与共存理论桥接。",
+      "author_profile": {
+        "name": "Serguei Saavedra",
+        "institution": "Massachuesetts Institute of Technology",
+        "intro": "Serguei Saavedra 任职于麻省理工学院，主要从事群落生态学理论、物种共存与网络稳定性研究，代表作涉及微生物系统状态转换、入侵预测与群落敏感性等。其理论研究与用户关注的食物网复杂性和BEF关系有概念关联，但未直接涉及大型食草动物或土壤碳。",
+        "other_works": [
+          {
+            "title": "Structured community transitions explain the switching capacity of microbial systems",
+            "year": "2024",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2312521121"
+          },
+          {
+            "title": "On the limits to invasion prediction using coexistence outcomes",
+            "year": "2024",
+            "journal": "Journal of Theoretical Biology",
+            "doi": "10.1016/j.jtbi.2023.111674"
+          },
+          {
+            "title": "Protection promotes energetically efficient structures in marine communities",
+            "year": "2023",
+            "journal": "PLOS Computational Biology",
+            "doi": "10.1371/journal.pcbi.1011742"
+          },
+          {
+            "title": "Understanding the state‐dependent impact of species correlated responses on community sensitivity to perturbations",
+            "year": "2023",
+            "journal": "Ecology",
+            "doi": "10.1002/ecy.4115"
+          },
+          {
+            "title": "Feasibility in MacArthur’s consumer-resource model",
+            "year": "2023",
+            "journal": "Theoretical Ecology",
+            "doi": "10.1007/s12080-023-00566-0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2656.70359",
+      "title": "Beta diversity of Arctiinae moths (Lepidoptera: Erebidae) along a recovering tropical forest gradient",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70359?af=R",
+      "summary": "Journal of Animal Ecology, EarlyView.",
+      "journal": "Journal of Animal Ecology",
+      "published": "2026-09-28T06:12:16-07:00",
+      "doi": "10.1111/1365-2656.70359",
+      "affiliation": "Field Station Fabrikschleichach, Chair of Conservation Biology and Forest Ecology, Biocenter University of Würzburg  Rauhenebrach Germany; Ecological Networks Lab, Department of Biology Technische Universität Darmstadt  Darmstadt Germany; Fundación Jocotoco  Quito Ecuador",
+      "title_zh": "沿恢复热带森林梯度的灯蛾亚科蛾类（鳞翅目：裳蛾科）β多样性",
+      "relevance_score": 5,
+      "key_conclusion": "沿热带森林恢复梯度，灯蛾亚科蛾类的β多样性发生变化，表明森林恢复过程对昆虫群落组成有显著影响。",
+      "relevance_note": "该文研究热带森林恢复对昆虫β多样性的影响，与用户对森林退化与恢复过程中碳动态和BEF的关注有一定关联，但未涉及碳循环或重野化，且研究地点不在欧洲。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "该研究试图回答热带森林恢复梯度上灯蛾亚科蛾类的β多样性如何变化，以及森林恢复过程对昆虫群落组成的影响程度。",
+      "contributions_limitations": "贡献在于提供了热带森林恢复过程中昆虫β多样性动态的实证数据，有助于理解恢复对生物多样性的影响。局限性在于摘要信息不足，未说明研究地点、采样强度及是否区分分类与功能β多样性，基于现有信息推测其对生态系统功能的推论有限。",
+      "follow_up_research": "可进一步研究蛾类β多样性变化如何影响食物网结构与捕食者-猎物关系，以及昆虫群落恢复是否与土壤碳积累或植被-土壤反馈同步。也可比较不同恢复阶段对生态系统功能（如传粉、分解）的贡献。",
+      "next_step_perspective": "该文可为用户提供森林恢复梯度上生物多样性监测的方法参考，尤其是β多样性作为恢复指标的思路。若用户关注重野化后食物网复杂性恢复，昆虫群落组成的时空变化可作为底层食物资源恢复的指示。",
+      "why_this_journal": "Journal of Animal Ecology 接受群落生态学与保护生物学的实证研究，该文以热带森林恢复梯度为背景，关注昆虫多样性响应，符合期刊对动物群落生态学的兴趣。推测其价值在于填补恢复生态学中昆虫多样性动态的数据空白。",
+      "author_profile": {
+        "name": "Marcel Püls",
+        "institution": "University of Würzburg",
+        "intro": "Marcel Püls 任职于维尔茨堡大学，研究方向为热带森林恢复梯度上昆虫与鸟类群落的多样性格局，代表作涉及蛾类、蚂蚁、白蚁群落组装及声学指数监测。其工作与用户关注的生物多样性-生态系统功能关系及恢复生态学有主题关联，但未直接涉及大型食草动物或土壤碳。",
+        "other_works": [
+          {
+            "title": "Beta diversity of Arctiinae moths (Lepidoptera: Erebidae) along a recovering tropical forest gradient",
+            "year": "2026",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70359"
+          },
+          {
+            "title": "Habitat filtering, not dispersal limitation, drives ant and termite community assembly along a tropical forest regeneration gradient",
+            "year": "2026",
+            "journal": "Oecologia",
+            "doi": "10.1007/s00442-026-05875-9"
+          },
+          {
+            "title": "Functional and phylogenetic beta diversity response of nocturnal moth assemblages to land‐use intensity in grasslands and forests",
+            "year": "2025",
+            "journal": "Oikos",
+            "doi": "10.1002/oik.11426"
+          },
+          {
+            "title": "Habitat and land‐use intensity shape moth community structure across temperate forest and grassland",
+            "year": "2025",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70132"
+          },
+          {
+            "title": "Acoustic indices predict recovery of tropical bird communities for taxonomic and functional composition",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.03.25.645239"
           }
         ]
       }
@@ -4902,6 +5297,174 @@
         "institution": "Dutch Research Institute for Transitions, Erasmus University Rotterdam",
         "intro": "Mara de Pater现于鹿特丹伊拉斯姆斯大学荷兰转型研究所，其工作聚焦社会转型与可持续性路径。虽然其研究偏社会科学，但与用户关注的基于自然的解决方案和重野化的政策维度相关，尤其在欧洲研究地点和转型路径对生态系统管理的启示方面有间接价值。",
         "other_works": []
+      }
+    },
+    {
+      "id": "10.1029/2026EF008308",
+      "title": "Spatially Explicit Biochar Deployment Enhances Food Security and Advances Carbon Neutrality in China's Staple Crops",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008308?af=R",
+      "summary": "Earth's Future, Volume 14, Issue 10, October 2026.",
+      "journal": "Earths Future",
+      "published": "2026-09-28T11:32:04-07:00",
+      "doi": "10.1029/2026EF008308",
+      "affiliation": "Key Laboratory of Green and Low‐carbon Agriculture in Southeastern China Ministry of Agriculture and Rural Affairs College of Resources and Environmental Sciences Nanjing Agricultural University  Nanjing China; Jiangsu Key Laboratory of Low Carbon Agriculture and GHGs Mitigation College of Resources and Environmental Sciences Nanjing Agricultural University  Nanjing China; Department of Natural Resources and the Environment College of Agriculture, Health and Natural Resources University of Connecticut  Storrs CT USA",
+      "title_zh": "空间明确的生物炭部署提升中国主粮作物的粮食安全并推进碳中和",
+      "relevance_score": 4,
+      "key_conclusion": "空间优化的生物炭施用可同时提升中国主粮作物粮食安全并推进碳中和目标。",
+      "relevance_note": "文章涉及碳中和管理与农业土壤碳固定，与用户关注的土壤有机碳和碳循环有间接关联，但聚焦生物炭技术而非重野化或放牧，研究地点在中国而非欧洲，故相关性中等偏低。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "该研究试图回答在中国主粮作物系统中，空间显式的生物炭施用如何同时影响粮食安全与碳中和目标，其核心是优化生物炭部署以实现双赢。",
+      "contributions_limitations": "贡献在于将生物炭施用的空间优化与粮食安全、碳减排目标结合，提供了国家尺度的政策参考。局限性在于摘要信息不完整，未说明生物炭对土壤有机碳长期稳定性的机制、是否考虑生物炭对土壤微生物群落的影响，也未涉及放牧或重野化场景，基于现有信息推测其对自然生态系统的适用性有限。",
+      "follow_up_research": "可研究生物炭施用对土壤POM与MAOM形成路径的长期影响，以及是否与动物介导的生物地球化学循环产生交互。也可探讨在重野化草地上生物炭与大型食草动物放牧的联合效应。",
+      "next_step_perspective": "该文为用户提供了土壤碳管理的工程化视角，但用户需注意其农业集约化背景与重野化自然恢复路径的差异。可借鉴其空间显式建模方法，思考如何在景观尺度上优化大型食草动物布局以最大化SOC固存。",
+      "why_this_journal": "Earth's Future 关注地球系统科学与可持续发展交叉议题，该文将生物炭、粮食安全与碳中和结合，具有跨学科政策意义，符合期刊对全球变化解决方案的定位。推测其新颖性在于空间优化框架的整合。",
+      "author_profile": {
+        "name": "Yawen Huang",
+        "institution": "Nanjing Agricultural University",
+        "intro": "Yawen Huang 任职于南京农业大学，主要从事农业生态系统模型与可持续农业研究，代表作涉及生物炭、保护性耕作、臭氧污染对作物影响等。其研究与用户关注的土壤有机碳及碳循环有方法学关联，但聚焦农业管理而非重野化。",
+        "other_works": [
+          {
+            "title": "Spatially Explicit Biochar Deployment Enhances Food Security and Advances Carbon Neutrality in China's Staple Crops",
+            "year": "2026",
+            "journal": "Earth's Future",
+            "doi": "10.1029/2026EF008308"
+          },
+          {
+            "title": "Assessing ozone pollution and climate change impacts on winter wheat: flux modeling vs. dose-response modeling",
+            "year": "2025",
+            "journal": "Journal of Environmental Management",
+            "doi": "10.1016/j.jenvman.2025.125767"
+          },
+          {
+            "title": "No-tillage farming enhances widespread nitrate leaching in the US Midwest",
+            "year": "2024",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ad751d"
+          },
+          {
+            "title": "A global synthesis of biochar's sustainability in climate-smart agriculture - Evidence from field and laboratory experiments",
+            "year": "2023",
+            "journal": "Renewable and Sustainable Energy Reviews",
+            "doi": "10.1016/j.rser.2022.113042"
+          },
+          {
+            "title": "Simulating no-tillage effects on crop yield and greenhouse gas emissions in Kentucky corn and soybean cropping systems: 1980–2018",
+            "year": "2022",
+            "journal": "Agricultural Systems",
+            "doi": "10.1016/j.agsy.2021.103355"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2664.70580",
+      "title": "Local management at low‐ to moderate‐intensity benefits wild bees in European calcareous grasslands while landscape conservation effects vary",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70580?af=R",
+      "summary": "Journal of Applied Ecology, Volume 63, Issue 9, September 2026.",
+      "journal": "Journal of Applied Ecology",
+      "published": "2026-09-28T00:00:00-07:00",
+      "doi": "10.1111/1365-2664.70580",
+      "affiliation": "Agroecology &amp; Functional Agrobiodiversity, Department of Crop Sciences University of Göttingen  Göttingen Germany; Campus Centre of Biodiversity and Sustainable Land Use (CBL) University of Göttingen  Göttingen Germany; DORCUS, Observatori dels Invertebrats  Olot Spain",
+      "title_zh": "低至中等强度的局部管理有利于欧洲钙质草地中的野生蜂，而景观保护效应各异",
+      "relevance_score": 4,
+      "key_conclusion": "在欧洲钙质草地中，低至中等强度的局部管理措施有利于野生蜂群落，而景观尺度的保护效应因环境而异。",
+      "relevance_note": "该文研究欧洲草地生态系统中管理强度对野生蜂的影响，涉及生物多样性保护与管理，地点在欧洲，与用户对欧洲研究及BEF的关注有一定关联，但未涉及碳循环或大型食草动物。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "在欧洲钙质草地生态系统中，局部管理强度（如放牧或刈割强度）和景观尺度保护措施分别如何影响野生蜂群落的多样性与组成？",
+      "contributions_limitations": "该研究揭示了低至中等强度的局部管理对野生蜂有利，为草地生物多样性保护提供了管理强度阈值方面的实践指导。局限性在于仅关注野生蜂这一单一类群，未涉及放牧对土壤碳过程或植被-土壤反馈的影响，且摘要信息非常有限，具体的实验设计和效应量无法评估。",
+      "follow_up_research": "可进一步探究低至中等放牧强度下野生蜂群落变化与植物群落组成、花资源可用性之间的因果链条；也可将研究扩展至传粉者群落功能多样性与生态系统服务的关系，以及在不同欧洲草地类型中的可推广性。",
+      "next_step_perspective": "虽然该文不直接涉及rewilding或土壤碳，但其关于欧洲草地管理强度梯度的研究设计思路（local vs. landscape尺度效应分解）可为用户研究放牧强度对草地生态系统功能的影响提供方法借鉴，尤其是如何区分局部管理效应与景观背景效应的统计框架。此外，若用户的rewilding研究地点涉及欧洲草地，该文提供的野生蜂响应数据可作为地上生物多样性响应的参照基线。",
+      "why_this_journal": "Journal of Applied Ecology偏好具有明确保护管理启示的研究，该文将管理强度与生物多样性响应直接关联，符合期刊应用导向（推测）。",
+      "author_profile": {
+        "name": "Ira Hannappel",
+        "institution": null,
+        "intro": "Ira Hannappel的研究聚焦于欧洲半自然草地保护与恢复，尤其关注传粉昆虫（野生蜂、熊蜂、蝴蝶）对管理措施和景观结构的响应。其多项工作强调景观异质性和花资源对维持草地生物多样性的重要性。这些研究与用户关注的方向关联在于：草地管理强度对生物多样性的影响机制可与放牧对土壤碳和植被-土壤反馈的研究相互补充，尤其是在欧洲草地生态系统中。",
+        "other_works": [
+          {
+            "title": "Beyond flower strips – restoring biodiversity needs more landscape heterogeneity",
+            "year": "2025",
+            "journal": "Biological Conservation",
+            "doi": "10.1016/j.biocon.2025.111474"
+          },
+          {
+            "title": "Floral resources in the surrounding landscape matrix augment plant species richness of bumblebee pollen loads in small, fragmented calcareous grasslands",
+            "year": "2025",
+            "journal": "Biological Conservation",
+            "doi": "10.1016/j.biocon.2025.111379"
+          },
+          {
+            "title": "Social-ecological perspective on European semi-natural grassland conservation and restoration: Key challenges and future pathways",
+            "year": "2025",
+            "journal": "Biological Conservation",
+            "doi": "10.1016/j.biocon.2025.111038"
+          },
+          {
+            "title": "Grassland intensification strongly reduces butterfly diversity in the Westerwald mountain range, Germany",
+            "year": "2020",
+            "journal": "Journal of Insect Conservation",
+            "doi": "10.1007/s10841-019-00195-1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2664.70583",
+      "title": "Response of endemic lizard populations to attempted eradication of invasive predators on a Galápagos island",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70583?af=R",
+      "summary": "Journal of Applied Ecology, Volume 63, Issue 9, September 2026.",
+      "journal": "Journal of Applied Ecology",
+      "published": "2026-09-28T00:00:00-07:00",
+      "doi": "10.1111/1365-2664.70583",
+      "affiliation": "Department of Conservation Biology and Forest Ecology University of Würzburg  Würzburg Germany; Durrell Wildlife Conservation Trust  Jersey British Channel Islands; Fundación de Conservación Jocotoco  Quito Ecuador",
+      "title_zh": "加拉帕戈斯岛特有蜥蜴种群对入侵捕食者清除尝试的响应",
+      "relevance_score": 4,
+      "key_conclusion": "在加拉帕戈斯岛尝试清除入侵捕食者后，特有蜥蜴种群出现响应，但恢复效果受多种因素影响，表明捕食者清除对猎物种群具有复杂效应。",
+      "relevance_note": "该文涉及捕食者-猎物关系及入侵物种管理，与用户对捕食者-猎物互作和基于自然的解决方案的关注有一定关联，但未涉及碳循环或重野化，且研究地点不在欧洲。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "在加拉帕戈斯岛上试图清除入侵捕食者（如鼠类）后，特有的蜥蜴种群如何响应？捕食者清除是否有效促进了猎物种群的恢复？",
+      "contributions_limitations": "该研究提供了入侵捕食者清除后猎物（特有蜥蜴）种群响应的实证数据，揭示了捕食者-猎物关系在保护干预下的复杂性。局限性在于摘要信息不足，无法判断蜥蜴种群变化的具体幅度和驱动因素，也未见对其他营养级或生态系统功能的评估。",
+      "follow_up_research": "可进一步研究捕食者清除后猎物种群恢复的时间滞后效应及其与非生物因素（气候、栖息地质量）的交互作用；也可探讨清除入侵捕食者对岛屿食物网整体结构和其他营养级的级联效应。",
+      "next_step_perspective": "该文直接关联用户关注的捕食者-猎物关系及其性状介导效应，尤其是人类活动（入侵物种引入及清除）如何重塑捕食者-猎物动态。虽然研究对象是岛屿蜥蜴而非大型食草动物，但其研究框架——通过移除顶级/中层捕食者来观察猎物种群响应——可类比到rewilding中通过引入或恢复大型食草动物来观察生态系统级联效应的思路。此外，捕食者清除作为一种保护干预手段的复杂效果，也与用户对nature-based solutions潜在负面效应的关注相呼应。",
+      "why_this_journal": "Journal of Applied Ecology重视保护实践中的干预效果评估，该文关于入侵物种清除对特有种恢复效应的研究具有直接的保护管理意义（推测）。",
+      "author_profile": {
+        "name": "Kirtana Kumar",
+        "institution": "University of Würzburg",
+        "intro": "Kirtana Kumar现于德国维尔茨堡大学，其研究主要围绕岛屿生态系统中的入侵物种管理与特有种保护，涉及加拉帕戈斯蜥蜴和鬣蜥种群的种群生态学、空间生态学以及捕食者控制项目。这些研究与用户方向的关联在于：捕食者-猎物关系、人类活动对物种互作的干扰以及保护干预的生态系统后果均是用户关注的延伸主题，尤其可为理解rewilding中营养级互作提供岛屿系统的对照案例。",
+        "other_works": [
+          {
+            "title": "Raw reptile survey data & R scripts for article: Response of endemic lizard populations to attempted eradication of invasive predators on a Galápagos Island.",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.6084/m9.figshare.30735014"
+          },
+          {
+            "title": "Response of endemic lizard populations to attempted eradication of invasive predators on a Galápagos island",
+            "year": "2026",
+            "journal": "Journal of Applied Ecology",
+            "doi": "10.1111/1365-2664.70583"
+          },
+          {
+            "title": "Life on the volcano: population size of the Galápagos Land Iguana Conolophus subcristatus (Gray, 1831) on Fernandina Island, Galápagos, Ecuador",
+            "year": "2023",
+            "journal": "Herpetology Notes",
+            "doi": null
+          },
+          {
+            "title": "Life on the volcano: population size of the Galápagos Land Iguana, Conolophus subcristatus (Gray, 1831), on Fernandina Island, Galápagos, Ecuador",
+            "year": "2023",
+            "journal": "Herpetology Notes",
+            "doi": null
+          },
+          {
+            "title": "Continuing Field Efficacy of Norbormide against both Rattus rattus (Ship Rats) and Rattus norvegicus (Norway Rats)",
+            "year": "2022",
+            "journal": "Proceedings of the Vertebrate Pest Conference",
+            "doi": null
+          }
+        ]
       }
     }
   ]
