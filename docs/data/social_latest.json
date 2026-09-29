@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-28T19:08:26.500731+00:00",
-  "count": 5,
+  "generated_at": "2026-09-29T05:10:37.928920+00:00",
+  "count": 7,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Carbonaceous chondrite meteorites preserve a chemical record of the early Solar System. A study of three stable isotopes of oxygen in primitive meteorites finds them unchanged from the primordial oxygen reservoirs of the early Solar System. In PNAS: https://ow.ly/aNwK50ZSkgj",
+      "created_at": "2026-09-29T01:00:15.524458668Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mwmmuefg7t23",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "As the climate warms, droughts and floods may occur in quicker succession. Researchers project more frequent drought–flood transitions across China, with greater risks for lower-income populations.\n\nIn Science X / Phys.org: https://ow.ly/op5M50ZSquO\nIn PNAS Nexus: https://ow.ly/n7hW50ZSquL",
+      "created_at": "2026-09-29T00:00:38.823098798Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mwmjjrwrrx2p",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
