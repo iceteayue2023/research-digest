@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "generated_at": "2026-09-29T11:53:01.728974+00:00",
-  "count": 77,
+  "generated_at": "2026-09-29T17:30:04.521895+00:00",
+  "count": 78,
   "articles": [
     {
       "id": "10.1002/pan3.70402",
@@ -5466,6 +5466,28 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03050-x",
+      "title": "Daily briefing: Landmark bat study suggests they evolved in Europe",
+      "link": "https://www.nature.com/articles/d41586-026-03050-x",
+      "summary": "Nature, Published online: 25 September 2026; doi:10.1038/d41586-026-03050-xA new project aims to generate chromosome-level genomes for all living bat species. Plus, AlphaFold has a new pandemic preparedness portal and security risks of AI.",
+      "journal": "Nature",
+      "published": "2026-09-25T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-03050-x",
+      "affiliation": null,
+      "title_zh": "每日简报：里程碑式蝙蝠研究提示其起源于欧洲",
+      "relevance_score": 4,
+      "key_conclusion": "一项新项目旨在为所有现存蝙蝠物种生成染色体水平基因组，研究提示蝙蝠可能起源于欧洲。此外还介绍了AlphaFold新的大流行防范门户及AI安全风险。",
+      "relevance_note": "文章涉及蝙蝠（大型动物类群之一）的进化起源及欧洲研究地点，发表于Nature，按用户标准可获一定加分；但主要内容为基因组学项目简报，与用户核心关注的土壤碳循环、重野化等主题关联较弱。",
+      "related_papers": [],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03050-x/d41586-026-03050-x_53772404.png",
+      "scientific_question": "蝙蝠这一物种大类的起源地在哪里，以及能否为所有现存蝙蝠物种生成染色体水平的参考基因组？",
+      "contributions_limitations": "该文是Nature的每日简报（News Briefing），仅概括性地报道了蝙蝠染色体水平基因组计划及'蝙蝠可能起源于欧洲'的研究提示，未提供具体方法、样本量或统计结果。因此贡献在于传递领域动态，局限性在于信息高度浓缩、缺乏可验证的细节。",
+      "follow_up_research": "基于该基因组计划，可进一步探索蝙蝠作为食虫/食果动物如何通过捕食或种子传播影响植被结构与土壤碳输入；也可比较不同地区蝙蝠群落的基因组适应性与其生态功能的关联。",
+      "next_step_perspective": "与用户核心方向关联较弱，但提示了一个思路：大型食草动物之外，其他动物类群（如蝙蝠）的进化起源与分布格局也可能通过营养级联间接影响生态系统碳循环。若用户关注动物介导的生物地球化学循环，可留意该基因组资源是否可用于食草动物-植物互作的功能基因研究。",
+      "why_this_journal": "推测：Nature每日简报栏目本身定位于快速传播高影响力、跨学科的科研新闻，蝙蝠染色体水平基因组计划属于大规模生物多样性基因组学倡议，具有广泛的公众与学界关注度。",
+      "author_profile": null
     }
   ]
 }
