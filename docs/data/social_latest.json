@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-09-29T17:30:04.534919+00:00",
-  "count": 11,
+  "generated_at": "2026-09-30T04:48:54.353291+00:00",
+  "count": 12,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "As the climate warms, compound drought and heat wave events are becoming more frequent and intense across the contiguous United States. Areas at high risk for such events are disproportionately poor, unhealthy, and rural. In PNAS: https://ow.ly/nqfA50ZSNx3",
+      "created_at": "2026-09-29T22:00:35.083433286Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mwotbz3npx2c",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "natgeosci.nature.com",
       "author_name": "Nature Geoscience",
