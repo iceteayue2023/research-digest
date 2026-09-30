@@ -1,6 +1,436 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T04:48:54.352969+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-09-30T11:39:25.322964+00:00",
+  "count": 7,
+  "articles": [
+    {
+      "id": "10.1111/gcb.71138",
+      "title": "Physicochemical Protection Outweighs Microbial Carbon Use Efficiency in Regulating Soil Organic Carbon Across an Aridity Gradient",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71138?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-09-30T00:22:38-07:00",
+      "doi": "10.1111/gcb.71138",
+      "affiliation": "Key Laboratory of Ecosystem Network Observation and Modeling, Institute of Geographic Sciences and Natural Resources Research Chinese Academy of Sciences  Beijing P.R. China; Laboratoire des Sciences du Climat et de l'Environnement IPSL–LSCE, CEA/CNRS/UVSQ/Université Paris Saclay, Orme des Merisiers  Gif sur Yvette France; Guangdong Provincial Key Laboratory of Applied Botany and Key Laboratory of National Forestry and Grassland Administration on Plant Conservation and Utilization in Southern China, South China Botanical Garden Chinese Academy of Sciences  Guangzhou China",
+      "title_zh": "物理化学保护超过微生物碳利用效率在干旱梯度上调控土壤有机碳",
+      "relevance_score": 9,
+      "key_conclusion": "沿干旱梯度，土壤有机碳的调控主要由物理化学保护机制（如矿物结合）主导，而非微生物碳利用效率，表明矿物保护在土壤碳固持中起关键作用。",
+      "relevance_note": "该文直接研究土壤有机碳的形成与稳定机制，涉及矿物保护与微生物过程，与用户关注的土壤有机质形成路径（POM/MAOM）及碳循环核心主题高度相关。",
+      "related_papers": [
+        {
+          "title": "Regulation of priming effect by soil organic matter stability over a broad geographic scale",
+          "link": "https://doi.org/10.1038/s41467-019-13119-z",
+          "venue": "Nature Communications",
+          "year": 2019
+        },
+        {
+          "title": "Microbial storage and its implications for soil ecology",
+          "link": "https://doi.org/10.1038/s41396-021-01110-w",
+          "venue": "The ISME Journal",
+          "year": 2021
+        },
+        {
+          "title": "Soil carbon stocks in temperate grasslands differ strongly across sites but are insensitive to decade‐long fertilization",
+          "link": "https://doi.org/10.1111/gcb.15988",
+          "venue": "Global Change Biology",
+          "year": 2021
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "沿干旱梯度，土壤有机碳（SOC）的固持主要由物理化学保护机制（如矿物结合）还是微生物碳利用效率（CUE）主导？",
+      "contributions_limitations": "该研究通过跨干旱梯度的分析，提出物理化学保护（矿物结合态有机质形成）对SOC的调控作用强于微生物CUE，对理解MAOM形成路径与土壤碳持久性具有重要意义。局限性在于摘要信息非常有限，未说明研究方法（如是否结合同位素、 fractions 分离）、干旱梯度的空间范围以及是否涵盖不同生态系统类型；相关机制推断建议查看原文验证。",
+      "follow_up_research": "可在不同放牧强度或大型食草动物重野化背景下，检验物理化学保护与微生物CUE的相对贡献是否发生转变；也可结合POM与MAOM分组，探讨干旱梯度下矿物保护的阈值效应。",
+      "next_step_perspective": "该文直接关系到用户关注的土壤有机质形成与稳定机制（POM/MAOM路径），提示在重野化研究中不能仅关注微生物过程，应同时量化矿物保护对SOC固持的贡献；干旱梯度设计也可为欧洲不同气候区重野化站点的跨站点比较提供方法参考。",
+      "why_this_journal": "推测该文能发表于Global Change Biology，是因为它针对SOC固持机制这一全球变化生态学核心问题，在大空间尺度（干旱梯度）上整合了物理化学与微生物视角，具有跨尺度机制意义。",
+      "author_profile": {
+        "name": "Junxiao Pan",
+        "institution": "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Science",
+        "intro": "Junxiao Pan 现就职于中国科学院地理科学与资源研究所，从历史论文看主要关注土壤碳氮磷循环、微生物酶动力学、冻融与极端气候对土壤过程的影响。其研究方向与用户关注的土壤有机质稳定机制、C-N-P化学计量及极端气候扰动高度相关，尤其在微生物介导的碳氮转化方面可提供方法借鉴。",
+        "other_works": [
+          {
+            "title": "Physicochemical Protection Outweighs Microbial Carbon Use Efficiency in Regulating Soil Organic Carbon Across an Aridity Gradient",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71138"
+          },
+          {
+            "title": "Slower Soil Nitrogen Transformations Under Longer‐Term Warming and the Consequences for Plant Growth",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70870"
+          },
+          {
+            "title": "Phosphorus-transforming microbes enhance phosphatase catalytic efficiency to alleviate phosphorus limitation under nitrogen and phosphorus additions in subtropical forest soil",
+            "year": "2025",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2025.109915"
+          },
+          {
+            "title": "Microbial Enzyme Activities Drive CO2 and CH4 Emissions During Freeze–Thaw Cycles in Peatlands",
+            "year": "2025",
+            "journal": "European Journal of Soil Science",
+            "doi": "10.1111/ejss.70206"
+          },
+          {
+            "title": "Enzyme Kinetics Affecting Thermal Sensitivity of SOC Decomposition Differ in Hummocks and Hollows of a Permafrost Bog",
+            "year": "2025",
+            "journal": "European Journal of Soil Science",
+            "doi": "10.1111/ejss.70173"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71100",
+      "title": "Silent Alarms? Unveiling Destabilization Risk in Terrestrial Ecosystem Carbon Fluxes",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71100?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-09-29T03:24:39-07:00",
+      "doi": "10.1111/gcb.71100",
+      "affiliation": "CREAF  Bellaterra (Cerdanyola del Vallès) Catalonia Spain; Universitat Autònoma de Barcelona  Bellaterra (Cerdanyola del Vallès) Catalonia Spain",
+      "title_zh": "无声的警报？揭示陆地生态系统碳通量的失稳风险",
+      "relevance_score": 9,
+      "key_conclusion": "该研究揭示陆地生态系统碳通量存在失稳风险，可能通过早期预警信号识别碳循环的临界转变，对理解碳汇碳源变化具有重要意义。",
+      "relevance_note": "该文直接关注陆地生态系统碳通量的稳定性与失稳风险，属于用户核心关注的陆地碳循环主题，特别是碳源碳汇变化及极端扰动下的碳循环响应。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "陆地生态系统碳通量是否存在失稳风险，能否通过早期预警信号识别碳循环的临界转变？",
+      "contributions_limitations": "该研究提出陆地碳通量可能存在失稳风险，并尝试用早期预警信号识别碳汇向碳源转变的临界点，对理解碳循环的非线性响应具有潜在价值。但基于现有信息，摘要仅提供期刊卷期信息，具体数据、方法（如时间序列分析、临界慢化指标）和结论细节不足，属推测性描述，需查看原文。",
+      "follow_up_research": "可将早期预警框架应用于重野化或放牧管理后的生态系统碳通量监测，检验大型食草动物引入是否改变碳通量的稳定性；也可结合极端气候事件，探讨失稳风险的驱动因子。",
+      "next_step_perspective": "该文为用户关注的碳汇碳源变化与极端气候扰动提供了“失稳/临界转变”这一分析视角，提示在重野化碳循环研究中可引入非线性动力学或早期预警指标来评估管理措施的长期风险；方法上可能涉及长时间序列碳通量数据的稳定性分析。",
+      "why_this_journal": "推测Global Change Biology接收该文是因为它聚焦全球变化下陆地碳循环的稳定性这一前沿问题，若结合了多站点通量数据与临界转变检测方法，则具备方法创新与全球意义。",
+      "author_profile": {
+        "name": "Filipe M. Andrade",
+        "institution": "Global Ecology Unit CREAF-CSIC-UAB",
+        "intro": "Filipe M. Andrade 就职于CREAF-CSIC-UAB全球生态学单元，历史论文涉及陆地生态系统功能的时间复杂性与驱动因子，显示其研究兴趣在生态系统功能稳定性与时间动态。这与用户关注的碳循环扰动、生态系统功能恢复有交集，尤其在稳定性/复杂性分析方面可提供方法启发。",
+        "other_works": [
+          {
+            "title": "Silent Alarms? Unveiling Destabilization Risk in Terrestrial Ecosystem Carbon Fluxes",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71100"
+          },
+          {
+            "title": "Temporal complexity of terrestrial ecosystem functioning and its drivers",
+            "year": "2025",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-025-63246-z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1029/2026JG009928",
+      "title": "Hydraulic Trait Strategies Lead to Divergent Tree Growth Responses to Multidecadal Climate Variability",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009928?af=R",
+      "summary": "Journal of Geophysical Research: Biogeosciences, Volume 131, Issue 10, October 2026.",
+      "journal": "JGR Biogeosciences",
+      "published": "2026-09-29T06:01:20-07:00",
+      "doi": "10.1029/2026JG009928",
+      "affiliation": "Department of Civil, Environmental, and Geodetic Engineering Ohio State University  Columbus OH USA; The University of Michigan Biological Station University of Michigan  Pellston MI USA; School of Life Sciences and Sustainability Virginia Commonwealth University  Richmond VA USA",
+      "title_zh": "水力性状策略导致树木生长对多十年气候变率的差异化响应",
+      "relevance_score": 6,
+      "key_conclusion": "不同水力性状策略的树木对多十年气候变率表现出差异化的生长响应，表明性状介导的树木生长对长期气候变化的敏感性存在种间分化。",
+      "relevance_note": "该文涉及植物功能性状与气候变率的交互，与用户关注的植被-环境反馈及气候变化对碳循环的影响有关联，但未直接涉及碳分配、土壤碳或动物介导过程，相关性中等。",
+      "related_papers": [
+        {
+          "title": "The impacts of increasing drought on forest dynamics, structure, and biodiversity in the United States",
+          "link": "https://doi.org/10.1111/gcb.13160",
+          "venue": "Global Change Biology",
+          "year": 2016
+        },
+        {
+          "title": "Disentangling the Legacies of Climate and Management on Tree Growth",
+          "link": "https://doi.org/10.1007/s10021-021-00650-8",
+          "venue": "Ecosystems",
+          "year": 2021
+        },
+        {
+          "title": "Species-specific indication of 13 tree species growth on climate warming in temperate forest community of northeast China",
+          "link": "https://doi.org/10.1016/j.ecolind.2021.108389",
+          "venue": "Ecological Indicators",
+          "year": 2021
+        },
+        {
+          "title": "Soil-plant-atmosphere interactions: structure, function, and predictive scaling for climate change mitigation",
+          "link": "https://doi.org/10.1007/s11104-020-04427-1",
+          "venue": "Plant and Soil",
+          "year": 2020
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "",
+      "contributions_limitations": "",
+      "follow_up_research": "",
+      "next_step_perspective": "",
+      "why_this_journal": "",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-02965-9",
+      "title": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
+      "link": "https://www.nature.com/articles/d41586-026-02965-9",
+      "summary": "Nature, Published online: 30 September 2026; doi:10.1038/d41586-026-02965-9Researchers are trying everything they can to help coral reefs to survive severe heat stress from climate change, including playing sounds underwater.",
+      "journal": "Nature",
+      "published": "2026-09-30T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-02965-9",
+      "affiliation": null,
+      "title_zh": "超级厄尔尼诺正在炙烤珊瑚礁——摇篮曲和益生菌能拯救它们吗？",
+      "relevance_score": 5,
+      "key_conclusion": "研究人员正在尝试多种手段帮助珊瑚礁在气候变化导致的严重热胁迫下存活，包括在水下播放声音和施用益生菌。",
+      "relevance_note": "该文发表于Nature，主题涉及气候变化对生态系统的影响及基于自然的干预手段（益生菌、声学修复），与用户关注的基于自然的解决方案及极端气候事件对生态系统的扰动有一定关联，但研究对象为海洋珊瑚礁，与用户核心的陆地碳循环和大型食草动物重野化方向较远。",
+      "related_papers": [],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02965-9/d41586-026-02965-9_53758248.jpg"
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-9263-2026",
+      "title": "METEORv1.6: Spatial climate variability and integrated impact emulation",
+      "link": "https://doi.org/10.5194/gmd-19-9263-2026",
+      "summary": "METEORv1.6: Spatial climate variability and integrated impact emulation\n                    Benjamin M. Sanderson, Marit Sandstad, Maura Dewey, Norman Julius Steinert, and Johannes L. Fjeldså\n                        Geosci. Model Dev., 19, 9263–9288, https://doi.org/10.5194/gmd-19-9263-2026, 2026\n                        Planning for climate change requires understanding how climate and weather interact to drive possible impacts. We developed a tool that simulates realistic monthly climate patterns and translates them into useful measures like energy needs. It captures seasonal cycles and year-to-year variations to bridges the gap between global climate predictions and local planning, making climate risk assessment faster and more accessible.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-09-30T09:40:39+02:00",
+      "doi": "10.5194/gmd-19-9263-2026",
+      "affiliation": "CICERO Center for International Climate Research (Oslo, Norway)",
+      "title_zh": "METEORv1.6：空间气候变异与综合影响模拟",
+      "relevance_score": 5,
+      "key_conclusion": "开发了一个模拟真实月度气候格局并将其转化为能源需求等实用指标的工具体系，捕捉季节循环和年际变异，弥合全球气候预测与地方规划之间的差距。",
+      "relevance_note": "该文属于地球系统模式开发方向，与用户关注的生态系统模型改进和DGVM开发有方法学上的间接关联，但聚焦气候影响模拟而非植被或碳循环模块，相关性中等。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"METEORv1.6: Spatial climate variability and integrated impact emulation\"",
+          "link": "https://doi.org/10.5194/egusphere-2026-2029-supplement",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Reply on RC2",
+          "link": "https://doi.org/10.5194/egusphere-2026-2029-ac3",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Response to Reviewer 1",
+          "link": "https://doi.org/10.5194/egusphere-2026-2029-ac2",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Reply on CEC3",
+          "link": "https://doi.org/10.5194/egusphere-2026-2029-ac1",
+          "venue": null,
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/9263/2026/gmd-19-9263-2026-avatar-web.png",
+      "scientific_question": "如何开发一种工具来模拟真实的月度气候空间格局，并将其转化为能源需求等实用影响指标，以弥合全球气候预测与地方规划之间的差距？",
+      "contributions_limitations": "该工具METEORv1.6整合了季节循环和年际变异，能够快速生成气候影响评估，有助于地方层面的气候风险规划。局限性在于摘要未说明该工具是否包含生态系统碳循环模块或陆地表面过程的动态模拟，因此其与用户关注的DGVM开发和生态系统碳循环研究的直接关联尚不明确（基于现有信息推测）。",
+      "follow_up_research": "可探索将METEORv1.6的气候模拟输出与动态植被模型（DGVM）耦合，评估气候变化对陆地碳循环的间接影响；也可验证该工具在极端气候事件情景下对生态系统功能指标的模拟能力。",
+      "next_step_perspective": "该工具提供了一种从气候预测到影响评估的快速降尺度思路，用户可关注其方法框架是否可用于将气候情景数据转化为放牧强度或植被恢复潜力的空间化输入，从而辅助重野化选址与碳汇潜力评估。但目前来看与土壤有机碳的直接关联较弱。",
+      "why_this_journal": "Geoscientific Model Development专注于地球系统模型的开发、评估和描述，该工具的开发流程和代码公开符合期刊定位（推测）。其新颖性在于提供了一个连接全球气候预测与地方影响评估的中间工具。",
+      "author_profile": {
+        "name": "Benjamin M. Sanderson",
+        "institution": "CICERO Center for International Climate Research",
+        "intro": "Benjamin M. Sanderson就职于CICERO国际气候研究中心，主要从事气候模型开发、简化气候模型、太阳辐射管理等研究。其工作侧重于气候情景模拟与政策支持工具开发，与用户关注的生态系统碳循环和重野化核心课题没有直接交集，但若用户需要将气候情景数据整合到生态模型中的方法学参考，其模型开发经验可能有一定借鉴价值。",
+        "other_works": [
+          {
+            "title": "Bringing it all together: Science and modelling priorities to support international climate policy",
+            "year": "2024",
+            "journal": null,
+            "doi": null
+          },
+          {
+            "title": "CICERO Simple Climate Model (CICERO-SCM v1. 1.1)--an improved simple climate model with a parameter calibration tool",
+            "year": "2024",
+            "journal": "Geoscientific Model Development",
+            "doi": null
+          },
+          {
+            "title": "Change in Wind Renewable Energy Potential under Stratospheric Aerosol Injections",
+            "year": "2024",
+            "journal": null,
+            "doi": null
+          },
+          {
+            "title": "Change in negative emission burden between an overshoot versus peak-shaved Stratospheric Aerosol Injections pathway",
+            "year": "2024",
+            "journal": "EGUsphere",
+            "doi": null
+          },
+          {
+            "title": "Exploration of diverse solutions for the calibration of imperfect climate models",
+            "year": "2024",
+            "journal": "Earth System Dynamics",
+            "doi": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03170-7",
+      "title": "Global patterns in plant–pollinator specialization",
+      "link": "https://www.nature.com/articles/s41559-026-03170-7",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 30 September 2026; doi:10.1038/s41559-026-03170-7Plant–pollinator networks vary tremendously across ecosystems. Here the authors use a global standardized dataset of plant–pollinator interactions to explore geographic patterns of specialization and their dependence on climate variables and taxonomic and functional identity.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-09-30T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03170-7",
+      "affiliation": null,
+      "title_zh": "植物-传粉者专一化的全球格局",
+      "relevance_score": 4,
+      "key_conclusion": "利用全球标准化的植物-传粉者互作数据集，揭示了互作网络专一化的地理格局及其对气候变量和物种分类与功能特征的依赖。",
+      "relevance_note": "该文涉及生物间互作网络（植物-动物互作），与用户关注的互作网络主题有一定关联，但聚焦传粉者而非大型食草动物，且不涉及碳循环或土壤过程，相关性有限。",
+      "related_papers": [
+        {
+          "title": "The global spectrum of plant form and function",
+          "link": "https://doi.org/10.1038/nature16489",
+          "venue": "Nature",
+          "year": 2015
+        },
+        {
+          "title": "Plant–pollinator Interactions: From Specialization To Generalization",
+          "link": "https://doi.org/10.1093/condor/108.4.986",
+          "venue": "Ornithological Applications",
+          "year": 2006
+        },
+        {
+          "title": "Pollination and Floral Ecology",
+          "link": "https://doi.org/10.23943/princeton/9780691128610.001.0001",
+          "venue": "Princeton University Press eBooks",
+          "year": 2011
+        },
+        {
+          "title": "Pollination and floral ecology",
+          "link": "https://doi.org/10.5860/choice.49-2063",
+          "venue": "Choice Reviews Online",
+          "year": 2011
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03170-7/MediaObjects/41559_2026_3170_Fig1_HTML.png",
+      "scientific_question": "全球植物-传粉者互作网络的专一化程度如何随地理和气候梯度变化，以及物种的分类和功能特征如何影响这种专一化格局？",
+      "contributions_limitations": "该研究利用全球标准化数据集揭示了植物-传粉者互作网络专一化的地理格局及其气候依赖性，为理解生物互作网络的大尺度格局提供了重要数据基础。局限性在于摘要未提及该研究是否涉及互作网络变化对生态系统功能（如植物繁殖、群落维持）的影响，也未说明是否包含动物介导的养分循环视角（基于现有信息推测）。",
+      "follow_up_research": "可进一步研究传粉者专一化程度变化如何影响植物群落组成，进而间接影响土壤碳输入和养分循环；也可将传粉网络与食物网其他组分（如植食性大型动物）的互作整合，探讨多营养级互作对生态系统功能的影响。",
+      "next_step_perspective": "该文的全球互作网络分析框架（标准化数据整合、气候变量驱动分析）可为用户研究大型食草动物与植物-土壤反馈网络提供方法学参考。用户可借鉴其网络分析方法，将放牧动物作为网络节点纳入植物-微生物-动物互作分析中。该文虽不涉及重野化，但属于用户关注的生物间互作网络和BEF范畴。",
+      "why_this_journal": "Nature Ecology & Evolution作为生态学与进化领域的高影响力期刊，该研究因其全球尺度的标准化数据整合和跨生态系统的综合比较而具有显著新颖性（推测）。其跨学科意义在于将网络生态学与宏观生态学结合。",
+      "author_profile": {
+        "name": "Sailee P. Sakhalkar",
+        "institution": null,
+        "intro": "Sailee P. Sakhalkar的研究方向集中于植物-传粉者互作网络、海拔梯度对互作网络的影响以及气候驱动的专一化格局，其工作跨越热带和温带森林生态系统。这些研究与用户关注的植物-动物互作和食物网复杂性有主题交叉，但其聚焦于传粉者而非大型食草动物，与用户核心课题的关联属于相邻领域。",
+        "other_works": [
+          {
+            "title": "Global patterns in plant–pollinator specialization",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03170-7"
+          },
+          {
+            "title": "Plant–pollinator interactions along an elevational gradient in Central European forest understorey",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.64898/2026.08.15.745048"
+          },
+          {
+            "title": "Does the mid-domain effect shape interaction networks along environmental gradients?",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.64898/2026.01.28.702219"
+          },
+          {
+            "title": "Individuality obscures geographical song variation in two passerine sister species with contrasting distributions and movement ecology",
+            "year": "2026",
+            "journal": "Ibis",
+            "doi": "10.1111/ibi.13429"
+          },
+          {
+            "title": "Climate-driven specialisation in plant–pollinator networks peaks outside the tropics",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.10.08.680666"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1029/2026EF008153",
+      "title": "Global Inequality and Potential Trade‐Offs in Community Resilience to Compound Climate Extremes",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EF008153?af=R",
+      "summary": "Earth's Future, Volume 14, Issue 10, October 2026.",
+      "journal": "Earths Future",
+      "published": "2026-09-29T02:05:55-07:00",
+      "doi": "10.1029/2026EF008153",
+      "affiliation": "Department of Geography The University of Hong Kong  Hong Kong China; The University of Hong Kong Shenzhen Institute of Research and Innovation  Shenzhen China; Institute for Climate and Carbon Neutrality The University of Hong Kong  Hong Kong China",
+      "title_zh": "全球不平等与社区对复合极端气候事件韧性的潜在权衡",
+      "relevance_score": 4,
+      "key_conclusion": "摘要信息不足，无法获取具体结论。",
+      "relevance_note": "该文讨论复合极端气候事件与社区韧性，与用户关注的极端气候事件对生态系统扰动的主题有间接关联，但偏向社会经济与人类社区韧性，与碳循环或重野化的直接联系较弱。",
+      "related_papers": [
+        {
+          "title": "Climate Change 2014 - Synthesis Report",
+          "link": "https://doi.org/10.59327/ipcc/ar5-9789291691432",
+          "venue": null,
+          "year": 2015
+        },
+        {
+          "title": "A review of the global climate change impacts, adaptation, and sustainable mitigation measures",
+          "link": "https://doi.org/10.1007/s11356-022-19718-6",
+          "venue": "Environmental Science and Pollution Research",
+          "year": 2022
+        },
+        {
+          "title": "Agroecology and the design of climate change-resilient farming systems",
+          "link": "https://doi.org/10.1007/s13593-015-0285-2",
+          "venue": "Agronomy for Sustainable Development",
+          "year": 2015
+        },
+        {
+          "title": "IPCC, 2023: Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland.",
+          "link": "https://doi.org/10.59327/ipcc/ar6-9789291691647",
+          "venue": null,
+          "year": 2023
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "基于现有信息推测，该研究可能探讨全球不同社区在面对复合气候极端事件时的韧性差异及其潜在的权衡关系。",
+      "contributions_limitations": "由于仅获取到期刊目录页信息，无法确定具体贡献和局限性。推测该研究可能揭示社区韧性在应对复合气候极端事件时的全球不平等格局，但摘要信息不足，建议查看原文以确认其是否涉及生态系统碳循环或基于自然的解决方案等具体内容。",
+      "follow_up_research": "建议查看原文后，评估其复合气候极端事件的韧性框架是否可应用于评估重野化生态系统对极端气候的抵抗力与恢复力；也可探讨其韧性不平等分析方法是否能迁移到土壤碳库稳定性对极端气候响应的研究中。",
+      "next_step_perspective": "该文可能与用户关注的极端气候事件对碳循环的扰动以及基于自然的解决方案在气候变化中的作用与局限有关联，但基于现有信息无法确认。建议用户查看原文，重点关注其是否讨论了生态系统层面的韧性机制和碳汇功能。",
+      "why_this_journal": "Earth's Future发表关于地球及其居民未来状态的研究，该文可能因其对复合气候极端事件社会-生态影响的跨学科分析而发表（推测）。但摘要信息不足，无法进一步判断。",
+      "author_profile": {
+        "name": "Zhenci Xu",
+        "institution": null,
+        "intro": "Zhenci Xu的研究涉及全球土地争夺与人畜共患病风险、城市可持续性、供应链可持续性等跨学科议题，体现了将生态过程与社会经济系统耦合分析的研究取向。这些工作与用户关注的基于自然的解决方案、动物介导的生物地球化学循环（如人畜共患病传播与土地利用变化的关系）有一定主题交叉，但并非直接涉及土壤碳循环或重野化。",
+        "other_works": [
+          {
+            "title": "Global Inequality and Potential Trade‐Offs in Community Resilience to Compound Climate Extremes",
+            "year": "2026",
+            "journal": "Earth's Future",
+            "doi": "10.1029/2026EF008153"
+          },
+          {
+            "title": "Strategic timing for the decarbonization contributions by China’s photovoltaic manufacturers in global energy transition",
+            "year": "2026",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-026-76424-4"
+          },
+          {
+            "title": "Global land rush concentrates potential zoonotic spillover risk in the tropics",
+            "year": "2026",
+            "journal": "Communications Sustainability",
+            "doi": "10.1038/s44458-026-00102-1"
+          },
+          {
+            "title": "Spatiotemporal changes in inter-city sustainability impacts linked to emission challenges worldwide",
+            "year": "2026",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-026-73515-0"
+          },
+          {
+            "title": "Promoting sustainable development worldwide in the metacoupled anthropocene",
+            "year": "2026",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-026-68653-4"
+          }
+        ]
+      }
+    }
+  ]
 }

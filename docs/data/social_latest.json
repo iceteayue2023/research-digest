@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-09-30T04:48:54.353291+00:00",
-  "count": 12,
+  "generated_at": "2026-09-30T11:39:25.324750+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Researchers are trying everything they can to help coral reefs to survive severe heat stress from climate change, including playing sounds underwater.\n\ngo.nature.com/4hvWytM",
+      "created_at": "2026-09-30T10:47:42.259Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mwq65pkfs22y",
+      "external_title": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
+      "external_description": "Researchers are trying everything they can to help coral reefs to survive severe heat stress from climate change, including playing sounds underwater.",
+      "external_uri": "https://go.nature.com/4hvWytM",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreiawu7xkncz4wfvnzrmdlzoawwh3c53k76ekrqijowqzsp3ql77euq"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "A tsunami of genome reshuffling www.nature.com/articles/s41...\n\nKelsie Hunnicutt discusses a new study in hybrid sticklebacks showing that hybrid incompatibilities drive rapid removal of introgressed alleles following the 2011 Tohoku tsunami in Japan \n\nFree to read: rdcu.be/ekJrEHm2iUea",
+      "created_at": "2026-09-30T08:46:22.098Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwpxeqhnnc25",
+      "external_title": "A tsunami of genome reshuffling - Nature Ecology & Evolution",
+      "external_description": "Generation-by-generation ancestry tracking in hybrid stickleback shows that hybrid incompatibilities drive rapid removal of introgressed alleles following a tsunami.",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03168-1",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreianr52lwabpy723cldbuncx6xrfe7r4ldthg4sdidl76a5qbudlaa"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -12,6 +34,17 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Springer Nature",
+      "text": "Rising sea levels could create new habitat for invasive marine species, says study in @natecoevo.nature.com. The findings suggest that more than two-thirds of newly flooded coastlines could become suitable for non-native species by the end of the century: spklr.io/63326Epu7p \n#Ecology 🌏 🧪",
+      "created_at": "2026-09-29T19:23:01.568Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwokiavimy2b",
+      "external_title": "Global sea-level rise will create a new biological invasion front - Nature Ecology & Evolution",
+      "external_description": "Sea-level rise may create a new front for the landward expansion of marine invaders into inundated areas. The authors explore the probability of this, projecting that more than two-thirds of inundated land areas would be suitable for 122 non-native animals already established in adjacent marine ecoregions under future sea-level-rise scenarios.",
+      "external_uri": "http://spklr.io/63326Epu7p",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o4ahcykv3wvi2uysmhptzrov/bafkreihsv4mn5pftyyi7u2ip23dpiyhi6osc6qnuvkpcyxm37m4pxgobfa"
     },
     {
       "handle": "natgeosci.nature.com",
@@ -91,17 +124,6 @@
       "external_thumb": null
     },
     {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Recovering secondary grasslands have taller plants that can quickly absorb light and nutrients\n\ngo.nature.com/4yiVJeT",
-      "created_at": "2026-09-28T11:46:01.399Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mwlai5obgm2b",
-      "external_title": "Ancient grasslands, once destroyed, don’t grow the same plant species back",
-      "external_description": "Recovering secondary grasslands have taller plants that can quickly absorb light and nutrients.",
-      "external_uri": "https://go.nature.com/4yiVJeT",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreihttrthoowpz6hl4pf53sxwq2qnexuz5mxml42utaq5iz44ccjcdm"
-    },
-    {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
       "text": "Species persistence following hybridization in nature requires the purging of introgressed alleles. Genomic monitoring of a tsunami-induced hybrid stickleback population in Japan reveals rapid genome-wide purging including of loci involved in reproductive isolation 🧪 www.nature.com/articles/s41...",
@@ -113,15 +135,15 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiheenphewzjrfrua7truv3lrx22x235g4jqoyoe54endvxc2idhbm"
     },
     {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "‘Liming’ to reduce soil acidity has long been considered a carbon dioxide source, but in North America’s largest river basin, it has resulted in net capture of atmospheric carbon\n\ngo.nature.com/4d5noaL",
-      "created_at": "2026-09-28T08:58:00.990Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mwkx3qaqle2y",
-      "external_title": "A widespread agricultural practice is an unexpected CO2 sink",
-      "external_description": "‘Liming’ to reduce soil acidity has long been considered a carbon dioxide source, but in North America’s largest river basin, it has resulted in net capture of atmospheric carbon.",
-      "external_uri": "https://go.nature.com/4d5noaL",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreifaxl6qdqta2y56vrudo2yzb6uwztrrc37dq4vcszjuinlhsq4lxa"
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Species persistence following hybridization in nature requires the purging of introgressed alleles. Genomic monitoring of a tsunami-induced hybrid stickleback population in Japan reveals rapid genome-wide purging including of loci involved in reproductive isolation 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-09-28T09:01:43.304Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwkxce35u22k",
+      "external_title": "Rapid genome-wide purging following tsunami-induced hybridization in a stickleback population - Nature Ecology & Evolution",
+      "external_description": "Species persistence following hybridization in nature requires the purging of introgressed alleles. Genomic monitoring of a tsunami-induced hybrid stickleback population in Japan reveals rapid genome-...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03184-1",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiheenphewzjrfrua7truv3lrx22x235g4jqoyoe54endvxc2idhbm"
     },
     {
       "handle": "science.org",
