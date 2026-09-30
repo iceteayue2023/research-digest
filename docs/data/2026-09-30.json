@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-30T11:39:25.322964+00:00",
-  "count": 7,
+  "generated_at": "2026-09-30T17:28:42.276588+00:00",
+  "count": 9,
   "articles": [
     {
       "id": "10.1111/gcb.71138",
@@ -168,6 +168,89 @@
       "author_profile": null
     },
     {
+      "id": "https://www.nature.com/articles/s41579-026-01381-0",
+      "title": "Rethinking soil microbiome interventions through an ecological lens",
+      "link": "https://www.nature.com/articles/s41579-026-01381-0",
+      "summary": "Nature Reviews Microbiology, Published online: 30 September 2026; doi:10.1038/s41579-026-01381-0Microbial interventions offer sustainable opportunities to enhance soil health and ecosystem functioning, but they can also have unintended ecological consequences. This Comment explores their benefits and risks, arguing for a shift in perspective from microbial products as agricultural inputs to tools for ecological restoration.",
+      "journal": "Nature Reviews Microbiology",
+      "published": "2026-09-30T00:00:00+00:00",
+      "doi": "10.1038/s41579-026-01381-0",
+      "affiliation": null,
+      "title_zh": "从生态学视角重新审视土壤微生物组干预",
+      "relevance_score": 6,
+      "key_conclusion": "微生物干预为增强土壤健康和生态系统功能提供了可持续途径，但也可能带来意想不到的生态后果。该评论主张将视角从微生物产品作为农业投入品转向将其作为生态恢复工具。",
+      "relevance_note": "该文涉及土壤微生物组与生态系统功能恢复，与用户关注的土壤有机质形成中微生物群落的作用及生态恢复主题相关；作为观点类文章用户偏好给较高分，但不直接涉及大型食草动物或土壤有机碳。",
+      "related_papers": [
+        {
+          "title": "Rhizosphere microbiome manipulation for sustainable crop production",
+          "link": "https://doi.org/10.1016/j.cpb.2021.100210",
+          "venue": "Current Plant Biology",
+          "year": 2021
+        },
+        {
+          "title": "Tools for the Microbiome: Nano and Beyond",
+          "link": "https://doi.org/10.1021/acsnano.5b07826",
+          "venue": "ACS Nano",
+          "year": 2015
+        },
+        {
+          "title": "The complexities of the diet-microbiome relationship: advances and perspectives",
+          "link": "https://doi.org/10.1186/s13073-020-00813-7",
+          "venue": "Genome Medicine",
+          "year": 2021
+        },
+        {
+          "title": "Microbiome breeding: conceptual and practical issues",
+          "link": "https://doi.org/10.1016/j.tim.2022.04.003",
+          "venue": "Trends in Microbiology",
+          "year": 2022
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "微生物干预（如接种微生物产品）在增强土壤健康和生态系统功能时，可能带来哪些非预期的生态后果？如何从生态学视角重新审视和指导土壤微生物干预的部署？",
+      "contributions_limitations": "该评论提出了一个重要的视角转变——将微生物产品从\"农业投入品\"重新定位为\"生态恢复工具\"，强调了微生物干预的双刃剑效应。其贡献在于整合了微生物生态学与恢复生态学的视角，为土壤健康管理提供了新框架。局限性在于这是一篇Comment类文章，不包含原始实验数据，具体论点的实证支撑程度基于现有摘要信息推测较为有限，建议查看原文了解其论证深度。",
+      "follow_up_research": "可以进一步研究在大型食草动物重野化背景下，土壤微生物群落的自然恢复过程是否可以为人工微生物干预提供参考模板；也可探讨微生物干预与放牧强度交互作用对土壤碳固定的影响；以及在生态恢复中如何量化微生物干预的非预期生态风险。",
+      "next_step_perspective": "该文为用户提供了一个重要提醒：在研究重野化对土壤有机碳的影响时，土壤微生物群落结构的变化不应仅被视为响应变量，也可能通过微生物干预的反向操作（如人为引入功能菌群）来主动调控碳循环。文中\"生态恢复工具\"的定位与重野化理念高度契合，可启发用户将重野化视为一种\"自然微生物干预\"，并与人工干预进行对比研究。",
+      "why_this_journal": "Nature Reviews Microbiology作为微生物学领域顶级综述期刊，发表该Comment可能是因为其提出了跨学科的新视角（将微生物生态学与恢复生态学结合），且对当前微生物产品产业化热潮提出了及时且必要的批判性反思。（推测）",
+      "author_profile": {
+        "name": "Joana Falcao Salles",
+        "institution": "University of Groningen",
+        "intro": "Joana Falcao Salles就职于荷兰格罗宁根大学，其研究涵盖根际微生物代谢组、微生物耐药性的生态进化视角、微生物联合体接种对作物产量的影响以及宿主-微生物互作等多个方向。这些研究与用户关注的土壤微生物群落结构对生态系统功能的影响以及植物-微生物互作网络高度相关，尤其是其关于微生物干预与生态恢复的工作可为重野化情境下土壤微生物群落恢复提供参考。",
+        "other_works": [
+          {
+            "title": "Untangling the rhizosphere specialized metabolome",
+            "year": "2025",
+            "journal": "Phytochemistry Reviews",
+            "doi": "10.1007/s11101-024-10036-y"
+          },
+          {
+            "title": "An eco-evolutionary perspective on antimicrobial resistance in the context of One Health",
+            "year": "2025",
+            "journal": "iScience ",
+            "doi": "10.1016/j.isci.2024.111534"
+          },
+          {
+            "title": "Enhancing Soybean Yield Through Inoculation of Multifunctional Microbial Consortia",
+            "year": "2025",
+            "journal": "International Journal of Agronomy",
+            "doi": "10.1155/ioa/9491715"
+          },
+          {
+            "title": "High-sugar diet leads to loss of beneficial probiotics in housefly larvae guts",
+            "year": "2025",
+            "journal": "The ISME journal",
+            "doi": "10.1093/ismejo/wrae193"
+          },
+          {
+            "title": "Microbial solutions must be deployed against climate catastrophe",
+            "year": "2025",
+            "journal": "Nature Reviews Microbiology",
+            "doi": "10.1038/s41579-024-01123-0"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.nature.com/articles/d41586-026-02965-9",
       "title": "The super El Niño is cooking coral reefs — can lullabies and probiotics save them?",
       "link": "https://www.nature.com/articles/d41586-026-02965-9",
@@ -262,6 +345,89 @@
             "year": "2024",
             "journal": "Earth System Dynamics",
             "doi": null
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41893-026-01936-2",
+      "title": "Restoration-driven positive and negative leakage in sub-Saharan Africa",
+      "link": "https://www.nature.com/articles/s41893-026-01936-2",
+      "summary": "Nature Sustainability, Published online: 30 September 2026; doi:10.1038/s41893-026-01936-2Restoration initiatives are important for progress towards climate and biodiversity policy goals; however, whether they lead to the displacement of tree loss elsewhere (leakage effect) is still unclear. This study examines the leakage impacts of restoration projects in sub-Saharan Africa.",
+      "journal": "Nature Sustainability",
+      "published": "2026-09-30T00:00:00+00:00",
+      "doi": "10.1038/s41893-026-01936-2",
+      "affiliation": null,
+      "title_zh": "撒哈拉以南非洲恢复驱动的正负泄漏效应",
+      "relevance_score": 5,
+      "key_conclusion": "恢复项目对实现气候和生物多样性政策目标至关重要，但其是否导致其他地区树木损失的转移（泄漏效应）尚不明确。本研究考察了撒哈拉以南非洲恢复项目的泄漏影响。",
+      "relevance_note": "该文关注生态恢复的碳泄漏效应，与用户关注的生态系统恢复与碳循环主题相关，但研究地点在非洲而非欧洲，且不涉及大型食草动物或土壤有机碳机制，相关性中等。",
+      "related_papers": [
+        {
+          "title": "Disentangling the numbers behind agriculture-driven tropical deforestation",
+          "link": "https://doi.org/10.1126/science.abm9267",
+          "venue": "Science",
+          "year": 2022
+        },
+        {
+          "title": "Safeguarding human health in the Anthropocene epoch: report of The Rockefeller Foundation–Lancet Commission on planetary health",
+          "link": "https://doi.org/10.1016/s0140-6736(15)60901-1",
+          "venue": "The Lancet",
+          "year": 2015
+        },
+        {
+          "title": "Negative emissions—Part 3: Innovation and upscaling",
+          "link": "https://doi.org/10.1088/1748-9326/aabff4",
+          "venue": "Environmental Research Letters",
+          "year": 2018
+        },
+        {
+          "title": "Strategies for mitigation of climate change: a review",
+          "link": "https://doi.org/10.1007/s10311-020-01059-w",
+          "venue": "Environmental Chemistry Letters",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-026-01936-2/MediaObjects/41893_2026_1936_Fig1_HTML.png",
+      "scientific_question": "",
+      "contributions_limitations": "",
+      "follow_up_research": "可借鉴其泄漏效应分析方法，研究重野化项目是否会导致周边区域放牧压力转移或土地利用变化，从而间接影响碳排放；也可将泄漏效应框架拓展到土壤碳层面，探讨恢复项目在不同空间尺度上的碳汇净效益；此外可研究泄漏效应在非洲以外地区（如欧洲重野化热点区域）的适用性。",
+      "next_step_perspective": "该文为用户提供了\"泄漏效应\"这一关键分析框架——重野化项目（如再引入大型食草动物）可能导致周边区域放牧或土地利用的位移，从而产生碳循环的正/负外部性。用户在评估重野化对土壤有机碳的净效应时，需要类似地考虑空间尺度上的碳泄漏问题，避免仅关注项目区内部而忽略区域整体碳收支。文中方法论（如何量化泄漏）也值得在重野化碳效应评估中借鉴。",
+      "why_this_journal": "Nature Sustainability关注恢复生态学的政策相关性和跨尺度影响评估，该研究可能因首次系统量化撒哈拉以南非洲恢复项目的双向泄漏效应（正泄漏和负泄漏），对全球恢复承诺（如波恩挑战）的净效益评估具有重要政策意义而得以发表。（推测）",
+      "author_profile": {
+        "name": "Xinran Miao",
+        "institution": null,
+        "intro": "Xinran Miao的具体机构信息未提供，但从其发表记录看，其研究聚焦于恢复生态学、生物多样性对栖息地变化的响应以及森林恢复的生态系统服务权衡。这些研究与用户关注的生态系统功能恢复主题一致，尤其是其关于恢复措施权衡与泄漏效应的工作，可为重野化项目的碳效益评估提供方法论借鉴。",
+        "other_works": [
+          {
+            "title": "Restoration-driven positive and negative leakage in sub-Saharan Africa",
+            "year": "2026",
+            "journal": "Nature Sustainability",
+            "doi": "10.1038/s41893-026-01936-2"
+          },
+          {
+            "title": "Ecological filtering shapes the impacts of agricultural deforestation on biodiversity",
+            "year": "2024",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-023-02280-w"
+          },
+          {
+            "title": "Designing goal-appropriate forest restoration at a broader scale",
+            "year": "2023",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ad0ad1"
+          },
+          {
+            "title": "The perils of measuring biodiversity responses to habitat change using mixed metrics",
+            "year": "2023",
+            "journal": "Conservation Letters",
+            "doi": "10.1111/conl.12959"
+          },
+          {
+            "title": "The biodiversity and ecosystem service contributions and trade-offs of forest restoration approaches",
+            "year": "2022",
+            "journal": "Science",
+            "doi": "10.1126/science.abl4649"
           }
         ]
       }
