@@ -1,8 +1,66 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T12:08:26.779629+00:00",
-  "count": 8,
+  "generated_at": "2026-10-01T17:54:12.795465+00:00",
+  "count": 11,
   "articles": [
+    {
+      "id": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00215-6?rss=yes",
+      "title": "Mind the gap: do herbivores shape light niches of trees?",
+      "link": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00215-6?rss=yes",
+      "summary": "Moderately light-demanding juvenile tree species across light gradients are under-represented in forest ecosystems compared to shade-tolerant and strongly light-demanding species. We propose that herbivore-mediated constraints on shade adaptation provide a mechanistic explanation for this pattern because plant traits favoring shade adaptation often increase vulnerability to herbivory.",
+      "journal": "Trends in Ecology and Evolution",
+      "published": "2026-09-08T00:00:00+00:00",
+      "doi": "10.1016/j.tree.2026.08.005",
+      "affiliation": null,
+      "title_zh": "注意差距：食草动物是否塑造了树木的光生态位？",
+      "relevance_score": 8,
+      "key_conclusion": "在森林生态系统中，中等需光量的幼树物种沿光梯度分布不足，相比耐阴和强需光物种较少被代表。作者提出，食草动物介导的对耐阴适应的限制为这一模式提供了机制解释，因为有利于耐阴适应的植物性状往往增加对食草动物的易感性。",
+      "relevance_note": "该文直接涉及食草动物对植物群落结构和树木光生态位的影响，与用户关注的大型食草动物重野化、植被-土壤反馈及生态系统功能恢复高度相关。虽然未直接涉及土壤碳，但食草动物介导的植被动态是重野化影响碳循环的重要机制，且属于植物-动物互作范畴，因此给予较高评分。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "为什么森林中中等需光量的幼树物种相对于耐阴和强需光物种在光梯度上代表性不足？食草动物是否通过对耐阴性状的选择性取食来塑造树木的光生态位？",
+      "contributions_limitations": "这篇文章提出了一个新颖的机制假说：食草动物介导的对耐阴适应的限制可以解释中等需光量幼树物种在光梯度上的分布不足，因为有利于耐阴的植物性状往往增加对食草动物的易感性。作为Trends in Ecology and Evolution的观点/综述类文章，其贡献在于整合了植物功能性状、食草动物取食偏好和光生态位分化等领域的知识，提出可检验的假说。局限性在于基于现有信息推测，本文可能缺乏新的实验数据或定量验证，属于概念性框架文章，假说的普适性和具体机制尚需实证研究检验。",
+      "follow_up_research": "可以在不同森林类型中开展野外观测或控制实验，量化食草动物取食强度与幼树耐阴性状（如比叶面积、叶氮含量）之间的关系，验证该假说的普适性。此外，可以将食草动物排除实验与光梯度实验结合，直接检验食草动物对中等需光量物种建立的限制作用。还可以探究在全球食草动物群落变化的背景下（如重野化或大型食草动物减少），这一机制如何影响森林更新和群落组成。",
+      "next_step_perspective": "这篇文章为用户提供了一个重要的视角：食草动物不仅是草地或苔原生态系统碳循环的调节者，还可能通过塑造森林树种的更新和群落组成间接影响森林碳动态。用户在做大型食草动物重野化对土壤有机碳影响的研究时，可以将食草动物对幼树光生态位的筛选作用纳入考虑——如果重野化改变了食草动物的取食压力，可能会改变森林的物种组成，进而影响凋落物质量和土壤碳输入。此外，文中关于植物性状-食草动物易感性权衡的思路，可以启发用户思考食草动物如何通过植物性状介导的途径影响植被-土壤反馈。",
+      "why_this_journal": "推测该文章能发表在Trends in Ecology and Evolution，是因为它提出了一个跨领域的、可检验的生态学假说，将植物功能生态学（光生态位、耐阴性状）与动物-植物互作（食草动物取食）联系起来，具有概念创新性和领域整合价值，符合该期刊发表观点性和综述性文章的定位。",
+      "author_profile": {
+        "name": "Ernesto Gianoli",
+        "institution": "Tarleton State University",
+        "intro": "Ernesto Gianoli就职于Tarleton State University。从其历史论文标题来看，他的主要研究方向涵盖植物表型可塑性、植物-动物互作、传粉网络以及攀援植物的生态学，涉及从个体性状到群落网络的多尺度研究。这些研究方向与用户关注的大型食草动物重野化有一定关联，尤其是其关于植物表型可塑性和植物-动物互作的工作，可以为理解食草动物如何通过取食影响植物群落组成和生态系统功能提供理论基础。",
+        "other_works": [
+          {
+            "title": "Field evidence of relative cooling under warm conditions in grouped caterpillars",
+            "year": "2026",
+            "journal": "The Science of Nature",
+            "doi": "10.1007/s00114-026-02169-1"
+          },
+          {
+            "title": "Mind the gap: do herbivores shape light niches of trees?",
+            "year": "2026",
+            "journal": "Trends in Ecology & Evolution",
+            "doi": "10.1016/j.tree.2026.08.005"
+          },
+          {
+            "title": "Rainfall increases generalization of pollination networks and heterospecific pollen deposition in arid ecosystems",
+            "year": "2026",
+            "journal": "Oikos",
+            "doi": "10.1002/oik.11770"
+          },
+          {
+            "title": "Why are there climbing plants in the desert?",
+            "year": "2026",
+            "journal": "Perspectives in Plant Ecology, Evolution and Systematics",
+            "doi": "10.1016/j.ppees.2025.125918"
+          },
+          {
+            "title": "Phenotypic integration limits the variation in plant phenotypic plasticity among traits: A meta‐analysis",
+            "year": "2025",
+            "journal": "Functional Ecology",
+            "doi": "10.1111/1365-2435.70096"
+          }
+        ]
+      }
+    },
     {
       "id": "10.1111/gcb.71112",
       "title": "Vegetation Phenology Shifts Under Climate Change: Cross‐Season Mechanisms and Consequences for Ecosystem Productivity",
@@ -204,6 +262,89 @@
       }
     },
     {
+      "id": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00217-X?rss=yes",
+      "title": "Configuring tree planting and forest restoration for climate adaptation",
+      "link": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00217-X?rss=yes",
+      "summary": "Climate warming can threaten biodiversity and trigger warming-related disturbances. Increasing tree cover in a landscape is recognized as a measure for cooling and moisture retention under certain conditions, but the role of its configuration—the spatial pattern of tree cover for a given amount—remains poorly understood. Building on recent evidence, we propose that the configuration of planted trees or restored forest in the landscape can influence the effectiveness of warming adaptation measures. We hypothesize that planting trees or restoring forests in a more fragmented configuration increases microclimatic refugia, reduces warming exposure for open- and edge-habitat species, and limits warming-related disturbances. We also hypothesize that a less fragmented configuration creates fewer but cooler microclimatic refugia and mitigates negative warming effects on patch-interior species.",
+      "journal": "Trends in Ecology and Evolution",
+      "published": "2026-09-10T00:00:00+00:00",
+      "doi": "10.1016/j.tree.2026.08.007",
+      "affiliation": null,
+      "title_zh": "为气候适应配置植树与森林恢复",
+      "relevance_score": 6,
+      "key_conclusion": "气候变暖威胁生物多样性并引发与变暖相关的干扰，增加景观树木覆盖在特定条件下可起到降温和保水作用，但其空间配置（给定数量下的空间格局）的作用仍不清楚。作者提出，更碎片化的植树/森林恢复配置可增加微气候避难所、减少开放和边缘栖息地物种的变暖暴露并限制变暖相关干扰；而较不碎片化的配置则形成更少但更冷的微气候避难所，缓解变暖对斑块内部物种的负面影响。",
+      "relevance_note": "该文涉及森林恢复与气候适应，与用户关注的陆地生态系统碳循环、基于自然的解决方案以及生态系统功能恢复有主题关联。虽然未直接涉及重野化或土壤碳，但森林恢复的空间配置对碳汇和微气候调节有潜在影响，因此给予中等相关性评分。",
+      "related_papers": [
+        {
+          "title": "Urban Trees and Human Health: A Scoping Review",
+          "link": "https://doi.org/10.3390/ijerph17124371",
+          "venue": "International Journal of Environmental Research and Public Health",
+          "year": 2020
+        },
+        {
+          "title": "Riverscapes as natural infrastructure: Meeting challenges of climate adaptation and ecosystem restoration",
+          "link": "https://doi.org/10.1016/j.ancene.2022.100334",
+          "venue": "Anthropocene",
+          "year": 2022
+        },
+        {
+          "title": "Who are the victims of low-carbon transitions? Towards a political ecology of climate change mitigation",
+          "link": "https://doi.org/10.1016/j.erss.2021.101916",
+          "venue": "Energy Research & Social Science",
+          "year": 2021
+        },
+        {
+          "title": "Adaptation to seasonality and the winter freeze",
+          "link": "https://doi.org/10.3389/fpls.2013.00167",
+          "venue": "Frontiers in Plant Science",
+          "year": 2013
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在气候变暖背景下，景观中植树或森林恢复的空间配置（碎片化程度）如何影响微气候避难所的形成、物种的变暖暴露以及变暖相关干扰的发生？",
+      "contributions_limitations": "这篇文章提出了两个可检验的假说：更碎片化的植树/森林恢复配置增加微气候避难所数量、减少开放和边缘物种的变暖暴露并限制变暖相关干扰；而较不碎片化的配置形成更少但更冷的避难所，缓解变暖对斑块内部物种的负面影响。其贡献在于将景观配置这一常被忽视的维度引入气候适应策略的讨论。局限性在于基于现有信息推测，文章可能主要基于理论推演和已有证据的综合，缺乏新的实证数据来验证这些假说，且不同气候区和生态系统类型下假说的适用性尚不明确。",
+      "follow_up_research": "可以在不同气候区开展景观尺度的实证研究，量化树木覆盖的空间配置与微气候避难所数量/质量之间的关系，并检验其对不同物种群的变暖缓冲效果。此外，可以结合景观模拟模型，预测在不同气候变暖情景下，不同植树配置方案对碳固存和生物多样性保护的协同效益。用户还可以思考在欧洲农业景观中，不同重野化或植树配置如何影响土壤碳的空间异质性。",
+      "next_step_perspective": "这篇文章为用户提供了一个重要的空间视角：在研究大型食草动物重野化对土壤有机碳的影响时，景观配置可能是一个关键的调节变量——重野化后的植被空间格局会影响微气候、凋落物输入的空间分布和土壤碳的空间异质性。用户可以借鉴文中关于碎片化程度影响微气候避难所的思路，思考重野化区域的空间配置如何影响土壤碳积累的效率和稳定性。此外，如果用户的研究地点在欧洲，文中的假说可以直接在温带或地中海景观中进行检验。",
+      "why_this_journal": "推测该文章能发表在Trends in Ecology and Evolution，是因为它将景观生态学（空间配置）与气候适应（微气候避难所）和恢复生态学交叉整合，提出具有实践指导意义的假说，视角新颖且紧扣气候变化适应这一全球性议题，符合该期刊的定位。",
+      "author_profile": {
+        "name": "Carmen Galán-Acedo",
+        "institution": "Carleton University",
+        "intro": "Carmen Galán-Acedo就职于Carleton University。从其历史论文标题来看，她的主要研究方向包括景观碎片化对物种分布的影响、物种灭绝风险评估、灵长类保护以及物种分布模型的方法改进。这些研究与用户的方向有一定关联，尤其是其关于碎片化效应和景观配置对物种影响的工作，可以为用户思考重野化区域的景观格局如何影响生态系统功能（包括碳循环）提供方法论和概念上的参考。",
+        "other_works": [
+          {
+            "title": "The effects of fragmentation per se on patch occupancy are stronger and more positive in a landscape with a higher quality and more homogeneous matrix",
+            "year": "2025",
+            "journal": "Ecography",
+            "doi": "10.1111/ecog.07462"
+          },
+          {
+            "title": "Global primary predictors of extinction risk in primates",
+            "year": "2024",
+            "journal": "Proceedings of the Royal Society B: Biological Sciences",
+            "doi": "10.1098/rspb.2024.1905"
+          },
+          {
+            "title": "Incorporating effects of habitat patches into species distribution models",
+            "year": "2024",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.14403"
+          },
+          {
+            "title": "Assessing species at risk legislation across Canadian provinces and territories",
+            "year": "2024",
+            "journal": "Facets",
+            "doi": "10.1139/facets-2023-0229"
+          },
+          {
+            "title": "Positive effects of fragmentation per se on the most iconic metapopulation",
+            "year": "2024",
+            "journal": "Conservation Letters",
+            "doi": "10.1111/conl.13017"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.nature.com/articles/s43017-026-00841-8",
       "title": "Using Rock-Eval pyrolysis to measure biochar carbon stability",
       "link": "https://www.nature.com/articles/s43017-026-00841-8",
@@ -359,6 +500,89 @@
             "year": "2023",
             "journal": "Ecology and Evolution",
             "doi": "10.1002/ece3.10224"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00218-1?rss=yes",
+      "title": "Human, natural, and artificial intelligence in forest restoration",
+      "link": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00218-1?rss=yes",
+      "summary": "Forest restoration has to move beyond attempts to rebuild complex ecosystems and instead focus on creating the conditions for their self-organization. Artificial intelligence can support this transition by expanding human capacity to navigate complexity, but if applied uncritically, it could reinforce the very biases it is intended to overcome.",
+      "journal": "Trends in Ecology and Evolution",
+      "published": "2026-09-07T00:00:00+00:00",
+      "doi": "10.1016/j.tree.2026.08.008",
+      "affiliation": null,
+      "title_zh": "森林恢复中的人类、自然与人工智能",
+      "relevance_score": 5,
+      "key_conclusion": "森林恢复必须超越重建复杂生态系统的尝试，转而专注于创造其自组织的条件。人工智能可以通过扩展人类应对复杂性的能力来支持这一转变，但如果不加批判地应用，可能会强化其本应克服的偏见。",
+      "relevance_note": "该文是森林恢复领域的观点类文章，与用户关注的生态系统功能恢复、基于自然的解决方案以及植被恢复对碳循环的影响有主题关联。虽然未涉及重野化或土壤碳，但作为恢复生态学的观点文章，对用户理解恢复框架有参考价值，给予中等相关性评分。",
+      "related_papers": [
+        {
+          "title": "Quo vadis artificial intelligence?",
+          "link": "https://doi.org/10.1007/s44163-022-00022-8",
+          "venue": "Discover Artificial Intelligence",
+          "year": 2022
+        },
+        {
+          "title": "Artificial intelligence, systemic risks, and sustainability",
+          "link": "https://doi.org/10.1016/j.techsoc.2021.101741",
+          "venue": "Technology in Society",
+          "year": 2021
+        },
+        {
+          "title": "Artificial Intelligence in Healthcare: Review and Prediction Case Studies",
+          "link": "https://doi.org/10.1016/j.eng.2019.08.015",
+          "venue": "Engineering",
+          "year": 2020
+        },
+        {
+          "title": "Artificial intelligence in dentistry—A review",
+          "link": "https://doi.org/10.3389/fdmed.2023.1085251",
+          "venue": "Frontiers in Dental Medicine",
+          "year": 2023
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "森林恢复应如何从试图重建复杂生态系统转向创造其自组织的条件？人工智能可以在这一转变中扮演什么角色，以及其潜在风险是什么？",
+      "contributions_limitations": "这篇文章的核心贡献是提出了一个范式转变的思路：森林恢复应聚焦于创造生态系统自组织的条件，而非试图重建特定物种组合，并讨论了人工智能如何扩展人类应对复杂性的能力，同时警示不加批判地应用AI可能强化其本应克服的偏见。作为观点类文章，其局限性在于基于现有信息推测，可能缺少具体的案例研究或定量评估来支撑AI在森林恢复中的实际效果，且自组织导向的恢复策略在实际操作中如何量化和评估仍不清晰。",
+      "follow_up_research": "可以研究如何将AI工具（如遥感、物种分布模型、生态系统过程模型）应用于监测和预测森林自组织过程中的关键指标，例如物种多样性恢复轨迹、碳积累速率和土壤发育。此外，可以探讨AI辅助决策在不同社会经济背景下是否会引入新的偏见（如偏向数据丰富的地区或物种），以及如何在恢复实践中建立自组织条件的量化标准。",
+      "next_step_perspective": "这篇文章为用户提供了一个在方法论和概念框架层面上的启发：重野化本质上也是一种依赖自组织过程的恢复策略，用户在研究大型食草动物重野化对土壤有机碳的影响时，可以借鉴'创造条件促进自组织'的思路，思考什么样的初始条件（如食草动物密度、植被状态、土壤条件）能够促进碳积累的自我维持。此外，文中关于AI辅助生态恢复的讨论可能启发用户思考如何利用模型工具（如DGVM）来预测重野化后碳循环的长期轨迹。",
+      "why_this_journal": "推测该文章能发表在Trends in Ecology and Evolution，是因为它提出了森林恢复领域的概念性范式转变，并跨学科地整合了人工智能与生态恢复，具有前瞻性和跨学科意义，符合该期刊发表高影响力观点文章的定位。",
+      "author_profile": {
+        "name": "Pedro H.S. Brancalion",
+        "institution": "Universidade de São Paulo",
+        "intro": "Pedro H.S. Brancalion就职于Universidade de São Paulo。从其历史论文标题来看，他的主要研究方向聚焦于热带森林恢复、恢复生态学的成本效益分析、森林碳汇监测以及景观连通性对碳恢复的影响。这些研究与用户关注的重野化对碳循环的影响高度相关，尤其是其关于森林恢复碳动态和恢复轨迹的工作，可以为用户理解重野化背景下植被-土壤碳反馈提供参考。",
+        "other_works": [
+          {
+            "title": "Tracking forest carbon and growth in large-scale passive restoration using multi-temporal airborne lidar",
+            "year": "2026",
+            "journal": "ISPRS Journal of Photogrammetry and Remote Sensing",
+            "doi": "10.1016/j.isprsjprs.2026.07.013"
+          },
+          {
+            "title": "Protecting tropical forests is more cost-effective for biodiversity and climate than restoration",
+            "year": "2026",
+            "journal": "Science",
+            "doi": "10.1126/science.adx9928"
+          },
+          {
+            "title": "How Mixed Are Production‐Oriented Planted Forests? A Global Review and Classification Approach",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71111"
+          },
+          {
+            "title": "Human, natural, and artificial intelligence in forest restoration",
+            "year": "2026",
+            "journal": "Trends in Ecology & Evolution",
+            "doi": "10.1016/j.tree.2026.08.008"
+          },
+          {
+            "title": "Forest connectivity boosts carbon recovery in regenerating Atlantic Forests",
+            "year": "2026",
+            "journal": "Communications Earth & Environment",
+            "doi": "10.1038/s43247-026-03480-5"
           }
         ]
       }
