@@ -1,6 +1,598 @@
 {
   "date": "2026-10-01",
-  "generated_at": "2026-10-01T05:01:53.429519+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-10-01T12:08:26.779629+00:00",
+  "count": 8,
+  "articles": [
+    {
+      "id": "10.1111/gcb.71112",
+      "title": "Vegetation Phenology Shifts Under Climate Change: Cross‐Season Mechanisms and Consequences for Ecosystem Productivity",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71112?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-10-01T00:17:58-07:00",
+      "doi": "10.1111/gcb.71112",
+      "affiliation": "Yanchi Research Station, School of Soil and Water Conservation Beijing Forestry University  Beijing China; College of Water Sciences Beijing Normal University  Beijing China; Ecosystem Ecology Swiss Federal Institute for Forest, Snow and Landscape Research (WSL)  Birmensdorf Switzerland",
+      "title_zh": "气候变化下的植被物候偏移：跨季节机制及其对生态系统生产力的影响",
+      "relevance_score": 6,
+      "key_conclusion": "该文综述了气候变化驱动植被物候跨季节偏移的机制，并探讨这些物候变化如何影响生态系统生产力。",
+      "relevance_note": "涉及陆地生态系统碳循环与生产力，与用户关注的生态系统功能及碳循环主题相关；研究团队含瑞士WSL，符合用户对欧洲研究的偏好。",
+      "related_papers": [
+        {
+          "title": "Responses of spring phenology to climate change",
+          "link": "https://doi.org/10.1111/j.1469-8137.2004.01059.x",
+          "venue": "New Phytologist",
+          "year": 2004
+        },
+        {
+          "title": "Plant phenotypic plasticity in a changing climate",
+          "link": "https://doi.org/10.1016/j.tplants.2010.09.008",
+          "venue": "Trends in Plant Science",
+          "year": 2010
+        },
+        {
+          "title": "Adaptation, migration or extirpation: climate change outcomes for tree populations",
+          "link": "https://doi.org/10.1111/j.1752-4571.2007.00013.x",
+          "venue": "Evolutionary Applications",
+          "year": 2008
+        },
+        {
+          "title": "A review of the global climate change impacts, adaptation, and sustainable mitigation measures",
+          "link": "https://doi.org/10.1007/s11356-022-19718-6",
+          "venue": "Environmental Science and Pollution Research",
+          "year": 2022
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "气候变化如何驱动植被物候的跨季节偏移（如春季提前、秋季延迟之间的连锁效应），以及这些偏移如何级联影响生态系统生产力？",
+      "contributions_limitations": "该综述系统整合了物候跨季节机制及其对生产力的影响，有助于理解碳循环的季节性调控。但基于现有信息推测，摘要极为简短，无法判断其是否涵盖了草地/放牧生态系统或地下碳过程，可能偏重森林或一般陆地生态系统，且作为综述可能缺乏新数据。",
+      "follow_up_research": "可进一步研究大型食草动物如何通过采食改变植被物候，进而影响跨季节的碳分配与土壤有机碳输入；也可将物候偏移参数化到DGVM中检验其对碳汇估算的影响。",
+      "next_step_perspective": "该文可帮助用户将物候动态纳入重野化对碳循环影响的框架中——放牧强度改变植被物候时序，可能间接调控根系碳输入和SOC形成，这是一个值得关注的机制路径。",
+      "why_this_journal": "Global Change Biology聚焦全球变化与生态系统功能的交叉研究，物候-生产力耦合是碳循环领域的核心议题，综述性整合具有较高的引用价值和领域引领意义（推测）。",
+      "author_profile": {
+        "name": "Zunchi Liu",
+        "institution": "Beijing Forestry University",
+        "intro": "刘尊驰（Zunchi Liu）任职于北京林业大学，从发表记录看主要关注植被物候与全球变化生态学。其研究方向与用户关注的植被-土壤反馈和碳循环有潜在关联，尤其是在物候如何调控生态系统碳输入方面，但尚需查看其具体论文确认是否涉及放牧或土壤碳过程。",
+        "other_works": []
+      }
+    },
+    {
+      "id": "10.1111/gcb.71132",
+      "title": "Overwintering Strategies Drive Climate Change Impacts on Body Mass in Northern Mammals",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71132?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-09-30T00:43:35-07:00",
+      "doi": "10.1111/gcb.71132",
+      "affiliation": "Department of Biology Memorial University of Newfoundland and Labrador  St. John's Newfoundland and Labrador Canada; Department of Biological Sciences University of Toronto Scarborough  Toronto Ontario Canada; Department of Biological Sciences University of Alberta  Edmonton Alberta Canada",
+      "title_zh": "越冬策略驱动气候变化对北方哺乳动物体重的影响",
+      "relevance_score": 6,
+      "key_conclusion": "该研究表明不同越冬策略介导了气候变化对北方哺乳动物体重的影响，越冬方式差异导致体型响应分化。",
+      "relevance_note": "涉及大型哺乳动物对气候变化的响应，与用户关注的大型食草动物及动物介导的生态过程有主题关联，但未直接涉及土壤碳或重野化。",
+      "related_papers": [
+        {
+          "title": "Impact of climate change on Antarctic krill",
+          "link": "https://doi.org/10.3354/meps09831",
+          "venue": "Marine Ecology Progress Series",
+          "year": 2012
+        },
+        {
+          "title": "Scientists' warning on climate change and insects",
+          "link": "https://doi.org/10.1002/ecm.1553",
+          "venue": "Ecological Monographs",
+          "year": 2022
+        },
+        {
+          "title": "Extreme weather and climate events in northern areas: A review",
+          "link": "https://doi.org/10.1016/j.earscirev.2020.103324",
+          "venue": "Earth-Science Reviews",
+          "year": 2020
+        },
+        {
+          "title": "Harmful algal blooms and climate change: Learning from the past and present to forecast the future",
+          "link": "https://doi.org/10.1016/j.hal.2015.07.009",
+          "venue": "Harmful Algae",
+          "year": 2015
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "不同越冬策略（如冬眠 vs. 活跃越冬）如何介导气候变化对北方哺乳动物体重的影响？",
+      "contributions_limitations": "该研究揭示了越冬策略作为气候变化影响体型响应的关键调节因子，为理解气候变化对大型动物的差异化影响提供了新视角。但基于现有信息推测，摘要信息极为有限，不清楚是否涉及体重变化对生态系统功能（如放牧压力、养分循环）的后续影响。",
+      "follow_up_research": "可探究体重变化如何进一步影响食草动物的采食量和空间分布，从而改变对植被和土壤碳的影响；也可在重野化背景下，评估气候变化驱动的体型变化如何改变大型食草动物的生态系统工程效应。",
+      "next_step_perspective": "这篇文章提示用户：气候变化可能通过改变重野化物种（如野牛、鹿类）的体型和代谢需求，间接影响放牧强度和养分循环。在评估重野化的碳汇效应时，应将气候驱动的动物性状变化纳入考量。",
+      "why_this_journal": "Global Change Biology偏好气候变化对生物个体至生态系统层面影响的机制性研究，该文结合气候数据与动物生活史策略，具有跨尺度整合的新颖性（推测）。",
+      "author_profile": {
+        "name": "Olivia Leach",
+        "institution": "Lakehead University",
+        "intro": "Olivia Leach任职于Lakehead University，从其发表记录看涉及哺乳动物越冬生态学和两栖动物繁殖生态学，研究兴趣涵盖动物生活史对气候变化的响应。其工作与用户关注的动物介导生物地球化学循环有间接关联，尤其是气候变化如何改变食草动物种群特征方面。",
+        "other_works": [
+          {
+            "title": "Overwintering Strategies Drive Climate Change Impacts on Body Mass in Northern Mammals",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71132"
+          },
+          {
+            "title": "Terminal reproductive investment in male Eastern Gray Treefrogs (Dryophytes versicolor, Anura: Hylidae) is a marathon not a sprint",
+            "year": "2024",
+            "journal": "Biological Journal of the Linnean Society",
+            "doi": "10.1093/biolinnean/blae114"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1002/pan3.70443",
+      "title": "Determining the values of soil‐mediated contributions to people: A comparative European perspective",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.70443?af=R",
+      "summary": "People and Nature, EarlyView.",
+      "journal": "People and Nature",
+      "published": "2026-10-01T01:33:35-07:00",
+      "doi": "10.1002/pan3.70443",
+      "affiliation": "University of Potsdam  Potsdam Germany; German Environment Agency  Dessau Germany; Eberswalde University for Sustainable Development  Berlin Germany",
+      "title_zh": "确定土壤介导的自然贡献价值：一项欧洲比较研究",
+      "relevance_score": 6,
+      "key_conclusion": "该研究从欧洲比较视角评估了土壤介导的生态系统服务价值，探讨了土壤功能对人类福祉的贡献。",
+      "relevance_note": "研究地点在欧洲，涉及土壤功能与生态系统服务，与用户关注的生态系统功能恢复和基于自然的解决方案有主题关联，但未直接涉及碳循环或重野化。",
+      "related_papers": [
+        {
+          "title": "Soil quality – A critical review",
+          "link": "https://doi.org/10.1016/j.soilbio.2018.01.030",
+          "venue": "Soil Biology and Biochemistry",
+          "year": 2018
+        },
+        {
+          "title": "Modeling Soil Processes: Review, Key Challenges, and New Perspectives",
+          "link": "https://doi.org/10.2136/vzj2015.09.0131",
+          "venue": "Vadose Zone Journal",
+          "year": 2016
+        },
+        {
+          "title": "Heavy Metals and Pesticides Toxicity in Agricultural Soil and Plants: Ecological Risks and Human Health Implications",
+          "link": "https://doi.org/10.3390/toxics9030042",
+          "venue": "Toxics",
+          "year": 2021
+        },
+        {
+          "title": "A review of earthworm impact on soil function and ecosystem services",
+          "link": "https://doi.org/10.1111/ejss.12025",
+          "venue": "European Journal of Soil Science",
+          "year": 2013
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何从欧洲比较视角评估土壤介导的生态系统服务（contributions to people）的价值，不同区域间土壤功能对人类福祉的贡献有何差异？",
+      "contributions_limitations": "该研究提供了跨国比较框架来量化土壤对人类福祉的贡献，欧洲多国比较视角增强了外推性。但基于现有信息推测，该文可能偏重社会经济价值评估而非土壤碳过程的机制研究，且摘要未提供具体方法或数据，难以判断其是否涉及碳储存服务。",
+      "follow_up_research": "可将土壤碳储存作为一项关键ecosystem service纳入评估框架，检验不同土地利用（包括放牧/重野化）下土壤碳服务的价值差异；也可探索如何将土壤碳汇功能与社会感知和政策偏好结合。",
+      "next_step_perspective": "该文为用户提供了将土壤功能价值化的欧洲视角，尤其是在重野化项目中论证土壤碳效益的社会意义时，可借鉴其评估框架。但需注意其关注点更偏社会科学整合，而非碳循环机制本身。",
+      "why_this_journal": "People and Nature专注于自然与人类关系的跨学科研究，该文结合土壤科学与生态系统服务评估，欧洲比较视角符合期刊对区域综合研究的偏好（推测）。",
+      "author_profile": {
+        "name": "Daniel Johnson",
+        "institution": "Eberswalde University for Sustainable Development",
+        "intro": "Daniel Johnson任职于Eberswalde University for Sustainable Development，从发表记录看研究兴趣涵盖气候变化下的景观管理、水资源挑战和生态系统服务的社会感知。其工作与用户方向的关联在于：欧洲土地利用变化（含放牧管理）对土壤功能的影响，但更偏社会生态系统的综合评估而非碳循环机制。",
+        "other_works": [
+          {
+            "title": "Determining the values of soil‐mediated contributions to people: A comparative European perspective",
+            "year": "2026",
+            "journal": "People and Nature",
+            "doi": "10.1002/pan3.70443"
+          },
+          {
+            "title": "Working landscapes under climate change need to be green, moist, and cool—A case study of Germany",
+            "year": "2026",
+            "journal": "Ecological Solutions and Evidence",
+            "doi": "10.1002/2688-8319.70270"
+          },
+          {
+            "title": "Shrinking lakes, growing concerns: exploring perceptions of lake level decline as a prism for understanding socionatural hazards",
+            "year": "2025",
+            "journal": "Natural Hazards and Earth System Sciences",
+            "doi": "10.5194/nhess-25-4731-2025"
+          },
+          {
+            "title": "Brief communication: What do we need to know? Ten questions about climate and water challenges in Berlin-Brandenburg",
+            "year": "2025",
+            "journal": "Natural Hazards and Earth System Sciences",
+            "doi": "10.5194/nhess-25-4043-2025"
+          },
+          {
+            "title": "Brief communication: What do we need to know? Ten questions about climate and water challenges in Berlin-Brandenburg",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-2025-428"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s43017-026-00841-8",
+      "title": "Using Rock-Eval pyrolysis to measure biochar carbon stability",
+      "link": "https://www.nature.com/articles/s43017-026-00841-8",
+      "summary": "Nature Reviews Earth &amp; Environment, Published online: 01 October 2026; doi:10.1038/s43017-026-00841-8Monica McCall explains how the stable and labile fractions of carbon in biochar can be characterized using Rock-Eval pyrolysis.",
+      "journal": "Nature Reviews Earth & Environment",
+      "published": "2026-10-01T00:00:00+00:00",
+      "doi": "10.1038/s43017-026-00841-8",
+      "affiliation": null,
+      "title_zh": "利用Rock-Eval热解技术测量生物炭碳稳定性",
+      "relevance_score": 5,
+      "key_conclusion": "该文介绍如何利用Rock-Eval热解技术表征生物炭中稳定碳组分与不稳定碳组分，为评估生物炭的碳封存潜力提供方法学支撑。",
+      "relevance_note": "涉及土壤碳稳定性的测量方法，与用户关注的土壤有机碳形成与稳定机制有方法学上的关联，但不直接涉及重野化或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Comprehensive review on production and utilization of biochar",
+          "link": "https://doi.org/10.1007/s42452-019-0172-6",
+          "venue": "SN Applied Sciences",
+          "year": 2019
+        },
+        {
+          "title": "Increasing soil carbon storage: mechanisms, effects of agricultural practices and proxies. A review",
+          "link": "https://doi.org/10.1007/s13593-017-0421-2",
+          "venue": "Agronomy for Sustainable Development",
+          "year": 2017
+        },
+        {
+          "title": "Deep-C storage: Biological, chemical and physical strategies to enhance carbon stocks in agricultural subsoils",
+          "link": "https://doi.org/10.1016/j.soilbio.2022.108697",
+          "venue": "Soil Biology and Biochemistry",
+          "year": 2022
+        },
+        {
+          "title": "Breeding crop plants with deep roots: their role in sustainable carbon, nutrient and water sequestration",
+          "link": "https://doi.org/10.1093/aob/mcr175",
+          "venue": "Annals of Botany",
+          "year": 2011
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43017-026-00841-8/MediaObjects/43017_2026_841_Figa_HTML.png",
+      "scientific_question": "如何利用Rock-Eval热解技术准确区分和量化生物炭中的稳定碳组分与不稳定碳组分？",
+      "contributions_limitations": "该文作为方法学介绍，系统阐释了Rock-Eval热解在生物炭碳稳定性评估中的应用，对碳封存研究具有方法学价值。但基于现有信息推测，这是一篇短篇方法介绍而非原创研究，且聚焦于生物炭而非自然土壤有机质，与用户核心关注的SOC形成机制（POM/MAOM路径）有方法学交叉但主题有距离。",
+      "follow_up_research": "可将Rock-Eval热解方法迁移应用于重野化背景下土壤有机质稳定性评估，区分放牧管理下土壤中热稳定与热不稳定碳组分的变化；也可与POM/MAOM物理分组方法进行交叉验证。",
+      "next_step_perspective": "Rock-Eval热解作为一种快速表征有机质热稳定性的方法，可为用户提供评估放牧/重野化对SOC稳定性影响的补充技术手段，尤其是区分不同管理措施下土壤碳库的稳定性差异。",
+      "why_this_journal": "Nature Reviews Earth & Environment发表方法学和技术进展的简短综述，Rock-Eval热解在碳封存领域的应用属于方法学前沿且具有跨学科推广价值（推测）。",
+      "author_profile": {
+        "name": "Monica McCall",
+        "institution": "Imperial College London",
+        "intro": "Monica McCall任职于Imperial College London，从发表记录看专注于生物炭稳定性表征和机器学习在碳材料分析中的应用。其研究方法（Rock-Eval热解、FTIR）与用户关注的土壤有机质稳定机制有方法学关联，但其研究对象以生物炭为主，与自然土壤SOC的形成路径有所不同。",
+        "other_works": [
+          {
+            "title": "Using Rock-Eval pyrolysis to measure biochar carbon stability",
+            "year": "2026",
+            "journal": "Nature Reviews Earth & Environment",
+            "doi": "10.1038/s43017-026-00841-8"
+          },
+          {
+            "title": "Comparative assessment of novel and traditional biochar stability proxies",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-7696"
+          },
+          {
+            "title": "Biochar Stability Revealed by FTIR and Machine Learning",
+            "year": "2025",
+            "journal": "ACS Sustainable Resource Management",
+            "doi": "10.1021/acssusresmgt.5c00104"
+          },
+          {
+            "title": "Predicting Stability of Barley Straw-Derived Biochars Using Fourier Transform Infrared Spectroscopy",
+            "year": "2024",
+            "journal": "ACS Sustainable Resource Management",
+            "doi": "10.1021/acssusresmgt.4c00148"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2656.70364",
+      "title": "Playing with fire: Wolf response to active wildfires, fire fronts and smoke",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70364?af=R",
+      "summary": "Journal of Animal Ecology, EarlyView.",
+      "journal": "Journal of Animal Ecology",
+      "published": "2026-09-30T19:51:00-07:00",
+      "doi": "10.1111/1365-2656.70364",
+      "affiliation": "SwampDonkey Solutions  Pincher Creek Alberta Canada; Fort Nelson First Nation  Fort Nelson British Columbia Canada; Ministry of Water, Land and Resource Stewardship Government of British Columbia  Victoria British Columbia Canada",
+      "title_zh": "与火共舞：狼对活跃野火、火线和烟雾的响应",
+      "relevance_score": 5,
+      "key_conclusion": "该研究揭示了狼对活跃野火、火线及烟雾的行为响应，展示了大型捕食者如何应对极端火事件。",
+      "relevance_note": "涉及大型动物对极端事件的响应及捕食者行为生态，与用户关注的大型动物和捕食者-猎物关系有一定关联，但未涉及土壤碳或重野化核心议题。",
+      "related_papers": [
+        {
+          "title": "Biogenic volatile organic compound emissions from vegetation fires",
+          "link": "https://doi.org/10.1111/pce.12336",
+          "venue": "Plant Cell & Environment",
+          "year": 2014
+        },
+        {
+          "title": "Reimagine fire science for the anthropocene",
+          "link": "https://doi.org/10.1093/pnasnexus/pgac115",
+          "venue": "PNAS Nexus",
+          "year": 2022
+        },
+        {
+          "title": "Fire Influences on Atmospheric Composition, Air Quality and Climate",
+          "link": "https://doi.org/10.1007/s40726-015-0007-z",
+          "venue": "Current Pollution Reports",
+          "year": 2015
+        },
+        {
+          "title": "Developing and validating evacuation models for fire safety engineering",
+          "link": "https://doi.org/10.1016/j.firesaf.2020.103020",
+          "venue": "Fire Safety Journal",
+          "year": 2020
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "大型捕食者（狼）如何对活跃野火、火线推进和烟雾等极端火事件做出行为和空间响应？",
+      "contributions_limitations": "该研究提供了狼对活跃野火响应的一手行为生态学数据，填补了极端火事件如何影响大型捕食者空间利用的知识空白。基于现有信息推测，局限性可能在于样本量有限、火事件为不可控自然实验导致因果推断困难，且未涉及火灾后猎物动态的连锁效应。",
+      "follow_up_research": "可进一步研究火后狼的捕食压力变化如何级联影响食草动物行为与植被恢复，进而反馈到土壤碳循环；也可探讨火 regime 变化（频率/强度）对捕食者-猎物互作的长期重塑效应。",
+      "next_step_perspective": "该研究提示在重野化背景下，极端火事件可能通过改变大型捕食者的空间利用而间接影响食草动物分布与放牧强度，进而影响土壤有机碳。用户在评估重野化区域的碳循环时，应考虑火干扰作为捕食者-食草动物-植被-土壤链条中的扰动因子。",
+      "why_this_journal": "Journal of Animal Ecology 关注动物行为与种群生态学的机制性研究，该文以不可多得的自然火事件为背景研究大型捕食者行为响应，具有新颖性和生态学意义（推测）。",
+      "author_profile": {
+        "name": "Skylar Boucher",
+        "institution": null,
+        "intro": "Skylar Boucher 的研究方向集中于大型哺乳动物（狼、驼鹿、有蹄类）的空间生态学，涉及森林采伐、自然胁迫因子和人类工业活动对野生动物分布及存活的影响。其工作与用户关注的捕食者-猎物关系、人类活动介导的性状效应以及大型动物在生态系统中的功能高度相关，可为重野化中大型捕食者恢复的生态后果提供参考。",
+        "other_works": [
+          {
+            "title": "Playing with fire: Wolf response to active wildfires, fire fronts and smoke",
+            "year": "2026",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70364"
+          },
+          {
+            "title": "Forest harvest and natural stressors compound to reduce juvenile ungulate survival",
+            "year": "2026",
+            "journal": "Journal of Applied Ecology",
+            "doi": "10.1111/1365-2664.70293"
+          },
+          {
+            "title": "Silviculture shapes the spatial distribution of wildlife in managed landscapes",
+            "year": "2025",
+            "journal": "Landscape Ecology",
+            "doi": "10.1007/s10980-025-02095-z"
+          },
+          {
+            "title": "Lethal wolf control elicits change in moose habitat selection in unexpected ways",
+            "year": "2024",
+            "journal": "The Journal of Wildlife Management",
+            "doi": "10.1002/jwmg.22620"
+          },
+          {
+            "title": "Industrial development alters wolf spatial distribution mediated by prey availability",
+            "year": "2023",
+            "journal": "Ecology and Evolution",
+            "doi": "10.1002/ece3.10224"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71135",
+      "title": "The Calcium Confound: A Proposed Hypothesis Rather Than an Established Driver of Soil Phosphorus Enrichment",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71135?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-10-01T00:21:02-07:00",
+      "doi": "10.1111/gcb.71135",
+      "affiliation": "State Key Laboratory of Nutrient Use and Management, College of Resources and Environmental Sciences, National Academy of Agriculture Green Development China Agricultural University  Beijing China",
+      "title_zh": "钙的混淆效应：一个假说而非已确立的土壤磷富集驱动因子",
+      "relevance_score": 4,
+      "key_conclusion": "该文提出钙对土壤磷富集的驱动作用目前仅为假说，尚未被充分验证，呼吁重新审视相关机制。",
+      "relevance_note": "涉及土壤养分循环（磷），与用户关注的C-N-P化学计量和养分循环有一定关联，但未涉及动物介导过程或重野化。",
+      "related_papers": [
+        {
+          "title": "How belowground interactions contribute to the coexistence of mycorrhizal and non-mycorrhizal species in severely phosphorus-impoverished hyperdiverse ecosystems",
+          "link": "https://doi.org/10.1007/s11104-017-3427-2",
+          "venue": "Plant and Soil",
+          "year": 2017
+        },
+        {
+          "title": "Plant communities in harsh sites are less invaded: a summary of observations and proposed explanations",
+          "link": "https://doi.org/10.1093/aobpla/plv056",
+          "venue": "AoB Plants",
+          "year": 2015
+        },
+        {
+          "title": "How does pedogenesis drive plant diversity?",
+          "link": "https://doi.org/10.1016/j.tree.2013.02.008",
+          "venue": "Trends in Ecology & Evolution",
+          "year": 2013
+        },
+        {
+          "title": "Integrated Soil and Crop Management in Organic Agriculture: A Logical Framework to Ensure Food Quality and Human Health?",
+          "link": "https://doi.org/10.3390/agronomy11122494",
+          "venue": "Agronomy",
+          "year": 2021
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "钙是否是驱动土壤磷富集的有效因子，还是仅为一个尚未被充分验证的假说？",
+      "contributions_limitations": "该文对钙驱动土壤磷富集这一机制提出了批判性审视，呼吁重新检验相关因果假设，对土壤养分循环研究具有方法论警示意义。基于现有信息推测，作为观点/假说类文章，其局限性在于未提供新的实证数据来直接检验该假说。",
+      "follow_up_research": "可通过控制实验或跨区域梯度研究直接检验钙-磷耦合机制，并结合微生物群落和有机质组分（POM vs MAOM）分析，明确钙在土壤碳磷耦合稳定化中的角色。",
+      "next_step_perspective": "用户研究土壤有机碳与养分循环时，该文提醒C-N-P化学计量关系中钙的可能混杂效应，尤其在放牧和重野化改变土壤阳离子动态的背景下，需谨慎区分相关性与因果机制。",
+      "why_this_journal": "Global Change Biology 欢迎对全球变化背景下重要生物地球化学机制提出挑战性观点的文章，该文以批判性假说审视土壤磷富集驱动力，具有领域争鸣价值（推测）。",
+      "author_profile": {
+        "name": "Zhen Xu",
+        "institution": "China Agricultural University",
+        "intro": "Zhen Xu 就职于中国农业大学，主要研究方向为中国农田土壤磷素时空变化轨迹（从缺乏到富集）。其研究与用户关注的C-N-P化学计量和养分循环主题相关，但聚焦农业生态系统而非重野化或放牧系统，可为土壤养分长期动态提供对照视角。",
+        "other_works": [
+          {
+            "title": "The Calcium Confound: A Proposed Hypothesis Rather Than an Established Driver of Soil Phosphorus Enrichment",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71135"
+          },
+          {
+            "title": "From Deficiency to Enrichment: Diverging Soil Phosphorus Trajectories Across China's Croplands (1980–2018)",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71004"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71124",
+      "title": "Forest Densification and Pollution Rival Climate in Driving US Tree Demographic Change",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71124?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-10-01T00:13:58-07:00",
+      "doi": "10.1111/gcb.71124",
+      "affiliation": "Department of Biology and Gund Institute for Environment University of Vermont  Burlington Vermont USA; Department of Biology University of Vermont  Burlington Vermont USA; Department of Computer Information Systems University of Maine at Augusta  Augusta Maine USA",
+      "title_zh": "森林密度增加与污染在驱动美国树木种群变化中与气候同等重要",
+      "relevance_score": 4,
+      "key_conclusion": "该研究发现森林密度增加和污染对美国树木种群变化的驱动作用与气候变化相当，多重因子共同塑造森林人口动态。",
+      "relevance_note": "涉及森林生态系统动态与全球变化，与用户关注的森林退化与恢复过程中的碳循环有间接关联，但研究地点在北美而非欧洲，且不涉及土壤碳或大型动物。",
+      "related_papers": [
+        {
+          "title": "Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+          "link": "",
+          "venue": "Americanae (AECID Library)",
+          "year": 2019
+        },
+        {
+          "title": "Summary for policymakers of the global assessment report on biodiversity and ecosystem services",
+          "link": "https://doi.org/10.5281/zenodo.3553579",
+          "venue": "UWE Research Repository (UWE Bristol)",
+          "year": 2019
+        },
+        {
+          "title": "Anticipating trade-offs between urban patterns and ecosystem service production: Scenario analyses of sprawl alternatives for a rapidly urbanizing region",
+          "link": "https://doi.org/10.1016/j.compenvurbsys.2018.10.003",
+          "venue": "Computers Environment and Urban Systems",
+          "year": 2018
+        },
+        {
+          "title": "Summary for policymakers of the global assessment report on biodiversity and ecosystem services - unedited advance version",
+          "link": "https://doi.org/10.5281/zenodo.2671522",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "森林密度增加、污染和气候变化三者中，哪些因子在驱动美国树木种群统计变化中起主导作用？",
+      "contributions_limitations": "该研究通过多因子分析揭示了森林密度和污染对树木种群变化的驱动作用与气候变化相当，强调了多重胁迫因子的共同作用。基于现有信息推测，局限性可能在于空间尺度和物种覆盖范围的限制，以及对地下碳循环过程（如土壤碳响应）的涉及有限。",
+      "follow_up_research": "可进一步研究森林密度变化（如间伐或自然稀疏）如何影响土壤有机碳储量和组分（POM/MAOM）；也可探讨污染与气候交互作用对树木碳分配策略（如NSC储存）的影响。",
+      "next_step_perspective": "该文为用户提供了一个视角：在评估陆地生态系统碳循环时，除气候外还需考虑森林结构和污染等因子的协同驱动。对重野化研究而言，大型食草动物改变植被密度后，类似的密度-碳循环反馈可能同样关键。",
+      "why_this_journal": "Global Change Biology 适合发表多因子驱动生态系统变化的宏观研究，该文整合森林密度、污染和气候三个维度分析树木人口动态，具有综合性和政策相关性（推测）。",
+      "author_profile": {
+        "name": "Matthew M. Kling",
+        "institution": "University of California, Berkeley",
+        "intro": "Matthew M. Kling 就职于加州大学伯克利分校，研究兴趣涵盖森林人口动态、气候变化适应、农业系统转型和空间系统发育分析。其工作与用户关注的陆地碳循环和生态系统模型改进相关，但他的定量和跨尺度方法可为重野化研究中的多因子分析提供方法论借鉴。",
+        "other_works": [
+          {
+            "title": "Forest Densification and Pollution Rival Climate in Driving US Tree Demographic Change",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71124"
+          },
+          {
+            "title": "Climate change adaptation through the lens of farmland size: the role of government programs, economies of scale, and uncertain returns",
+            "year": "2026",
+            "journal": "Environmental Research: Food Systems",
+            "doi": "10.1088/2976-601X/ae55a6"
+          },
+          {
+            "title": "phylospatial: An R package for spatial phylogenetic analysis with quantitative community data",
+            "year": "2025",
+            "journal": "Methods in Ecology and Evolution",
+            "doi": "10.1111/2041-210X.70056"
+          },
+          {
+            "title": "Innovations through crop switching happen on the diverse margins of US agriculture",
+            "year": "2024",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2402195121"
+          },
+          {
+            "title": "A tree's view of the terrain: downscaling bioclimate variables to high resolution using a novel multi‐level species distribution model",
+            "year": "2024",
+            "journal": "Ecography",
+            "doi": "10.1111/ecog.07131"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2745.70442",
+      "title": "Post‐fire trajectories reveal a legacy effect and decoupled structural and floristic responses in a seasonally dry subtropical mountain region",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70442?af=R",
+      "summary": "Journal of Ecology, Volume 114, Issue 10, October 2026.",
+      "journal": "Journal of Ecology",
+      "published": "2026-09-30T00:51:28-07:00",
+      "doi": "10.1111/1365-2745.70442",
+      "affiliation": "Instituto Multidisciplinario de Biología Vegetal (IMBIV‐CONICET)  Córdoba Argentina; Facultad de Ciencias Exactas, Físicas y Naturales Universidad Nacional de Córdoba  Córdoba Argentina",
+      "title_zh": "火后轨迹揭示季节性干旱亚热带山区存在遗留效应及结构与区系响应的解耦",
+      "relevance_score": 4,
+      "key_conclusion": "该研究发现火后植被恢复轨迹中存在遗留效应，且群落结构与物种组成变化出现解耦，恢复过程具有长期性和复杂性。",
+      "relevance_note": "涉及生态系统恢复过程，与用户关注的生态系统功能恢复有间接关联，但研究地点在南美阿根廷，不涉及碳循环或大型动物。",
+      "related_papers": [
+        {
+          "title": "Principles of fire ecology",
+          "link": "https://doi.org/10.1186/s42408-024-00272-0",
+          "venue": "Fire Ecology",
+          "year": 2024
+        },
+        {
+          "title": "Drivers of tree community assembly during tropical forest post-fire succession in anthropogenic savannas",
+          "link": "https://doi.org/10.1016/j.ppees.2021.125630",
+          "venue": "Perspectives in Plant Ecology Evolution and Systematics",
+          "year": 2021
+        },
+        {
+          "title": "A general framework for quantifying the effects of land-use history on ecosystem dynamics",
+          "link": "https://doi.org/10.1016/j.ecolind.2019.05.026",
+          "venue": "Ecological Indicators",
+          "year": 2019
+        },
+        {
+          "title": "Upslope agricultural expansion caused mammal range contractions in China over the past two millennia",
+          "link": "",
+          "venue": null,
+          "year": 2017
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在季节性干旱的亚热带山区，火后植被恢复轨迹中是否存在遗留效应，以及群落结构与物种组成变化是否同步？",
+      "contributions_limitations": "该研究揭示了火后恢复的长期遗留效应以及结构恢复与物种组成恢复之间的解耦现象，对理解火干扰后生态系统恢复的复杂性有重要贡献。基于现有信息推测，局限性可能在于研究限于特定区域和植被类型，且未涉及土壤碳动态或动物介导的恢复过程。",
+      "follow_up_research": "可研究火后植被结构与物种组成解耦如何影响土壤有机碳积累速率；也可探讨大型食草动物在火后恢复中如何通过选择性取食调节植被结构与物种组成的恢复轨迹。",
+      "next_step_perspective": "该文提示用户在重野化研究中，火干扰历史可能通过遗留效应影响植被-土壤反馈的方向和强度。特别是在评估放牧如何调节碳循环时，需考虑火后恢复阶段的植被结构-组成解耦是否改变了食草动物对土壤碳的间接影响。",
+      "why_this_journal": "Journal of Ecology 关注植物群落生态学的长期动态研究，该文利用火后恢复轨迹的多时点数据揭示遗留效应和解耦现象，具有长期生态学价值（推测）。",
+      "author_profile": {
+        "name": "Melisa A. Giorgis",
+        "institution": null,
+        "intro": "Melisa A. Giorgis 的研究集中在阿根廷干旱和半干旱生态系统的植被生态学，涉及火后恢复、蕨类植物系统发育多样性和非本地草种物候。其研究与用户关注的植被-土壤反馈和极端事件对碳循环的扰动相关，但研究地点在南美而非欧洲，可提供对比视角。",
+        "other_works": [
+          {
+            "title": "Post‐fire trajectories reveal a legacy effect and decoupled structural and floristic responses in a seasonally dry subtropical mountain region",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70442"
+          },
+          {
+            "title": "Climatic and geographic drivers of fern phylogenetic diversity and variability in Central Argentina",
+            "year": "2026",
+            "journal": "Botanical Journal of the Linnean Society",
+            "doi": "10.1093/botlinnean/boag001"
+          },
+          {
+            "title": "ReSurveyChaMon: a dataset of resurvey vegetation plots of the Argentine drylands",
+            "year": "2025",
+            "journal": "Vegetation Ecology and Diversity",
+            "doi": "10.3897/ved.176328"
+          },
+          {
+            "title": "Preferencias de hábitat de Cortaderia selloana en su área nativa de distribución en Argentina",
+            "year": "2025",
+            "journal": "Ecosistemas",
+            "doi": "10.7818/ECOS.2855"
+          },
+          {
+            "title": "‘Megafire’—You May Not Like It, But You Cannot Avoid It",
+            "year": "2025",
+            "journal": "Global Ecology and Biogeography",
+            "doi": "10.1111/geb.70032"
+          }
+        ]
+      }
+    }
+  ]
 }

@@ -1,7 +1,62 @@
 {
-  "generated_at": "2026-10-01T05:01:53.429839+00:00",
-  "count": 16,
+  "generated_at": "2026-10-01T12:08:26.782334+00:00",
+  "count": 18,
   "posts": [
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Find out more and apply 👇\n",
+      "created_at": "2026-10-01T10:02:52.773859090Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwsm4i3mlq27",
+      "external_title": "Senior Editor - Journal of Animal Ecology - British Ecological Society",
+      "external_description": "Senior Editor - Journal Of Animal EcologySalary: c. £8,100 per annum, which equates to approximately €9,400 or US$11,000Contract: Part-time, 3 year contractLocation: at the holder’s host university or organisation, based anywhere in the world Closing d...",
+      "external_uri": "https://f.mtr.cool/m8bglsle8j",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreiaslh4auoew2gub4fyrldb4p4fhsx7wr5fo4ukvehkagurwhpg6ty"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Are you a scholar with experience in animal ecology? \n\nThe Journal of Animal Ecology is looking for a Senior Editor who can contribute to the Journal’s development in topical and developing fields.\n\nApplications close on 15 October ⌛",
+      "created_at": "2026-10-01T10:02:50.537839090Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwsm4fxeyq27",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natclimate.nature.com",
+      "author_name": "Nature Climate Change",
+      "text": "\"Individuals act within systems, and systems are shaped and sustained by individual and collective behaviour.\" \n\n@charlotte-kukowski.bsky.social et al argue for understanding of where agency exists & how it can be exercised to push behavioural change for climate action www.nature.com/articles/s41...",
+      "created_at": "2026-10-01T08:53:34.750Z",
+      "post_link": "https://bsky.app/profile/natclimate.nature.com/post/3mwsiakjxcs2a",
+      "external_title": "Leveraging agency for climate change mitigation - Nature Climate Change",
+      "external_description": "Climate debates often frame individual behaviour and systems change as distinct pathways to action. We suggest that social change arises from individuals’ agency within their roles in societal systems...",
+      "external_uri": "https://www.nature.com/articles/s41558-026-02644-7",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:t4a4uokykzekixvvodvosrao/bafkreib7s62yealtgpjcynb2q7l2en3ozcu33uwfe4kvjaciducrcjgsn4"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "A comparative analysis of multiomics data from embryonic and adult tissues of Atlantic salmon and rainbow trout reveals developmental and tissue-specific constraints shaping regulatory evolution following whole genome duplication 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-10-01T08:44:45.289Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwshqrm2lc2l",
+      "external_title": "Developmental contexts of gene-regulatory evolution following whole genome duplication in salmonids - Nature Ecology & Evolution",
+      "external_description": "A comparative analysis of multiomics data from embryonic and adult tissues of Atlantic salmon and rainbow trout reveals developmental and tissue-specific constraints shaping regulatory evolution follo...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03171-6",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreibvuplvqcugcdfqjblakrw2wfub7wqr46wvoo7m2nciftgp4kxxni"
+    },
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Who gets to build a career protecting nature – and what helps people feel that they belong in our sector?\n\nThe BES @reednetwork.bsky.social have written a piece for @countrysidejobs.bsky.social - read it here👇\n\nwww.countryside-jobs.com/article/buil...",
+      "created_at": "2026-10-01T08:41:50.776Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mwshll6dq22l",
+      "external_title": "Building an ecology for everybody: the BES REED network and a sector that works for all",
+      "external_description": "Across the countryside and conservation sector, from National Park teams and Local Authority advisory units, to conservation charities and consultancies, the people working to protect nature still do ...",
+      "external_uri": "https://www.countryside-jobs.com/article/building-an-ecology-for-everybody-the-bes-reed-network-and-a-sector-that-works-for-all",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreic4hd5gyvnty5mudk6hnnofxspjyfu3k4q55e7ku6fkxbagjw4dnq"
+    },
     {
       "handle": "science.org",
       "author_name": "Science Magazine",
@@ -102,17 +157,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreif4ocxuq6xu73t4r5vqjunjxwwvg4g43cxvjlbeziwh3btwm4wrvq"
     },
     {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "Researchers quantify the economic damage caused by climate-change-related heat stress on the global workforce\n\ngo.nature.com/3TAJNWX",
-      "created_at": "2026-09-29T12:45:01.610Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mwnual7blt2b",
-      "external_title": "The cost of lost labour on a warming planet",
-      "external_description": "Researchers quantify the economic damage caused by climate-change-related heat stress on the global workforce.",
-      "external_uri": "https://go.nature.com/3TAJNWX",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreidcstg5yv46ubxuuy5ikxpl3ldpgqia4x5hjtc3fowkosuozd6dyy"
-    },
-    {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
       "text": "Sea-level rise may create a new front for the landward expansion of marine invaders into inundated areas. The authors project that more than two-thirds of inundated land areas would be suitable for 122 non-native animals under future sea-level-rise scenarios 🧪 www.nature.com/articles/s41...",
@@ -155,28 +199,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Species persistence following hybridization in nature requires the purging of introgressed alleles. Genomic monitoring of a tsunami-induced hybrid stickleback population in Japan reveals rapid genome-wide purging including of loci involved in reproductive isolation 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-09-28T09:01:43.304Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwkxce35u22k",
-      "external_title": "Rapid genome-wide purging following tsunami-induced hybridization in a stickleback population - Nature Ecology & Evolution",
-      "external_description": "Species persistence following hybridization in nature requires the purging of introgressed alleles. Genomic monitoring of a tsunami-induced hybrid stickleback population in Japan reveals rapid genome-...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03184-1",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiheenphewzjrfrua7truv3lrx22x235g4jqoyoe54endvxc2idhbm"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Species persistence following hybridization in nature requires the purging of introgressed alleles. Genomic monitoring of a tsunami-induced hybrid stickleback population in Japan reveals rapid genome-wide purging including of loci involved in reproductive isolation 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-09-28T09:01:43.304Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwkxce35u22k",
-      "external_title": "Rapid genome-wide purging following tsunami-induced hybridization in a stickleback population - Nature Ecology & Evolution",
-      "external_description": "Species persistence following hybridization in nature requires the purging of introgressed alleles. Genomic monitoring of a tsunami-induced hybrid stickleback population in Japan reveals rapid genome-...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03184-1",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiheenphewzjrfrua7truv3lrx22x235g4jqoyoe54endvxc2idhbm"
     }
   ]
 }
