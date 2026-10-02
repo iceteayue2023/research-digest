@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-02T11:38:59.731506+00:00",
+  "generated_at": "2026-10-02T17:18:45.453650+00:00",
   "count": 17,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "A simple #geoengineering approach seems to restore dwindling #Arctic #ice in pilot studies. Could it actually work at a larger scale? In PNAS Front Matter: https://ow.ly/iwt550ZU1wh\n\n#ClimateChange #seawater #clouds #energy",
+      "created_at": "2026-10-02T17:00:53.206515853Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mwvtwuc3w62d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Here the authors use a global standardized dataset of plant–pollinator interactions to explore geographic patterns of specialization and their dependence on climate variables and taxonomic and functional identity 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-10-02T08:23:44.158Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwux24e5dk2v",
+      "external_title": "Global patterns in plant–pollinator specialization - Nature Ecology & Evolution",
+      "external_description": "Plant–pollinator networks vary tremendously across ecosystems. Here the authors use a global standardized dataset of plant–pollinator interactions to explore geographic patterns of specialization and ...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03170-7",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiczqg6otyuupcskj2a7zy5ipyqlhnuxjv2uuxs6zmfm2mok6gjfsm"
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -135,17 +157,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigmxgzngkrz44qqdd3xidivqecz5h7hvesmij5ssguxoq33hotipq"
     },
     {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Luciana Gatti, who studies carbon uptake in the Amazon, aims to join Brazil’s lower house in this week’s elections. https://scim.ag/4xLuQzr",
-      "created_at": "2026-09-30T13:30:06.58038613Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mwqha4cdhi2s",
-      "external_title": "Fed up with Brazil’s politicians not listening, a climate scientist runs for office",
-      "external_description": "Luciana Gatti, who studies carbon uptake in the Amazon, aims to join Brazil’s lower house in this week’s elections",
-      "external_uri": "https://scim.ag/4xLuQzr",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vqgovau5gkirnk3ss5qwjdmz/bafkreidsyc6wp3b5kyrwaf5mhfpy3pkdp5kx5kkkl5d7k63v64o455gq5e"
-    },
-    {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
       "text": "A tsunami of genome reshuffling www.nature.com/articles/s41...\n\nKelsie Hunnicutt discusses a new study in hybrid sticklebacks showing that hybrid incompatibilities drive rapid removal of introgressed alleles following the 2011 Tohoku tsunami in Japan \n\nFree to read: rdcu.be/ekJrEHm2iUea",
@@ -177,17 +188,6 @@
       "external_description": "Sea-level rise may create a new front for the landward expansion of marine invaders into inundated areas. The authors explore the probability of this, projecting that more than two-thirds of inundated land areas would be suitable for 122 non-native animals already established in adjacent marine ecoregions under future sea-level-rise scenarios.",
       "external_uri": "http://spklr.io/63326Epu7p",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o4ahcykv3wvi2uysmhptzrov/bafkreihsv4mn5pftyyi7u2ip23dpiyhi6osc6qnuvkpcyxm37m4pxgobfa"
-    },
-    {
-      "handle": "natgeosci.nature.com",
-      "author_name": "Nature Geoscience",
-      "text": "Article: Microbial extracellular residues are a major source of mineral-associated soil carbon\nwww.nature.com/articles/s41...",
-      "created_at": "2026-09-29T13:59:56.572Z",
-      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mwnygjv3fs25",
-      "external_title": "Microbial extracellular residues are a major source of mineral-associated soil carbon - Nature Geoscience",
-      "external_description": "Microbes store carbon in soils not only through their dead cells but also through the mucus-like substances they release while alive, a previously underappreciated pathway emerging from soil surveys a...",
-      "external_uri": "https://www.nature.com/articles/s41561-026-02103-0",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreif4ocxuq6xu73t4r5vqjunjxwwvg4g43cxvjlbeziwh3btwm4wrvq"
     }
   ]
 }

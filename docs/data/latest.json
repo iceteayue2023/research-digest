@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T11:38:59.729972+00:00",
-  "count": 5,
+  "generated_at": "2026-10-02T17:18:45.447926+00:00",
+  "count": 8,
   "articles": [
     {
       "id": "10.1111/gcb.71136",
@@ -133,6 +133,89 @@
       }
     },
     {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2523958123?af=R",
+      "title": "Soil nematode diversity is structured by vegetation turnover and trait-mediated dispersal limitation",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2523958123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 39, September 2026. SignificanceSoils host remarkable biodiversity essential for ecosystem functioning. However, how soil nematode diversity—an important indicator of soil health—is shaped across spatial scales remains poorly understood. We showed that nematode α- and γ-...",
+      "journal": "PNAS",
+      "published": "2026-09-22T07:00:00+00:00",
+      "doi": "10.1073/pnas.2523958123",
+      "affiliation": "Yunnan Key Laboratory of Forest Ecosystem Stability and Global Change, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences; Laboratory of Tropical Forest Ecology, Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences; German Centre for Integrative Biodiversity Research Halle-Jena-Leipzig",
+      "title_zh": "土壤线虫多样性受植被更替和性状介导的扩散限制驱动",
+      "relevance_score": 6,
+      "key_conclusion": "土壤线虫的α和γ多样性受植被更替和性状介导的扩散限制共同塑造，表明植被变化和物种功能性状是驱动土壤生物多样性空间格局的关键因素。",
+      "relevance_note": "该文直接涉及土壤生物多样性及其与植被的关系，与用户关注的植被-土壤反馈、土壤微生物群落结构对生态系统功能的影响等主题相关，且有助于理解土壤食物网复杂性。研究地点涉及中国热带森林和德国，非欧洲核心区域但有欧洲合作机构。",
+      "related_papers": [
+        {
+          "title": "Life and death in the soil microbiome: how ecological processes influence biogeochemistry",
+          "link": "https://doi.org/10.1038/s41579-022-00695-z",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2022
+        },
+        {
+          "title": "Ecology and evolution of plant diversity in the endangered campo rupestre: a neglected conservation priority",
+          "link": "https://doi.org/10.1007/s11104-015-2637-8",
+          "venue": "Plant and Soil",
+          "year": 2015
+        },
+        {
+          "title": "Understanding and Enhancing Soil Biological Health: The Solution for Reversing Soil Degradation",
+          "link": "https://doi.org/10.3390/su7010988",
+          "venue": "Sustainability",
+          "year": 2015
+        },
+        {
+          "title": "Thermal adaptation of decomposer communities in warming soils",
+          "link": "https://doi.org/10.3389/fmicb.2013.00333",
+          "venue": "Frontiers in Microbiology",
+          "year": 2013
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "土壤线虫的α多样性和γ多样性在多大空间尺度上、由哪些因素（植被更替、物种功能性状、扩散限制）共同塑造？",
+      "contributions_limitations": "该研究整合了多空间尺度的土壤线虫多样性数据，提出植被更替与性状介导的扩散限制共同驱动土壤生物多样性空间格局，对理解土壤生物多样性的尺度依赖性有重要贡献。局限在于摘要信息不足以判断研究是否涵盖多种生态系统类型、采样是否覆盖欧洲，以及对土壤有机碳等功能变量的直接关联程度。",
+      "follow_up_research": "可在大型食草动物重野化背景下，检验放牧活动如何改变植被更替速率进而重塑土壤线虫群落的空间格局；也可将线虫多样性与土壤有机碳库及养分循环耦联分析，探讨土壤生物多样性对碳循环功能的调控作用。",
+      "next_step_perspective": "该文提供了从空间尺度和功能性状视角理解土壤生物多样性组装的框架，可启发用户在重野化样地中同步量化植被更替、土壤动物群落性状与扩散限制，从而将土壤生物多样性纳入重野化-碳循环研究的因果链条。作者团队位于德国iDiv，若涉及欧洲样地值得关注。",
+      "why_this_journal": "PNAS偏好具有广泛生态学意义且方法扎实的多尺度研究，该文针对土壤生物多样性空间格局这一基础性但认知不足的问题，兼具理论意义和土壤健康应用价值（推测）。",
+      "author_profile": {
+        "name": "Wenting Wang",
+        "institution": "German Centre for Integrative Biodiversity Research",
+        "intro": "Wenting Wang就职于德国综合生物多样性研究中心（iDiv），长期从事土壤微生物与土壤动物群落的空间格局、群落构建及生物多样性与生态系统功能关系研究，涉及线虫、PhoD基因、土壤微生物多营养级组装等。其研究聚焦土壤生物多样性格局与功能的耦联，与用户关注的土壤有机碳、土壤生物介导的养分循环及重野化下的植被-土壤反馈高度相关。",
+        "other_works": [
+          {
+            "title": "Soil nematode diversity is structured by vegetation turnover and trait-mediated dispersal limitation",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2523958123"
+          },
+          {
+            "title": "Elevation, soil pH and calcium availability shape regional and local scale spatial patterns of PhoD gene abundance in tropical and subtropical forests",
+            "year": "2026",
+            "journal": "Functional Ecology",
+            "doi": "10.1111/1365-2435.70264"
+          },
+          {
+            "title": "Body size determines multitrophic soil microbiota community assembly associated with soil and plant attributes in a tropical seasonal rainforest",
+            "year": "2023",
+            "journal": "Molecular Ecology",
+            "doi": "10.1111/mec.16585"
+          },
+          {
+            "title": "Seasonal difference in soil health indicators mediating multidiversity-multifunctionality relationship depends on body size of soil organisms: Evidence from rubber plantation agroforestry system",
+            "year": "2023",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2023.108968"
+          },
+          {
+            "title": "Interaction mechanism of plant-based nanoarchitectured materials with digestive enzymes of termites as target for pest control: Evidence from molecular docking simulation and in vitro studies",
+            "year": "2021",
+            "journal": "Journal of Hazardous Materials",
+            "doi": "10.1016/j.jhazmat.2020.123840"
+          }
+        ]
+      }
+    },
+    {
       "id": "10.1029/2025JG009418",
       "title": "Strong‐Acid Weathering in a Carbonate‐Siliciclastic Cropland Diminishes Removal of CO2 From the Atmosphere Without Becoming a CO2 Source",
       "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009418?af=R",
@@ -256,6 +339,53 @@
       }
     },
     {
+      "id": "https://www.science.org/doi/abs/10.1126/science.aem8461?af=R",
+      "title": "Project will track Amazon biodiversity in real time",
+      "link": "https://www.science.org/doi/abs/10.1126/science.aem8461?af=R",
+      "summary": "Science, Volume 394, Issue 6819, Page 18-19, October 2026.",
+      "journal": "Science",
+      "published": "2026-10-01T06:00:21+00:00",
+      "doi": "10.1126/science.aem8461",
+      "affiliation": null,
+      "title_zh": "项目将实时追踪亚马孙生物多样性",
+      "relevance_score": 5,
+      "key_conclusion": "该报道介绍一个将在亚马孙地区实时监测生物多样性的新项目。",
+      "relevance_note": "文章涉及热带雨林生物多样性监测，与用户关注的森林/热带雨林退化与恢复、生物多样性-生态系统功能关系等主题有一定关联，但仅为新闻简讯，缺少深度研究内容。",
+      "related_papers": [
+        {
+          "title": "Emerging threats and persistent conservation challenges for freshwater biodiversity",
+          "link": "https://doi.org/10.1111/brv.12480",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2018
+        },
+        {
+          "title": "Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+          "link": "",
+          "venue": "Americanae (AECID Library)",
+          "year": 2019
+        },
+        {
+          "title": "Summary for policymakers of the global assessment report on biodiversity and ecosystem services",
+          "link": "https://doi.org/10.5281/zenodo.3553579",
+          "venue": "UWE Research Repository (UWE Bristol)",
+          "year": 2019
+        },
+        {
+          "title": "Earth BioGenome Project: Sequencing life for the future of life",
+          "link": "https://doi.org/10.1073/pnas.1720115115",
+          "venue": "Proceedings of the National Academy of Sciences",
+          "year": 2018
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "该文是一则新闻报道，核心内容是介绍一个将在亚马孙地区开展实时生物多样性监测的项目，而非提出具体科学问题。",
+      "contributions_limitations": "作为Science新闻栏目文章，其贡献是向科研界传递亚马孙实时生物多样性监测项目的信息，可能对方法学和大尺度监测网络建设有启发。局限在于摘要和目录信息极少，无法判断项目具体技术手段、指标体系或数据开放程度，建议查看原文了解监测方法与生态学意义。",
+      "follow_up_research": "可关注该项目采用何种传感器/声学/影像/E-DNA技术实现实时监测，以及能否将类似实时监测框架应用于重野化样地的大型食草动物-植被-土壤碳动态联动监测。",
+      "next_step_perspective": "对于关注大尺度生物多样性-生态系统功能的研究者，实时监测项目的设计理念（多类群、高频次、空间连续）可作为重野化长期定位观测的方法学参考，尤其是如何将动物活动、植被变化与土壤过程同步记录。",
+      "why_this_journal": "Science新闻栏目报道具有广泛影响力和政策意义的重大科研基础设施项目，亚马孙生物多样性实时监测符合其新闻选题的全球关注度（推测）。",
+      "author_profile": null
+    },
+    {
       "id": "10.1111/1365-2745.70453",
       "title": "Shrub species identity modulates plant–arthropod diversity coupling across a dryland aridity gradient",
       "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70453?af=R",
@@ -334,6 +464,89 @@
             "year": "2026",
             "journal": null,
             "doi": "10.2139/ssrn.6460800"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2620362123?af=R",
+      "title": "Climate mitigation contributes more to population persistence than evolutionary adaptation in a long-lived seabird",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620362123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 39, September 2026. SignificanceCan species evolve fast enough to avoid extinction under climate change? We developed an eco-evolutionary forecasting framework integrating quantitative genetics, demography, and climate projections to address this question in a long-lived ...",
+      "journal": "PNAS",
+      "published": "2026-09-21T07:00:00+00:00",
+      "doi": "10.1073/pnas.2620362123",
+      "affiliation": "Biology, Woods Hole Oceanographic Institution; Laboratoire de Mathématiques, CNRS–Université Grenoble Alpes, Université Savoie Mont Blanc; Climate and Global Dynamics Laboratory, National Center for Atmospheric Research",
+      "title_zh": "在长寿海鸟中，气候减缓比进化适应对种群存续贡献更大",
+      "relevance_score": 4,
+      "key_conclusion": "通过整合定量遗传学、种群统计学和气候预测的生态进化预报框架，研究发现对于长寿海鸟而言，气候减缓措施对种群存续的贡献大于其进化适应能力。",
+      "relevance_note": "该文涉及气候变化对生物种群的影响及生态进化响应，与用户对极端气候事件扰动和基于自然的解决方案的关注有一定关联，但研究对象为海鸟，不涉及土壤碳循环或大型食草动物。发表于PNAS，但非Nature/Science正刊。",
+      "related_papers": [
+        {
+          "title": "Building evolutionary resilience for conserving biodiversity under climate change",
+          "link": "https://doi.org/10.1111/j.1752-4571.2010.00157.x",
+          "venue": "Evolutionary Applications",
+          "year": 2010
+        },
+        {
+          "title": "Spatial ecology and conservation of seabirds facing global climate change: a review",
+          "link": "https://doi.org/10.3354/meps08212",
+          "venue": "Marine Ecology Progress Series",
+          "year": 2009
+        },
+        {
+          "title": "Effects of climate change and fisheries bycatch on Southern Ocean seabirds: a review",
+          "link": "https://doi.org/10.3354/meps09616",
+          "venue": "Marine Ecology Progress Series",
+          "year": 2012
+        },
+        {
+          "title": "Evolution and behavioural responses to human‐induced rapid environmental change",
+          "link": "https://doi.org/10.1111/j.1752-4571.2010.00166.x",
+          "venue": "Evolutionary Applications",
+          "year": 2011
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在气候变化情景下，物种能否通过进化适应避免灭绝？气候减缓与进化适应对长寿海鸟种群存续的相对贡献如何？",
+      "contributions_limitations": "该研究构建了整合定量遗传学、种群统计学和气候预测的生态进化预报框架，证明气候减缓对长寿海鸟种群存续的贡献大于进化适应，方法学上有较大创新。局限在于结论基于单一（或少数）长寿海鸟物种，能否推广到其他类群特别是大型食草动物尚不确定；且摘要未提供具体气候情景和时间尺度细节。",
+      "follow_up_research": "可将类似的生态进化预报框架应用于大型食草动物，检验重野化种群在气候变化下其扩散、性状可塑性与种群存续的关系；也可探讨植被-土壤碳反馈是否通过改变栖息地质量进而调节进化适应的有效性。",
+      "next_step_perspective": "该文的eco-evolutionary forecasting思路提示用户，在评估重野化对碳循环的长期影响时，不能只考虑生态过程，还需纳入动物种群对气候的进化响应及其对放牧强度的反馈；同时提醒气候减缓政策在保护生物学中的核心地位，可迁移到基于自然的解决方案评估中。",
+      "why_this_journal": "PNAS欣赏将多学科方法（遗传学+种群统计+气候模型）整合以回答保护生物学核心问题的研究，且结论具有明确政策含义（推测）。",
+      "author_profile": {
+        "name": "Stéphanie Jenouvrier",
+        "institution": "Woods Hole Oceanographic Institution",
+        "intro": "Stéphanie Jenouvrier就职于美国伍兹霍尔海洋研究所（WHOI），长期研究海鸟种群人口统计学、气候变化对海洋顶级捕食者的影响以及生态进化动态，发表过关于帝企鹅、信天翁等物种的气候响应研究。其工作聚焦气候变化下种群存续机制，与用户关注的捕食者/大型动物对气候变化的响应及生态系统功能研究有概念和方法上的关联。",
+        "other_works": [
+          {
+            "title": "Climate mitigation contributes more to population persistence than evolutionary adaptation in a long-lived seabird",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2620362123"
+          },
+          {
+            "title": "Year-round movement of emperor penguin colonies observed from space",
+            "year": "2026",
+            "journal": "Communications Earth & Environment",
+            "doi": "10.1038/s43247-026-03906-0"
+          },
+          {
+            "title": "Mascarene High Variability Shapes the Demography of a Wind‐Reliant Marine Top Predator",
+            "year": "2026",
+            "journal": "Geophysical Research Letters",
+            "doi": "10.1029/2026GL122317"
+          },
+          {
+            "title": "Drivers of age at first reproduction in the wandering albatross (Diomedea exulans): Demographic factors, environmental conditions and sex‐specific responses",
+            "year": "2026",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70249"
+          },
+          {
+            "title": "Emergent climate change signals within Antarctic sea ice and associated ecosystems",
+            "year": "2026",
+            "journal": "Nature Climate Change",
+            "doi": "10.1038/s41558-026-02561-9"
           }
         ]
       }
