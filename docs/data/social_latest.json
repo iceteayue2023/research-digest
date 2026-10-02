@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-01T17:54:12.798017+00:00",
+  "generated_at": "2026-10-02T04:51:39.111232+00:00",
   "count": 18,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "A genus of soil-dwelling beetle discovered in Italy, and a glimpse at the wonders of the deep sea, in our weekly dip into Nature’s archive.\n\ngo.nature.com/4jqPm4I",
+      "created_at": "2026-10-01T20:00:01.529Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mwtniawsk227",
+      "external_title": "Strange and beautiful creatures spotted on the Challenger expedition",
+      "external_description": "Snippets from Nature’s past.",
+      "external_uri": "https://go.nature.com/4jqPm4I",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreichn5jodwxohvlxfpobsj46zeiyb7ks2aq5pse4464krefdqzdpgm"
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "When wildfires burn in cities, metals in the smoke, ash, soil, and debris pose a health risk. People living in the footprint of the 2023 Maui fire had 40 times more antimony and 2.2 times more arsenic in their urine than reference levels. In PNAS: https://ow.ly/AML150ZTyNv",
+      "created_at": "2026-10-01T19:00:33.336744543Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mwtk5wysde2u",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "britishecologicalsociety.org",
       "author_name": "British Ecological Society",
@@ -177,28 +199,6 @@
       "external_description": "Sea-level rise may create a new front for the landward expansion of marine invaders into inundated areas. The authors explore the probability of this, projecting that more than two-thirds of inundated...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03181-4",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreid65kdlgpfaatnfjux473f4ue3plddjnr73yod6g7jf7n6fa6twem"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Carbonaceous chondrite meteorites preserve a chemical record of the early Solar System. A study of three stable isotopes of oxygen in primitive meteorites finds them unchanged from the primordial oxygen reservoirs of the early Solar System. In PNAS: https://ow.ly/aNwK50ZSkgj",
-      "created_at": "2026-09-29T01:00:15.524458668Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mwmmuefg7t23",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "As the climate warms, droughts and floods may occur in quicker succession. Researchers project more frequent drought–flood transitions across China, with greater risks for lower-income populations.\n\nIn Science X / Phys.org: https://ow.ly/op5M50ZSquO\nIn PNAS Nexus: https://ow.ly/n7hW50ZSquL",
-      "created_at": "2026-09-29T00:00:38.823098798Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mwmjjrwrrx2p",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
