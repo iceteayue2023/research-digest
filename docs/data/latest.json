@@ -1,6 +1,342 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02T04:51:39.110893+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-10-02T11:38:59.729972+00:00",
+  "count": 5,
+  "articles": [
+    {
+      "id": "10.1111/gcb.71136",
+      "title": "Increasing Extreme Negative Vegetation Responses to Drought‐Related Compound Events",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71136?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-10-01T00:57:50-07:00",
+      "doi": "10.1111/gcb.71136",
+      "affiliation": "Department of Earth System Sciences Tsinghua University  Beijing China; State Key Laboratory of Earth Surface Processes and Disaster Risk Reduction, Faculty of Geographical Science Beijing Normal University  Beijing China; Earth Systems Research Center, Institute for the Study of Earth, Oceans, and Space University of New Hampshire  Durham New Hampshire USA",
+      "title_zh": "植被对干旱相关复合事件的极端负面响应加剧",
+      "relevance_score": 6,
+      "key_conclusion": "摘要未提供具体结论，但文章主题表明植被对干旱相关复合事件的极端负面响应正在加剧。",
+      "relevance_note": "该研究关注极端气候事件（干旱复合事件）对植被的影响，属于用户关注的极端气候事件对碳循环扰动的相邻领域，但未涉及碳循环具体机制，故给中等偏上分数。",
+      "related_papers": [
+        {
+          "title": "Mechanisms of plant survival and mortality during drought: why do some plants survive while others succumb to drought?",
+          "link": "https://doi.org/10.1111/j.1469-8137.2008.02436.x",
+          "venue": "New Phytologist",
+          "year": 2008
+        },
+        {
+          "title": "Future climate risk from compound events",
+          "link": "https://doi.org/10.1038/s41558-018-0156-3",
+          "venue": "Nature Climate Change",
+          "year": 2018
+        },
+        {
+          "title": "Weather and Climate Extreme Events in a Changing Climate",
+          "link": "https://doi.org/10.1017/9781009157896.013",
+          "venue": "Cambridge University Press eBooks",
+          "year": 2023
+        },
+        {
+          "title": "A first assessment of the impact of the extreme 2018 summer drought on Central European forests",
+          "link": "https://doi.org/10.1016/j.baae.2020.04.003",
+          "venue": "Basic and Applied Ecology",
+          "year": 2020
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "植被对干旱相关复合事件的负面响应是否正在加剧？其极端程度如何随时间和事件类型变化？",
+      "contributions_limitations": "该文很可能通过多时序遥感或地面观测数据，量化了植被对干旱复合事件（如高温+干旱、多脉冲干旱等）的极端负响应趋势。贡献在于将\"复合事件\"与\"极端响应\"联系起来，而非仅关注单一干旱指标。局限性在于摘要信息严重不足，无法判断研究是否区分了不同植被类型、是否涉及土壤碳库响应，建议查看原文确认。",
+      "follow_up_research": "可进一步探究干旱复合事件加剧植被负响应后，对土壤有机碳输入的长期影响（如凋落物减少、根系碳分配改变）；也可检验大型食草动物的放牧是否会通过改变植被抗逆性来缓冲或放大这类极端响应。",
+      "next_step_perspective": "该文可为用户提供\"极端气候扰动—植被生产力下降—碳输入减少\"这一链条的量化证据，有助于在rewilding研究中将气候极端事件作为协变量纳入分析。若文中涉及欧洲研究点，则更直接相关；目前无法确认研究区域。",
+      "why_this_journal": "Global Change Biology专注于全球变化对生物系统的影响，复合极端事件对植被的加剧效应是当前全球变化生态学的热点，推测其新颖性和大尺度分析使其适合该刊。",
+      "author_profile": {
+        "name": "Haoxiang Zhao",
+        "institution": "Tsinghua University",
+        "intro": "赵浩翔（Haoxiang Zhao）来自清华大学，目前从摘要和标题无法确定其具体研究方向。从该文主题推测其关注全球变化生态学，尤其是极端气候对植被的影响。与用户方向的关联在于极端气候对植被碳输入的扰动可间接影响土壤有机碳动态，但具体关联需查看其更多论文。",
+        "other_works": []
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6803-2026",
+      "title": "Quantifying aggregation bias in marsh carbon flux estimates caused by rhizosphere oxygen heterogeneity",
+      "link": "https://doi.org/10.5194/bg-23-6803-2026",
+      "summary": "Quantifying aggregation bias in marsh carbon flux estimates caused by rhizosphere oxygen heterogeneity\n                    Youssef Saadaoui, Christian Beer, Peter Mueller, Friederike Neiske, Joscha N. Becker, Annette Eschenbach, and Philipp Porada\n                        Biogeosciences, 23, 6803–6816, https://doi.org/10.5194/bg-23-6803-2026, 2026\n                        In marsh soils, oxygen concentrations are high close to plant roots and decline to near zero within millimetres. Microorganisms do not decompose organic matter in proportion to oxygen. Many models nevertheless use a single average oxygen concentration. Using Elbe River soils, we compared this approach with a calculation over the full range. The single average overestimated carbon dioxide release by about 12 %. Marsh soils may therefore store more carbon than models predict.",
+      "journal": "Biogeosciences",
+      "published": "2026-10-02T10:59:12+02:00",
+      "doi": "10.5194/bg-23-6803-2026",
+      "affiliation": "Universität Hamburg (Hamburg, Germany); Helmholtz-Zentrum Hereon (Geesthacht, Germany)",
+      "title_zh": "量化根际氧气异质性引起的沼泽碳通量估算聚合偏差",
+      "relevance_score": 6,
+      "key_conclusion": "在沼泽土壤中，氧气浓度在植物根系附近较高，几毫米内降至接近零；微生物分解有机质不与氧气浓度成正比。使用单一平均氧气浓度会高估二氧化碳释放约12%，因此沼泽土壤可能比模型预测储存更多碳。",
+      "relevance_note": "该研究关注土壤有机质分解与碳储存的机制（根际氧气异质性对碳通量估算的影响），属于用户关注的土壤有机质形成与稳定机制及碳循环领域，且研究地点在欧洲（德国易北河），但未涉及大型食草动物，故给中等偏上分数。",
+      "related_papers": [
+        {
+          "title": "Integrating the evidence for a terrestrial carbon sink caused by increasing atmospheric CO 2",
+          "link": "https://doi.org/10.1111/nph.16866",
+          "venue": "New Phytologist",
+          "year": 2020
+        },
+        {
+          "title": "Soil Aggregate Microbial Communities: Towards Understanding Microbiome Interactions at Biologically Relevant Scales",
+          "link": "https://doi.org/10.1128/aem.00324-19",
+          "venue": "Applied and Environmental Microbiology",
+          "year": 2019
+        },
+        {
+          "title": "Emerging sensing, imaging, and computational technologies to scale nano-to macroscale rhizosphere dynamics – Review and research perspectives",
+          "link": "https://doi.org/10.1016/j.soilbio.2023.109253",
+          "venue": "Soil Biology and Biochemistry",
+          "year": 2023
+        },
+        {
+          "title": "Biochar application in remediating salt-affected soil to achieve carbon neutrality and abate climate change",
+          "link": "https://doi.org/10.1007/s42773-023-00244-8",
+          "venue": "Biochar",
+          "year": 2023
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6803/2026/bg-23-6803-2026-avatar-web.png",
+      "scientific_question": "在沼泽土壤中，根际氧气异质性导致的模型聚合偏差对碳通量估算有多大影响？使用单一平均氧气浓度是否会系统性高估CO2释放？",
+      "contributions_limitations": "该研究以易北河沼泽土壤为对象，量化了根际毫米尺度氧气梯度对碳分解速率的非线性效应，发现使用平均氧气浓度会高估CO2释放约12%，说明沼泽土壤可能比模型预测储存更多碳。贡献在于揭示了土壤碳循环模型中一个被忽视的空间聚合偏差。局限性在于研究限于沼泽土壤和特定模型框架，是否适用于其他生态系统（如草地、森林）尚不清楚。",
+      "follow_up_research": "可将该聚合偏差框架推广到其他生态系统类型（如放牧草地）中，检验根际异质性是否同样导致碳通量估算偏差；也可将该机制嵌入地球系统模式中的土壤碳模块，改进大尺度碳收支估算。",
+      "next_step_perspective": "该文为用户提供了一个重要方法学启发：在评估大型食草动物对土壤碳的影响时，根系活动和根际微环境异质性可能是关键中介变量，模型中忽略这种异质性可能导致对放牧效应的错误估算。研究地点在欧洲（德国易北河），与用户对欧洲研究点的偏好一致。",
+      "why_this_journal": "Biogeosciences专注于生物地球化学过程的机制研究，该文通过精细尺度测量挑战了模型中的简化假设，方法严谨且具有模型改进意义，推测因此被接收。",
+      "author_profile": {
+        "name": "Youssef Saadaoui",
+        "institution": "Helmholtz-Zentrum Hereon",
+        "intro": "Youssef Saadaoui来自德国Helmholtz-Zentrum Hereon，从其历史论文标题看，主要研究方向为河口和沼泽生态系统的碳氮循环，包括根际性状对碳排放的影响、氧化亚氮排放热点等。这些研究与用户关注的土壤有机碳形成与稳定机制、以及根系-微生物互作对碳循环的影响高度相关。",
+        "other_works": [
+          {
+            "title": "Quantifying aggregation bias in marsh carbon flux estimates caused by rhizosphere oxygen heterogeneity",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6803-2026"
+          },
+          {
+            "title": "Ecotonal gradients shape biodiversity of multiple estuarine taxa",
+            "year": "2026",
+            "journal": "Estuarine, Coastal and Shelf Science",
+            "doi": "10.1016/j.ecss.2026.110042"
+          },
+          {
+            "title": "“Hot moments” dominate nitrous oxide emissions in the Elbe estuary",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-11896"
+          },
+          {
+            "title": "Exploring effects of variation in plant root traits on carbon emissions from estuarine marshes",
+            "year": "2024",
+            "journal": null,
+            "doi": "10.5194/egusphere-2024-1756"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1029/2025JG009418",
+      "title": "Strong‐Acid Weathering in a Carbonate‐Siliciclastic Cropland Diminishes Removal of CO2 From the Atmosphere Without Becoming a CO2 Source",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JG009418?af=R",
+      "summary": "Journal of Geophysical Research: Biogeosciences, Volume 131, Issue 10, October 2026.",
+      "journal": "JGR Biogeosciences",
+      "published": "2026-10-01T03:48:12-07:00",
+      "doi": "10.1029/2025JG009418",
+      "affiliation": "Department of Geosciences The Pennsylvania State University  University Park PA USA; Department of Ecosystem Science and Management The Pennsylvania State University  University Park PA USA; School of Geosciences University of Oklahoma  Norman OK USA",
+      "title_zh": "碳酸盐-硅碎屑农田中的强酸风化减少了大气CO2移除但未成为CO2源",
+      "relevance_score": 5,
+      "key_conclusion": "摘要未提供具体结论，但文章标题表明强酸风化在碳酸盐-硅碎屑农田中减弱了大气CO2的移除，但该过程并未使该农田成为CO2源。",
+      "relevance_note": "该研究涉及农田生态系统中的碳循环（CO2移除与源汇），属于用户关注的陆地生态系统碳循环相邻领域，但与核心方向（大型食草动物、土壤有机碳）距离较远，给中等分数。",
+      "related_papers": [],
+      "image_url": null,
+      "scientific_question": "在碳酸盐-硅碎屑混合农田中，强酸风化如何影响大气CO2的移除量？该过程是否会使农田从碳汇转变为碳源？",
+      "contributions_limitations": "该文探讨了强酸风化在农业土壤中削弱CO2移除但未使其变为CO2源的机制，可能涉及硫酸驱动的碳酸盐溶解与硅酸盐风化耦合。贡献在于厘清了风化过程对农田碳收支的净效应。局限性在于摘要信息不足，无法判断研究尺度（点尺度vs.流域尺度）、时间框架及是否考虑了施肥等管理措施的影响。",
+      "follow_up_research": "可研究大型食草动物活动（如踩踏、粪便输入）如何改变土壤酸度进而影响风化速率和碳收支；也可将风化碳汇纳入rewilding后的生态系统碳核算框架。",
+      "next_step_perspective": "该文提示用户在评估rewilding对土壤碳的影响时，不应忽视地球化学风化路径对碳收支的贡献，尤其是在含碳酸盐母质的土壤中。但该文与用户核心课题的直接关联较弱，更多是拓展碳循环认知边界。",
+      "why_this_journal": "JGR Biogeosciences关注生物地球化学循环的机制研究，该文将风化地球化学与碳收支联系起来，具有跨尺度意义，推测因此被接收。",
+      "author_profile": {
+        "name": "Michael J. Forgeng",
+        "institution": null,
+        "intro": "Michael J. Forgeng的机构信息未提供。从其论文标题看，研究涉及强酸风化与CO2移除、以及地表水化学与地下氧化还原结构的关系，推测其研究方向为土壤/流域生物地球化学。与用户方向的关联在于风化过程对土壤碳长期稳定的潜在影响，但直接关联有限。",
+        "other_works": [
+          {
+            "title": "Strong‐Acid Weathering in a Carbonate‐Siliciclastic Cropland Diminishes Removal of CO2 From the Atmosphere Without Becoming a CO2 Source",
+            "year": "2026",
+            "journal": "Journal of Geophysical Research: Biogeosciences",
+            "doi": "10.1029/2025JG009418"
+          },
+          {
+            "title": "Linking Stream Chemistry to Subsurface Redox Architecture",
+            "year": "2023",
+            "journal": "Water Resources Research",
+            "doi": "10.1029/2022WR033445"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2745.70454",
+      "title": "Rainfall memory and spring atmospheric demand predict herbaceous biomass production in Mediterranean ecosystems",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70454?af=R",
+      "summary": "Journal of Ecology, Volume 114, Issue 10, October 2026.",
+      "journal": "Journal of Ecology",
+      "published": "2026-10-01T01:31:06-07:00",
+      "doi": "10.1111/1365-2745.70454",
+      "affiliation": "School of Plant Sciences &amp; Food Security, Faculty of Life Sciences Tel Aviv University  Tel Aviv Israel; Institute of Plant Sciences and Genetics in Agriculture, Robert H. Smith Faculty of Agriculture, Food and Environment Hebrew University of Jerusalem  Rehovot Israel",
+      "title_zh": "降雨记忆与春季大气需求预测地中海生态系统的草本生物量生产",
+      "relevance_score": 5,
+      "key_conclusion": "摘要未提供具体结论，但文章标题表明降雨记忆和春季大气需求可预测地中海生态系统的草本生物量生产。",
+      "relevance_note": "该研究关注地中海生态系统（欧洲）的草本生物量生产与气候因子的关系，涉及植被-气候反馈和生态系统功能，与用户关注的植被-土壤反馈及生态系统功能恢复有一定关联，但未涉及碳循环或大型食草动物，给中等分数。",
+      "related_papers": [
+        {
+          "title": "Scientists' warning on climate change and insects",
+          "link": "https://doi.org/10.1002/ecm.1553",
+          "venue": "Ecological Monographs",
+          "year": 2022
+        },
+        {
+          "title": "Field experiments have enhanced our understanding of drought impacts on terrestrial ecosystems—But where do we go from here?",
+          "link": "https://doi.org/10.1111/1365-2435.14460",
+          "venue": "Functional Ecology",
+          "year": 2023
+        },
+        {
+          "title": "The SURFEXv7.2 land and ocean surface platform for coupled or offline simulation of earth surface variables and fluxes",
+          "link": "https://doi.org/10.5194/gmd-6-929-2013",
+          "venue": "Geoscientific model development",
+          "year": 2013
+        },
+        {
+          "title": "Not all droughts are created equal: translating meteorological drought into woody plant mortality",
+          "link": "https://doi.org/10.1093/treephys/tpt044",
+          "venue": "Tree Physiology",
+          "year": 2013
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "降雨记忆效应和春季大气需求能否预测地中海生态系统中草本生物量的生产？其预测能力如何？",
+      "contributions_limitations": "该文可能通过长期监测数据，检验了前期降雨（降雨记忆）和春季大气水分需求对草本生物量生产的联合预测能力。贡献在于为地中海干旱生态系统的生产力预测提供了气候驱动因子框架。局限性在于仅关注草本生物量，未涉及土壤碳动态或动物介导的反馈，且摘要未提供具体结论和统计结果。",
+      "follow_up_research": "可将草本生物量预测模型与放牧强度耦合，研究大型食草动物如何通过采食改变生物量-降雨关系；也可进一步探究生物量变化如何反馈到土壤有机碳输入和颗粒态/矿物结合态有机质的分配。",
+      "next_step_perspective": "该文为用户提供了地中海生态系统（欧洲研究点）中气候-植被生产力关系的量化视角，可作为rewilding研究中植被-土壤反馈链条的上游驱动分析参考。若用户研究地点涉及地中海地区，该文的降雨记忆概念可直接引入。",
+      "why_this_journal": "Journal of Ecology关注植物种群、群落和生态系统生态学的机制研究，该文将气候驱动因子与生态系统生产力联系起来，推测其长期数据或方法创新使其适合该刊。",
+      "author_profile": {
+        "name": "Marcelo Sternberg",
+        "institution": "Tel Aviv University",
+        "intro": "Marcelo Sternberg来自以色列特拉维夫大学，从其历史论文标题看，研究涉及地中海生态系统的植被-节肢动物多样性耦合、河岸带保护、干旱梯度下生物多样性等。其研究聚焦于干旱/半干旱生态系统的植物-动物互作和生物多样性维持机制，与用户关注的植被-土壤反馈和放牧生态学有一定交叉，但与rewilding直接关联有限。",
+        "other_works": [
+          {
+            "title": "Rainfall memory and spring atmospheric demand predict herbaceous biomass production in Mediterranean ecosystems",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70454"
+          },
+          {
+            "title": "Shrub species identity modulates plant–arthropod diversity coupling across a dryland aridity gradient",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70453"
+          },
+          {
+            "title": "Native Perennial Vegetation Buffer Strips Improve Structural Indicators of Riparian Protection in Mediterranean Agroecosystems",
+            "year": "2026",
+            "journal": "Land Degradation & Development",
+            "doi": "10.1002/ldr.70868"
+          },
+          {
+            "title": "Atmospheric dust is a global nutrient source for plants via foliar uptake",
+            "year": "2026",
+            "journal": "New Phytologist",
+            "doi": "10.1111/nph.71112"
+          },
+          {
+            "title": "Interannual climatic variability outweighs microhabitat effects on ground-active arthropod diversity in a semi-arid sandy ecosystem",
+            "year": "2026",
+            "journal": "Geoderma",
+            "doi": "10.1016/j.geoderma.2026.117794"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2745.70453",
+      "title": "Shrub species identity modulates plant–arthropod diversity coupling across a dryland aridity gradient",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70453?af=R",
+      "summary": "Journal of Ecology, Volume 114, Issue 10, October 2026.",
+      "journal": "Journal of Ecology",
+      "published": "2026-10-01T01:34:27-07:00",
+      "doi": "10.1111/1365-2745.70453",
+      "affiliation": "School of Ecology and Environment Ningxia University  Yinchuan China; CSIC, Global Ecology Unit CREAF‐CSIC‐UAB  Bellaterra Catalonia Spain; CREAF  Barcelona Catalonia Spain",
+      "title_zh": "灌木物种身份调节干旱梯度下植物-节肢动物多样性耦合",
+      "relevance_score": 4,
+      "key_conclusion": "摘要未提供具体结论，但文章标题表明灌木物种身份调节了干旱梯度下植物与节肢动物多样性的耦合关系。",
+      "relevance_note": "该研究涉及植物-动物互作及生物多样性，属于用户关注的生物间互作网络和BEF关系相邻领域，但未涉及碳循环或大型食草动物，给中等偏低分数。",
+      "related_papers": [
+        {
+          "title": "Data and code from: Shrub species identity modulates plant-arthropod diversity coupling across a dryland aridity gradient",
+          "link": "https://doi.org/10.5061/dryad.2280gb67x",
+          "venue": "DRYAD",
+          "year": 2026
+        },
+        {
+          "title": "Impacts of large herbivores on terrestrial ecosystems",
+          "link": "https://doi.org/10.1016/j.cub.2023.04.024",
+          "venue": "Current Biology",
+          "year": 2023
+        },
+        {
+          "title": "A review of the combination among global change factors in forests, shrublands and pastures of the Mediterranean Region: Beyond drought effects",
+          "link": "https://doi.org/10.1016/j.gloplacha.2016.11.012",
+          "venue": "Global and Planetary Change",
+          "year": 2016
+        },
+        {
+          "title": "Why are some plant species missing from restorations? A diagnostic tool for temperate grassland ecosystems",
+          "link": "https://doi.org/10.3389/fcosc.2022.1028295",
+          "venue": "Frontiers in Conservation Science",
+          "year": 2022
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在干旱梯度下，灌木物种身份如何调节植物多样性与节肢动物多样性之间的耦合关系？",
+      "contributions_limitations": "基于标题和摘要信息推测，该研究可能揭示了灌木物种身份作为调节因子，在干旱胁迫梯度下影响植物-节肢动物多样性耦合的方向或强度，对理解干旱生态系统中的生物多样性维持机制有贡献。局限性在于摘要仅提供了期刊卷期信息，无法判断研究的空间尺度、节肢动物类群覆盖范围以及是否为观测性还是实验性研究，建议查看原文确认。",
+      "follow_up_research": "可进一步探究灌木物种身份通过何种机制（如冠层微气候、凋落物质量、根系分泌物）调节植物-节肢动物耦合，以及这种调节在极端干旱事件后是否发生转变。也可将节肢动物多样性响应与土壤有机碳动态关联，考察地上-地下多样性的联动。",
+      "next_step_perspective": "该研究涉及植物-动物互作网络及干旱梯度下的生物多样性耦合，与用户关注的BEF关系、植物-动物互作有一定关联，但其核心聚焦于节肢动物多样性而非大型食草动物或碳循环。可为用户提供灌木作为生态系统工程师如何影响多营养级多样性的视角，但对重野化与土壤有机碳的直接启发有限。",
+      "why_this_journal": "Journal of Ecology 是生态学领域经典期刊，偏好发表关于植物群落、生物多样性维持机制和生态互作的高质量研究。推测该文因结合了干旱梯度这一气候变化相关背景与多营养级多样性耦合的新颖视角而获发表。",
+      "author_profile": {
+        "name": "Rentao Liu",
+        "institution": null,
+        "intro": "Rentao Liu 的发文记录显示其研究集中于干旱/半干旱生态系统中的节肢动物多样性、土壤微生物群落对降雨变化的响应，以及灌木种植与捕食者介导机制对地面节肢动物多样性的影响，研究地点可能涉及地中海灌木地和半干旱沙地。其研究方向与用户关注的植物-动物互作、生物多样性-生态系统功能关系有部分重叠，但不直接涉及大型食草动物重野化或土壤有机碳循环。",
+        "other_works": [
+          {
+            "title": "Shrub species identity modulates plant–arthropod diversity coupling across a dryland aridity gradient",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70453"
+          },
+          {
+            "title": "Interannual climatic variability outweighs microhabitat effects on ground-active arthropod diversity in a semi-arid sandy ecosystem",
+            "year": "2026",
+            "journal": "Geoderma",
+            "doi": "10.1016/j.geoderma.2026.117794"
+          },
+          {
+            "title": "Contrasting responses of soil bacterial and fungal communities after five years of rainfall manipulation in a Mediterranean shrubland",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.2139/ssrn.7276381"
+          },
+          {
+            "title": "Predator-mediated mechanisms shape ground-active arthropod diversity during long-term restoration via planting shrubs",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.2139/ssrn.6188302"
+          },
+          {
+            "title": "Rainfall intermittency shapes contrasting fungal and bacterial responses after five years of experimental drought in a Mediterranean shrubland",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.2139/ssrn.6460800"
+          }
+        ]
+      }
+    }
+  ]
 }
