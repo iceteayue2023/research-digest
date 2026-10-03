@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-02T17:18:45.453650+00:00",
-  "count": 17,
+  "generated_at": "2026-10-03T04:34:28.444561+00:00",
+  "count": 15,
   "posts": [
+    {
+      "handle": "science.org",
+      "author_name": "Science Magazine",
+      "text": "Researchers have constructed the oldest ice core–derived climate record from the Tibetan Plateau, which confirms that the Guliya ice cap is more than 100,000 years old.\n\nLearn more in #ScienceAdvances: https://scim.ag/4AMkty3",
+      "created_at": "2026-10-02T21:04:01.671297227Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mwwbjmmnjb2y",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -135,17 +146,6 @@
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreic4hd5gyvnty5mudk6hnnofxspjyfu3k4q55e7ku6fkxbagjw4dnq"
     },
     {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Scientists trace how inflammatory immune cells from the skull bone marrow can exacerbate chronic traumatic brain injury, a two-pronged topical treatment cures scabies in large animals with a single dose, and more this week in #ScienceTranslationalMedicine. https://scim.ag/4dcEDqH",
-      "created_at": "2026-09-30T21:00:10.152033848Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mwraeuvydl22",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
       "text": "This experimental and computational study asks how spatial structure and nutrient availability impact spread of resistant mutants and explores the impact of several treatment schedules to find a strategy that balances population control and resistance confinement 🧪 www.nature.com/articles/s41...",
@@ -166,28 +166,6 @@
       "external_description": "Generation-by-generation ancestry tracking in hybrid stickleback shows that hybrid incompatibilities drive rapid removal of introgressed alleles following a tsunami.",
       "external_uri": "https://www.nature.com/articles/s41559-026-03168-1",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreianr52lwabpy723cldbuncx6xrfe7r4ldthg4sdidl76a5qbudlaa"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "As the climate warms, compound drought and heat wave events are becoming more frequent and intense across the contiguous United States. Areas at high risk for such events are disproportionately poor, unhealthy, and rural. In PNAS: https://ow.ly/nqfA50ZSNx3",
-      "created_at": "2026-09-29T22:00:35.083433286Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mwotbz3npx2c",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Springer Nature",
-      "text": "Rising sea levels could create new habitat for invasive marine species, says study in @natecoevo.nature.com. The findings suggest that more than two-thirds of newly flooded coastlines could become suitable for non-native species by the end of the century: spklr.io/63326Epu7p \n#Ecology 🌏 🧪",
-      "created_at": "2026-09-29T19:23:01.568Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwokiavimy2b",
-      "external_title": "Global sea-level rise will create a new biological invasion front - Nature Ecology & Evolution",
-      "external_description": "Sea-level rise may create a new front for the landward expansion of marine invaders into inundated areas. The authors explore the probability of this, projecting that more than two-thirds of inundated land areas would be suitable for 122 non-native animals already established in adjacent marine ecoregions under future sea-level-rise scenarios.",
-      "external_uri": "http://spklr.io/63326Epu7p",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:o4ahcykv3wvi2uysmhptzrov/bafkreihsv4mn5pftyyi7u2ip23dpiyhi6osc6qnuvkpcyxm37m4pxgobfa"
     }
   ]
 }
