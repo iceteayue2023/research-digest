@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
-  "generated_at": "2026-10-03T04:34:28.444000+00:00",
-  "count": 1,
+  "generated_at": "2026-10-03T10:52:31.100745+00:00",
+  "count": 4,
   "articles": [
     {
       "id": "https://www.nature.com/articles/s41579-026-01380-1",
@@ -82,6 +82,219 @@
             "year": "2026",
             "journal": "Global Change Biology",
             "doi": "10.1111/gcb.71033"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2435.70457",
+      "title": "Plant‐derived compounds to improve soil inoculation for restoration",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70457?af=R",
+      "summary": "Functional Ecology, EarlyView.",
+      "journal": "Functional Ecology",
+      "published": "2026-10-02T05:24:32-07:00",
+      "doi": "10.1111/1365-2435.70457",
+      "affiliation": "Above‐Belowground Interactions Group, Institute of Biology Leiden University  Leiden The Netherlands",
+      "title_zh": "利用植物源化合物改善土壤接种用于生态恢复",
+      "relevance_score": 5,
+      "key_conclusion": "摘要未提供具体数据；从标题推断，该研究探讨利用植物来源的化合物来增强土壤接种效果，以促进生态系统恢复，可能涉及植物-土壤反馈机制。",
+      "relevance_note": "该文涉及土壤生物区系调控与生态恢复，与用户关注的植被-土壤反馈和生态系统功能恢复有主题关联；研究机构位于欧洲（荷兰莱顿大学），可能涉及欧洲研究地点。但未直接涉及碳循环或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Biochar to improve soil fertility. A review",
+          "link": "https://doi.org/10.1007/s13593-016-0372-z",
+          "venue": "Agronomy for Sustainable Development",
+          "year": 2016
+        },
+        {
+          "title": "Plant Growth-Promoting Rhizobacteria: Context, Mechanisms of Action, and Roadmap to Commercialization of Biostimulants for Sustainable Agriculture",
+          "link": "https://doi.org/10.3389/fpls.2018.01473",
+          "venue": "Frontiers in Plant Science",
+          "year": 2018
+        },
+        {
+          "title": "Biochar and its importance on nutrient dynamics in soil and plant",
+          "link": "https://doi.org/10.1007/s42773-020-00065-z",
+          "venue": "Biochar",
+          "year": 2020
+        },
+        {
+          "title": "Soil microbiomes and climate change",
+          "link": "https://doi.org/10.1038/s41579-019-0265-7",
+          "venue": "Nature Reviews Microbiology",
+          "year": 2019
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "植物来源的化合物能否增强土壤接种（soil inoculation）在生态恢复中的效果？其背后的植物-土壤反馈机制是什么？",
+      "contributions_limitations": "该研究可能通过添加特定植物来源化合物来优化土壤接种技术，为退化生态系统恢复提供新思路，与用户关注的植被-土壤反馈和生态系统功能恢复直接相关。然而，摘要仅提供标题和期刊信息，具体实验设计、化合物类型、恢复效果数据均不明确，基于现有信息推测其可能聚焦于特定植物-微生物信号通路。建议查看原文确认是否涉及碳循环或大型食草动物管理背景下的恢复实践。",
+      "follow_up_research": "可进一步探究：在大型食草动物重野化情境下，动物取食或踩踏产生的植物源化合物释放是否同样能调控土壤微生物群落并加速土壤有机碳积累？不同放牧强度下植物-土壤反馈的强度是否影响土壤接种恢复效率？",
+      "next_step_perspective": "该研究提示植物次生代谢物可能是调控土壤微生物组装和碳循环的关键媒介，用户可考虑在重野化样地中同步监测植物源化合物输入与土壤微生物功能基因表达，尤其关注这些化合物是否通过微生物途径影响颗粒态有机质（POM）向矿物结合态有机质（MAOM）的转化。",
+      "why_this_journal": "Functional Ecology 偏好发表功能性状、植物-土壤互作和生态恢复机制研究，该文将植物化学生态与恢复实践结合，具有方法创新性和应用价值，推测因而被接收。",
+      "author_profile": {
+        "name": "Farzad Aslani",
+        "institution": "Leiden University",
+        "intro": "Farzad Aslani 就职于荷兰莱顿大学，其发表历史集中在土壤接种、土壤真核微生物群落组装与恢复生态学，尤其关注退化景观中土壤生物群落的恢复机制。这些方向与用户关心的植被-土壤反馈、土壤有机质形成及生态系统功能恢复有交叉，但其研究尚未直接涉及大型食草动物重野化对碳循环的影响。",
+        "other_works": [
+          {
+            "title": "Plant‐derived compounds to improve soil inoculation for restoration",
+            "year": "2026",
+            "journal": "Functional Ecology",
+            "doi": "10.1111/1365-2435.70457"
+          },
+          {
+            "title": "Review of the Effectiveness of Soil Inoculation to Improve Tree Seedling and Sapling Performance",
+            "year": "2026",
+            "journal": "Current Forestry Reports",
+            "doi": "10.1007/s40725-026-00289-5"
+          },
+          {
+            "title": "Global dataset of soil eukaryotic communities created with a uniform protocol and long read sequencing",
+            "year": "2026",
+            "journal": "Scientific Data",
+            "doi": "10.1038/s41597-026-07315-y"
+          },
+          {
+            "title": "Shifting community assembly mechanisms in soil eukaryotes over successional time and their implications for restoration",
+            "year": "2025",
+            "journal": "Scientific Reports",
+            "doi": "10.1038/s41598-025-11507-8"
+          },
+          {
+            "title": "Soil Microbiome Inoculation for Resilient and Multifunctional New Forests in Post‐Agricultural Landscapes",
+            "year": "2025",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.70031"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2435.70465",
+      "title": "Tree species identity is associated with rhizosphere microbiome assembly via root metabolite‐mediated feedbacks in subtropical forests",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70465?af=R",
+      "summary": "Functional Ecology, EarlyView.",
+      "journal": "Functional Ecology",
+      "published": "2026-10-02T01:44:21-07:00",
+      "doi": "10.1111/1365-2435.70465",
+      "affiliation": "Collaborative Innovation Center of Sustainable Forestry in China, College of Forestry Nanjing Forestry University  Nanjing China; College of Forestry Science and Technology Lishui Vocational and Technical College  Lishui Zhejiang China; Institute of Ecology and Earth Sciences, Faculty of Science and Technology University of Tartu  Tartu Estonia",
+      "title_zh": "亚热带森林中树种身份通过根系代谢物介导的反馈与根际微生物组组装相关",
+      "relevance_score": 5,
+      "key_conclusion": "摘要未提供具体数据；从标题推断，该研究发现树种身份通过根系代谢物介导的反馈机制影响根际微生物组的组装过程，揭示了植物-微生物互作在森林生态系统中的重要作用。",
+      "relevance_note": "该文涉及植物-微生物互作和根际反馈，与用户关注的植物-微生物互作网络及植被-土壤反馈主题相关；研究地点在中国亚热带森林，不在欧洲。未涉及碳循环或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Root traits explain rhizosphere fungal community composition among temperate grassland plant species",
+          "link": "https://doi.org/10.1111/nph.16976",
+          "venue": "New Phytologist",
+          "year": 2020
+        },
+        {
+          "title": "Root functional traits explain root exudation rate and composition across a range of grassland species",
+          "link": "https://doi.org/10.1111/1365-2745.13630",
+          "venue": "Journal of Ecology",
+          "year": 2021
+        },
+        {
+          "title": "Tree Species Shape Soil Bacterial Community Structure and Function in Temperate Deciduous Forests",
+          "link": "https://doi.org/10.3389/fmicb.2019.01519",
+          "venue": "Frontiers in Microbiology",
+          "year": 2019
+        },
+        {
+          "title": "Deciphering the role of specialist and generalist plant–microbial interactions as drivers of plant–soil feedback",
+          "link": "https://doi.org/10.1111/nph.18118",
+          "venue": "New Phytologist",
+          "year": 2022
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在亚热带森林中，树种身份如何通过根系代谢物介导的反馈来影响根际微生物组的组装？",
+      "contributions_limitations": "该研究可能揭示了植物根系代谢物作为选择压力驱动根际微生物群落装配的机制，对理解植物-微生物互作和植被-土壤反馈有理论贡献。但摘要信息极简，具体代谢物种类、微生物类群响应及是否涉及碳氮循环功能均不明确。基于现有信息推测其研究地点在中国亚热带（非欧洲），且未涉及大型食草动物。建议查看原文确认方法细节和生态系统功能指标。",
+      "follow_up_research": "可探索：在重野化草地或森林中，大型食草动物的取食偏好是否通过改变树种/植物优势度间接重塑根际代谢物谱，进而影响微生物驱动的土壤碳固存？放牧梯度下根际代谢物介导的微生物组装是否与土壤有机碳稳定性变化耦合？",
+      "next_step_perspective": "该方法学（根代谢物-微生物组关联分析）可被用户借鉴到重野化样地中，用以检验食草动物是否通过改变植物根系分泌物间接调控根际微生物功能群，特别是与MAOM形成相关的微生物代谢通路。",
+      "why_this_journal": "Functional Ecology 关注植物-土壤互作的功能机制，该文将根系代谢物与微生物组装联系起来，符合期刊对机制性研究的偏好，推测因揭示植物性状介导的微生物组装配新视角而发表。",
+      "author_profile": null
+    },
+    {
+      "id": "10.1111/1365-2435.70460",
+      "title": "Beyond observed diversity: Community completeness negatively affects ecosystem invasibility across scales",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70460?af=R",
+      "summary": "Functional Ecology, EarlyView.",
+      "journal": "Functional Ecology",
+      "published": "2026-10-02T07:42:49-07:00",
+      "doi": "10.1111/1365-2435.70460",
+      "affiliation": "Jilin Da'an Agro‐ecosystem National Observation and Research Station, Key Laboratory of Marsh Wetland Ecosystem Conservation and Restoration, National Forestry and Grassland Administration, State Key Laboratory of Black Soils Conservation and Utilization Northeast Institute of Geography and Agroecology, Chinese Academy of Sciences  Changchun China; Department of Biology University of Konstanz  Constance Germany",
+      "title_zh": "超越观测多样性：群落完整性在多个尺度上负向影响生态系统可入侵性",
+      "relevance_score": 4,
+      "key_conclusion": "摘要未提供具体数据；从标题推断，该研究提出群落完整性（即实际物种数占潜在物种数的比例）比单纯的观测多样性更能解释生态系统的可入侵性，且这种负向关系在不同空间尺度上均成立。",
+      "relevance_note": "该文涉及生物多样性-生态系统功能关系（BEF）和入侵生态学，与用户关注的BEF主题有间接关联；但未涉及大型食草动物、土壤碳循环或重野化，相关性有限。研究机构包含欧洲（德国康斯坦茨大学），但研究地点不明确。",
+      "related_papers": [
+        {
+          "title": "EFFECTS OF BIODIVERSITY ON ECOSYSTEM FUNCTIONING: A CONSENSUS OF CURRENT KNOWLEDGE",
+          "link": "https://doi.org/10.1890/04-0922",
+          "venue": "Ecological Monographs",
+          "year": 2005
+        },
+        {
+          "title": "Fundamentals of Microbial Community Resistance and Resilience",
+          "link": "https://doi.org/10.3389/fmicb.2012.00417",
+          "venue": "Frontiers in Microbiology",
+          "year": 2012
+        },
+        {
+          "title": "Scaling‐up biodiversity‐ecosystem functioning research",
+          "link": "https://doi.org/10.1111/ele.13456",
+          "venue": "Ecology Letters",
+          "year": 2020
+        },
+        {
+          "title": "Scientists' warning on invasive alien species",
+          "link": "https://doi.org/10.1111/brv.12627",
+          "venue": "Biological reviews/Biological reviews of the Cambridge Philosophical Society",
+          "year": 2020
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "群落完整性（实际物种数与潜在物种数的比值）是否比观测多样性更能解释生态系统可入侵性，且该关系是否在不同空间尺度上一致？",
+      "contributions_limitations": "该研究提出群落完整性这一指标来预测入侵性，可能整合了物种库和环境过滤的视角，对生物多样性-生态系统功能关系有理论推进。但摘要未提供具体数据、研究系统或尺度范围，且入侵性主题与用户核心的重野化-碳循环方向距离较远，仅在生物多样性-生态系统功能关系上有间接关联。基于现有信息推测其结论可能基于多个空间尺度的观测数据。",
+      "follow_up_research": "可探究：在重野化背景下，大型食草动物引入后群落完整性的变化如何影响外来植物入侵风险，进而间接改变土壤碳循环？群落完整性是否可作为预测重野化区碳汇功能恢复的指标？",
+      "next_step_perspective": "用户可关注群落完整性这一概念是否适用于评估重野化后植物群落恢复的'完整性'及其与土壤碳库稳定性的关系，但该文与用户核心方向（大型食草动物-土壤有机碳）的直接交叉有限，建议作为生物多样性-生态系统功能关系的背景参考。",
+      "why_this_journal": "Functional Ecology 偏好群落生态学与生态系统功能的关系研究，该文提出新指标且跨尺度验证，推测因概念创新性和普适性被接收。",
+      "author_profile": {
+        "name": "Yanjie Liu",
+        "institution": "Northeast Institute of Geography and Agroecology, CAS",
+        "intro": "Yanjie Liu 就职于中国科学院东北地理与农业生态研究所，其研究聚焦植物入侵、群落装配、植物-土壤反馈及全球变化多因子交互，近期关注夜间人造光对入侵物种和土壤微食物网的影响。其工作在植物-土壤反馈和生物多样性-生态系统功能方面与用户方向有方法论交叉，但尚未涉及大型食草动物重野化和土壤碳循环的直接研究。",
+        "other_works": [
+          {
+            "title": "Beyond observed diversity: Community completeness negatively affects ecosystem invasibility across scales",
+            "year": "2026",
+            "journal": "Functional Ecology",
+            "doi": "10.1111/1365-2435.70460"
+          },
+          {
+            "title": "Plant invasion through the lens of community assembly: Integrating traits, multitrophic interactions, and environmental change",
+            "year": "2026",
+            "journal": "Journal Of Plant Ecology",
+            "doi": "10.1093/jpe/rtag234"
+          },
+          {
+            "title": "Artificial light at night and an invasive snail synergistically enhance the invasion of a nonnative macrophyte",
+            "year": "2026",
+            "journal": "Ecology",
+            "doi": "10.1002/ecy.70458"
+          },
+          {
+            "title": "Growing‐ and nongrowing‐season warming affect invasive plant growth via soil legacy effects",
+            "year": "2026",
+            "journal": "Ecology",
+            "doi": "10.1002/ecy.70446"
+          },
+          {
+            "title": "Plant–soil feedbacks benefit plant invaders under multiple global change factors",
+            "year": "2026",
+            "journal": "National Science Review",
+            "doi": "10.1093/nsr/nwag415"
           }
         ]
       }

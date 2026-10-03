@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T04:34:28.444561+00:00",
-  "count": 15,
+  "generated_at": "2026-10-03T10:52:31.102121+00:00",
+  "count": 14,
   "posts": [
     {
       "handle": "science.org",
@@ -155,17 +155,6 @@
       "external_description": "This experimental and computational study asks how spatial structure and nutrient availability impact spread of resistant mutants and explores the impact of several treatment schedules to find a strat...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03178-z",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigmxgzngkrz44qqdd3xidivqecz5h7hvesmij5ssguxoq33hotipq"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "A tsunami of genome reshuffling www.nature.com/articles/s41...\n\nKelsie Hunnicutt discusses a new study in hybrid sticklebacks showing that hybrid incompatibilities drive rapid removal of introgressed alleles following the 2011 Tohoku tsunami in Japan \n\nFree to read: rdcu.be/ekJrEHm2iUea",
-      "created_at": "2026-09-30T08:46:22.098Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwpxeqhnnc25",
-      "external_title": "A tsunami of genome reshuffling - Nature Ecology & Evolution",
-      "external_description": "Generation-by-generation ancestry tracking in hybrid stickleback shows that hybrid incompatibilities drive rapid removal of introgressed alleles following a tsunami.",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03168-1",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreianr52lwabpy723cldbuncx6xrfe7r4ldthg4sdidl76a5qbudlaa"
     }
   ]
 }
