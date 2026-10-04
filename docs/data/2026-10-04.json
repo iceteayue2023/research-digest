@@ -1,6 +1,214 @@
 {
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T05:04:47.044885+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-10-04T11:34:27.481902+00:00",
+  "count": 3,
+  "articles": [
+    {
+      "id": "10.1111/1365-2745.70456",
+      "title": "Shrub canopies preserve climatic niche disparity among recruit species in Mediterranean drylands",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70456?af=R",
+      "summary": "Journal of Ecology, Volume 114, Issue 10, October 2026.",
+      "journal": "Journal of Ecology",
+      "published": "2026-10-03T01:43:12-07:00",
+      "doi": "10.1111/1365-2745.70456",
+      "affiliation": "Centro de Investigaciones Sobre Desertificación (CIDE, CSIC‐UV‐GV)  Moncada Spain; CREAF  Bellaterra (Cerdanyola del Vallès), Barcelona Spain; Departament de Biologia Animal, Biologia Vegetal i Ecologia Universitat Autònoma de Barcelona  Bellaterra (Cerdanyola del Vallès), Barcelona Spain",
+      "title_zh": "灌木冠层维持地中海旱地招募物种间的气候生态位差异",
+      "relevance_score": 4,
+      "key_conclusion": "在地中海旱地中，灌木冠层通过提供遮荫和微环境，维持了不同招募物种间的气候生态位分化，促进了群落物种共存。",
+      "relevance_note": "研究地点在欧洲（西班牙地中海旱地），涉及植被-土壤微环境反馈与植物群落动态，与用户的植被-土壤反馈和生态系统功能恢复主题有间接关联，但未涉及碳循环或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Data and script of the MS \"Shrub canopies preserve climatic niche disparity among recruit species in Mediterranean drylands\"",
+          "link": "https://doi.org/10.5281/zenodo.20457090",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "High climatic niche stability across life stages in Swiss forest tree species",
+          "link": "https://doi.org/10.1111/1365-2745.70338",
+          "venue": "Journal of Ecology",
+          "year": 2026
+        },
+        {
+          "title": "Ecological restoration of dryland kānuka communities in an irrigated agricultural landscape",
+          "link": "",
+          "venue": "Lincoln University Research Archive (Lincoln University)",
+          "year": 2017
+        },
+        {
+          "title": "Ecohydrological Controls on Temperate Wetland Shrub Dynamics",
+          "link": "",
+          "venue": "TSpace (University of Toronto)",
+          "year": 2014
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在地中海旱地生态系统中，灌木冠层是否通过改变微环境条件来维持不同招募（幼苗/幼树）物种间的气候生态位分化，从而促进物种共存？",
+      "contributions_limitations": "该研究揭示了灌木作为' nurse plant '在缓冲气候胁迫、维持微生境异质性方面的作用，强调了冠层结构对招募物种气候生态位分化的保护功能。局限性在于：基于现有信息推测，研究可能集中于单一地中海旱地系统，结论向其他干旱/半干旱系统的推广性需验证；此外，未涉及灌木移除或放牧等干扰对冠层保护效应的潜在影响。",
+      "follow_up_research": "可进一步探究大型食草动物（如重野化引入的草食动物）对灌木冠层的采食压力如何改变这种'冠层保护效应'及其对招募物种生态位分化的间接影响。也可结合土壤有机碳动态，研究灌木-草本-土壤反馈在碳固持中的作用。",
+      "next_step_perspective": "该研究提供了'植被结构-微气候-物种共存'的机制框架，用户可借鉴其生态位分化分析方法，思考重野化中大型食草动物如何通过改变灌木冠层结构来影响植被-土壤反馈和生态系统碳循环。特别是欧洲地中海地区正是重野化的潜在实施区域，该研究的地点（地中海旱地）与用户对欧洲研究地的偏好高度吻合。",
+      "why_this_journal": "Journal of Ecology 偏好发表群落生态学和植物生态学中机制性强的研究；该文将气候生态位理论与植物间正相互作用（facilitation）结合，具有概念创新性，且地中海旱地是生态学热点区域，推测因此被接收。",
+      "author_profile": {
+        "name": "Jordi Margalef‐Marrase",
+        "institution": "Forest Science and Technology Centre of Catalonia",
+        "intro": "Jordi Margalef-Marrase 就职于西班牙加泰罗尼亚森林科学与技术中心（CTFC），其研究聚焦于地中海生态系统中植物群落对气候变化的响应与恢复力，包括火后萌蘖恢复力、极端干旱后的群落韧性、树皮甲虫抗性以及植物-传粉者入侵互作等。这些工作与用户关注的植被-土壤反馈、生态系统功能恢复以及欧洲研究地点高度相关，尤其是其关于气候韧性和群落恢复的研究可为重野化后生态系统功能恢复提供参考框架。",
+        "other_works": [
+          {
+            "title": "Shrub canopies preserve climatic niche disparity among recruit species in Mediterranean drylands",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70456"
+          },
+          {
+            "title": "Drivers of post‐fire resprouting‐based resilience of co‐occurring species in Mediterranean SE Spain",
+            "year": "2026",
+            "journal": "Plant Biology",
+            "doi": "10.1111/plb.70296"
+          },
+          {
+            "title": "A plant–pollinator invasional meltdown: the Japanese pagoda tree Styphnolobium japonicum facilitates the invasion of the giant resin bee Megachile sculpturalis",
+            "year": "2026",
+            "journal": "Oikos",
+            "doi": "10.1002/oik.12449"
+          },
+          {
+            "title": "Individual tree characteristics and plasticity to climate conditions modulate resistance to bark beetle attack in Pinus uncinata",
+            "year": "2025",
+            "journal": "Forest Ecology and Management",
+            "doi": "10.1016/j.foreco.2025.122994"
+          },
+          {
+            "title": "Climatic resilience after extreme drought in Mediterranean shrubland plant communities",
+            "year": "2025",
+            "journal": "Ecography",
+            "doi": "10.1002/ecog.07835"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2745.70455",
+      "title": "Multifactorial diagnosis of drought‐induced decline in Mediterranean conifer forests",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.70455?af=R",
+      "summary": "Journal of Ecology, Volume 114, Issue 10, October 2026.",
+      "journal": "Journal of Ecology",
+      "published": "2026-10-03T01:41:05-07:00",
+      "doi": "10.1111/1365-2745.70455",
+      "affiliation": "Department of Physical Geography and Geoecology, Faculty of Science Charles University  Prague Czech Republic; Instituto Pirenaico de Ecología (IPE‐CSIC)  Zaragoza Spain; Centro de Edafología y Biología Aplicada del Segura (CEBAS‐CSIC), Campus de Espinardo  Murcia Spain",
+      "title_zh": "地中海针叶林干旱诱导衰退的多因素诊断",
+      "relevance_score": 4,
+      "key_conclusion": "通过多因素方法诊断了地中海针叶林因干旱导致的衰退，揭示了水分胁迫与树木死亡之间的复杂驱动机制。",
+      "relevance_note": "研究地点在欧洲（西班牙、捷克），涉及极端气候事件（干旱）对森林生态系统的影响，与用户关注的极端气候对碳循环扰动有间接关联，但未涉及碳循环或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Experimental Data of Multifactorial Diagnosis of Drought-Induced Decline in Mediterranean Conifer Forests",
+          "link": "https://doi.org/10.6084/m9.figshare.33719650",
+          "venue": "Figshare",
+          "year": 2026
+        },
+        {
+          "title": "Experimental Data of Multifactorial Diagnosis of Drought-Induced Decline in Mediterranean Conifer Forests",
+          "link": "https://doi.org/10.6084/m9.figshare.33719650.v1",
+          "venue": "Figshare",
+          "year": 2026
+        },
+        {
+          "title": "Assessing the Risks of Extreme Droughts to Amphibian Populations in the Northwestern Mediterranean",
+          "link": "https://doi.org/10.3390/land14081668",
+          "venue": "Land",
+          "year": 2025
+        },
+        {
+          "title": "Assessing the Risks of Extreme Droughts to Amphibian Populations in the North-Western Mediterranean",
+          "link": "https://doi.org/10.20944/preprints202507.1059.v1",
+          "venue": "Preprints.org",
+          "year": 2025
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "地中海针叶林因干旱导致的衰退（dieback）背后，水分胁迫、树木生长与死亡之间存在怎样的多因素驱动机制？",
+      "contributions_limitations": "该研究采用多因素诊断方法整合了生长、水分利用和营养限制等多个维度，有助于更全面地理解干旱驱动的森林衰退过程。局限性在于：基于现有信息推测，研究可能以相关性分析为主，因果推断受限；且未涉及土壤碳库变化或地下过程，对碳循环的启示需进一步挖掘。",
+      "follow_up_research": "可探究干旱衰退过程中凋落物输入和根系周转的变化如何影响土壤有机碳储量和组成（POM vs. MAOM）。也可研究大型食草动物是否通过改变林下植被和养分循环来调节干旱对森林碳循环的影响。",
+      "next_step_perspective": "该文为理解极端气候事件对陆地碳循环的扰动提供了树木尺度的生理诊断框架。用户可借鉴其多因素方法，将其应用于重野化背景下大型食草动物对干旱脆弱性及碳循环的调节效应研究；同时欧洲地中海针叶林作为研究地点也符合用户偏好。",
+      "why_this_journal": "Journal of Ecology 重视森林生态学和全球变化生物学研究；该文的多因素诊断方法在方法论上具有综合性和严谨性，且干旱导致的森林衰退是当前全球变化生态学的核心议题，推测因此被接收。",
+      "author_profile": {
+        "name": "Ester González de Andrés",
+        "institution": "Charles University",
+        "intro": "Ester González de Andrés 就职于捷克查理大学，其研究集中于树木生长对气候（尤其是干旱）的响应、森林衰退机制以及水分利用与营养限制的交互作用，研究区域涵盖西班牙地中海松林和智利南洋杉等。其工作与用户关注的极端气候事件对碳循环的扰动以及欧洲研究地点直接相关，可为理解重野化场景下食草动物-植被-气候交互对碳循环的影响提供树木生理生态学基础。",
+        "other_works": [
+          {
+            "title": "Multifactorial diagnosis of drought‐induced decline in Mediterranean conifer forests",
+            "year": "2026",
+            "journal": "Journal of Ecology",
+            "doi": "10.1111/1365-2745.70455"
+          },
+          {
+            "title": "Disentangling growth, water-use and nutritional constraints underlying forest dieback in drought-prone pine forests",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-9528"
+          },
+          {
+            "title": "Surviving a megadrought: shifts in climate sensitivity of an austral conifer in Chile due to persistent water shortage",
+            "year": "2025",
+            "journal": "Agricultural and Forest Meteorology",
+            "doi": "10.1016/j.agrformet.2025.110791"
+          },
+          {
+            "title": "Drought limits tree growth more than greenness and reproduction: insights from five case studies in Spain",
+            "year": "2025",
+            "journal": "Forest Ecosystems",
+            "doi": "10.1016/j.fecs.2025.100329"
+          },
+          {
+            "title": "The Relationships Between Climate and Growth in Six Tree Species Align with Their Hydrological Niches",
+            "year": "2025",
+            "journal": "Forests",
+            "doi": "10.3390/f16061029"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2664.70594",
+      "title": "Integrating local habitat structure and landscape heterogeneity is essential to conserve multitaxonomic biodiversity in European primary forests",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70594?af=R",
+      "summary": "Journal of Applied Ecology, Volume 63, Issue 10, October 2026.",
+      "journal": "Journal of Applied Ecology",
+      "published": "2026-10-03T01:26:17-07:00",
+      "doi": "10.1111/1365-2664.70594",
+      "affiliation": "Department of Forest Ecology, Faculty of Forestry and Wood Sciences Czech University of Life Sciences Prague  Praha 6‐Suchdol Czech Republic; Faculty of Ecology and Environmental Sciences Technical University in Zvolen  Zvolen Slovakia; Plant Science and Biodiversity Center, Institute of Botany, Slovak Academy of Sciences  Bratislava Slovakia",
+      "title_zh": "整合局域生境结构与景观异质性对保护欧洲原始森林多类群生物多样性至关重要",
+      "relevance_score": 4,
+      "key_conclusion": "欧洲原始森林的保护需要同时考虑局域生境结构和景观异质性，单一尺度管理不足以维持多类群生物多样性。",
+      "relevance_note": "研究地点在欧洲，涉及生物多样性保护与森林生态系统管理，与用户的生物多样性-生态系统功能关系及基于自然的解决方案主题有间接关联，但未涉及碳循环或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Achieving structural heterogeneity and high multi-taxon biodiversity in managed forest ecosystems: a European review",
+          "link": "https://doi.org/10.1007/s10531-024-02878-x",
+          "venue": "Biodiversity and Conservation",
+          "year": 2024
+        },
+        {
+          "title": "Trade-offs or complementarity between biomass production and biodiversity in European forests: a review",
+          "link": "https://doi.org/10.2478/forj-2023-0019",
+          "venue": "Central European Forestry Journal",
+          "year": 2023
+        },
+        {
+          "title": "The role of broadleaved hedgerows and landscape composition for biodiversity conservation in a pine plantation context",
+          "link": "https://doi.org/10.21203/rs.3.rs-7131998/v1",
+          "venue": "Research Square",
+          "year": 2025
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在欧洲原始森林中，局域生境结构与景观异质性如何共同影响多类群（multitaxonomic）生物多样性，单一尺度的保护管理是否足够？",
+      "contributions_limitations": "该研究强调了多尺度方法在生物多样性保护中的必要性，指出局域生境结构（如林分复杂度）和景观异质性需协同考虑才能有效保护多类群多样性。局限性在于：基于现有信息推测，研究可能未涉及生态系统功能（如碳循环）指标，且原始森林的保护结论向次生林或重野化区域的推广性需谨慎评估。",
+      "follow_up_research": "可研究大型食草动物作为生态系统工程师如何在不同空间尺度上创造和维持生境异质性，进而影响多类群多样性。也可将碳循环指标（如土壤有机碳）纳入多尺度保护评估框架，探索生物多样性-碳固持的协同与权衡。",
+      "next_step_perspective": "该文为理解空间尺度在生物多样性保护中的作用提供了框架，用户可将其与重野化中'大型食草动物作为异质性驱动力'的概念相结合，思考重野化如何在局域（如放牧斑块）和景观尺度上影响生物多样性与生态系统碳功能的耦合关系。欧洲原始森林作为研究地点也符合用户的地域偏好。",
+      "why_this_journal": "Journal of Applied Ecology 偏好具有明确保护应用价值的生态学研究；该文整合多类群和多尺度分析，对欧洲森林保护政策具有直接指导意义，推测其跨尺度的方法论和应用导向是接收的主要原因。",
+      "author_profile": null
+    }
+  ]
 }
