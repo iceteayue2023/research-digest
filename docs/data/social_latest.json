@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T15:35:47.520282+00:00",
-  "count": 14,
+  "generated_at": "2026-10-04T05:04:47.068512+00:00",
+  "count": 13,
   "posts": [
     {
       "handle": "science.org",
@@ -144,17 +144,6 @@
       "external_description": "Across the countryside and conservation sector, from National Park teams and Local Authority advisory units, to conservation charities and consultancies, the people working to protect nature still do ...",
       "external_uri": "https://www.countryside-jobs.com/article/building-an-ecology-for-everybody-the-bes-reed-network-and-a-sector-that-works-for-all",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:3omgpdswrobmlqbq6q6pcmft/bafkreic4hd5gyvnty5mudk6hnnofxspjyfu3k4q55e7ku6fkxbagjw4dnq"
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "This experimental and computational study asks how spatial structure and nutrient availability impact spread of resistant mutants and explores the impact of several treatment schedules to find a strategy that balances population control and resistance confinement 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-09-30T15:45:04.612Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mwqorh5xp226",
-      "external_title": "A microbial therapy-mimicry assay shows how spatial resource dynamics control resistance escape - Nature Ecology & Evolution",
-      "external_description": "This experimental and computational study asks how spatial structure and nutrient availability impact spread of resistant mutants and explores the impact of several treatment schedules to find a strat...",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03178-z",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreigmxgzngkrz44qqdd3xidivqecz5h7hvesmij5ssguxoq33hotipq"
     }
   ]
 }
