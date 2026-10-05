@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T16:20:14.003572+00:00",
-  "count": 7,
+  "generated_at": "2026-10-05T04:51:11.340862+00:00",
+  "count": 5,
   "posts": [
     {
       "handle": "science.org",
@@ -56,28 +56,6 @@
       "external_description": "Plant–pollinator networks vary tremendously across ecosystems. Here the authors use a global standardized dataset of plant–pollinator interactions to explore geographic patterns of specialization and ...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03170-7",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreiczqg6otyuupcskj2a7zy5ipyqlhnuxjv2uuxs6zmfm2mok6gjfsm"
-    },
-    {
-      "handle": "nature.com",
-      "author_name": "Nature",
-      "text": "A genus of soil-dwelling beetle discovered in Italy, and a glimpse at the wonders of the deep sea, in our weekly dip into Nature’s archive.\n\ngo.nature.com/4jqPm4I",
-      "created_at": "2026-10-01T20:00:01.529Z",
-      "post_link": "https://bsky.app/profile/nature.com/post/3mwtniawsk227",
-      "external_title": "Strange and beautiful creatures spotted on the Challenger expedition",
-      "external_description": "Snippets from Nature’s past.",
-      "external_uri": "https://go.nature.com/4jqPm4I",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreichn5jodwxohvlxfpobsj46zeiyb7ks2aq5pse4464krefdqzdpgm"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "When wildfires burn in cities, metals in the smoke, ash, soil, and debris pose a health risk. People living in the footprint of the 2023 Maui fire had 40 times more antimony and 2.2 times more arsenic in their urine than reference levels. In PNAS: https://ow.ly/AML150ZTyNv",
-      "created_at": "2026-10-01T19:00:33.336744543Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mwtk5wysde2u",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
