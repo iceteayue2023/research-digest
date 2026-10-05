@@ -1,6 +1,676 @@
 {
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T04:51:11.340393+00:00",
-  "count": 0,
-  "articles": []
+  "generated_at": "2026-10-05T13:08:52.241511+00:00",
+  "count": 9,
+  "articles": [
+    {
+      "id": "10.1029/2026GB009219",
+      "title": "Modeling Carbon Emissions Driven by Land‐Use Change: Uncertainty and Sensitivity Analysis of Dynamic Global Vegetation Models",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GB009219?af=R",
+      "summary": "Global Biogeochemical Cycles, Volume 40, Issue 10, October 2026.",
+      "journal": "Global Biogeochemical Cycles",
+      "published": "2026-10-04T20:55:04-07:00",
+      "doi": "10.1029/2026GB009219",
+      "affiliation": "School of Resources and Environmental Engineering Wuhan University of Technology  Wuhan China; Graduate School of Agricultural and Life Sciences The University of Tokyo  Tokyo Japan",
+      "title_zh": "土地利用变化驱动的碳排放建模：动态全球植被模型的不确定性与敏感性分析",
+      "relevance_score": 9,
+      "key_conclusion": "本文对动态全球植被模型(DGVM)模拟土地利用变化碳排放的不确定性和敏感性进行了系统分析，揭示了模型间差异的关键来源。",
+      "relevance_note": "直接对应用户关注的DGVM开发与验证、生态系统模型改进方向，且涉及陆地生态系统碳循环和土地利用变化碳排放，高度相关。",
+      "related_papers": [
+        {
+          "title": "Modeling Carbon Emissions Driven by Land-Use Change: Uncertainty and Sensitivity Analysis of Dynamic Global Vegetation Models",
+          "link": "https://doi.org/10.5281/zenodo.20826569",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Modeling Carbon Emissions Driven by Land-Use Change: Uncertainty and Sensitivity Analysis of Dynamic Global Vegetation Models",
+          "link": "https://doi.org/10.5281/zenodo.19381913",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "LPJmL4 – a dynamic global vegetation model with managed land – Part 1: Model description",
+          "link": "https://doi.org/10.5194/gmd-11-1343-2018",
+          "venue": "Geoscientific model development",
+          "year": 2018
+        },
+        {
+          "title": "Global terrestrial isoprene emission models: sensitivity to variability in climate and vegetation",
+          "link": "https://doi.org/10.5194/acp-11-8037-2011",
+          "venue": "Atmospheric chemistry and physics",
+          "year": 2011
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "动态全球植被模型（DGVM）在模拟土地利用变化驱动的碳排放时，模型间差异的主要来源是什么？哪些参数或过程对模拟结果最为敏感？",
+      "contributions_limitations": "该研究系统分析了DGVM模拟土地利用变化碳排放的不确定性和敏感性，有助于识别模型间差异的关键来源，对改进地球系统模式中的碳循环模块有直接价值。局限性在于仅基于期刊目录页信息，无法获知具体使用了哪些DGVM、采用何种敏感性分析方法及是否包含放牧或草地管理相关过程。基于现有信息推测，建议查看原文。",
+      "follow_up_research": "可将放牧强度和大型食草动物管理作为土地利用变化的一个子类，纳入DGVM的敏感性分析框架；也可探讨不同DGVM在模拟草地生态系统碳通量时对放牧参数的响应差异；进一步可结合重野化情景，评估DGVM在模拟草食动物-植被-土壤碳反馈方面的能力与不足。",
+      "next_step_perspective": "该文直接关联用户对DGVM开发与验证的关注。用户可以借此了解当前DGVM在土地利用变化碳排放模拟中的不确定性来源，进而评估现有模型是否足以刻画重野化（如草食动物重新引入）对土壤有机碳的影响，并识别需要在模型中改进的关键过程（如放牧-植被-土壤反馈）。",
+      "why_this_journal": "Global Biogeochemical Cycles专注于全球尺度的生物地球化学循环研究，DGVM碳排放模拟的不确定性与敏感性分析属于该期刊核心议题，方法系统性和全球尺度意义是其发表的主要原因（推测）。",
+      "author_profile": {
+        "name": "Jianyong Dong",
+        "institution": "The University of Tokyo",
+        "intro": "Jianyong Dong就职于东京大学。从其历史论文标题来看，其早期研究涉及气溶胶光学特性的时空分异，表明其具备大气环境与空间分析背景，现在转向DGVM碳排放建模。其当前研究与用户关注的DGVM改进方向直接相关，但尚不清楚其是否涉及放牧或草地碳循环模块。",
+        "other_works": [
+          {
+            "title": "The Spatial-Temporal Differentiation of Aerosol Optical Properties and Types in the Beijing–Tianjin–Hebei Region Based on the Ecological Functional Zones",
+            "year": "2022",
+            "journal": "Sustainability",
+            "doi": "10.3390/su141912656"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6817-2026",
+      "title": "Modeling microbial regulatory feedback in organic matter decomposition identifies copiotrophic traits as key drivers of positive priming",
+      "link": "https://doi.org/10.5194/bg-23-6817-2026",
+      "summary": "Modeling microbial regulatory feedback in organic matter decomposition identifies copiotrophic traits as key drivers of positive priming\n                    Firnaaz Ahamed, James C. Stegen, Emily B. Graham, Timothy D. Scheibe, and Hyun-Seob Song\n                        Biogeosciences, 23, 6817–6833, https://doi.org/10.5194/bg-23-6817-2026, 2026\n                        This research examines how labile organic matter influences the breakdown of complex organic matter  (termed priming). Using a new modeling method, the study shows how microbial growth traits and interactions determine whether priming effects are positive or negative. By identifying microbial strategies as critical drivers of decomposition, this work provides a unified framework to improve predictions of nutrient cycling and carbon sequestration across diverse ecosystems.",
+      "journal": "Biogeosciences",
+      "published": "2026-10-05T08:54:59+02:00",
+      "doi": "10.5194/bg-23-6817-2026",
+      "affiliation": "Pacific Northwest National Laboratory (Richland, United States of America); Washington State University (Pullman, United States of America); University of Nebraska–Lincoln (Lincoln, United States of America)",
+      "title_zh": "有机质分解中微生物调控反馈的建模：富营养型微生物性状是正激发效应的关键驱动因素",
+      "relevance_score": 8,
+      "key_conclusion": "通过新建模方法，研究揭示了微生物生长性状和相互作用决定激发效应正负方向，富营养型微生物策略是正激发的关键驱动因子，为预测养分循环和碳固存提供了统一框架。",
+      "relevance_note": "直接关联用户关注的土壤有机质形成与稳定机制、土壤微生物群落结构对生态系统功能的影响，以及碳氮磷循环，建模方法也与生态系统模型改进方向相关。",
+      "related_papers": [
+        {
+          "title": "Data and scripts associated with a manuscript modeling microbial regulation of priming effects",
+          "link": "https://doi.org/10.15485/3029573",
+          "venue": "DOE Lawrence Berkeley National Laboratory (LBNL) Repository",
+          "year": 2026
+        },
+        {
+          "title": "Bridging Microbial Functional Traits With Localized Process Rates at Soil Interfaces",
+          "link": "https://doi.org/10.3389/fmicb.2021.625697",
+          "venue": "Frontiers in Microbiology",
+          "year": 2021
+        },
+        {
+          "title": "Divergent responses of rhizosphere priming effect to N-P fertilization and plant traits in mandarin orange and alfalfa",
+          "link": "https://doi.org/10.3389/fsoil.2026.1822862",
+          "venue": "Frontiers in Soil Science",
+          "year": 2026
+        },
+        {
+          "title": "Herbivore Dung inputs mainly drive copiotrophic bacterial contributions to soil nutrient pool turnover in alpine grasslands",
+          "link": "https://doi.org/10.1007/s00374-025-01959-5",
+          "venue": "Biology and Fertility of Soils",
+          "year": 2025
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6817/2026/bg-23-6817-2026-avatar-web.png",
+      "scientific_question": "易分解有机质的输入如何影响复杂有机质的分解（即激发效应）？微生物的生长性状和种间相互作用如何决定激发效应的正负方向？",
+      "contributions_limitations": "该研究通过新建模方法，揭示了富营养型（copiotrophic）微生物策略是正激发效应的关键驱动因子，提供了一个统一框架来预测不同生态系统中的养分循环和碳固存。这直接关联用户对土壤有机质形成与稳定机制及微生物群落功能（不仅是多样性）的关注。局限性在于这是纯建模研究，缺乏实验验证，且未明确讨论土壤动物或放牧活动对微生物群落结构和激发效应的调控作用。",
+      "follow_up_research": "可将该模型框架扩展到包含大型食草动物影响的场景，例如探究放牧如何通过改变凋落物输入质量和根系分泌物来调控微生物性状组成，进而影响激发效应的方向和强度；也可结合POM与MAOM的分层理论，研究微生物策略差异如何影响不同有机质库的激发响应；此外可在野外放牧梯度实验中验证模型预测。",
+      "next_step_perspective": "该文为用户提供了一个机制性框架，将微生物功能性状与土壤碳动态（激发效应）联系起来。用户可以考虑：在重野化情景下，草食动物如何通过改变凋落物数量和根系分泌物质量，重塑微生物群落的功能性状组成，从而改变激发效应方向，最终影响土壤有机碳的净积累或损失。",
+      "why_this_journal": "Biogeosciences专注于生物地球化学过程的机制研究，该文以建模方法统一解释激发效应的正负方向，具有理论整合性和跨生态系统的预测价值，符合期刊对过程机制和模型创新的偏好（推测）。",
+      "author_profile": {
+        "name": "Firnaaz Ahamed",
+        "institution": "Taylor's University",
+        "intro": "Firnaaz Ahamed就职于Taylor's University。从其历史论文标题来看，其研究方向涵盖微生物代谢建模、反应性溶质运移、机器学习与微生物过程耦合、以及纤维素生物加工等，显示出以数学建模为核心手段研究微生物系统功能的特色。这些研究与用户关注的土壤微生物群落功能对碳循环的影响高度相关，尤其是其建模方法可启发用户思考如何将微生物功能性状纳入放牧-土壤碳反馈的模型框架中。",
+        "other_works": [
+          {
+            "title": "Coupling Flux Balance Analysis with Reactive Transport Modeling through Machine Learning for Rapid and Stable Simulation of Microbial Metabolic Switching",
+            "year": "2023",
+            "journal": null,
+            "doi": "10.1101/2023.02.06.527371"
+          },
+          {
+            "title": "Knowledge-informed data-driven modeling for sparse identification of governing equations for microbial inactivation processes in food",
+            "year": "2022",
+            "journal": "Frontiers in Food Science and Technology",
+            "doi": "10.3389/frfst.2022.996399"
+          },
+          {
+            "title": "Morphological control of cellulose nanocrystals via sulfuric acid hydrolysis based on sustainability considerations: An overview of the governing factors and potential challenges",
+            "year": "2022",
+            "journal": "Journal of Environmental Chemical Engineering",
+            "doi": "10.1016/j.jece.2022.108145"
+          },
+          {
+            "title": "It Takes a Village: Using a Crowdsourced Approach to Investigate Organic Matter Composition in Global Rivers Through the Lens of Ecological Theory",
+            "year": "2022",
+            "journal": "Frontiers in Water",
+            "doi": "10.3389/frwa.2022.870453"
+          },
+          {
+            "title": "Effect of magnetic field on nano-magnetite composite exhibits in ion-adsorption",
+            "year": "2021",
+            "journal": "Science of The Total Environment",
+            "doi": "10.1016/j.scitotenv.2021.146337"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03180-5",
+      "title": "Unifying bright spots research for people and nature",
+      "link": "https://www.nature.com/articles/s41559-026-03180-5",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 05 October 2026; doi:10.1038/s41559-026-03180-5This Review presents a typology for how to identify and interpret bright spots, or positive deviance, in conservation and sustainability science—cases where unexpectedly positive outcomes occur despite local constraints.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-10-05T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03180-5",
+      "affiliation": null,
+      "title_zh": "统一为人与自然的亮点研究",
+      "relevance_score": 6,
+      "key_conclusion": "本文提出了一个分类体系，用于识别和解释保护与可持续性科学中的'亮点'（即积极偏差）——即在局部约束下仍出现意外积极结果的案例。",
+      "relevance_note": "综述类文章，涉及生态系统功能恢复与保护成效评估，与用户关注的生态系统功能恢复和基于自然的解决方案有一定关联，但未直接涉及土壤碳或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Bright spots and barren grounds: temperate reef states shape fish contributions to nature and people after marine heatwaves",
+          "link": "https://doi.org/10.21203/rs.3.rs-9898845/v1",
+          "venue": "Research Square",
+          "year": 2026
+        },
+        {
+          "title": "Bright spots for advancing ecological understanding and conservation decision‐making",
+          "link": "https://doi.org/10.1111/cobi.70109",
+          "venue": "Conservation Biology",
+          "year": 2025
+        },
+        {
+          "title": "Seagrass ecosystems of the Pacific Island Countries and Territories: A global bright spot",
+          "link": "https://doi.org/10.1016/j.marpolbul.2021.112308",
+          "venue": "Marine Pollution Bulletin",
+          "year": 2021
+        },
+        {
+          "title": "Developing multiscale and integrative nature–people scenarios using the Nature Futures Framework",
+          "link": "https://doi.org/10.1002/pan3.10146",
+          "venue": "People and Nature",
+          "year": 2020
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03180-5/MediaObjects/41559_2026_3180_Fig1_HTML.png",
+      "scientific_question": "如何在保护和可持续性科学中系统地识别和解释'亮点'（即积极偏差）——那些在局部约束下仍出现意外积极结果的案例？本文试图为此提供一个统一的分类框架。",
+      "contributions_limitations": "作为一篇Review，本文提出了'亮点'研究的分类体系，有助于整合分散的积极偏差案例，对保护生物学和可持续性科学具有概念整合价值。用户对综述类文章偏好较高分数，且该文涉及人类-自然系统的正向结果识别，与重野化所追求的生态系统功能恢复有概念关联。局限性在于摘要信息有限，不清楚是否涉及具体的碳循环或大型食草动物案例。基于现有信息推测，建议查看原文。",
+      "follow_up_research": "可将'亮点'框架应用于重野化案例研究，识别在哪些条件下大型食草动物重新引入能产生超出预期的土壤碳固存或生态系统功能恢复效果；也可探讨'亮点'方法是否能帮助识别放牧管理中的积极偏差案例，为其他地点的重野化实践提供参考。",
+      "next_step_perspective": "该文为用户提供了一个方法论视角：在研究重野化对土壤有机碳的影响时，除了关注平均效应，还可以系统识别'亮点'案例——即在某些条件下重野化产生了超出预期的碳汇效果，从而揭示成功的关键条件。这种积极偏差视角有助于从案例研究中提炼可推广的管理经验。",
+      "why_this_journal": "Nature Ecology & Evolution偏好具有跨学科整合意义和概念创新性的综述文章。'亮点'研究分类体系的提出填补了保护与可持续性科学中的一个概念空白，具有广泛的跨学科应用前景，这是其能发表在该期刊的主要原因（推测）。",
+      "author_profile": {
+        "name": "Bing Lin",
+        "institution": "The University of Sydney",
+        "intro": "Bing Lin就职于悉尼大学。从其历史论文标题来看，其研究涉及珊瑚礁可持续旅游、海洋观赏鱼贸易威胁、埃塞俄比亚野生狒狒的冲突后行为以及斑马杂交个体的微生物组组成，显示出在保护生物学、人类-野生动物相互作用和微生物生态学方面的广泛兴趣。其微生物组研究与用户关注的植物-微生物-动物互作有潜在关联，而其保护科学背景可为重野化的社会-生态维度提供视角。",
+        "other_works": [
+          {
+            "title": "SUMMER READING 2026",
+            "year": "2026",
+            "journal": "Science",
+            "doi": "10.1126/science.aei7768"
+          },
+          {
+            "title": "Causes and Correlates of Unsustainable Scuba Diving Tourism on Coral Reefs",
+            "year": "2026",
+            "journal": "Conservation Letters",
+            "doi": "10.1111/con4.70055"
+          },
+          {
+            "title": "Extent of threats to marine fish from the online aquarium trade in the United States",
+            "year": "2026",
+            "journal": "Conservation Biology",
+            "doi": "10.1111/cobi.70155"
+          },
+          {
+            "title": "SUMMER READING 2025",
+            "year": "2025",
+            "journal": "Science",
+            "doi": "10.1126/science.adz0140"
+          },
+          {
+            "title": "Post-Conflict Behaviors of Wild Gelada Monkeys (Theropithecus gelada) at Guassa, Ethiopia",
+            "year": "2024",
+            "journal": "International Journal of Primatology",
+            "doi": "10.1007/s10764-024-00438-2"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03188-x",
+      "title": "Interaction matrices as unifying tools for navigating ecological complexity",
+      "link": "https://www.nature.com/articles/s41559-026-03188-x",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 05 October 2026; doi:10.1038/s41559-026-03188-xThe interaction matrix is a widely used tool in community ecology. In this Review, the authors outline this approach and discuss how to tackle its challenges.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-10-05T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03188-x",
+      "affiliation": null,
+      "title_zh": "交互矩阵：驾驭生态复杂性的统一工具",
+      "relevance_score": 6,
+      "key_conclusion": "交互矩阵是群落生态学中广泛使用的工具，本文综述了该方法并讨论了如何应对其挑战。",
+      "relevance_note": "交互矩阵方法可应用于食物网复杂性、植物-动物互作及生物间互作网络研究，与用户关注的食物网复杂性和跨界面互作关系有方法论上的关联。",
+      "related_papers": [
+        {
+          "title": "Cophylogenetic Methods to Untangle the Evolutionary History of Ecological Interactions",
+          "link": "https://doi.org/10.1146/annurev-ecolsys-102320-112823",
+          "venue": "Annual Review of Ecology Evolution and Systematics",
+          "year": 2022
+        },
+        {
+          "title": "Navigating the Complexity of Bilingual Aphasia: Current Insights and Future Directions",
+          "link": "https://doi.org/10.3390/brainsci15090989",
+          "venue": "Brain Sciences",
+          "year": 2025
+        },
+        {
+          "title": "Navigating the Shadows",
+          "link": "https://doi.org/10.1201/9781003530466-16",
+          "venue": "CRC Press eBooks",
+          "year": 2025
+        },
+        {
+          "title": "Complex systems in ecology: a guided tour with large Lotka–Volterra models and random matrices",
+          "link": "https://doi.org/10.1098/rspa.2023.0284",
+          "venue": "Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences",
+          "year": 2024
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03188-x/MediaObjects/41559_2026_3188_Fig1_HTML.png",
+      "scientific_question": "交互矩阵作为群落生态学的通用工具，如何在不同生态系统中统一应用？该方法面临哪些挑战，又如何应对？",
+      "contributions_limitations": "该综述系统梳理了交互矩阵方法在群落生态学中的应用，并讨论了其挑战与应对策略。用户对食物网复杂性、生物间互作网络（植物-微生物、植物-动物、微生物-动物）以及捕食者-猎物关系均有兴趣，交互矩阵正是刻画这些互作网络的通用数学工具，因此该文与用户多个关注方向相关。局限性在于摘要信息较少，无法判断是否涉及具体的碳循环或大型食草动物案例。基于现有信息推测，建议查看原文。",
+      "follow_up_research": "可将交互矩阵方法应用于重野化系统中的多营养级互作网络，例如量化大型食草动物对植物-土壤微生物互作矩阵的影响；也可利用该方法研究放牧强度如何改变草地食物网中的交互强度矩阵，进而影响生态系统碳循环；此外可探索将交互矩阵与生态系统碳通量模型耦合的可能性。",
+      "next_step_perspective": "该文为用户提供了一个方法论工具：交互矩阵可以用来系统刻画重野化背景下植物-食草动物-土壤微生物之间的多向互作关系。用户可以考虑用交互矩阵来量化放牧强度如何改变这些互作的方向和强度，并将其与土壤有机碳的动态联系起来，从而在食物网复杂性与生态系统功能之间建立定量桥梁。",
+      "why_this_journal": "Nature Ecology & Evolution倾向于发表具有方法论整合意义的综述。交互矩阵作为群落生态学的核心工具，其跨系统统一应用的综述具有广泛的方法论价值，符合该期刊对概念整合和跨领域适用性的偏好（推测）。",
+      "author_profile": {
+        "name": "J. Christopher D. Terry",
+        "institution": "University of Oxford",
+        "intro": "J. Christopher D. Terry就职于牛津大学。从其历史论文标题来看，其研究聚焦于生态网络稳定性、高阶交互作用、宿主-寄生蜂系统对温度升高的脆弱性以及共存理论对灭绝的预测，显示出在理论生态学和群落生态学建模方面的深厚积累。其关于交互矩阵和生态网络稳定性的研究与用户关注的食物网复杂性和BEF关系直接相关，其方法可启发用户思考如何量化重野化系统中多营养级互作的稳定性及其对碳循环的影响。",
+        "other_works": [
+          {
+            "title": "Interaction matrices as unifying tools for navigating ecological complexity",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03188-x"
+          },
+          {
+            "title": "The impact of structured higher-order interactions on ecological network stability",
+            "year": "2025",
+            "journal": "Theoretical Ecology",
+            "doi": "10.1007/s12080-025-00603-0"
+          },
+          {
+            "title": "Transgenerational effects increase the vulnerability of a host–parasitoid system to rising temperatures",
+            "year": "2025",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70112"
+          },
+          {
+            "title": "Interaction Matrices as Unifying Tools for Navigating Ecological Complexity",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.32942/X2V071"
+          },
+          {
+            "title": "Unfeasible expectations: the sensitivity of structural stability measures favours simpler metrics for empirical questions",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.1101/2025.04.24.650476"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71131",
+      "title": "Mineral Stabilization of Soil Organic Sulfur at the Continental Scale",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71131?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-10-04T23:48:36-07:00",
+      "doi": "10.1111/gcb.71131",
+      "affiliation": "State Key Laboratory of Lake and Watershed Science for Water Security Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences  Nanjing Jiangsu China; Department of Ecosystem Science and Management University of Wyoming  Laramie Wyoming USA; Department of Soil and Crop Science Colorado State University  Fort Collins Colorado USA",
+      "title_zh": "大陆尺度上土壤有机硫的矿物稳定化",
+      "relevance_score": 6,
+      "key_conclusion": "研究揭示了大陆尺度上土壤有机硫通过矿物结合实现稳定化的机制，类似于有机碳的矿物保护机制。",
+      "relevance_note": "与用户关注的土壤有机质形成与稳定机制（POM/MAOM形成路径）及C-N-P化学计量与养分循环直接相关，矿物稳定化机制可类比于有机碳的矿物结合态保护。",
+      "related_papers": [
+        {
+          "title": "Sulfur and soil data associated with Zhang et al., Mineral stabilization of soil organic sulfur at the continental scale, Global Change Biology, 2026",
+          "link": "https://doi.org/10.6084/m9.figshare.33931489",
+          "venue": "Figshare",
+          "year": 2026
+        },
+        {
+          "title": "Sulfur and soil data associated with Zhang et al., Mineral stabilization of soil organic sulfur at the continental scale, Global Change Biology, 2026",
+          "link": "https://doi.org/10.6084/m9.figshare.33931489.v1",
+          "venue": "Figshare",
+          "year": 2026
+        },
+        {
+          "title": "Mineral association drives divergent chemical trajectories of organic sulfur during dryland soil development",
+          "link": "https://doi.org/10.31223/x52z2f",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "DECLINE IN ORGANIC MATTER IN MINERAL SOILS",
+          "link": "https://doi.org/10.2788/488054",
+          "venue": "Research at the University of Copenhagen (University of Copenhagen)",
+          "year": 2015
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在大陆尺度上，土壤有机硫是否通过与矿物的结合作用实现稳定化，其机制是否类似于有机碳的矿物保护机制？",
+      "contributions_limitations": "该研究将矿物保护理论从有机碳拓展到有机硫，提出了跨元素类比的新视角，对理解土壤有机质多元素耦合稳定化具有重要意义。局限性在于仅基于现有摘要信息推测，具体采样密度、矿物类型分辨率和大陆尺度的代表性尚不明确，建议查看原文获取方法细节。",
+      "follow_up_research": "可进一步探究矿物结合态有机硫与有机碳在相同土壤样品中的耦合关系，检验二者是否共享相同的矿物结合位点及竞争机制；也可在重野化/放牧管理梯度下考察有机硫稳定化对管理措施的响应。",
+      "next_step_perspective": "该研究提示在评估重野化对土壤有机质的影响时，不应仅关注碳，有机硫的矿物稳定化可能受到相同矿物表面的控制，放牧引起的矿物风化或有机质输入变化可能同时影响C和S的长期固存。方法上可借鉴其大陆尺度采样与矿物学表征结合的策略。",
+      "why_this_journal": "Global Change Biology致力于发表全球变化背景下生物地球化学循环的宏观尺度研究，该文将矿物保护机制从碳拓展到硫，具有概念创新性和跨元素意义，符合期刊对全球尺度生物地球化学过程研究的定位（推测）。",
+      "author_profile": {
+        "name": "Zhuojun Zhang",
+        "institution": null,
+        "intro": "Zhuojun Zhang，从历史论文标题看主要研究方向涵盖土壤化学风化、元素地球化学循环（锂同位素、锰氧化物、铅生物可给性）及农业面源污染，工作跨越大陆尺度到风化剖面尺度。其风化过程与元素循环的研究积累与用户关注的土壤有机质形成与稳定机制有一定关联，尤其在矿物-有机质相互作用方面可提供地球化学视角。",
+        "other_works": [
+          {
+            "title": "Agricultural drainage networks as non-point phosphorus pollution control systems: scale-dependent retention and primary drivers",
+            "year": "2026",
+            "journal": "Process Safety and Environmental Protection",
+            "doi": "10.1016/j.psep.2026.109698"
+          },
+          {
+            "title": "Mineral Stabilization of Soil Organic Sulfur at the Continental Scale",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71131"
+          },
+          {
+            "title": "Spatial variability of lithium isotopes in high-erosion sedimentary basins: Insights into the sensitivity of weathering processes",
+            "year": "2026",
+            "journal": "Geochimica et Cosmochimica Acta",
+            "doi": "10.1016/j.gca.2026.02.027"
+          },
+          {
+            "title": "Manganese oxidation states and availability in forest weathering profiles of contrasting climate",
+            "year": "2025",
+            "journal": "Geochimica et Cosmochimica Acta",
+            "doi": "10.1016/j.gca.2024.10.006"
+          },
+          {
+            "title": "Influence of Monsoon Climate on Chemical Weathering of Granitic Regoliths",
+            "year": "2022",
+            "journal": "Global Biogeochemical Cycles",
+            "doi": "10.1029/2022GB007362"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1029/2026JG009733",
+      "title": "Causal Inference Reveals Temperature Dominated the Vegetation Greening on the Qinghai‐Tibetan Plateau Over the Past Two Decades",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009733?af=R",
+      "summary": "Journal of Geophysical Research: Biogeosciences, Volume 131, Issue 10, October 2026.",
+      "journal": "JGR Biogeosciences",
+      "published": "2026-10-04T23:33:37-07:00",
+      "doi": "10.1029/2026JG009733",
+      "affiliation": "Institute of International Rivers and Eco‐Security Yunnan University  Kunming China; School of Engineering Yunnan University  Kunming China; School of Earth Sciences Yunnan University  Kunming China",
+      "title_zh": "因果推断揭示过去二十年温度主导了青藏高原植被绿化",
+      "relevance_score": 5,
+      "key_conclusion": "利用因果推断方法，研究发现温度是过去二十年青藏高原植被绿化的主导驱动因子。",
+      "relevance_note": "涉及植被动态与气候驱动因素，与用户关注的陆地生态系统碳循环和植被-土壤反馈有间接关联，但研究区域为青藏高原而非欧洲，且未涉及碳循环或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Causal inference reveals temperature dominated vegetation greening on the Qinghai-Tibetan Plateau over the past two decades",
+          "link": "https://doi.org/10.2139/ssrn.5704765",
+          "venue": "SSRN Electronic Journal",
+          "year": 2025
+        },
+        {
+          "title": "Spatial patterns and drivers of temperature sensitivity of winter evergreen vegetation on the Tibetan Plateau",
+          "link": "https://doi.org/10.3389/fpls.2026.1891108",
+          "venue": "Frontiers in Plant Science",
+          "year": 2026
+        },
+        {
+          "title": "Evolutionary origin of species diversity on the Qinghai–Tibet Plateau",
+          "link": "https://doi.org/10.1111/jse.12809",
+          "venue": "Journal of Systematics and Evolution",
+          "year": 2021
+        },
+        {
+          "title": "A Causal Remote Sensing Framework to Disentangle Climate and Anthropogenic Drivers of Grassland Recovery on the Qinghai–Tibet Plateau",
+          "link": "https://doi.org/10.3390/rs18030504",
+          "venue": "Remote Sensing",
+          "year": 2026
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "过去二十年青藏高原植被绿化的主导驱动因子是什么？温度和降水等因素中哪个起因果性主导作用？",
+      "contributions_limitations": "该研究创新性地将因果推断方法引入植被动态归因分析，超越传统相关性分析，为区分温度与降水的因果效应提供了更严格的统计框架。局限性在于因果推断依赖于变量选择和张量的合理性，若遗漏重要混杂因子（如CO2施肥、放牧压力、氮沉降）可能影响结论，且摘要未说明是否考虑了土地利用变化，建议查看原文。",
+      "follow_up_research": "可将因果推断框架扩展到放牧强度或重野化措施对植被-土壤碳循环的因果效应评估中，也可在其他大型食草动物管理区域检验温度与放牧的交互因果效应。",
+      "next_step_perspective": "因果推断方法可直接迁移到用户的核心课题——例如评估重野化/放牧强度变化对土壤有机碳的因果效应，而非仅依赖相关性或模型模拟。青藏高原作为高寒放牧生态系统，其植被对温度的敏感性也提示在重野化评估中需控制气候变化的混杂效应。",
+      "why_this_journal": "JGR Biogeosciences重视生物地球化学循环与生态系统过程的定量研究，该文将因果推断这一新兴方法应用于区域植被动态归因，具有方法学创新性和区域尺度意义（推测）。",
+      "author_profile": {
+        "name": "Tingping Wei",
+        "institution": null,
+        "intro": "Tingping Wei，从历史论文标题看主要研究方向为遥感驱动的植被动态监测与归因分析，尤其聚焦青藏高原植被绿化驱动因子和地表水动态，方法上擅长因果推断与多源遥感数据融合。其植被动态监测与因果归因方法对用户评估重野化区域植被恢复效果及放牧-植被反馈具有方法学参考价值。",
+        "other_works": [
+          {
+            "title": "Causal Inference Reveals Temperature Dominated the Vegetation Greening on the Qinghai‐Tibetan Plateau Over the Past Two Decades",
+            "year": "2026",
+            "journal": "Journal of Geophysical Research: Biogeosciences",
+            "doi": "10.1029/2026JG009733"
+          },
+          {
+            "title": "Integrated Sentinel-1/2 Imagery Reveals Interconversion Between Permanent and Seasonal Water Dominates the Spatiotemporal Dynamics of Surface Water Area in the Central Yunnan Plateau",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.22541/essoar.175130088.89304390/v2"
+          },
+          {
+            "title": "Causal Inference Reveals Temperature as the Dominant Driver of Vegetation Greening on the Qinghai-Tibetan Plateau over the Past Two Decades",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.22541/essoar.175767550.03906012/v1"
+          },
+          {
+            "title": "Causal Inference Reveals Temperature as the Dominant Driver of Vegetation Greening on the Qinghai-Tibetan Plateau over the Past Two Decades",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.22541/essoar.175537241.17726682/v1"
+          },
+          {
+            "title": "Integrated Sentinel-1/2 Imagery Reveals Interconversion Between Permanent and Seasonal Water Dominates the Spatiotemporal Dynamics of Surface Water Area in the Central Yunnan Plateau",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.22541/essoar.175130088.89304390/v1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/gcb.71146",
+      "title": "From Reactive Remediation to Predictive Prevention: A Systems Synthesis of Global Soil Salinization and Sodicity",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.71146?af=R",
+      "summary": "Global Change Biology, Volume 32, Issue 10, October 2026.",
+      "journal": "Global Change Biology",
+      "published": "2026-10-04T23:58:27-07:00",
+      "doi": "10.1111/gcb.71146",
+      "affiliation": "Syngenta, Soil Health Research  Basel Switzerland; Department of Soil and Crop Sciences Colorado State University  Fort Collins Colorado USA; Department of Plant Pathology, Entomology &amp; Microbiology Iowa State University  Ames Iowa USA",
+      "title_zh": "从被动修复到预测性预防：全球土壤盐渍化与钠质化的系统综述",
+      "relevance_score": 4,
+      "key_conclusion": "本文对全球土壤盐渍化和钠质化进行了系统综述，提出从被动修复转向预测性预防的框架。",
+      "relevance_note": "涉及土壤退化与土壤健康，与用户关注的土壤有机质和生态系统功能恢复有间接关联，但主题聚焦于盐渍化而非碳循环或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Contaminant containment for sustainable remediation of persistent contaminants in soil and groundwater",
+          "link": "https://doi.org/10.1016/j.jhazmat.2023.131575",
+          "venue": "Journal of Hazardous Materials",
+          "year": 2023
+        },
+        {
+          "title": "Contributions of Beneficial Microorganisms in Soil Remediation and Quality Improvement of Medicinal Plants",
+          "link": "https://doi.org/10.3390/plants11233200",
+          "venue": "Plants",
+          "year": 2022
+        },
+        {
+          "title": "Integrated Strategies for Saline‐Alkali Soil Remediation and the Development of Salt‐Alkali‐Tolerant Crops",
+          "link": "https://doi.org/10.1111/pce.70913",
+          "venue": "Plant Cell & Environment",
+          "year": 2026
+        },
+        {
+          "title": "Soil salinization in drylands: Measure, monitor, and manage",
+          "link": "https://doi.org/10.1016/j.ecolind.2025.113608",
+          "venue": "Ecological Indicators",
+          "year": 2025
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何从被动修复转向预测性预防来应对全球土壤盐渍化和钠质化？现有知识能否支撑一个系统性的预测预防框架？",
+      "contributions_limitations": "这是一篇系统综述，提出了从反应性修复到预测性预防的范式转变框架，对全球土壤盐渍化研究具有全局性指导意义。局限性在于综述本身不提供新实验数据，其提出的框架在实践中的可操作性和区域适用性有待验证；摘要信息有限，具体覆盖范围和案例深度建议查看原文。",
+      "follow_up_research": "可在重野化或放牧管理背景下检验土壤盐渍化预防框架的适用性，特别是大型食草动物是否通过改变植被覆盖和水分平衡影响盐分积累；也可探索盐渍化与土壤有机碳稳定化之间的交互作用。",
+      "next_step_perspective": "该综述的系统思维框架提示用户在评估重野化对土壤有机碳的影响时，需将土壤盐渍化/钠质化作为潜在调节因子纳入考量，尤其在半干旱放牧系统中。此外，综述类文章的组织方式（从机制到预测框架）可为用户撰写重野化综述提供结构参考。",
+      "why_this_journal": "Global Change Biology重视全球变化背景下土壤退化问题的综合性研究，该综述以系统视角整合全球盐渍化知识并提出预测预防新范式，具有跨区域和跨学科意义（推测）。",
+      "author_profile": {
+        "name": "Matthew D. Wallenstein",
+        "institution": null,
+        "intro": "Matthew D. Wallenstein，从历史论文标题看主要研究方向为土壤微生物生态学与土壤有机质动态，尤其关注微生物碳利用效率、土壤激发效应和农业生态系统管理，近年也涉及土壤改良剂和微生物功能基因对气候变化的响应。其土壤有机质分组（POM/MAOM）和微生物碳循环研究与用户关注的土壤有机质形成与稳定机制高度相关。",
+        "other_works": [
+          {
+            "title": "From Reactive Remediation to Predictive Prevention: A Systems Synthesis of Global Soil Salinization and Sodicity",
+            "year": "2026",
+            "journal": "Global Change Biology",
+            "doi": "10.1111/gcb.71146"
+          },
+          {
+            "title": "Distribution of soil organic matter fractions are altered with soil priming",
+            "year": "2022",
+            "journal": "Soil Biology and Biochemistry",
+            "doi": "10.1016/j.soilbio.2021.108494"
+          },
+          {
+            "title": "From Factory to Field: Effects of a Novel Soil Amendment Derived From Cheese Production on Wheat and Corn Production",
+            "year": "2020",
+            "journal": "Frontiers in Sustainable Food Systems",
+            "doi": "10.3389/fsufs.2019.00127"
+          },
+          {
+            "title": "Microbial functional genes commonly respond to elevated carbon dioxide",
+            "year": "2020",
+            "journal": "Environment International",
+            "doi": "10.1016/j.envint.2020.106068"
+          },
+          {
+            "title": "Precision biochar and inoculum applications shift bacterial community structure and increase specific nutrient availability and maize yield",
+            "year": "2020",
+            "journal": "Applied Soil Ecology",
+            "doi": "10.1016/j.apsoil.2020.103541"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/1365-2656.70351",
+      "title": "Contextually conspicuous species are more likely to be venomous: Habitat‐dependent aposematic colouration found throughout snakes",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70351?af=R",
+      "summary": "Journal of Animal Ecology, EarlyView.",
+      "journal": "Journal of Animal Ecology",
+      "published": "2026-10-04T21:01:01-07:00",
+      "doi": "10.1111/1365-2656.70351",
+      "affiliation": "Zoology Department, School of Natural Sciences University of Galway  Galway Ireland",
+      "title_zh": "情境显著性物种更可能具有毒性：蛇类中普遍存在的栖息地依赖性警戒色",
+      "relevance_score": 4,
+      "key_conclusion": "研究发现蛇类中警戒色（aposematic colouration）具有栖息地依赖性，在特定情境下更为显著的物种更可能演化出毒性。",
+      "relevance_note": "涉及捕食者-猎物关系中的性状介导效应（警戒色作为防御性状），与用户关注的捕食者-猎物关系及性状介导效应有概念关联，但研究对象为蛇类而非大型食草动物或土壤碳循环，关联度有限。",
+      "related_papers": [
+        {
+          "title": "Spatial and temporal dynamics of Batesian mimicry between Adelpha californica and Limenitis lorquini",
+          "link": "",
+          "venue": "Scholarly Commons (University of the Pacific)",
+          "year": 2018
+        },
+        {
+          "title": "The evolution and ecology of multiple antipredator defences",
+          "link": "https://doi.org/10.1111/jeb.14192",
+          "venue": "Journal of Evolutionary Biology",
+          "year": 2023
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "蛇类中警戒色是否具有栖息地依赖性？在特定情境下更为显著的物种是否更可能演化出毒性（venomous）？",
+      "contributions_limitations": "该研究在全蛇类尺度上检验了栖息地依赖的警戒色假说，将视觉生态学与毒性演化联系起来，具有跨物种比较的宏观演化视角。局限性在于仅基于摘要信息推测，毒性与警戒色之间的因果关系（而非共同演化关联）难以从比较分析中确定，且栖息地分类的粒度可能影响结论，建议查看原文。",
+      "follow_up_research": "可进一步探究捕食者视觉系统特征如何驱动警戒色的栖息地依赖性演化，以及人类活动导致栖息地改变时警戒色-毒性关系是否会被打破；也可将类似框架应用于其他类群的捕食者-猎物信号互动研究。",
+      "next_step_perspective": "该研究体现了性状介导的捕食者-猎物关系（警戒色-毒性），与用户关注的捕食者-猎物关系及性状介导效应直接相关，尤其启发思考人类活动改变栖息地后如何重塑这类信号互动。虽然研究对象为蛇类，但其栖息地依赖性框架可类比到大型食草动物的反捕食策略与景观变化的关系。",
+      "why_this_journal": "Journal of Animal Ecology聚焦动物生态学和演化生态学，该文在全蛇类尺度上检验栖息地依赖警戒色假说，具有宏观演化比较的广度和行为生态学意义（推测）。",
+      "author_profile": {
+        "name": "Amy Duclaux",
+        "institution": "National University of Ireland Galway",
+        "intro": "Amy Duclaux，就职于National University of Ireland Galway，从现有论文标题看主要研究方向为蛇类的警戒色演化与毒性关系，结合栖息地特征进行跨物种比较分析。其研究与用户关注的捕食者-猎物关系及性状介导效应有一定关联，但主要聚焦爬行动物视觉信号与防御策略，与用户核心方向（大型食草动物重野化与碳循环）距离较远。",
+        "other_works": [
+          {
+            "title": "Contextually conspicuous species are more likely to be venomous: Habitat‐dependent aposematic colouration found throughout snakes",
+            "year": "2026",
+            "journal": "Journal of Animal Ecology",
+            "doi": "10.1111/1365-2656.70351"
+          }
+        ]
+      }
+    },
+    {
+      "id": "10.1111/2041-210x.70414",
+      "title": "Future of edge AI in biodiversity monitoring",
+      "link": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70414?af=R",
+      "summary": "Methods in Ecology and Evolution, EarlyView.",
+      "journal": "Methods in Ecology and Evolution",
+      "published": "2026-10-05T00:41:53-07:00",
+      "doi": "10.1111/2041-210x.70414",
+      "affiliation": "The Bartlett Centre for Advanced Spatial Analysis, Faculty of the Built Environment University College London  London UK; Centre for Biodiversity and Environment Research, Department of Genetics, Evolution and Environment University College London  London UK",
+      "title_zh": "边缘AI在生物多样性监测中的未来",
+      "relevance_score": 4,
+      "key_conclusion": "本文探讨了边缘人工智能技术在生物多样性监测中的应用前景与发展方向。",
+      "relevance_note": "涉及生物多样性监测方法学，与用户关注的生物多样性-生态系统功能关系有间接关联，但文章聚焦于技术方法而非生态学机制，与核心研究方向距离较远。",
+      "related_papers": [
+        {
+          "title": "Dataset for \"Future of Edge AI in biodiversity monitoring\". Review Analysis of 82 Publications 2017-2025",
+          "link": "https://doi.org/10.5281/zenodo.22678162",
+          "venue": "arXiv (Cornell University)",
+          "year": 2025
+        },
+        {
+          "title": "AI-Based Biodiversity Monitoring in Agricultural Landscapes",
+          "link": "https://doi.org/10.64137/3108088x/ijaes-v2i2p102",
+          "venue": "International Journal of Agriculture and Environmental Sciences",
+          "year": 2026
+        },
+        {
+          "title": "Explainable AI for Biodiversity Monitoring and Ecological Image Analysis",
+          "link": "https://doi.org/10.48550/arxiv.2606.27667",
+          "venue": "arXiv (Cornell University)",
+          "year": 2026
+        },
+        {
+          "title": "Dot-Flik: A Scalable Edge AI Architecture for Distributed Insect Monitoring",
+          "link": "https://doi.org/10.48550/arxiv.2606.26121",
+          "venue": "arXiv (Cornell University)",
+          "year": 2026
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "边缘人工智能（edge AI）技术在生物多样性监测中的应用现状、前景与挑战是什么？基于现有信息推测，文章可能探讨如何在野外部署低功耗、低延迟的AI模型以实现实时物种识别与生态监测。",
+      "contributions_limitations": "文章可能系统梳理了edge AI在生物多样性监测中的技术路线（如生物声学、图像识别）及其相对于云端方案在实时性、隐私和功耗上的优势，并展望了未来发展方向。局限性在于：基于现有信息推测，该文可能偏向技术综述而缺乏生态学实证数据，对监测结果如何转化为生态保护决策的讨论可能有限；此外，摘要信息严重不足，难以判断其是否涵盖AI模型精度验证等关键问题。",
+      "follow_up_research": "可将edge AI监测技术与大型食草动物的行为及分布监测相结合，例如利用声学或图像AI追踪重野化区域中大型草食动物的活动强度，进而关联其对土壤碳的影响。此外，可探索如何将AI实时监测数据接入生态系统模型（如DGVM）以改进放牧压力的动态模拟。",
+      "next_step_perspective": "这篇文章为用户提供了一种潜在的方法学工具：若用户需要在重野化实验样地中长时间、大范围监测大型食草动物的活动，edge AI可以降低数据传输和人力成本，从而提高放牧强度数据的时空分辨率。用户可关注该技术能否与土壤碳通量或植被遥感数据实现多源融合，这将为放牧-土壤碳反馈研究提供更精细的驱动变量。",
+      "why_this_journal": "Methods in Ecology and Evolution专注于生态学与演化生物学中的新方法和技术工具，edge AI在生物多样性监测中的应用符合该期刊对方法创新的定位。推测该文因技术前沿性和跨学科（AI+生态监测）意义而被接收。",
+      "author_profile": {
+        "name": "Aude Vuilliomenet",
+        "institution": "University College London",
+        "intro": "Aude Vuilliomenet就职于University College London，从其发表记录（acoupi: An open-source Python framework for deploying bioacoustic AI models on edge devices）来看，其研究聚焦于边缘计算与生物声学AI工具的开发与部署。这些工作与用户的研究方向在方法层面存在关联：用户若需在野外重野化样地中开展长期生物声学监测（如记录大型食草动物活动），该作者的工具和框架可能提供可直接采用的技术方案。",
+        "other_works": [
+          {
+            "title": "Future of edge AI in biodiversity monitoring",
+            "year": "2026",
+            "journal": "Methods in Ecology and Evolution",
+            "doi": "10.1111/2041-210x.70414"
+          },
+          {
+            "title": "acoupi: An open‐source Python framework for deploying bioacoustic AI models on edge devices",
+            "year": "2026",
+            "journal": "Methods in Ecology and Evolution",
+            "doi": "10.1111/2041-210x.70208"
+          }
+        ]
+      }
+    }
+  ]
 }
