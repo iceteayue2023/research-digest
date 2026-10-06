@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-06T05:38:23.537998+00:00",
-  "count": 3,
+  "generated_at": "2026-10-06T12:29:36.385396+00:00",
+  "count": 6,
   "posts": [
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Geoscience",
+      "text": "Article: Warming effect of black carbon depends strongly on its surrounding particulate matter and coating\nwww.nature.com/articles/s41...",
+      "created_at": "2026-10-06T09:13:32.844Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mx73ouglz223",
+      "external_title": "Warming potential of atmospheric black carbon modulated by particulate matter - Nature Geoscience",
+      "external_description": "Layers of particulate matter that accumulate on black carbon can boost warming by raising top-of-atmosphere forcing, with biomass-burning particles two to three times more impactful than urban ones, b...",
+      "external_uri": "https://www.nature.com/articles/s41561-026-02068-0",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreibuknawjplb3bo6agqtc54bmdipnajcvyvz57qgwcayocx4vxjzey"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Analysing a global database of migration timing for 549 bird species, the authors show that migration has advanced by >13 days since 1970 and that this has been beneficial in terms of abundance only in the pre-breeding migratory period 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-10-06T08:25:55.864Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mx6yzpshis2h",
+      "external_title": "Avian migration timing advances linked to season-dependent population benefits - Nature Ecology & Evolution",
+      "external_description": "Analysing a global database of migration timing for 549 bird species together with a full annual cycle theoretical model, the authors show that migration has advanced by &gt;13 days since 1970 and tha...",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03198-9",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifeamy6zxmehe7i7tvtbzsp4es6ihbkpa6y62wqga5biwjuarpyae"
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -19,6 +41,17 @@
       "text": "Read highlights in this week’s issue of PNAS: We explore ground-edged stone tools in Neolithic North China, examine global carbon benefits of US irrigation, and analyze the limits of evolutionary rescue in black-browed albatrosses. https://ow.ly/VZ6Z50ZUzBb",
       "created_at": "2026-10-05T19:00:33.970238427Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3mx5lznblvh2d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Chris Terry",
+      "text": "New Review out today in @natecoevo.nature.com with @callejas.eurosky.social, @andreatabi.bsky.social and Virginia Domínguez-García, where we take a critical look at the role interaction matrices play within community ecology. \nSharing link: rdcu.be/bzD2oYUVKYMa... and short thread: (1/n)",
+      "created_at": "2026-10-05T16:26:46.809Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mx5dgmqrfs2g",
       "external_title": null,
       "external_description": null,
       "external_uri": null,

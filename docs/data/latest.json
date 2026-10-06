@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T05:38:23.537307+00:00",
-  "count": 1,
+  "generated_at": "2026-10-06T12:29:36.384379+00:00",
+  "count": 2,
   "articles": [
     {
       "id": "https://doi.org/10.5194/gmd-19-9395-2026",
@@ -70,6 +70,89 @@
             "year": "2026",
             "journal": "Atmospheric Chemistry and Physics",
             "doi": "10.5194/acp-26-5679-2026"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-6931-2026",
+      "title": "Unlocking the air: DNA metabarcoding sheds light on seasonal fungal dynamics in a temperate floodplain forest",
+      "link": "https://doi.org/10.5194/bg-23-6931-2026",
+      "summary": "Unlocking the air: DNA metabarcoding sheds light on seasonal fungal dynamics in a temperate floodplain forest\n                    Ettore Fedele, Christina M. Müller, Volker Wissemann, Birgit Gemeinholzer, Christian Wirth, and Beatriz Sánchez-Parra\n                        Biogeosciences, 23, 6931–6945, https://doi.org/10.5194/bg-23-6931-2026, 2026\n                        Fungi are key component of the air we breathe. They travel short and long distances, influencing ecosystems, agriculture and human health worldwide. Using advanced DNA techniques, we monitored airborne fungi in a European floodplain forest and linked their presence to climatic conditions. We found that temperature can shape airborne fungal communities, including the presence of allergenic and pathogenic fungi. This highlights the importance of long-term monitoring under climate change scenarios.",
+      "journal": "Biogeosciences",
+      "published": "2026-10-06T13:22:47+02:00",
+      "doi": "10.5194/bg-23-6931-2026",
+      "affiliation": "Leipzig University (Leipzig, Germany); German Centre for Integrative Biodiversity Research (Leipzig, Germany)",
+      "title_zh": "解锁空气：DNA宏条形码揭示温带洪泛平原森林中真菌的季节动态",
+      "relevance_score": 5,
+      "key_conclusion": "利用DNA宏条形码监测欧洲洪泛平原森林空气中的真菌，发现温度可塑造空气真菌群落组成，包括致敏性和致病性真菌的存在，强调气候变化情景下长期监测的重要性。",
+      "relevance_note": "研究地点在欧洲（德国温带洪泛平原森林），涉及植物-微生物互作（空气真菌群落）及气候变化对微生物动态的影响，与用户对植物-微生物互作和欧洲研究地点的兴趣有一定关联，但未涉及土壤有机碳或大型食草动物。",
+      "related_papers": [
+        {
+          "title": "Supplementary material to \"Unlocking the air: DNA metabarcoding sheds light on seasonal fungal dynamics in a temperate floodplain forest\"",
+          "link": "https://doi.org/10.5194/egusphere-2026-372-supplement",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Are plant traits drivers of endophytic communities in seasonally flooded tropical forests?",
+          "link": "https://doi.org/10.1002/ajb2.16366",
+          "venue": "American Journal of Botany",
+          "year": 2024
+        },
+        {
+          "title": "Environmental DNA of aquatic macrophytes: The potential for reconstructing past and present vegetation and environments",
+          "link": "https://doi.org/10.1111/fwb.14158",
+          "venue": "Freshwater Biology",
+          "year": 2023
+        },
+        {
+          "title": "Tropical ecology and society reconciliating conservation and sustainable use of biodiversity. Program and abstracts",
+          "link": "",
+          "venue": "Agritrop (Cirad)",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/6931/2026/bg-23-6931-2026-avatar-web.png",
+      "scientific_question": "欧洲温带洪泛平原森林中，空气真菌群落的季节动态如何被气候条件（尤其是温度）所驱动，其中是否包含致敏性和致病性真菌？",
+      "contributions_limitations": "该研究利用DNA宏条形码技术对空气真菌进行长期监测，揭示了温度对空气真菌群落组成的塑造作用，并关注了致敏/致病真菌的气候响应，方法学上具有创新性。局限性在于：摘要未说明监测的时间跨度、采样频率及重复数，也未涉及空气真菌与土壤/植被群落的功能联系；此外，该研究未直接涉及大型食草动物或土壤有机碳。基于现有信息推测，其空间尺度限于单一站点。",
+      "follow_up_research": "可进一步探究空气真菌群落与林下植被、土壤微生物群落之间的连通性，以及大型食草动物活动（如放牧、踩踏）如何通过改变植被结构和微气候间接影响空气真菌传播。也可将空气真菌监测纳入重野化样地的多组分生物监测体系，评估生态系统恢复对空气生物多样性的影响。",
+      "next_step_perspective": "该研究为用户提供了一个方法学视角：DNA宏条形码可用于监测生态系统中的隐性生物多样性组分（如空气真菌），这种非破坏性监测手段或可拓展至重野化样地，追踪大型食草动物引入后植被-土壤-空气界面的微生物群落响应。此外，温度对真菌群落的驱动作用提示在重野化对碳循环影响的研究中，需考虑气候变化背景下微生物群落的季节动态对土壤碳过程的潜在调控。",
+      "why_this_journal": "Biogeosciences致力于发表生物圈与地球系统相互作用的跨学科研究。该文将分子生态学方法（DNA宏条形码）应用于生物地球化学循环中的关键组分（空气真菌），并关联气候变化情景，符合期刊对方法创新和跨尺度生态过程研究的偏好。推测其新颖性在于将空气生物学与森林生态系统功能联系起来。",
+      "author_profile": {
+        "name": "Beatriz Sánchez-Parra",
+        "institution": "Universität Leipzig Institut für Biologie",
+        "intro": "Beatriz Sánchez-Parra就职于德国莱比锡大学（Universität Leipzig）生物研究所，主要研究方向为空气生物学与分子生态学，特别是利用DNA宏条形码监测空气传播的生物气溶胶（真菌、植物花粉等）及其与生态系统功能的联系。其已发表工作包括莱比锡树冠起重机实验中的空气微生物监测、空气-土壤微生物连通性等。这些研究与用户关注方向存在间接关联：空气微生物群落是生态系统功能的重要组成部分，其与土壤微生物的连通性可能影响土壤有机质形成与养分循环，尤其是在重野化改变植被结构和微气候的背景下，空气传播的微生物可能反馈到土壤碳氮循环过程中。",
+        "other_works": [
+          {
+            "title": "Unlocking the air: DNA metabarcoding sheds light on seasonal fungal dynamics in a temperate floodplain forest",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-6931-2026"
+          },
+          {
+            "title": "What goes up, must come down: air–soil microbiome connectivity and its implications for ecosystem functioning",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.32942/X2J68P"
+          },
+          {
+            "title": "Supplementary material to \"Unlocking the air: DNA metabarcoding sheds light on seasonal fungal dynamics in a temperate floodplain forest\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-372-supplement"
+          },
+          {
+            "title": "Unlocking the air: DNA metabarcoding sheds light on seasonal fungal dynamics in a temperate floodplain forest",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-372"
+          },
+          {
+            "title": "In-depth analysis of the origin of Primary Biological Aerosol Particles in a temperate forest of Leipzig",
+            "year": "2025",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu25-11035"
           }
         ]
       }
