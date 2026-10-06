@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-05T13:08:52.243882+00:00",
+  "generated_at": "2026-10-06T05:38:23.537998+00:00",
   "count": 3,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Forest fragmentation increases local temperatures in temperate and tropical zones and has a stronger effect on local temperature than overall forest cover, according to a study of high-resolution remote-sensing data from around the world. In PNAS: https://ow.ly/QZjT50ZUyMj",
+      "created_at": "2026-10-05T20:00:41.325777099Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mx5pf5aew62z",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Read highlights in this week’s issue of PNAS: We explore ground-edged stone tools in Neolithic North China, examine global carbon benefits of US irrigation, and analyze the limits of evolutionary rescue in black-browed albatrosses. https://ow.ly/VZ6Z50ZUzBb",
+      "created_at": "2026-10-05T19:00:33.970238427Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mx5lznblvh2d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "natecoevo.nature.com",
       "author_name": "Nature Ecology & Evolution",
@@ -12,28 +34,6 @@
       "external_description": "Protein-structure prediction identifies a family of IL-1 protein homologues in Eumetazoa, which are characterized for expression, localization and function in sea lamprey and purple sea urchin.",
       "external_uri": "https://www.nature.com/articles/s41559-026-03191-2",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifphc7op5af5qr7rd6h5qjm3vrtvxrj2xbmdfzxoizltsa5wtaqrq"
-    },
-    {
-      "handle": "science.org",
-      "author_name": "Science Magazine",
-      "text": "Researchers have constructed the oldest ice core–derived climate record from the Tibetan Plateau, which confirms that the Guliya ice cap is more than 100,000 years old.\n\nLearn more in #ScienceAdvances: https://scim.ag/4AMkty3",
-      "created_at": "2026-10-02T21:04:01.671297227Z",
-      "post_link": "https://bsky.app/profile/science.org/post/3mwwbjmmnjb2y",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "A simple #geoengineering approach seems to restore dwindling #Arctic #ice in pilot studies. Could it actually work at a larger scale? In PNAS Front Matter: https://ow.ly/iwt550ZU1wh\n\n#ClimateChange #seawater #clouds #energy",
-      "created_at": "2026-10-02T17:00:53.206515853Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mwvtwuc3w62d",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
