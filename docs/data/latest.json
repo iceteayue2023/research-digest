@@ -1,8 +1,91 @@
 {
   "date": "2026-10-06",
-  "generated_at": "2026-10-06T12:29:36.384379+00:00",
-  "count": 2,
+  "generated_at": "2026-10-06T17:47:55.139399+00:00",
+  "count": 3,
   "articles": [
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03200-4",
+      "title": "Biodiversity safeguards ecosystem services and functions worldwide",
+      "link": "https://www.nature.com/articles/s41559-026-03200-4",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 06 October 2026; doi:10.1038/s41559-026-03200-4An analysis of a global database of 423 studies and >200,000 data points outlines the strength and generality of biodiversity relationships with ecosystem functioning and services.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-10-06T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03200-4",
+      "affiliation": null,
+      "title_zh": "生物多样性保障全球生态系统服务与功能",
+      "relevance_score": 8,
+      "key_conclusion": "基于423项研究和超过20万个数据点的全球数据库分析，揭示了生物多样性与生态系统功能及服务之间关系的强度和普遍性。",
+      "relevance_note": "该文属于生物多样性与生态系统功能（BEF）关系的全球综合研究，与用户关注的BEF方向高度相关；同时其涉及生态系统服务与功能，与重野化及碳循环研究的理论基础紧密相连，且发表于Nature系列期刊，综合价值较高。",
+      "related_papers": [
+        {
+          "title": "Code and data for: \"Biodiversity safeguards ecosystem services and functions worldwide\"",
+          "link": "https://doi.org/10.5281/zenodo.21456540",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Code and data for: \"Biodiversity safeguards ecosystem services and functions worldwide\"",
+          "link": "https://doi.org/10.5281/zenodo.21456541",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Global Conservation of Biodiversity and Ecosystem Services",
+          "link": "https://doi.org/10.1641/b571009",
+          "venue": "BioScience",
+          "year": 2007
+        },
+        {
+          "title": "Forest biodiversity, ecosystem functioning and the provision of ecosystem services",
+          "link": "https://doi.org/10.1007/s10531-017-1453-2",
+          "venue": "Biodiversity and Conservation",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03200-4/MediaObjects/41559_2026_3200_Fig1_HTML.png",
+      "scientific_question": "这篇文章试图回答的核心科学问题是：生物多样性与生态系统功能及服务之间的关系在全球范围内有多强、多普遍？",
+      "contributions_limitations": "贡献在于整合了423项研究和超过20万个数据点的全球数据库，系统量化了生物多样性对生态系统功能与服务的普遍重要性，为BEF关系提供了迄今最大规模的综合分析。局限性可能在于摘要信息不足，无法判断其是否充分考虑了不同生态系统类型、尺度效应或潜在的发表偏倚；基于现有信息推测，具体效应量和异质性来源需查看原文。",
+      "follow_up_research": "后续研究可进一步探讨大型食草动物多样性及放牧强度如何调节生物多样性-生态系统功能关系，特别是在碳循环相关功能（如土壤有机碳积累）中的具体作用。也可分析不同生物类群（如土壤微生物、大型动物）在维持生态系统服务中的相对贡献差异。",
+      "next_step_perspective": "该研究为用户提供了BEF关系在全球尺度上的综合证据框架，用户可借此定位大型食草动物重野化在BEF研究中的位置——即重野化恢复的大型动物多样性可能通过哪些功能路径（如放牧、养分再分配）支撑生态系统碳循环功能。文章中量化BEF关系强度的方法论（如多研究整合的效应量分析）也可为用户自己的meta分析或跨站点比较提供方法参考。",
+      "why_this_journal": "推测该文能发表在Nature Ecology & Evolution，是因为其基于迄今最大规模的全球BEF数据库，回答了生态学中一个长期核心争论——生物多样性对生态系统功能的重要性是否具有普遍性，具有高度的综合性和跨学科意义。",
+      "author_profile": {
+        "name": "Emma R. Moffett",
+        "institution": null,
+        "intro": "Emma R. Moffett目前所在机构未在提供信息中明确，从其历史论文标题看，其研究涉及生物多样性对气候调节服务的贡献、浮游动物群落对热浪和盐度变化的响应、以及代谢生态学等方向，显示出跨水生与陆地生态系统、从群落生态学到生态系统功能的广泛兴趣。这些工作与用户关注的大型食草动物重野化对碳循环影响虽不直接重叠，但其在生物多样性-生态系统功能关系方面的综合分析能力，可为用户理解重野化如何通过生物多样性途径影响土壤碳提供理论背景。",
+        "other_works": [
+          {
+            "title": "Biodiversity safeguards ecosystem services and functions worldwide",
+            "year": "2026",
+            "journal": "Nature Ecology & Evolution",
+            "doi": "10.1038/s41559-026-03200-4"
+          },
+          {
+            "title": "From oceans to forests, biodiversity powers climate-regulating services",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.21203/rs.3.rs-8562138/v1"
+          },
+          {
+            "title": "Investigating the Effects of Thermal Variability and Heatwaves on Pond Zooplankton Communities and Physiological Traits",
+            "year": "2025",
+            "journal": "Freshwater Biology",
+            "doi": "10.1111/fwb.14372"
+          },
+          {
+            "title": "Cascading effects of freshwater salinization on plankton communities in the Sierra Nevada",
+            "year": "2023",
+            "journal": "Limnology and Oceanography Letters",
+            "doi": "10.1002/lol2.10177"
+          },
+          {
+            "title": "The Effect of Pregnancy On Metabolic Scaling and Population Energy Demand in the Viviparous Fish Gambusia affinis",
+            "year": "2022",
+            "journal": "Integrative And Comparative Biology",
+            "doi": "10.1093/icb/icac099"
+          }
+        ]
+      }
+    },
     {
       "id": "https://doi.org/10.5194/gmd-19-9395-2026",
       "title": "Development and evaluation of the ECHAM6-iMAPLE  v1.0 coupled atmosphere–ecosystem model",
