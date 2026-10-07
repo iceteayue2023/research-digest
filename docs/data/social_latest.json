@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-07T05:09:09.676166+00:00",
-  "count": 12,
+  "generated_at": "2026-10-07T12:23:35.571106+00:00",
+  "count": 14,
   "posts": [
+    {
+      "handle": "britishecologicalsociety.org",
+      "author_name": "British Ecological Society",
+      "text": "Could you help shape the 2027 BES symposium? \n\nWe are looking for a BES member to propose a programme for our 2027 symposium on the theme of Novel Futures in Ecology – what do we know and what should we do?\n \nFind out more and apply here\nwww.britishecologicalsociety.org/content/bes-...",
+      "created_at": "2026-10-07T10:54:48.801Z",
+      "post_link": "https://bsky.app/profile/britishecologicalsociety.org/post/3mxbrsuewp22w",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "pnas.org",
       "author_name": "Proceedings of the National Academy of Sciences",
@@ -45,6 +56,17 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "An analysis of a global database of 423 studies and >200,000 data points outlines the strength and generality of biodiversity relationships with ecosystem functioning and services 🧪 www.nature.com/articles/s41...",
+      "created_at": "2026-10-06T15:58:47.209Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mx7sdig53c2h",
+      "external_title": "Biodiversity safeguards ecosystem services and functions worldwide - Nature Ecology & Evolution",
+      "external_description": "An analysis of a global database of 423 studies and &gt;200,000 data points outlines the strength and generality of biodiversity relationships with ecosystem functioning and services.",
+      "external_uri": "https://www.nature.com/articles/s41559-026-03200-4",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifd7ideqqp5vokuuecuan4tvhoktri7hv5brbyuuglpk6jcv5f6qm"
     },
     {
       "handle": "natecoevo.nature.com",

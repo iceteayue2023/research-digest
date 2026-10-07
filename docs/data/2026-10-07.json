@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T05:09:09.669860+00:00",
-  "count": 3,
+  "generated_at": "2026-10-07T12:23:35.568460+00:00",
+  "count": 10,
   "articles": [
     {
       "id": "10.1029/2026GB009071",
@@ -139,6 +139,136 @@
       }
     },
     {
+      "id": "https://www.nature.com/articles/s41579-026-01384-x",
+      "title": "Remediation restores soil carbon",
+      "link": "https://www.nature.com/articles/s41579-026-01384-x",
+      "summary": "Nature Reviews Microbiology, Published online: 07 October 2026; doi:10.1038/s41579-026-01384-xThis study suggests that shifts in bioavailable heavy metals during soil remediation reshape microbial physiological traits, thereby increasing microbial carbon use efficiency and enhancing soil carbon storage.",
+      "journal": "Nature Reviews Microbiology",
+      "published": "2026-10-07T00:00:00+00:00",
+      "doi": "10.1038/s41579-026-01384-x",
+      "affiliation": null,
+      "title_zh": "修复措施恢复土壤碳",
+      "relevance_score": 8,
+      "key_conclusion": "土壤修复过程中生物可利用重金属的变化重塑了微生物生理性状，从而提高了微生物碳利用效率并增强了土壤碳储存。",
+      "relevance_note": "该文直接涉及土壤有机碳储存的微生物机制，与用户关注的土壤有机质形成与稳定机制、土壤微生物群落对生态系统功能的影响高度契合，属于研究方向(2)的核心主题。",
+      "related_papers": [
+        {
+          "title": "Soil microbial activity as a biomarker of degradation and remediation processes",
+          "link": "https://doi.org/10.1016/s0038-0717(00)00161-9",
+          "venue": "Soil Biology and Biochemistry",
+          "year": 2000
+        },
+        {
+          "title": "Bioventing remediation and ecotoxicity evaluation of phenanthrene-contaminated soil",
+          "link": "https://doi.org/10.1016/j.jhazmat.2010.07.098",
+          "venue": "Journal of Hazardous Materials",
+          "year": 2010
+        },
+        {
+          "title": "Changes in enzyme activities and microbial biomass after “in situ” remediation of a heavy metal-contaminated soil",
+          "link": "https://doi.org/10.1016/j.apsoil.2004.07.006",
+          "venue": "Applied Soil Ecology",
+          "year": 2004
+        },
+        {
+          "title": "Restoring Soil Quality to Mitigate Soil Degradation",
+          "link": "https://doi.org/10.3390/su7055875",
+          "venue": "Sustainability",
+          "year": 2015
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41579-026-01384-x/MediaObjects/41579_2026_1384_Figa_HTML.png",
+      "scientific_question": "土壤修复过程中生物可利用重金属的变化如何通过重塑微生物生理性状来影响微生物碳利用效率和土壤碳储存？",
+      "contributions_limitations": "该研究提出了一个新颖的机制链条：重金属生物可利用性变化→微生物生理性状重塑→碳利用效率提高→土壤碳储存增强，将土壤修复与碳循环联系起来。基于现有信息推测，该研究可能基于特定污染场地，其结论向自然或半自然生态系统的外推性有待验证；此外，该摘要未说明涉及的微生物群落组成变化，也未讨论这种碳储存增加的持久性。",
+      "follow_up_research": "可进一步研究大型食草动物通过改变土壤理化性质（如重金属迁移、pH、氧化还原条件）间接影响微生物碳利用效率的路径；也可探讨在重野化背景下，放牧活动是否通过类似的微生物生理性状重塑机制影响土壤碳储存。",
+      "next_step_perspective": "这篇文章为理解土壤碳储存的微生物介导机制提供了新视角，即微生物生理性状（而非仅群落组成）是碳利用效率的关键驱动因子。对于关注放牧强度对土壤有机碳影响的研究者，这提示应将微生物碳利用效率作为放牧效应的重要中介变量纳入研究框架，并考虑大型食草动物是否通过改变土壤金属有效性来间接调控碳循环。",
+      "why_this_journal": "Nature Reviews Microbiology作为微生物学领域顶级综述期刊，发表此文可能是因为它提出了一个跨学科的新机制（环境地球化学-微生物生理-碳循环），具有概念创新性和广泛影响力。",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/bg-23-7029-2026",
+      "title": "Ideas and perspectives: Beyond microbes – integrating termites into global soil carbon cycling models",
+      "link": "https://doi.org/10.5194/bg-23-7029-2026",
+      "summary": "Ideas and perspectives: Beyond microbes – integrating termites into global soil carbon cycling models\n                    Umar Farooq, Chiara Pasut, Ying-Ping Wang, Amy E. Zanne, Habacuc Flores-Moreno, Baptiste Joseph Wijas, David I. Forrester, Jacqueline R. England, Bennett Macdonald, Zachary A. Brown, and Senani Karunaratne\n                        Biogeosciences, 23, 7029–7041, https://doi.org/10.5194/bg-23-7029-2026, 2026\n                        Global soil carbon models largely focus on microbes and overlook the role of termites in decomposing dead plant material. Here, we present a new framework for representing termite activity in carbon models and estimating how termites redistribute carbon between the atmosphere and soils. Our results suggest that termites strongly influence greenhouse gas emissions and soil carbon cycling, particularly in tropical and seasonally dry regions that are vulnerable to climate change.",
+      "journal": "Biogeosciences",
+      "published": "2026-10-07T11:18:16+02:00",
+      "doi": "10.5194/bg-23-7029-2026",
+      "affiliation": "Commonwealth Scientific and Industrial Research Organisation (Canberra, Australia)",
+      "title_zh": "观点与展望：超越微生物——将白蚁整合到全球土壤碳循环模型中",
+      "relevance_score": 8,
+      "key_conclusion": "全球土壤碳模型主要关注微生物而忽视了白蚁在分解死植物物质中的作用；作者提出新框架将白蚁活动纳入碳模型，结果表明白蚁强烈影响温室气体排放和土壤碳循环，尤其是在气候变化脆弱的热带和季节性干旱地区。",
+      "relevance_note": "该文直接涉及动物介导的土壤碳循环(zoogeochemistry)，与用户关注方向(2)中动物反馈效应和碳循环模型改进高度契合，且为观点/展望类综述文章，用户偏好此类文章。",
+      "related_papers": [
+        {
+          "title": "Ideas and perspectives: Beyond Microbes: Integrating Termites into Global Soil Carbon Cycling Models",
+          "link": "https://doi.org/10.5194/egusphere-2026-2844",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Supplementary material to \"Ideas and perspectives: Beyond Microbes: Integrating Termites into Global Soil Carbon Cycling Models\"",
+          "link": "https://doi.org/10.5194/egusphere-2026-2844-supplement",
+          "venue": null,
+          "year": 2026
+        },
+        {
+          "title": "Soil carbon and microbes in the warming tropics",
+          "link": "https://doi.org/10.1111/1365-2435.14050",
+          "venue": "Functional Ecology",
+          "year": 2022
+        },
+        {
+          "title": "Modeling Soil Processes: Review, Key Challenges, and New Perspectives",
+          "link": "https://doi.org/10.2136/vzj2015.09.0131",
+          "venue": "Vadose Zone Journal",
+          "year": 2016
+        }
+      ],
+      "image_url": "https://bg.copernicus.org/articles/23/7029/2026/bg-23-7029-2026-avatar-web.png",
+      "scientific_question": "如何将白蚁活动整合进全球土壤碳循环模型，以更准确地估算白蚁对温室气体排放和土壤碳分布的影响？",
+      "contributions_limitations": "该文提出将白蚁纳入全球土壤碳模型的新框架，弥补了现有模型仅关注微生物分解的不足，并指出白蚁在热带和季节性干旱地区对碳循环影响尤为显著。作为Ideas and perspectives类文章，它主要提供概念框架而非实证数据，模型参数化和验证仍需后续研究支持；此外，摘要未提及大型食草动物的作用。",
+      "follow_up_research": "可将类似框架思路拓展至大型食草动物对土壤碳循环的建模纳入，开发包含动物介导分解途径（如粪便输入、踩踏、植被改变）的碳模型模块；也可研究白蚁与大型食草动物的交互效应如何共同影响热带/亚热带土壤碳储量。",
+      "next_step_perspective": "这篇文章直接关联用户关注的‘动物介导的生物地球化学循环’和‘生态系统模型改进’主题，其将动物功能群纳入全球碳模型的方法论框架可被借鉴来构建大型食草动物的碳循环模型模块。此外，它强调了被忽视的动物类群对碳循环的重要性，提示重野化研究中不应仅关注有蹄类，还应考虑土壤无脊椎动物的协同作用。",
+      "why_this_journal": "Biogeosciences专注于生物地球化学过程研究，该文提供的新概念框架填补了全球碳模型中的一个关键空白（忽视白蚁等非微生物分解者），具有方法学创新意义。推测其能发表是因为它挑战了主流模型范式并提出了可操作的新框架。",
+      "author_profile": {
+        "name": "Ying-Ping Wang",
+        "institution": "CSIRO",
+        "intro": "Ying-Ping Wang就职于CSIRO（澳大利亚联邦科学与工业研究组织），主要从事陆地生态系统碳循环建模、全球植被动态模型开发与验证研究，近期工作涉及热浪对陆地生态系统的影响、热带森林干旱后恢复力以及基于卫星数据的全球陆地模型改进。其研究方向与用户关注的DGVM开发验证、生态系统模型改进高度吻合，尤其是将动物功能整合进碳循环模型的思路可直接为用户的重野化-碳循环建模研究提供参考。",
+        "other_works": [
+          {
+            "title": "Ideas and perspectives: Beyond microbes – integrating termites into global soil carbon cycling models",
+            "year": "2026",
+            "journal": "Biogeosciences",
+            "doi": "10.5194/bg-23-7029-2026"
+          },
+          {
+            "title": "Earlier and faster heatwave onset on land under a warming climate",
+            "year": "2026",
+            "journal": "Nature Climate Change",
+            "doi": "10.1038/s41558-026-02762-2"
+          },
+          {
+            "title": "Precipitation and soil phosphorus regulate post-drought resilience in tropical forests",
+            "year": "2026",
+            "journal": "Nature Geoscience",
+            "doi": "10.1038/s41561-026-02095-x"
+          },
+          {
+            "title": "Assimilation of Satellite‐Based Forest Biomass, Productivity and Leaf Area Index in a Global Land Model Incorporating Parameter Spatial Variations and Age Effects",
+            "year": "2026",
+            "journal": "Journal of Advances in Modeling Earth Systems",
+            "doi": "10.1029/2026MS005807"
+          },
+          {
+            "title": "Ideas and perspectives: Beyond Microbes: Integrating Termites into Global Soil Carbon Cycling Models",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-2844"
+          }
+        ]
+      }
+    },
+    {
       "id": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00241-7?rss=yes",
       "title": "Integrating long-term biodiversity change into biodiversity–ecosystem functioning studies",
       "link": "https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(26)00241-7?rss=yes",
@@ -217,6 +347,337 @@
             "year": "2025",
             "journal": null,
             "doi": "10.22541/au.175387189.91425310/v1"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03211-1",
+      "title": "More biodiversity means stronger, more reliable ecosystem functioning worldwide",
+      "link": "https://www.nature.com/articles/s41559-026-03211-1",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 07 October 2026; doi:10.1038/s41559-026-03211-1A global synthesis reveals that biodiversity is a major driver of ecosystem functioning and service delivery, and that biodiversity loss is likely to have widespread effects on people and ecosystems.",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-10-07T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03211-1",
+      "affiliation": null,
+      "title_zh": "更多生物多样性意味着全球更强健、更可靠的生态系统功能",
+      "relevance_score": 7,
+      "key_conclusion": "全球综合研究表明，生物多样性是生态系统功能和服务提供的主要驱动力，生物多样性丧失可能对人类社会和生态系统产生广泛影响。",
+      "relevance_note": "该文直接涉及生物多样性-生态系统功能关系(BEF)，属于用户明确关注的领域(4)。发表于Nature Ecology & Evolution，虽非Nature/Science正刊，但主题高度契合BEF研究。",
+      "related_papers": [
+        {
+          "title": "Forest biodiversity, ecosystem functioning and the provision of ecosystem services",
+          "link": "https://doi.org/10.1007/s10531-017-1453-2",
+          "venue": "Biodiversity and Conservation",
+          "year": 2017
+        },
+        {
+          "title": "Biodiversity and ecosystem function: the consumer connection",
+          "link": "https://doi.org/10.1034/j.1600-0706.2002.990201.x",
+          "venue": "Oikos",
+          "year": 2002
+        },
+        {
+          "title": "Biodiversity and ecosystem function in soil",
+          "link": "https://doi.org/10.1111/j.0269-8463.2005.00969.x",
+          "venue": "Functional Ecology",
+          "year": 2005
+        },
+        {
+          "title": "Marine Biodiversity and Ecosystem Functioning",
+          "link": "https://doi.org/10.1093/acprof:oso/9780199642250.001.0001",
+          "venue": "Oxford University Press eBooks",
+          "year": 2012
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41559-026-03211-1/MediaObjects/41559_2026_3211_Fig1_HTML.png",
+      "scientific_question": "在全球尺度上，生物多样性对生态系统功能和服务提供的驱动作用有多强？生物多样性丧失会带来怎样的广泛影响？",
+      "contributions_limitations": "该全球综合研究强化了生物多样性-生态系统功能（BEF）关系的普适性证据，表明生物多样性是生态系统功能的主要驱动力。基于现有信息推测，作为全球综合分析，其可能面临不同生态系统类型间效应量异质性的挑战，且可能未专门讨论大型食草动物或土壤碳等特定功能指标的响应。摘要信息不足以判断其对土壤碳循环的具体结论。",
+      "follow_up_research": "可进一步分析大型食草动物作为生物多样性组成部分，其多样性或功能群丰富度如何影响土壤碳储存和生态系统功能恢复；也可在重野化背景下检验BEF关系是否适用于动物-土壤碳耦合系统，即动物多样性丧失是否同样削弱土壤碳汇功能。",
+      "next_step_perspective": "这篇文章为用户关注的BEF关系提供了最新的全球综合证据，可作为重野化研究中论证‘恢复大型食草动物多样性有助于生态系统功能’的理论支撑。具体而言，可将其BEF框架应用于土壤碳功能指标，探讨动物多样性对土壤有机碳的效应是否遵循类似的生物多样性-功能正相关规律。",
+      "why_this_journal": "Nature Ecology & Evolution发表全球尺度的BEF综合研究，推测其能发表是因为大尺度综合分析和强普适性结论对生态学理论和保护政策均有重要启示，符合该刊追求广泛影响力的定位。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41561-026-02121-y",
+      "title": "Sea level-induced oyster reef accretion causes minimal net carbon burial change",
+      "link": "https://www.nature.com/articles/s41561-026-02121-y",
+      "summary": "Nature Geoscience, Published online: 07 October 2026; doi:10.1038/s41561-026-02121-yOyster reefs in North Carolina have grown vertically as sea level has risen in recent centuries, although this has not led to an increase in carbon sequestration, according to an analysis of oyster reef cores.",
+      "journal": "Nature Geoscience",
+      "published": "2026-10-07T00:00:00+00:00",
+      "doi": "10.1038/s41561-026-02121-y",
+      "affiliation": null,
+      "title_zh": "海平面上升驱动的牡蛎礁增生导致净碳埋藏变化极小",
+      "relevance_score": 5,
+      "key_conclusion": "北卡罗来纳州的牡蛎礁在近几个世纪随海平面上升而垂直生长，但这并未导致碳封存增加。",
+      "relevance_note": "该文涉及碳埋藏与碳封存，属于碳循环研究范畴，但聚焦于海洋/海岸生态系统，与用户核心关注的陆地生态系统碳循环和重野化主题关联较弱。",
+      "related_papers": [
+        {
+          "title": "HUMAN INFLUENCE ON BARRIER ISLAND AND OYSTER REEF EVOLUTION",
+          "link": "https://doi.org/10.17615/mryp-0k16",
+          "venue": "Carolina Digital Repository (University of North Carolina at Chapel Hill)",
+          "year": 2026
+        },
+        {
+          "title": "Marsh Processes and Their Response to Climate Change and Sea-Level Rise",
+          "link": "https://doi.org/10.1146/annurev-earth-082517-010255",
+          "venue": "Annual Review of Earth and Planetary Sciences",
+          "year": 2019
+        },
+        {
+          "title": "Global hotspots of salt marsh change and carbon emissions",
+          "link": "https://doi.org/10.1038/s41586-022-05355-z",
+          "venue": "Nature",
+          "year": 2022
+        },
+        {
+          "title": "Predicting the impacts of Mississippi River diversions and sea-level rise on spatial patterns of eastern oyster growth rate and production",
+          "link": "https://doi.org/10.1016/j.ecolmodel.2017.02.028",
+          "venue": "Ecological Modelling",
+          "year": 2017
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41561-026-02121-y/MediaObjects/41561_2026_2121_Fig1_HTML.png",
+      "scientific_question": "海平面上升驱动的牡蛎礁垂直增生是否伴随着净碳埋藏的变化？",
+      "contributions_limitations": "该研究基于北卡罗来纳州牡蛎礁岩芯分析，发现尽管礁体随海平面上升而垂直生长，碳封存并未增加，对蓝碳生态系统中牡蛎礁碳汇功能提出了重要限定。研究局限于单一区域，全球其他牡蛎礁系统的适用性未知；此外该文聚焦海洋/海岸系统，与用户的陆地生态系统碳循环研究关联间接。",
+      "follow_up_research": "可在其他地理区域验证牡蛎礁增生与碳埋藏脱耦的普遍性；借鉴其岩芯分析和年代学方法，可应用于陆地生态系统中长期碳储量变化的古生态重建，例如重野化区域放牧历史对土壤碳长期动态的影响。",
+      "next_step_perspective": "这篇文章虽属海岸带蓝碳研究，但其核心发现——生态系统结构增长不等于碳封存增加——对用户的土壤碳研究具有警示意义：在重野化评估中，不能仅以植被恢复或生态系统面积增长推断土壤碳汇增强，需要直接测量碳储量变化。其岩芯+年代学的长时间尺度方法也可启发土壤碳长期动态研究设计。",
+      "why_this_journal": "Nature Geoscience发表此文推测是因为它挑战了蓝碳领域一个被广泛接受的假设（生态系统增长必然增加碳封存），对海岸带碳汇核算和政策制定有重要修正意义。",
+      "author_profile": {
+        "name": "Antonio B. Rodriguez",
+        "institution": null,
+        "intro": "Antonio B. Rodriguez的研究方向涉及海岸沉积环境、牡蛎礁和盐沼的沉积动力学与碳埋藏，从历史论文标题可以看出他主要关注风暴沉积记录、海岸地貌演化与蓝碳生态系统。其研究与用户方向关联较间接，主要在海碳循环而非陆地土壤碳，但其长期生态-地质记录方法对理解生态系统碳动态的时间尺度有一定借鉴意义。",
+        "other_works": [
+          {
+            "title": "Utilizing tempestite deposits as reference horizons in 210Pb age models for reconstructing storm history in coastal depositional environments",
+            "year": "2026",
+            "journal": "Estuarine, Coastal and Shelf Science",
+            "doi": "10.1016/j.ecss.2026.110138"
+          },
+          {
+            "title": "Intertidal Oyster Reef Core Data",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.6084/m9.figshare.33353439"
+          },
+          {
+            "title": "Accretionary marsh levees act as emerging barriers to interior elevation gain",
+            "year": "2026",
+            "journal": "Communications Earth & Environment",
+            "doi": "10.1038/s43247-026-03529-5"
+          },
+          {
+            "title": "Habitat context affects sediment nitrogen burial by restored Eastern Oyster reefs",
+            "year": "2026",
+            "journal": "PLOS One",
+            "doi": "10.1371/journal.pone.0344310"
+          },
+          {
+            "title": "Lithologic facies and stratigraphic evolution of North Atlantic seagrass beds reveal centennial-scale resilience to burial events",
+            "year": "2026",
+            "journal": "Estuarine, Coastal and Shelf Science",
+            "doi": "10.1016/j.ecss.2025.109689"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://doi.org/10.5194/esd-17-1513-2026",
+      "title": "Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European waters under a low- and a high-emission scenario",
+      "link": "https://doi.org/10.5194/esd-17-1513-2026",
+      "summary": "Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European waters under a low- and a high-emission scenario\n                    Chiara Ciscato, Neha Mehendale, Tronje P. Kemena, Sandy Avrutin, and David P. Keller\n                        Earth Syst. Dynam., 17, 1513–1527, https://doi.org/10.5194/esd-17-1513-2026, 2026\n                        Ocean Alkalinity Enhancement (OAE) is a marine carbon dioxide removal method with large-scale potential. Using an Earth System Model, we explored the effects of continuous coastal OAE application on the seasonal carbon cycle under low and high emissions. We found that stratification retains higher alkalinity over summer, reducing the ocean pCO2 and turning the region into a year-round carbon sink. Additionally, high emissions lower the ocean’s buffering capacity and increase winter CO2 uptake.",
+      "journal": "Earth System Dynamics",
+      "published": "2026-10-07T08:40:16+02:00",
+      "doi": "10.5194/esd-17-1513-2026",
+      "affiliation": "CMCC Foundation - Euro-Mediterranean Center on Climate Change (Lecce, Italy); GEOMAR Helmholtz Centre for Ocean Research Kiel (Kiel, Germany)",
+      "title_zh": "模拟沿海海洋碱度增强对欧洲水域在低排放和高排放情景下季节性碳循环的影响",
+      "relevance_score": 5,
+      "key_conclusion": "沿海海洋碱度增强(OAE)在夏季因分层作用保持较高碱度，降低海洋pCO2并使该区域成为全年碳汇；高排放情景下海洋缓冲能力降低，冬季CO2吸收增加。",
+      "relevance_note": "该文涉及碳循环与碳汇研究，使用地球系统模型，研究地点在欧洲水域，与用户关注方向(1)碳源碳汇变化和(6)欧洲研究地点有一定关联，但聚焦海洋而非陆地生态系统。",
+      "related_papers": [
+        {
+          "title": "Datasets referring to the paper titled 'Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European waters under a low- and a high-emission scenario'",
+          "link": "https://doi.org/10.5281/zenodo.13935197",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Datasets referring to the paper titled 'Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European waters under a low- and a high-emission scenario'",
+          "link": "https://doi.org/10.5281/zenodo.13935196",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Jupyter Notebooks referring to the paper titled 'Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European waters under a low- and a high-emission scenario'",
+          "link": "https://doi.org/10.5281/zenodo.21874676",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Jupyter Notebooks referring to the paper titled 'Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European waters under a low- and a high-emission scenario'",
+          "link": "https://doi.org/10.5281/zenodo.21874675",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://esd.copernicus.org/articles/17/1513/2026/esd-17-1513-2026-avatar-web.png",
+      "scientific_question": "在低排放和高排放情景下，连续沿海海洋碱度增强（OAE）如何影响欧洲海域的季节性碳循环？",
+      "contributions_limitations": "该研究利用地球系统模型揭示了沿海OAE在夏季因分层作用保持高碱度、降低pCO2并使区域成为全年碳汇的机制，并发现高排放情景下海洋缓冲能力降低会增强冬季CO2吸收。局限性在于这是一项模拟研究，未考虑OAE实施可能带来的生态副作用（如对海洋生物地球化学的扰动），且区域局限于欧洲沿海，结论向全球推广需谨慎。",
+      "follow_up_research": "未来可研究OAE对沿海生态系统（如底栖生物群落、浮游植物生产力）的间接影响，以及将OAE与其他碳移除手段（如蓝碳、陆地重野化）进行综合评估的耦合模拟。此外，可探索不同OAE施加速率和持续时间对碳汇稳定性的长期效应。",
+      "next_step_perspective": "虽然该文聚焦海洋碳循环，但其方法学（利用地球系统模型评估碳汇的季节性动态）对用户研究陆地生态系统碳循环有借鉴意义——特别是如何将管理干预（如OAE类比于放牧管理）纳入模型情景分析。此外，该文强调分层等物理过程对碳汇的调控，提示用户在重野化研究中应关注植被结构变化对土壤微气候和碳过程的物理调控。",
+      "why_this_journal": "Earth System Dynamics专注于地球系统各圈层交互及全球变化模拟，该文利用地球系统模型评估新型碳移除技术的气候效应，具有跨学科意义和政策相关性，符合期刊定位。（推测）",
+      "author_profile": {
+        "name": "Chiara Ciscato",
+        "institution": "Euro-Mediterranean Center for Climate Change",
+        "intro": "Chiara Ciscato就职于欧洲-地中海气候变化中心（Euro-Mediterranean Center on Climate Change），其研究聚焦于海洋碱度增强（OAE）对海洋碳酸盐系统和碳循环的影响，包括利用季节周期监测OAE效果。虽然其工作主要在海洋领域，但碳移除和碳循环监测的方法论对用户关注的陆地碳循环及基于自然的解决方案评估有间接参考价值。",
+        "other_works": [
+          {
+            "title": "Impacts of simulated coastal ocean alkalinity enhancement on the seasonal carbon cycle in European waters under a low- and a high-emission scenario",
+            "year": "2026",
+            "journal": "Earth System Dynamics",
+            "doi": "10.5194/esd-17-1513-2026"
+          },
+          {
+            "title": "Using the Seasonal Cycle in the Ocean Carbonate System for Monitoring and Guiding OAE",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-18169"
+          },
+          {
+            "title": "Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of the Air-Sea CO2 Flux and Surface Ocean pCO2 in European Waters under a Low- and a High-Emission Scenario",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-926"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/s41559-026-03223-x",
+      "title": "Combining conservation strategies",
+      "link": "https://www.nature.com/articles/s41559-026-03223-x",
+      "summary": "Nature Ecology &amp; Evolution, Published online: 07 October 2026; doi:10.1038/s41559-026-03223-xCombining conservation strategies",
+      "journal": "Nature Ecology & Evolution",
+      "published": "2026-10-07T00:00:00+00:00",
+      "doi": "10.1038/s41559-026-03223-x",
+      "affiliation": null,
+      "title_zh": "结合多种保护策略",
+      "relevance_score": 4,
+      "key_conclusion": "该文探讨了综合运用多种保护策略的必要性与潜力。",
+      "relevance_note": "该文涉及保护策略的综合运用，与用户关注的生态系统功能恢复和基于自然的解决方案有间接关联，但摘要信息有限，无法判断是否涉及碳循环或重野化。",
+      "related_papers": [
+        {
+          "title": "Sustainable Lime Heritage - Seeking out combined Conservation Strategies",
+          "link": "https://doi.org/10.5281/zenodo.21623829",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2011
+        },
+        {
+          "title": "Sustainable Lime Heritage - Seeking out combined Conservation Strategies",
+          "link": "https://doi.org/10.5281/zenodo.21623830",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2011
+        },
+        {
+          "title": "Combining Measures of Dispersal to Identify Conservation Strategies in Fragmented Landscapes",
+          "link": "https://doi.org/10.1111/j.1523-1739.2011.01720.x",
+          "venue": "Conservation Biology",
+          "year": 2011
+        },
+        {
+          "title": "A Mixed Mutation Strategy Evolutionary Programming Combined with Species Conservation Technique",
+          "link": "https://doi.org/10.1007/11579427_60",
+          "venue": "Lecture notes in computer science",
+          "year": 2005
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "如何综合运用多种保护策略以更有效地实现保护目标？",
+      "contributions_limitations": "基于现有信息推测，该文可能是一篇观点或综述文章，探讨不同保护策略（如保护区、生态恢复、重野化等）的协同组合。由于摘要信息极不完整，无法判断其具体案例、数据或结论的局限性。",
+      "follow_up_research": "未来可基于该文框架，研究在具体景观中（如欧洲农业景观）如何将重野化与其它保护工具（如农业环境补贴、再造林）结合，并量化其对土壤有机碳和生物多样性的联合效应。",
+      "next_step_perspective": "该文提示用户关注保护策略的'组合拳'思维——重野化不应孤立实施，而需与其它保护手段协同。在评估大型食草动物重野化对土壤碳的影响时，可考虑景观尺度上不同保护措施的交互作用，避免单一策略的局限性。",
+      "why_this_journal": "Nature Ecology & Evolution偏好发表具有广泛生态学意义和跨学科视野的保护科学文章，综合保护策略的议题符合其高影响力和政策导向的定位。（推测）",
+      "author_profile": null
+    },
+    {
+      "id": "https://doi.org/10.5194/gmd-19-9463-2026",
+      "title": "Benchmarking a new urban scheme in the ORCHIDEE 2.2  land surface model",
+      "link": "https://doi.org/10.5194/gmd-19-9463-2026",
+      "summary": "Benchmarking a new urban scheme in the ORCHIDEE 2.2  land surface model\n                    Morgane Lalonde, Sophie Bastin, Ludovic Oudin, Pedro Felipe Arboleda-Obando, and Agnès Ducharne\n                        Geosci. Model Dev., 19, 9463–9488, https://doi.org/10.5194/gmd-19-9463-2026, 2026\n                        Some climate models still represent cities as if they were natural ground. For one of these models, we built a new way to represent cities. The update includes how reflective surfaces are, building height, stored heat, and how much ground is sealed. The novelty is to treat sealed ground not only at the surface, but also below it. Tested at twenty urban sites, the new version better represents exchanges of energy between the ground and the air, supporting more reliable urban climate studies.",
+      "journal": "Geoscientific Model Development",
+      "published": "2026-10-07T08:17:05+02:00",
+      "doi": "10.5194/gmd-19-9463-2026",
+      "affiliation": "ETH Zurich (Zurich, Switzerland); Laboratoire atmosphères, milieux, observations spatiales (Guyancourt, France); Milieux environnementaux, transferts et interactions dans les hydrosystèmes et les sols (Paris, France)",
+      "title_zh": "在ORCHIDEE 2.2陆面模型中基准测试新的城市方案",
+      "relevance_score": 4,
+      "key_conclusion": "研究为ORCHIDEE陆面模型开发了新的城市地表表示方案，包括反射率、建筑高度、储热和地面封闭度，在20个城市站点测试表明新版本能更好地模拟地面与大气之间的能量交换。",
+      "relevance_note": "该文涉及陆面模型(ORCHIDEE)的开发与验证，与用户关注的地球系统模式中动态植被模块开发(5)在方法论上有一定关联，但聚焦城市模块而非植被模块，且研究地点涉及欧洲(法国)。",
+      "related_papers": [
+        {
+          "title": "Simulations - Benchmarking a new urban scheme in the ORCHIDEE 2.2 land surface model",
+          "link": "https://doi.org/10.5281/zenodo.22894416",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Simulations - Benchmarking a new urban scheme in the ORCHIDEE 2.2 land surface model",
+          "link": "https://doi.org/10.5281/zenodo.19075901",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Scripts - Benchmarking a new urban scheme in the ORCHIDEE 2.2 land surface model",
+          "link": "https://doi.org/10.5281/zenodo.22934329",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Scripts - Benchmarking a new urban scheme in the ORCHIDEE 2.2 land surface model",
+          "link": "https://doi.org/10.5281/zenodo.19097388",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        }
+      ],
+      "image_url": "https://gmd.copernicus.org/articles/19/9463/2026/gmd-19-9463-2026-avatar-web.png",
+      "scientific_question": "如何改进ORCHIDEE陆面模型中的城市地表方案，以更准确地模拟城市地区的地气能量交换？",
+      "contributions_limitations": "该研究为ORCHIDEE模型开发了新的城市地表方案，纳入反射率、建筑高度、储热和地面封闭度（包括地下封闭），并在20个城市站点验证了其对能量交换的改进模拟能力。局限性在于该方案主要关注物理能量交换，未涉及城市碳循环或生物地球化学过程，且验证站点有限。",
+      "follow_up_research": "未来可将城市碳循环（如城市绿地土壤碳、人为排放）纳入该城市方案，并研究城市扩展对区域碳收支的影响。此外，可将该方案与动态植被模块耦合，评估城市绿化对碳汇的贡献。",
+      "next_step_perspective": "该文对用户的核心价值在于展示陆面模型如何通过增加新地表类型（城市）来改进过程表示——类似思路可用于DGVM中整合大型食草动物的影响（如践踏、采食、粪便输入）作为新的过程模块。用户可参考其基准测试方法（多站点验证），在自己的模型改进工作中系统评估重野化情景的模拟性能。",
+      "why_this_journal": "Geoscientific Model Development专注于地球系统模型开发、基准测试与改进，该文通过引入新城市方案并严格验证，符合期刊对模型发展方法学严谨性的要求。（推测）",
+      "author_profile": {
+        "name": "Morgane Lalonde",
+        "institution": "ETH Zürich",
+        "intro": "Morgane Lalonde就职于ETH Zürich，其研究涉及陆面模型开发、城市方案基准测试、公里尺度全球模拟及次表层水文与大气反馈。其工作体现了地球系统模型多圈层耦合的开发能力，与用户关注的DGVM开发及生态系统模型改进方向在方法学上有共通之处——都涉及在陆面模型中新增过程表示并进行基准测试。",
+        "other_works": [
+          {
+            "title": "Benchmarking a new urban scheme in the ORCHIDEE 2.2 land surface model",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-9463-2026"
+          },
+          {
+            "title": "From single storms to large-scale waves: a multi-year kilometer-scale global simulation",
+            "year": "2026",
+            "journal": "Geoscientific Model Development",
+            "doi": "10.5194/gmd-19-5277-2026"
+          },
+          {
+            "title": "Benchmarking a new urban scheme in the ORCHIDEE v2.2 land surface model",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-551"
+          },
+          {
+            "title": "Supplementary material to \"Benchmarking a new urban scheme in the ORCHIDEE v2.2 land surface model\"",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-2026-551-supplement"
+          },
+          {
+            "title": "Atmospheric Feedbacks to Improved Subsurface Hydrology in a km-Scale Earth System Model (ICON–JSBACH)",
+            "year": "2026",
+            "journal": null,
+            "doi": "10.5194/egusphere-egu26-2115"
           }
         ]
       }
