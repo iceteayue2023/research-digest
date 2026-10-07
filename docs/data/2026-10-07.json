@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
-  "generated_at": "2026-10-07T12:23:35.568460+00:00",
-  "count": 10,
+  "generated_at": "2026-10-07T18:19:35.433480+00:00",
+  "count": 12,
   "articles": [
     {
       "id": "10.1029/2026GB009071",
@@ -548,6 +548,136 @@
             "year": "2026",
             "journal": null,
             "doi": "10.5194/egusphere-2026-926"
+          }
+        ]
+      }
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03184-y",
+      "title": "Australia’s bush fires got worse after British colonization — this is why",
+      "link": "https://www.nature.com/articles/d41586-026-03184-y",
+      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/d41586-026-03184-yThe suppression of Indigenous burning practices probably spurred the growth of flammable forests.",
+      "journal": "Nature",
+      "published": "2026-10-07T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-03184-y",
+      "affiliation": null,
+      "title_zh": "英国殖民后澳大利亚山火加剧的原因",
+      "relevance_score": 5,
+      "key_conclusion": "压制原住民的焚烧实践可能促进了易燃森林的扩张，从而加剧了山火。",
+      "relevance_note": "该文涉及人类土地利用变化（原住民焚烧实践被压制）对生态系统结构和火灾 regime 的影响，与用户关注的生态系统功能恢复、植被-土壤反馈及基于自然的解决方案有一定关联；研究地点在澳大利亚，不在欧洲。",
+      "related_papers": [
+        {
+          "title": "Between the City and the Bush: Suburbia in the Contemporary Australian Novel",
+          "link": "",
+          "venue": "ScholarWorks - WMU (Western Michigan University)",
+          "year": 2008
+        },
+        {
+          "title": "A COMPARATIVE ANALYSIS OF SENSE OF BELONGING AS A PART OF IDENTITY OF THE COLONIZER AND THE COLONIZED IN THE GRASS IS SINGING AND MY PLACE",
+          "link": "",
+          "venue": null,
+          "year": 2010
+        },
+        {
+          "title": "At the fringes : reappraising Australia's foreign policy towards the Asia-Pacific region, 2000-2006",
+          "link": "",
+          "venue": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+          "year": 2009
+        },
+        {
+          "title": "Geographies of containment: Logics of enclosure in Aboriginal and asylum seeker policies in Australia's Northern Territory",
+          "link": "",
+          "venue": "Syracuse University Libraries (Syracuse University)",
+          "year": 2014
+        }
+      ],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03184-y/d41586-026-03184-y_53815450.jpg",
+      "scientific_question": "英国殖民后澳大利亚山火为何加剧？原住民焚烧实践的压制是否是关键原因？",
+      "contributions_limitations": "这是一篇Nature新闻/观点类短文，提出压制原住民焚烧实践可能促进了易燃森林扩张，进而加剧山火。局限性在于摘要极短，缺乏具体数据和机制细节，属于基于现有信息的推测。",
+      "follow_up_research": "可进一步量化原住民焚烧制度改变前后植被结构与可燃物载量的变化，并结合气候变暖信号分离人为管理与气候的各自贡献。",
+      "next_step_perspective": "提示大型食草动物与火制度可能共同塑造植被结构与碳储量的历史基线，为理解放牧/焚烧等干扰制度对生态系统碳循环的长期影响提供历史类比视角。",
+      "why_this_journal": "推测因涉及殖民历史、原住民知识与当代山火危机的跨学科视角，且具政策与社会意义，契合Nature对全球性环境议题的关注。",
+      "author_profile": null
+    },
+    {
+      "id": "https://www.nature.com/articles/s41586-026-11097-z",
+      "title": "Australia’s current wildfire crisis linked to colonial land-use change",
+      "link": "https://www.nature.com/articles/s41586-026-11097-z",
+      "summary": "Nature, Published online: 07 October 2026; doi:10.1038/s41586-026-11097-zA 1,000-year lake-sediment record from southeastern Australia shows that colonial disruption of Indigenous cultural burning transformed open woodland into dense, flammable forest, priming the landscape for today’s climate-driven wildfires.",
+      "journal": "Nature",
+      "published": "2026-10-07T00:00:00+00:00",
+      "doi": "10.1038/s41586-026-11097-z",
+      "affiliation": null,
+      "title_zh": "澳大利亚当前野火危机与殖民时期土地利用变化有关",
+      "relevance_score": 5,
+      "key_conclusion": "澳大利亚东南部千年湖相沉积记录表明，殖民时期对原住民文化焚烧的破坏将开阔林地转变为密集易燃森林，为当今气候驱动的野火埋下隐患。",
+      "relevance_note": "该文涉及人类土地利用变化对植被结构和火灾 regime 的长期影响，与用户关注的生态系统功能恢复、植被-土壤反馈及基于自然的解决方案有一定联系；研究地点在澳大利亚，不在欧洲。",
+      "related_papers": [
+        {
+          "title": "Analysis codes for Australia's current wildfire crisis linked to colonial land-use change",
+          "link": "https://doi.org/10.5281/zenodo.21402873",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Analysis codes for Australia's current wildfire crisis linked to colonial land-use change",
+          "link": "https://doi.org/10.5281/zenodo.21402874",
+          "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+          "year": 2026
+        },
+        {
+          "title": "Australia's current wildfire crisis linked to colonial land-use change",
+          "link": "",
+          "venue": "Repository@Nottingham (University of Nottingham)",
+          "year": null
+        },
+        {
+          "title": "Australia's current wildfire crisis linked to colonial land-use change",
+          "link": "",
+          "venue": "Repository@Nottingham (University of Nottingham)",
+          "year": null
+        }
+      ],
+      "image_url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11097-z/MediaObjects/41586_2026_11097_Fig1_HTML.png",
+      "scientific_question": "殖民时期的土地利用变化如何通过破坏原住民文化焚烧制度，将开阔林地转变为易燃森林，从而为当代气候驱动的野火埋下隐患？",
+      "contributions_limitations": "基于澳大利亚东南部千年湖相沉积记录，重建了殖民干扰前后植被与火制度的变化，提供了长尺度证据链。局限性在于摘要未说明碳储量或土壤过程，推测主要关注植被与火制度而非土壤有机碳。",
+      "follow_up_research": "可将沉积记录与土壤碳埋藏数据结合，评估植被结构转变对生态系统碳储量的长期影响；也可对比其他大陆殖民前后火制度与碳循环变化。",
+      "next_step_perspective": "该研究强调干扰制度（火/放牧）历史基线对当代生态系统状态的塑造，为用户研究大型食草动物重野化如何改变植被-土壤反馈与碳循环提供了长尺度历史视角与方法借鉴（沉积记录）。",
+      "why_this_journal": "推测因其千年沉积记录方法严谨、跨学科（古生态学+火生态学+殖民史），且对当代野火危机有重要警示意义，符合Nature的高影响力标准。",
+      "author_profile": {
+        "name": "Michael-Shawn Fletcher",
+        "institution": "The University of Melbourne",
+        "intro": "Michael-Shawn Fletcher就职于墨尔本大学，从历史论文标题看主要研究澳大利亚植被与火制度的长尺度变化、殖民对火制度的影响以及原住民知识在科研中的应用。其研究关注干扰制度（火烧、土地利用）对植被结构与生态系统的长期塑造，与用户关注的放牧/重野化干扰对植被-土壤反馈及碳循环的影响在‘干扰制度-植被结构-生态系统功能’框架上高度相关。",
+        "other_works": [
+          {
+            "title": "Reframing Anthropocene metal pollution: The overlooked role of colonisation in the Southern Hemisphere",
+            "year": "2026",
+            "journal": "Global Environmental Change Advances",
+            "doi": "10.1016/j.gecadv.2026.100041"
+          },
+          {
+            "title": "Australia’s current wildfire crisis linked to colonial land-use change",
+            "year": "2026",
+            "journal": "Nature",
+            "doi": "10.1038/s41586-026-11097-z"
+          },
+          {
+            "title": "The loss of an Indigenous‐maintained She‐Oak woodland in southeast Australia",
+            "year": "2026",
+            "journal": "Geographical Research",
+            "doi": "10.1111/1745-5871.70082"
+          },
+          {
+            "title": "Crediting and citing Indigenous Knowledges within research",
+            "year": "2026",
+            "journal": "BioScience",
+            "doi": "10.1093/biosci/biag009"
+          },
+          {
+            "title": "Failed Scientific Advocacy, Misappropriation and Erosion of Public Trust: Generalisations About Burning From Tall Wet Eucalypt Forests",
+            "year": "2026",
+            "journal": "Ecological Management & Restoration",
+            "doi": "10.1111/emr.70036"
           }
         ]
       }

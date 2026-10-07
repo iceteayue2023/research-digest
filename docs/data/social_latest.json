@@ -1,7 +1,51 @@
 {
-  "generated_at": "2026-10-07T12:23:35.571106+00:00",
-  "count": 14,
+  "generated_at": "2026-10-07T18:19:35.436184+00:00",
+  "count": 18,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Australia’s current wildfire crisis linked to colonial land-use change\n\ngo.nature.com/4yDKQET",
+      "created_at": "2026-10-07T18:15:01.808Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mxckfzt7ti22",
+      "external_title": "Australia’s current wildfire crisis linked to colonial land-use change - Nature",
+      "external_description": "A 1,000-year lake-sediment record from southeastern Australia shows that colonial disruption of Indigenous cultural burning transformed open woodland into dense, flammable forest, priming the landscape for today’s climate-driven wildfires.",
+      "external_uri": "https://go.nature.com/4yDKQET",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreie2f5f2gu63hupcryh6l66ocpe3sh474sjc2uktc4sfbyfmmdqegu"
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Prehistoric global migration of vanishing gut microbes with humans\n\ngo.nature.com/4723slN",
+      "created_at": "2026-10-07T16:39:36.062Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mxcf3fi3i724",
+      "external_title": "Prehistoric global migration of vanishing gut microbes with humans - Nature",
+      "external_description": "Microbial species disappearing from industrialized populations have evolved with humans over millennia and migrated worldwide with them—this may have consequences for human health.",
+      "external_uri": "https://go.nature.com/4723slN",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreia63cheuf33vd3lrtyuz5h2vs6kxcvat7oaeo6jktddwsywzbo5d4"
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Our October issue is out now!\n\nFeaturing research on:\n\n🐈 Feliform evolution\n🛣️ Forest fragmentation from roads\n🐟 Gene-regulatory evolution in salmonids\n\nCover image from Hausharter et al. www.nature.com/articles/s41...",
+      "created_at": "2026-10-07T14:46:13.372Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mxc6qnqe4c2d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Jake Yeston",
+      "text": "Even 17 years later I still find this particular result astonishing. Congrats to Profs Kagan and Soai for amplifying our amazement along with the chemistry!\n\nwww.science.org/doi/10.1126/...",
+      "created_at": "2026-10-07T14:03:24.004Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mxc4e3fjms2i",
+      "external_title": "Asymmetric Autocatalysis Triggered by Carbon Isotope (13C/12C) Chirality",
+      "external_description": "The origin of chirality in asymmetric autocatalysis is due to carbon isotope substitution.",
+      "external_uri": "https://www.science.org/doi/10.1126/science.1170322",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lzukhqfwrcaldtsdjftgpqts/bafkreif6635rr2weelspd66rlugmh7zs56y6t42ijgn2xylebg2gprdxry"
+    },
     {
       "handle": "britishecologicalsociety.org",
       "author_name": "British Ecological Society",
