@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
-  "generated_at": "2026-10-08T05:20:16.317061+00:00",
-  "count": 6,
+  "generated_at": "2026-10-08T12:32:19.668085+00:00",
+  "count": 8,
   "articles": [
     {
       "id": "10.1111/1365-2435.70433",
@@ -81,6 +81,77 @@
       }
     },
     {
+      "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2615021123?af=R",
+      "title": "Fragmentation outweighs forest cover in shaping land surface temperature across half of global forests",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615021123?af=R",
+      "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 40, October 2026. SignificanceReducing deforestation and promoting forest restoration are central to international climate mitigation efforts. Yet these policies and agendas primarily target changes in forest area, leaving the thermal influences of fragmentation ...",
+      "journal": "PNAS",
+      "published": "2026-09-28T07:00:00+00:00",
+      "doi": "10.1073/pnas.2615021123",
+      "affiliation": "State Key Laboratory of Wetland Conservation and Restoration, National Observations and Research Station for Wetland Ecosystems of the Yangtze Estuary, Ministry of Education Key Laboratory for Biodiversity Science and Ecological Engineering, School of Life Sciences, Fudan University",
+      "title_zh": "在全球半数森林中，破碎化对地表温度的塑造作用超过森林覆盖度",
+      "relevance_score": 7,
+      "key_conclusion": "减少毁林和促进森林恢复是国际气候减缓的核心，但这些政策主要关注森林面积变化，忽视了破碎化对地表温度的热影响；在全球半数森林中，破碎化对地表温度的影响超过森林覆盖度本身。",
+      "relevance_note": "该文章直接涉及森林退化与恢复过程中的碳循环和气候反馈，属于用户关注的陆地生态系统碳循环方向，且与植被-土壤-气候反馈主题相关，相关性较高。",
+      "related_papers": [
+        {
+          "title": "Forest edges are globally warmer than interiors and exceed optimal temperatures for vegetation productivity",
+          "link": "https://doi.org/10.1038/s43247-025-02626-1",
+          "venue": "Communications Earth & Environment",
+          "year": 2025
+        },
+        {
+          "title": "Forest adaptation resources: Climate change tools and approaches for land managers",
+          "link": "https://doi.org/10.2737/nrs-gtr-87",
+          "venue": null,
+          "year": 2012
+        },
+        {
+          "title": "Continental divide: Predicting climate-mediated fragmentation and biodiversity loss in the boreal forest",
+          "link": "https://doi.org/10.1371/journal.pone.0176706",
+          "venue": "PLoS ONE",
+          "year": 2017
+        },
+        {
+          "title": "Europe’s forest management did not mitigate climate warming",
+          "link": "https://doi.org/10.1126/science.aad7270",
+          "venue": "Science",
+          "year": 2016
+        }
+      ],
+      "image_url": null,
+      "scientific_question": "在全球尺度上，森林破碎化与森林覆盖度相比，哪一个对地表温度的影响更大？",
+      "contributions_limitations": "该研究通过全球尺度分析提出，在约一半的全球森林中，破碎化对地表温度的影响超过森林覆盖度本身，挑战了当前气候减缓政策仅关注森林面积变化的做法。可能的局限性在于摘要信息不足，无法判断其是否区分了不同生物群区、是否控制了纬度或气候背景，也未说明因果推断方法，建议查看原文。",
+      "follow_up_research": "可进一步探究森林破碎化通过何种微气候机制（如边缘效应、蒸散改变、反照率变化）影响地表温度，并将破碎化指标纳入动态植被模型以评估其对碳循环的间接效应。此外，可检验破碎化-温度关系是否在不同纬度、不同森林类型中存在阈值或非线性响应。",
+      "next_step_perspective": "虽然该文不直接涉及大型食草动物或土壤有机碳，但它提示用户在评估重野化对生态系统碳循环的影响时，需关注景观结构和空间配置（而非仅总面积）对微气候和碳过程的调控作用。若用户研究欧洲再野化场地，可将破碎化作为协变量纳入分析，避免将地表温度或碳通量变化简单归因于放牧或植被恢复本身。",
+      "why_this_journal": "推测该文能发表于PNAS，是因为其以全球尺度数据揭示了破碎化对地表温度的影响被此前政策与研究所忽视，具有跨学科意义（生态学、气候减缓政策）和较高的新颖性，对国际森林恢复议程具有直接政策启示。",
+      "author_profile": {
+        "name": "Jiawei Li",
+        "institution": null,
+        "intro": "Jiawei Li 的研究方向集中于全球森林破碎化的遥感监测及其生态与气候效应，其历史工作包括量化2000–2020年全球森林破碎化变化，以及发现破碎化温带森林具有增强的光合碳吸收。这些研究与用户关注的研究地点在欧洲、生态系统碳循环及植被-土壤反馈等主题存在方法学和视角上的关联，尤其在景观结构如何调控碳过程方面可提供借鉴。",
+        "other_works": [
+          {
+            "title": "Fragmentation outweighs forest cover in shaping land surface temperature across half of global forests",
+            "year": "2026",
+            "journal": "Proceedings of the National Academy of Sciences",
+            "doi": "10.1073/pnas.2615021123"
+          },
+          {
+            "title": "Global forest fragmentation change from 2000 to 2020",
+            "year": "2023",
+            "journal": "Nature Communications",
+            "doi": "10.1038/s41467-023-39221-x"
+          },
+          {
+            "title": "Space evidence of enhanced photosynthetic carbon uptake under fragmented temperate forests",
+            "year": "2022",
+            "journal": "Environmental Research Letters",
+            "doi": "10.1088/1748-9326/ac592c"
+          }
+        ]
+      }
+    },
+    {
       "id": "10.1029/2026JG009823",
       "title": "Can the Carbon Storage Function of a Degraded Mountain Wet Meadow Be Restored?",
       "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JG009823?af=R",
@@ -137,6 +208,53 @@
           }
         ]
       }
+    },
+    {
+      "id": "https://www.nature.com/articles/d41586-026-03045-8",
+      "title": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
+      "link": "https://www.nature.com/articles/d41586-026-03045-8",
+      "summary": "Nature, Published online: 08 October 2026; doi:10.1038/d41586-026-03045-8A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.",
+      "journal": "Nature",
+      "published": "2026-10-08T00:00:00+00:00",
+      "doi": "10.1038/d41586-026-03045-8",
+      "affiliation": null,
+      "title_zh": "木质‘毯子’被部署在北极永久冻土上以减少碳排放",
+      "relevance_score": 6,
+      "key_conclusion": "一家初创公司正在测试通过稳定快速侵蚀的永久冻土区域来防止温室气体排放的方法。",
+      "relevance_note": "该文章涉及基于自然的解决方案在应对气候变化中的作用，与用户关注的NbS角度部分吻合；虽未直接涉及大型食草动物重野化，但属于陆地生态系统碳循环与气候缓解干预，发表在Nature上，给予中等偏上评分。",
+      "related_papers": [
+        {
+          "title": "An arctic hydrologic system in transition: Feedbacks and impacts on terrestrial, marine, and human life",
+          "link": "https://doi.org/10.1029/2008jg000902",
+          "venue": "Journal of Geophysical Research Atmospheres",
+          "year": 2009
+        },
+        {
+          "title": "PALEOARC 2021 - 2nd International Conference on Processes and Palaeo-environmental changes in the Arctic from past to present",
+          "link": "https://doi.org/10.3301/absgi.2021.02",
+          "venue": null,
+          "year": 2021
+        },
+        {
+          "title": "Trump Administration Military Policy towards Arctic: First Steps",
+          "link": "https://doi.org/10.31857/s032120680004356-5",
+          "venue": "USA & Canada Economics – Politics – Culture",
+          "year": 2019
+        },
+        {
+          "title": "Northern Hemisphere Holocene hydroclimate inferred from a circum-Arctic stack of lake sediment oxygen isotope records from biogenic silica (δ18OBSi)",
+          "link": "",
+          "venue": "Helmholtz-Zentrum für Polar-und Meeresforschung (Alfred-Wegener-Institut)",
+          "year": 2021
+        }
+      ],
+      "image_url": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03045-8/d41586-026-03045-8_53784966.jpg",
+      "scientific_question": "",
+      "contributions_limitations": "",
+      "follow_up_research": "",
+      "next_step_perspective": "",
+      "why_this_journal": "",
+      "author_profile": null
     },
     {
       "id": "10.1111/1365-2435.70436",

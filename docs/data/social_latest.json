@@ -1,7 +1,18 @@
 {
-  "generated_at": "2026-10-08T05:20:16.318620+00:00",
-  "count": 20,
+  "generated_at": "2026-10-08T12:32:19.670177+00:00",
+  "count": 22,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "Nature research paper: Observation of relativistic bond weakening in seaborgium hexacarbonyl\n\ngo.nature.com/4zcsevw",
+      "created_at": "2026-10-08T07:56:01.676Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mxdyc3p3ud22",
+      "external_title": "Observation of relativistic bond weakening in seaborgium hexacarbonyl - Nature",
+      "external_description": "Gas chromatography analysis of compounds formed by the superheavy element seaborgium shows that the hexacarbonyl complex Sg(CO)6 exhibits lower first bond dissociation energy than the lighter chemical homologue W(CO)6, owing to relativistic bond weakening effects.",
+      "external_uri": "https://go.nature.com/4zcsevw",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreif2kteid4stthy7ebyzqcxjts5wb73vhsxbo27mhbiz7mpvcmhmvm"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -52,6 +63,28 @@
       "text": "Our October issue is out now!\n\nFeaturing research on:\n\n🐈 Feliform evolution\n🛣️ Forest fragmentation from roads\n🐟 Gene-regulatory evolution in salmonids\n\nCover image from Hausharter et al. www.nature.com/articles/s41...",
       "created_at": "2026-10-07T14:46:13.372Z",
       "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mxc6qnqe4c2d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natecoevo.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Our October issue is out now!\n\nFeaturing research on:\n\n🐈 Feliform evolution\n🛣️ Forest fragmentation from roads\n🐟 Gene-regulatory evolution in salmonids\n\nCover image from Hausharter et al. www.nature.com/articles/s41...",
+      "created_at": "2026-10-07T14:46:13.372Z",
+      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mxc6qnqe4c2d",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "natplants.nature.com",
+      "author_name": "Nature Ecology & Evolution",
+      "text": "Our October issue is out now!\n\nFeaturing research on:\n\n🐈 Feliform evolution\n🛣️ Forest fragmentation from roads\n🐟 Gene-regulatory evolution in salmonids\n\nCover image from Hausharter et al. www.nature.com/articles/s41...",
+      "created_at": "2026-10-07T14:46:13.372Z",
+      "post_link": "https://bsky.app/profile/natplants.nature.com/post/3mxc6qnqe4c2d",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
@@ -210,17 +243,6 @@
       "external_description": null,
       "external_uri": null,
       "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Nature Ecology & Evolution",
-      "text": "Protein-structure prediction identifies a family of IL-1 protein homologues in Eumetazoa, which are characterized for expression, localization and function in sea lamprey and purple sea urchin 🧪 www.nature.com/articles/s41...",
-      "created_at": "2026-10-05T08:52:46.372Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mx4k2saj7s25",
-      "external_title": "An ancient evolutionary origin for IL-1 cytokines - Nature Ecology & Evolution",
-      "external_description": "Protein-structure prediction identifies a family of IL-1 protein homologues in Eumetazoa, which are characterized for expression, localization and function in sea lamprey and purple sea urchin.",
-      "external_uri": "https://www.nature.com/articles/s41559-026-03191-2",
-      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifphc7op5af5qr7rd6h5qjm3vrtvxrj2xbmdfzxoizltsa5wtaqrq"
     }
   ]
 }
