@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-07T18:19:35.436184+00:00",
-  "count": 18,
+  "generated_at": "2026-10-08T05:20:16.318620+00:00",
+  "count": 20,
   "posts": [
+    {
+      "handle": "nature.com",
+      "author_name": "Nature",
+      "text": "The suppression of Indigenous burning practices probably spurred the growth of flammable forests\n\ngo.nature.com/4duhfFo",
+      "created_at": "2026-10-07T22:04:01.198Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mxcx7iq4yi22",
+      "external_title": "Australia’s bush fires got worse after British colonization — this is why",
+      "external_description": "The suppression of Indigenous burning practices probably spurred the growth of flammable forests.",
+      "external_uri": "https://go.nature.com/4duhfFo",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vrsppvjc5fysqnm2zshiirey/bafkreibxtaa6kgy6zg2lv3noazusxykb6cfssfm6xaqpljztlucq5xobsi"
+    },
+    {
+      "handle": "science.org",
+      "author_name": "Erik Stokstad",
+      "text": "A looming, fuming volcano was not the biggest threat to chinstraps in this gigantic penguin colony. \nwww.science.org/content/arti...",
+      "created_at": "2026-10-07T20:03:00.902Z",
+      "post_link": "https://bsky.app/profile/science.org/post/3mxcqh4q45k2m",
+      "external_title": "World’s once-largest penguin colony is in perilous decline",
+      "external_description": "Climate change appears to have made food scarce for chinstrap penguins, which had numbered more than 1 million on a remote South Atlantic island",
+      "external_uri": "https://www.science.org/content/article/world-s-once-largest-penguin-colony-perilous-decline",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:c5og76aj3f4rlripq4rkvwqw/bafkreih5efokmlmqw27b6ws27s4kgb7g7rojialidxoyz4nwnoxzzxmoni"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
