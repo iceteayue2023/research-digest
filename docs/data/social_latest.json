@@ -1,7 +1,40 @@
 {
-  "generated_at": "2026-10-08T12:32:19.670177+00:00",
-  "count": 22,
+  "generated_at": "2026-10-08T18:19:28.667867+00:00",
+  "count": 24,
   "posts": [
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Geoscience",
+      "text": "Article: Oyster reefs in North Carolina have grown vertically as sea level has risen in recent centuries, though this has not led to an increase in carbon sequestration.\nwww.nature.com/articles/s41...",
+      "created_at": "2026-10-08T14:33:38.297Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mxeoj33ya226",
+      "external_title": "Sea level-induced oyster reef accretion causes minimal net carbon burial change - Nature Geoscience",
+      "external_description": "Oyster reefs in North Carolina have grown vertically as sea level has risen in recent centuries, although this has not led to an increase in carbon sequestration, according to an analysis of oyster re...",
+      "external_uri": "https://www.nature.com/articles/s41561-026-02121-y",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:w6tfkgfuabjb6632rsna7kr2/bafkreibxx76jyoxnet7lyhoxkgkddlier7n4uzpeg345rzgh6hd4qy3nhe"
+    },
+    {
+      "handle": "natgeosci.nature.com",
+      "author_name": "Nature Geoscience",
+      "text": "October issue: Atmospheric lessons from Mars, Permafrost carbon from land to sea, Agulhas Leakage impacts on Atlantic circulation, Whitlockite traces ancient impacts in space, Martian Hadley ciculation and more.\nwww.nature.com/ngeo/volumes...",
+      "created_at": "2026-10-08T14:31:05.464Z",
+      "post_link": "https://bsky.app/profile/natgeosci.nature.com/post/3mxeoejdwa226",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "nature.com",
+      "author_name": "James Dinneen",
+      "text": "Exclusive in @nature.com: A Canadian startup just completed first test of a method to stem emissions from thawing permafrost, placing woody mats on areas of rapid erosion. Researchers say the concept is promising, but faces steep obstacles to scaling up in the Arctic. \nwww.nature.com/articles/d41...",
+      "created_at": "2026-10-08T14:14:24.370Z",
+      "post_link": "https://bsky.app/profile/nature.com/post/3mxengomxek2i",
+      "external_title": "Woody ‘blankets’ are being deployed on Arctic permafrost to reduce carbon emissions",
+      "external_description": "A start-up company is testing whether stabilizing areas of rapidly eroding permafrost can prevent greenhouse-gas emissions.",
+      "external_uri": "https://www.nature.com/articles/d41586-026-03045-8",
+      "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:i2dmfuqk3wklvyvl77cc66cx/bafkreigmvln3efwcud5aqvga2uhjnozuhnokrxp3m5mnfyyjd3cquylsty"
+    },
     {
       "handle": "nature.com",
       "author_name": "Nature",
@@ -228,17 +261,6 @@
       "text": "Read highlights in this week’s issue of PNAS: We explore ground-edged stone tools in Neolithic North China, examine global carbon benefits of US irrigation, and analyze the limits of evolutionary rescue in black-browed albatrosses. https://ow.ly/VZ6Z50ZUzBb",
       "created_at": "2026-10-05T19:00:33.970238427Z",
       "post_link": "https://bsky.app/profile/pnas.org/post/3mx5lznblvh2d",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "natecoevo.nature.com",
-      "author_name": "Chris Terry",
-      "text": "New Review out today in @natecoevo.nature.com with @callejas.eurosky.social, @andreatabi.bsky.social and Virginia Domínguez-García, where we take a critical look at the role interaction matrices play within community ecology. \nSharing link: rdcu.be/bzD2oYUVKYMa... and short thread: (1/n)",
-      "created_at": "2026-10-05T16:26:46.809Z",
-      "post_link": "https://bsky.app/profile/natecoevo.nature.com/post/3mx5dgmqrfs2g",
       "external_title": null,
       "external_description": null,
       "external_uri": null,
