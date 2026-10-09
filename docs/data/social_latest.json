@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-10-08T18:19:28.667867+00:00",
+  "generated_at": "2026-10-09T05:23:10.294796+00:00",
   "count": 24,
   "posts": [
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "One of the most-viewed PNAS articles in the last week is “Climate-amplified wildland–urban interface disasters create persistent internal metal mixtures associated with pulmonary impairment.”  https://ow.ly/8iyZ50ZVXPe\n\nFor more trending articles, visit https://ow.ly/M59150ZVXP5. ",
+      "created_at": "2026-10-08T23:00:21.118460069Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mxfkt677qa2h",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
+    {
+      "handle": "pnas.org",
+      "author_name": "Proceedings of the National Academy of Sciences",
+      "text": "Cities can serve as refugia for plants as the climate changes, according to a satellite-based study that finds that vegetation has higher levels of resilience to climate stress in cities than in surrounding rural areas—mostly due to watering. In PNAS: https://ow.ly/F1M750ZVX7h",
+      "created_at": "2026-10-08T19:00:34.871655568Z",
+      "post_link": "https://bsky.app/profile/pnas.org/post/3mxf5ggjrs22y",
+      "external_title": null,
+      "external_description": null,
+      "external_uri": null,
+      "external_thumb": null
+    },
     {
       "handle": "natgeosci.nature.com",
       "author_name": "Nature Geoscience",
@@ -243,28 +265,6 @@
       "external_description": "Analysing a global database of migration timing for 549 bird species together with a full annual cycle theoretical model, the authors show that migration has advanced by &gt;13 days since 1970 and tha...",
       "external_uri": "https://www.nature.com/articles/s41559-026-03198-9",
       "external_thumb": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vxpbqky6dsgs2vnedakzfusk/bafkreifeamy6zxmehe7i7tvtbzsp4es6ihbkpa6y62wqga5biwjuarpyae"
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Forest fragmentation increases local temperatures in temperate and tropical zones and has a stronger effect on local temperature than overall forest cover, according to a study of high-resolution remote-sensing data from around the world. In PNAS: https://ow.ly/QZjT50ZUyMj",
-      "created_at": "2026-10-05T20:00:41.325777099Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mx5pf5aew62z",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
-    },
-    {
-      "handle": "pnas.org",
-      "author_name": "Proceedings of the National Academy of Sciences",
-      "text": "Read highlights in this week’s issue of PNAS: We explore ground-edged stone tools in Neolithic North China, examine global carbon benefits of US irrigation, and analyze the limits of evolutionary rescue in black-browed albatrosses. https://ow.ly/VZ6Z50ZUzBb",
-      "created_at": "2026-10-05T19:00:33.970238427Z",
-      "post_link": "https://bsky.app/profile/pnas.org/post/3mx5lznblvh2d",
-      "external_title": null,
-      "external_description": null,
-      "external_uri": null,
-      "external_thumb": null
     }
   ]
 }
